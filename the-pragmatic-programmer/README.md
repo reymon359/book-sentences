@@ -112,3 +112,10 @@ Requirements, users, and hardware change faster than we can get the software dev
 The mistake lies in assuming that any decision is cast in stone— and in not preparing for the contingencies that might arise. Instead of carving decisions in stone, think of them more as being written in the sand at the beach. A big wave can come along and wipe them out at any time. 
 
 Look for the important requirements, the ones that define the system. Look for the areas where you have doubts, and where you see the biggest risks. Then prioritize your development so that these are the first areas you code. 
+
+### Tracer bullets
+
+Tracer development is consistent with the idea that a project is never finished: there will always be changes required and functions to add. It is an incremental approach.
+
+Prototyping generates disposable code. Tracer code is lean but complete, and forms part of the skeleton of the final system. Think of prototyping as the reconnaissance and intelligence gathering that takes place before a single tracer bullet is fired.
+
