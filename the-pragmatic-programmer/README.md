@@ -119,3 +119,37 @@ Tracer development is consistent with the idea that a project is never finished:
 
 Prototyping generates disposable code. Tracer code is lean but complete, and forms part of the skeleton of the final system. Think of prototyping as the reconnaissance and intelligence gathering that takes place before a single tracer bullet is fired.
 
+### 13 Prototypes and Post-it Notes
+
+We build software prototypes... ...to analyze and expose risk, and to offer chances for correction at a greatly reduced cost.
+
+If you find yourself in an environment where you cannot give up the details, then you need to ask yourself if you are really building a prototype at all. Perhaps a tracer bullet style of development would be more appropriate in this case
+
+Prototyping is a learning experience. Its value lies not in the code produced, but in the lessons learned. That’s really the point of prototyping.
+
+### 14 Domain Languages
+
+> The limits of language are the limits of one’s world. --Ludwig Wittgenstein
+
+One of the reasons that the classic gather requirements, design, code, ship approach doesn’t work is that it is anchored by the concept that we know what the requirements are. But we rarely do. Your business users will have a vague idea of what they want to achieve, but they neither know nor care about the details. That’s part of our value: we intuit intent and convert it to code.
+
+Don’t spend more effort than you save. Writing a domain language adds some cost to your project, and you’ll need to be convinced that there are offsetting savings (potentially in the long term).
+
+### 15 Estimating
+
+By learning to estimate, and by developing this skill to the point where you have an intuitive feel for the magnitudes of things, you will be able to show an apparent magical ability to determine their feasibility.
+
+The first question you have to ask yourself when someone asks you for an estimate is the context in which your answer will be taken. Do they need high accuracy, or are they looking for a ballpark figure?
+
+| Duration      | Quote estimate in                    |
+| ------------- |:------------------------------------:|
+| 1–15 days     | Days                                 |
+| 3–6	weeks     | Weeks                                |
+| 8–20	weeks    | Months                               |
+| 20+	weeks     | Think hard before giving an estimate |  	
+
+Choose the units of your answer to reflect the accuracy you intend to convey.
+
+A basic estimating trick that always gives good answers: ask someone who’s already done it
+
+The first part of any estimation exercise is building an understanding of what’s being asked... ...you need to have a grasp of the scope of the domain.
