@@ -1,17 +1,47 @@
 # The Pragmatic Programmer. Your Journey to Mastery, 20th Anniversary Edition 
-## Andy Hunt and Dave Thomas - 2019
+Andy Hunt and Dave Thomas - 2019
 
-What makes it truly stand out among the shelves of technical books is that it understands what it means to be a programmer. Programming is about trying to make the future less painful. It's about making things easier for our teammates. It's about getting things wrong and being able to bounce back. It's about forming good habits. It's about understanding your toolset. Coding is just part of the world of being a programmer, and this book explores that world.
+## Foreword
+
+Programming is about trying to make the future less painful. It's about making things easier for our teammates. It's about getting things wrong and being able to bounce back. It's about forming good habits. It's about understanding your toolset. 
+
+## From the Preface to the First Edition
 
 The word pragmatic comes from the Latin pragmaticus—“skilled in business”—which in turn is derived from the Greek πραγματικός, meaning “fit for use.”
 
 You shouldn’t be wedded to any particular technology, but have a broad enough background and experience base to allow you to choose good solutions in particular situations.
 
-there is no point in developing software unless you care about doing it well.
+There is no point in developing software unless you care about doing it well.
 
-think about what you’re doing while you’re doing it.
+Think about what you’re doing while you’re doing it.
 
 We who cut mere stones must always be envisioning cathedrals.
+
+“Kaizen” is a Japanese term that captures the concept of continuously making many small improvements.
+
+## Chapter 1 A Pragmatic Philosophy
+
+### 1 It’s your Life
+
+I’m not in this world to live up to your expectations and you’re not in this world to live up to mine. --Bruce Lee
+
+Does your work environment suck? Is your job boring? Try to fix it. But don’t try forever. As Martin Fowler says, “you can change your organization or change your organization.
+
+
+### 2 The Cat Ate My Source Code
+
+The greatest of all weaknesses is the fear of appearing weak. --J.B. Bossuet, Politics from Holy Writ, 1709
+
+Take Responsibility. Responsibility is something you actively agree to.
+
+
+
+
+
+
+
+
+
 
 I’m not in this world to live up to your expectations and you’re not in this world to live up to mine.
 Bruce Lee
