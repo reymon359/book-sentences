@@ -105,9 +105,13 @@ Email and social media posts are forever. Try to give the same attention and car
 
 ## Chapter 2 A Pragmatic Approach
 
-Good Design Is Easier to Change Than Bad Design… ...As far as we can tell, every design principle out there is a special case of ETC. Why is decoupling good? Because by isolating concerns we make each easier to change. ETC. Why is the single responsibility principle useful? Because a change in requirements is mirrored by a change in just one module. ETC. Why is naming important? Because good names make code easier to read, and you have to read it to change it. ETC!
+### 8 The Essence of Good Design
 
-try to make what you write replaceable. That way, whatever happens in the future, this chunk of code won’t be a roadblock… ...It’s really just thinking about keeping code decoupled and cohesive.
+Good Design Is Easier to Change Than Bad Design... ...As far as we can tell, every design principle out there is a special case of ETC. Why is decoupling good? Because by isolating concerns we make each easier to change. ETC. Why is the single responsibility principle useful? Because a change in requirements is mirrored by a change in just one module. ETC. Why is naming important? Because good names make code easier to read, and you have to read it to change it. ETC!
+
+Try to make what you write replaceable. That way, whatever happens in the future, this chunk of code won’t be a roadblock...  ...It’s really just thinking about keeping code decoupled and cohesive.
+
+### 9 DRY—The Evils of Duplication
 
 Most people assume that maintenance begins when an application is released, that maintenance means fixing bugs and enhancing features. We think these people are wrong. Programmers are constantly in maintenance mode. Our understanding changes day by day.
 
@@ -115,24 +119,28 @@ DRY is about the duplication of knowledge, of intent. It’s about expressing th
 
 For internal APIs, look for tools that let you specify the API in some kind of neutral format. These tools will typically generate documentation, mock APIs, functional tests, and API clients,
 
-foster an environment where it’s easier to find and reuse existing stuff than to write it yourself. If it isn’t easy, people won’t do it. And if you fail to reuse, you risk duplicating knowledge.
+Foster an environment where it’s easier to find and reuse existing stuff than to write it yourself. If it isn’t easy, people won’t do it. And if you fail to reuse, you risk duplicating knowledge.
+
+### 10 Orthogonality
 
 Two or more things are orthogonal if changes in one do not affect any of the others. In a well- designed system, the database code will be orthogonal to the user interface: you can change the interface without affecting the database, and swap databases without changing the interface.
 
-When components are isolated from one another, you know that you can change one without having to worry about the rest. As long as you don’t change that component’s external interfaces, you can be confident that you won’t cause problems that ripple through the entire system.
-You get two major benefits if you write orthogonal systems: increased productivity and reduced risk.
+When components are isolated from one another, you know that you can change one without having to worry about the rest. As long as you don’t change that component’s external interfaces, you can be confident that you won’t cause problems that ripple through the entire system. You get two major benefits if you write orthogonal systems: increased productivity and reduced risk.
 
-Once you have your components mapped out, ask yourself: If I dramatically change the requirements behind a particular function, how many modules are affected? In an orthogonal system, the answer should be “one.’’
+Once you have your components mapped out, ask yourself: If I dramatically change the requirements behind a particular function, how many modules are affected? In an orthogonal system, the answer should be "one."
 
-Also ask yourself how decoupled your design is from changes in the real world… ...Don’t rely on the properties of things you can’t control. 
+Ask yourself how decoupled your design is from changes in the real world... ...Don’t rely on the properties of things you can’t control.
 
 An orthogonally designed and implemented system is easier to test. Because the interactions between the system’s components are formalized and limited, more of the system testing can be performed at the individual module level.
 
 With DRY, you’re looking to minimize duplication within a system, whereas with orthogonality you reduce the interdependency among the system’s components. It may be a clumsy word, but if you use the principle of orthogonality, combined closely with the DRY principle, you’ll find that the systems you develop are more flexible, more understandable, and easier to debug, test, and maintain. 
 
-Nothing is more dangerous than an idea if it’s the only one you have. Emil-Auguste Chartier (Alain), Propos sur la religion, 1938
+### 11 Reversibility
 
-Nothing is forever—and if you rely heavily on some fact, you can almost guarantee that it will change
+> Nothing is more dangerous than an idea if it’s the only one you have.
+> — Emil-Auguste Chartier (Alain), Propos sur la religion, 1938
+
+Nothing is forever—and if you rely heavily on some fact, you can almost guarantee that it will change.
 
 The problem is that critical decisions aren’t easily reversible.
 
