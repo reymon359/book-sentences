@@ -36,78 +36,74 @@ Does your work environment suck? Is your job boring? Try to fix it. But don’t 
 
 Take Responsibility. Responsibility is something you actively agree to.
 
-
-
-
-
-
-
-
-
-
-
-I’m not in this world to live up to your expectations and you’re not in this world to live up to mine.
-Bruce Lee
-
-Does your work environment suck? Is your job boring? Try to fix it. But don’t try forever. As Martin Fowler says, “you can change your organization or change your organization.
-
- The greatest of all weaknesses is the fear of appearing weak.
-J.B. Bossuet, Politics from Holy Writ, 1709
-
-TAKE RESPONSIBILITY
-Responsibility is something you actively agree to.
+### 3 Software Entropy
 
 When disorder increases in software, we call it “software rot.” Some folks might call it by the more optimistic term, “technical debt,” with the implied notion that they’ll pay it back someday. They probably won’t.
 
-
 Don’t leave “broken windows’’ (bad designs, wrong decisions, or poor code) unrepaired. Fix each one as soon as it is discovered. If there is insufficient time to fix it properly, then board it up. Perhaps you can comment out the offending code, or display a “Not Implemented” message, or substitute dummy data instead. Take some action to prevent further damage and to show that you’re on top of the situation.
 
-don’t cause collateral damage just because there’s a crisis of some sort. One broken window is one too many. One broken window—a badly designed piece of code, a poor management decision that the team must live with for the duration of the project—is all it takes to start the decline. 
+Don’t cause collateral damage just because there’s a crisis of some sort. One broken window is one too many. One broken window—a badly designed piece of code, a poor management decision that the team must live with for the duration of the project—is all it takes to start the decline. 
 
-if you find yourself on a project where the code is pristinely beautiful—cleanly written, well designed, and elegant—you will likely take extra special care not to mess it up
+If you find yourself on a project where the code is pristinely beautiful—cleanly written, well designed, and elegant—you will likely take extra special care not to mess it up.
 
-People find it easier to join an ongoing success. Show them a glimpse of the future and you’ll get them
+### 4 Stone Soup and Boiled Frogs
 
-Rear Admiral Dr. Grace Hopper: “It’s easier to ask forgiveness than it is to get permission.’’
+People find it easier to join an ongoing success. Show them a glimpse of the future and you’ll get them.
+
+> It’s easier to ask forgiveness than it is to get permission.
+> — Rear Admiral Dr. Grace Hopper
 
 Keep an eye on the big picture. Constantly review what’s happening around you, not just what you personally are doing.
 
-Striving to better, oft we mar what’s well. Shakespeare, King Lear 1.4
+### 5 Good-Enough Software
 
-As Ed Yourdon described in an article in IEEE Software, When good-enough software is best [You95], you can discipline yourself to write software that’s good enough—good enough for your users, for future maintainers, for your own peace of mind. You’ll find that you are more productive and your users are happier
+> Striving to better, oft we mar what’s well.
+> — Shakespeare, King Lear 1.4
 
-Great software today is often preferable to the fantasy of perfect software tomorrow. If you give your users something to play with early, their feedback will often lead you to a better eventual solution
+As Ed Yourdon described in an article in IEEE Software, When good-enough software is best, you can discipline yourself to write software that’s good enough—good enough for your users, for future maintainers, for your own peace of mind. You’ll find that you are more productive and your users are happier.
+
+Great software today is often preferable to the fantasy of perfect software tomorrow. If you give your users something to play with early, their feedback will often lead you to a better eventual solution.
 
 Don’t spoil a perfectly good program by overembellishment and overrefinement. Move on, and let your code stand in its own right for a while.
+
+### 6 Your Knowledge Portfolio
+
+> An investment in knowledge always pays the best interest.
+> — Benjamin Franklin
 
 Your knowledge and experience are your most important day-to-day professional assets.
 
 It’s not a good idea to invest all of your money in high-risk stocks that might collapse suddenly, nor should you invest all of it conservatively and miss out on possible opportunities.
 
 Don’t forget the human side of the equation, as that requires an entirely different skill set (we ironically call these soft skills, but they are actually quite hard to master).
-The process of learning will expand your thinking, opening you to new possibilities and new ways of doing things
 
-Critically Analyze What You Read and Hear
+The process of learning will expand your thinking, opening you to new possibilities and new ways of doing things.
+
+Critically Analyze What You Read and Hear.
 
 Don’t stop with first-order thinking (what will happen next), but use second-order thinking: what will happen after that?
+
+### 7 Communicate!
 
 Treat English (or whatever your native tongue may be) as just another programming language. Write natural language as you would write code: honor the DRY principle, ETC, automation, and so on.
 
 “The meaning of your communication is the response you get.” Continuously improve your knowledge of your audience as you communicate.
 
-Make what you’re saying relevant in time, as well as in content. Sometimes all it takes is the simple question, “Is this a good time to talk about...?’’
+Make what you’re saying relevant in time, as well as in content. Sometimes all it takes is the simple question, "Is this a good time to talk about...?"
 
-Your ideas are important. They deserve a good-looking vehicle to convey them to your audience… ...Any chef (or watcher of the Food Network) will tell you that you can slave in the kitchen for hours only to ruin your efforts with poor presentation.
+Your ideas are important. They deserve a good-looking vehicle to convey them to your audience... ...Any chef (or watcher of the Food Network) will tell you that you can slave in the kitchen for hours only to ruin your efforts with poor presentation.
 
-There’s one technique that you must use if you want people to listen to you: listen to them
+There’s one technique that you must use if you want people to listen to you: listen to them.
 
 The code already shows how it is done, so commenting on this is redundant—and is a violation of the DRY principle.
 
-The next time you have to give a presentation… ...If appropriate, talk to your audience afterward and see how accurate your assessment of their needs was.
+The next time you have to give a presentation... ...If appropriate, talk to your audience afterward and see how accurate your assessment of their needs was.
 
 Don’t flame or act like a troll unless you want it to come back and haunt you later. If you wouldn’t say it to someone’s face, don’t say it online.
 
-email and social media posts are forever. Try to give the same attention and care to email as you would to any written memo or report.
+Email and social media posts are forever. Try to give the same attention and care to email as you would to any written memo or report.
+
+## Chapter 2 A Pragmatic Approach
 
 Good Design Is Easier to Change Than Bad Design… ...As far as we can tell, every design principle out there is a special case of ETC. Why is decoupling good? Because by isolating concerns we make each easier to change. ETC. Why is the single responsibility principle useful? Because a change in requirements is mirrored by a change in just one module. ETC. Why is naming important? Because good names make code easier to read, and you have to read it to change it. ETC!
 
