@@ -166,11 +166,12 @@ Prototyping is a learning experience. Its value lies not in the code produced, b
 
 ### 14 Domain Languages
 
-> The limits of language are the limits of one’s world. --Ludwig Wittgenstein
+> The limits of language are the limits of one’s world.
+> — Ludwig Wittgenstein
 
 One of the reasons that the classic gather requirements, design, code, ship approach doesn’t work is that it is anchored by the concept that we know what the requirements are. But we rarely do. Your business users will have a vague idea of what they want to achieve, but they neither know nor care about the details. That’s part of our value: we intuit intent and convert it to code.
 
-Don’t spend more effort than you save. Writing a domain language adds some cost to your project, and you’ll need to be convinced that there are offsetting savings (potentially in the long term).
+don’t spend more effort than you save. Writing a domain language adds some cost to your project, and you’ll need to be convinced that there are offsetting savings (potentially in the long term).
 
 ### 15 Estimating
 
@@ -182,7 +183,7 @@ The first question you have to ask yourself when someone asks you for an estimat
 | ------------- |:------------------------------------:|
 | 1–15 days     | Days                                 |
 | 3–6	weeks     | Weeks                                |
-| 8–20	weeks    | Months                               |
+| 8–20	weeks   | Months                               |
 | 20+	weeks     | Think hard before giving an estimate |  	
 
 Choose the units of your answer to reflect the accuracy you intend to convey.
@@ -190,3 +191,5 @@ Choose the units of your answer to reflect the accuracy you intend to convey.
 A basic estimating trick that always gives good answers: ask someone who’s already done it
 
 The first part of any estimation exercise is building an understanding of what’s being asked... ...you need to have a grasp of the scope of the domain.
+
+_Program Evaluation Review Technique_, or PERT. Every PERT task has an optimistic, a most likely, and a pessimistic estimate. The tasks are arranged into a dependency network, and then you use some simple statistics to identify likely best and worst times for the overall project.
