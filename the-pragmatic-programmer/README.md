@@ -23,16 +23,19 @@ We who cut mere stones must always be envisioning cathedrals.
 
 ### 1 It’s your Life
 
-I’m not in this world to live up to your expectations and you’re not in this world to live up to mine. --Bruce Lee
+> I’m not in this world to live up to your expectations and you’re not in this world to live up to mine. 
+> — Bruce Lee
 
 Does your work environment suck? Is your job boring? Try to fix it. But don’t try forever. As Martin Fowler says, “you can change your organization or change your organization.
 
 
 ### 2 The Cat Ate My Source Code
 
-The greatest of all weaknesses is the fear of appearing weak. --J.B. Bossuet, Politics from Holy Writ, 1709
+> The greatest of all weaknesses is the fear of appearing weak. 
+> — J.B. Bossuet, Politics from Holy Writ, 1709
 
 Take Responsibility. Responsibility is something you actively agree to.
+
 
 
 
