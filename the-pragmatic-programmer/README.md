@@ -193,3 +193,74 @@ A basic estimating trick that always gives good answers: ask someone who’s alr
 The first part of any estimation exercise is building an understanding of what’s being asked... ...you need to have a grasp of the scope of the domain.
 
 _Program Evaluation Review Technique_, or PERT. Every PERT task has an optimistic, a most likely, and a pessimistic estimate. The tasks are arranged into a dependency network, and then you use some simple statistics to identify likely best and worst times for the overall project.
+
+To determine the timetable for a project is by gaining experience on that same project... ...practice incremental development, repeating the following steps with very thin slices of functionality:
+
+- Check requirements
+- Analyze risk (and prioritize riskiest items earlier) 
+- Design, implement, integrate
+- Validate with the users
+
+... ...That’s also how the old joke says to eat an elephant: one bite at a time. 
+
+## Chapter 3 The Basic Tools
+
+Every maker starts their journey with a basic set of good-quality tools.
+
+Tools amplify your talent. The better your tools, and the better you know how to use them, the more productive you can be. Start with a basic set of generally applicable tools. As you gain experience, and as you come across special requirements, you’ll add to this basic set.
+
+Always be on the lookout for better ways of doing things.
+
+Let need drive your acquisitions.
+
+### 16 The Power of Plain Text
+
+As Pragmatic Programmers, our base material isn’t wood or iron, it’s knowledge.
+
+_Plain text_ is made up of printable characters in a form that conveys information.
+
+Human-readable forms of data, and self-describing data, will outlive all other forms of data and the applications that created them. Period. As long as the data survives, you will have a chance to be able to use it—potentially long after the original application that wrote it is defunct.
+
+All software becomes legacy software as soon as it’s written.
+
+You need to ensure that all parties can communicate using a common standard. Plain text is that standard.
+
+### 17 Shell Games
+
+Every woodworker needs a good, solid, reliable workbench, somewhere to hold work pieces at a convenient height while they’re being shaped. The workbench becomes the center of the woodshop, the maker returning to it time and time again as a piece takes shape.
+For a programmer manipulating files of text, that workbench is the command shell. From the shell prompt, you can invoke your full repertoire of tools, using pipes to combine them in ways never dreamt of by their original developers.
+
+If you do all your work using GUIs, you are missing out on the full capabilities of your environment.
+
+A benefit of GUIs is WYSIWYG— what you see is what you get. The disadvantage is WYSIAYG— what you see is all you get.
+
+You’ll spend a lot of time living in one of these shells. Be like a hermit crab and make it your own home.
+
+### 18 Power Editing
+
+By becoming fluent, you no longer have to think about the mechanics of editing... ...Your thoughts will flow, and your programming will benefit.
+
+What counts as being fluent? Here’s the challenge list:
+
+- When editing text, move and make selections by character, word, line, and paragraph.
+- When editing code, move by various syntactic units (matching delimiters, functions, modules, ...).
+- Reindent code following changes.
+- Comment and uncomment blocks of code with a single command.
+- Undo and redo changes.
+- Split the editor window into multiple panels, and navigate between them.
+- Navigate to a particular line number. Sort selected lines.
+- Search for both strings and regular expressions, and repeat previous searches.
+- Temporarily create multiple cursors based on a selection or on a pattern match, and edit the text at each in parallel.
+- Display compilation errors in the current project. 
+- Run the current project’s tests.
+
+Can you do all this without using a mouse/trackpad?
+You might say that your current editor can’t do some of these things. Maybe it’s time to switch?
+
+Every time you find yourself doing something repetitive, get into the habit of thinking “there must be a better way.” Then find it.
+
+Edit using just the keyboard... ...as you learn to do stuff without moving your hands away from the home position, you’ll find that your editing becomes faster and more fluent than it ever was in the past.
+
+### 19 Version Control
+
+
