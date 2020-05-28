@@ -462,6 +462,25 @@ Compared to the observer pattern, pubsub is a great example of reducing coupling
 
 Streams let us treat events as if they were a collection of data. It’s as if we had a list of events, which got longer when new events arrive. The beauty of that is that we can treat streams just like any other collection: we can manipulate, combine, filter, and do all the other data-ish things we know so well. We can even combine event streams and regular collections. And streams can be asynchronous, which means your code gets the opportunity to respond to events as they arrive.
 
+This is a very powerful abstraction: we no longer need to think about time as being something we have to manage. Event streams unify synchronous and asynchronous processing behind a common, convenient API.
+
+### 30 Transforming Programming
+
+> If you can’t describe what you are doing as a process, you don’t know what you’re.
+> — W. Edwards Deming, (attr)
+
+We need to get back to thinking of programs as being something that transforms inputs into outputs. When we do, many of the details we previously worried about just evaporate. The structure becomes clearer, the error handling more consistent, and the coupling drops way down.
+
+Feed raw data in one end and the finished product (information) comes out the other. And we like to think about all code this way.
+
+Programming Is About Code, But Programs Are About Data.
+
+If your background is object- oriented programming, then your reflexes demand that you hide data, encapsulating it inside objects. These objects then chatter back and forth, changing each other’s state. This introduces a lot of coupling, and it is a big reason that OO systems can be hard to change.
+
+Don’t Hoard State; Pass It Around... ...This means that we can greatly reduce coupling: a function can be used (and reused) anywhere its parameters match the output of some other function.
+
+
+
 
 
 
