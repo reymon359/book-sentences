@@ -435,7 +435,7 @@ If It’s Important Enough to Be Global, Wrap It in an API
 
 Keeping your code shy: having it only deal with things it directly knows about, will help keep your applications decoupled, and that will make them more amenable to change.
 
-### 29 Juggling the Real World
+### 29 Juggling the Real World
 
 > Things don’t just happen; they are made to happen.
 > — John F. Kennedy.
