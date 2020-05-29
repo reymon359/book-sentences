@@ -487,7 +487,7 @@ We never pass raw values between transformations. Instead, we wrap them in a dat
 > You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 > — Joe Armstrong
 
-Do you program in an object- oriented language? Do you use inheritance? If so, stop! It probably isn’t what you want to do.
+Do you program in an object-oriented language? Do you use inheritance? If so, stop! It probably isn’t what you want to do.
 
 Now we’re faced with a generation of OO developers who use inheritance for one of two reasons: they don’t like typing, or they like types.
 
