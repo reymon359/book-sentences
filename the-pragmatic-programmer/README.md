@@ -479,11 +479,23 @@ If your background is object- oriented programming, then your reflexes demand th
 
 Don’t Hoard State; Pass It Around... ...This means that we can greatly reduce coupling: a function can be used (and reused) anywhere its parameters match the output of some other function.
 
+We never pass raw values between transformations. Instead, we wrap them in a data structure (or type) which also tells us if the contained value is valid... ...you can handle checking for errors inside your transformations or outside them.
+
+### 31 Inheritance Tax
 
 
+> You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+> — Joe Armstrong
 
+Do you program in an object- oriented language? Do you use inheritance? If so, stop! It probably isn’t what you want to do.
 
+Now we’re faced with a generation of OO developers who use inheritance for one of two reasons: they don’t like typing, or they like types.
 
+Inheritance is coupling. Not only is the child class coupled to the parent, the parent’s parent, and so on, but the code that uses the child is also coupled to all the ancestors.
+
+Don’t Pay Inheritance Tax. The Alternatives are Better... ...Interfaces and protocols, Delegation, Mixins and traits.
+
+Interfaces and protocols give us polymorphism without inheritance.
 
 
 
