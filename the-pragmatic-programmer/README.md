@@ -497,6 +497,63 @@ Don’t Pay Inheritance Tax. The Alternatives are Better... ...Interfaces and pr
 
 Interfaces and protocols give us polymorphism without inheritance.
 
+Inheritance is rarely the answer... ...alternatives to traditional class inheritance:
+- Interfaces and protocols
+- Delegation 
+- Mixins and traits
+Each of these methods may be better for you in different circumstances, depending on whether your goal is sharing type information, adding functionality, or sharing methods. 
+
+As with anything in programming, aim to use the technique that best expresses your intent.
+
+### 32 configuration 
+
+When code relies on values that may change after the application has gone live, keep those values external to the app... ...In this way, you’re parameterizing your application; the code adapts to the places it runs.
+
+Wrap the configuration information behind a (thin) API. This decouples your code from the details of the representation of configuration.
+
+Configuration-As-A-Service... ...has a number of benefits:
+- Multiple applications can share configuration information, with authentication and access control limiting what each can see
+- Configuration changes can be made globally
+- The configuration data can be maintained via a specialized UI 
+- The configuration data becomes dynamic
+
+If there’s genuine debate about whether a feature should work this way or that, or if it should be the users’ choice, try it out one way and get feedback on whether the decision was a good one.
+
+## Chapter 6 Concurrency
+
+_Concurrency_ is when the execution of two or more pieces of code act as if they run at the same time. _Parallelism_ is when they do run at the same time.
+
+Concurrency is a requirement if you want your application to be able to deal with the real world, where things are asynchronous.
+
+Any time two or more chunks of code hold references to the same piece of mutable data, you have shared state. And Shared State Is _Incorrect State_.  
+
+_Blackboards_... ...are systems which act like a combination of an object store and a smart publish/subscribe broker... ...Used correctly, these types of systems offer a serious amount of decoupling. 	 	
+
+Concurrent and parallel code used to be exotic. Now it is required.
+
+### 33 Breaking Temporal Coupling
+
+There are two aspects of time that are important to us: concurrency (things happening at the same time) and ordering (the relative positions of things in time).
+
+We need to allow for concurrency and to think about decoupling any time or order dependencies. In doing so, we can gain flexibility and reduce any time-based dependencies in many areas of development: workflow analysis, architecture, design, and deployment. The result will be systems that are easier to reason about, that potentially respond faster and more reliably.
+
+Find out what _can_ happen at the same time, and what _must_ happen in a strict order.
+ 	
+Remember the distinction: concurrency is a software mechanism, and parallelism is a hardware concern.
+
+### 34 Shared State Is Incorrect State
+
+
+
+
+
+
+
+
+
+
+
+
 
 https://gist.github.com/reymon359/f9a1563d744a4d0d29a3289584c9ae38
 
