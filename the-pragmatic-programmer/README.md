@@ -498,6 +498,6 @@ Don’t Pay Inheritance Tax. The Alternatives are Better... ...Interfaces and pr
 Interfaces and protocols give us polymorphism without inheritance.
 
 
-
+https://gist.github.com/reymon359/f9a1563d744a4d0d29a3289584c9ae38
 
 
