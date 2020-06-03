@@ -543,9 +543,47 @@ Remember the distinction: concurrency is a software mechanism, and parallelism i
 
 ### 34 Shared State Is Incorrect State
 
+You can create a semaphore and then use it to control access to some other resource.
 
+A lot of attention is given to shared memory as a source of concurrency problems, but in fact the problems can pop up _anywhere_ where your application code shares mutable resources: files, databases, external services, and so on. Whenever two or more instances of your code can access some resource at the same time, you’re looking at a potential problem.
 
+Functional languages, with their tendency to make all data immutable, make concurrency simpler. However, they still face the same challenges, because at some point they are forced to step into the real, mutable world.
 
+### 35 Actors and Processes
+
+Actors and processes offer interesting ways of implementing concurrency without the burden of synchronizing access to shared memory.
+
+Actors execute concurrently, asynchronously, and share nothing... ...the code running in the actors is the same.
+
+### 36 Blackboards
+
+Use Blackboards to Coordinate Workflow Messaging Systems Can Be Like Blackboards
+
+These messaging systems do far more than simply send data from A to B. In particular, they offer persistence (in the form of an event log) and the ability to retrieve messages through a form of pattern matching. This means you can use them both as a blackboard system and/or as a platform on which you can run a bunch of actors.
+
+These kinds of system can be more troublesome to deploy and manage, as there are more moving parts. To some extent this is offset by the fact that the system is more granular, and can be updated by replacing individual actors, and not the whole system.
+
+## Chapter 7 While You Are Coding
+
+Coding is not mechanical. If it were, all the CASE tools that people pinned their hopes on way back in the early 1980s would have replaced programmers long ago. There are decisions to be made every minute—decisions that require careful thought and judgment if the resulting program is to enjoy a long, accurate, and productive life.
+
+Developers who don’t actively think about their code are programming by coincidence—the code might work, but there’s no particular reason why. 
+
+The major benefits of testing happen when you think about and write the tests, not just when you run them. 
+
+### 37 Listen to Your Lizard Brain
+
+Instincts are simply a response to patterns packed into our nonconscious brain. Some are innate, others are learned through repetition.
+
+As you gain experience as a programmer, your brain is laying down layers of tacit knowledge.
+
+Instincts make you feel, not think.
+
+As a developer, you’ve been trying things and seeing which worked and which didn’t. You’ve been accumulating experience and wisdom. When you feel a nagging doubt, or experience some reluctance when faced with a task, it might be that experience trying to speak to you. Heed it. You may not be able to put your finger on exactly what’s wrong, but give it time and your doubts will probably crystallize into something more solid, something you can address.
+
+Let your instincts contribute to your performance.
+
+First, stop what you’re doing... ...Let the ideas percolate up through the layers of your brain on their own: you can’t force it.
 
 
 
