@@ -585,6 +585,12 @@ Let your instincts contribute to your performance.
 
 First, stop what you’re doing... ...Let the ideas percolate up through the layers of your brain on their own: you can’t force it.
 
+A large part of our job is dealing with existing code, often written by other people. Those people will have different instincts to you, and so the decisions they made will be different. Not necessarily worse; just different... ...When you spot things done in a way that seems strange, jot it down. Continue doing this, and look for patterns. If you can see what drove them to write code that way, you may find that the job of understanding it becomes a lot easier. You’ll be able consciously to apply the patterns that they applied tacitly.
+And you might just learn something new along the way.
+
+### 38 Programming by Coincidence
+
+As developers, we also work in minefields. There are hundreds of traps waiting to catch us each day... ...We should avoid programming by coincidence—relying on luck and accidental successes—in favor of _programming deliberately_.
 
 
 
