@@ -21,7 +21,7 @@ We who cut mere stones must always be envisioning cathedrals.
 
 ## Chapter 1 A Pragmatic Philosophy
 
-### 1 It’s your Life
+### Topic 1 It’s your Life
 
 > I’m not in this world to live up to your expectations and you’re not in this world to live up to mine. 
 > — Bruce Lee
@@ -29,14 +29,14 @@ We who cut mere stones must always be envisioning cathedrals.
 Does your work environment suck? Is your job boring? Try to fix it. But don’t try forever. As Martin Fowler says, “you can change your organization or change your organization.
 
 
-### 2 The Cat Ate My Source Code
+### Topic 2 The Cat Ate My Source Code
 
 > The greatest of all weaknesses is the fear of appearing weak. 
 > — J.B. Bossuet, Politics from Holy Writ, 1709
 
 Take Responsibility. Responsibility is something you actively agree to.
 
-### 3 Software Entropy
+### Topic 3 Software Entropy
 
 When disorder increases in software, we call it “software rot.” Some folks might call it by the more optimistic term, “technical debt,” with the implied notion that they’ll pay it back someday. They probably won’t.
 
@@ -46,7 +46,7 @@ Don’t cause collateral damage just because there’s a crisis of some sort. On
 
 If you find yourself on a project where the code is pristinely beautiful—cleanly written, well designed, and elegant—you will likely take extra special care not to mess it up.
 
-### 4 Stone Soup and Boiled Frogs
+### Topic 4 Stone Soup and Boiled Frogs
 
 People find it easier to join an ongoing success. Show them a glimpse of the future and you’ll get them.
 
@@ -55,7 +55,7 @@ People find it easier to join an ongoing success. Show them a glimpse of the fut
 
 Keep an eye on the big picture. Constantly review what’s happening around you, not just what you personally are doing.
 
-### 5 Good-Enough Software
+### Topic 5 Good-Enough Software
 
 > Striving to better, oft we mar what’s well.
 > — Shakespeare, King Lear 1.4
@@ -66,7 +66,7 @@ Great software today is often preferable to the fantasy of perfect software tomo
 
 Don’t spoil a perfectly good program by overembellishment and overrefinement. Move on, and let your code stand in its own right for a while.
 
-### 6 Your Knowledge Portfolio
+### Topic 6 Your Knowledge Portfolio
 
 > An investment in knowledge always pays the best interest.
 > — Benjamin Franklin
@@ -83,7 +83,7 @@ Critically Analyze What You Read and Hear.
 
 Don’t stop with first-order thinking (what will happen next), but use second-order thinking: what will happen after that?
 
-### 7 Communicate!
+### Topic 7 Communicate!
 
 Treat English (or whatever your native tongue may be) as just another programming language. Write natural language as you would write code: honor the DRY principle, ETC, automation, and so on.
 
@@ -105,13 +105,13 @@ Email and social media posts are forever. Try to give the same attention and car
 
 ## Chapter 2 A Pragmatic Approach
 
-### 8 The Essence of Good Design
+### Topic 8 The Essence of Good Design
 
 Good Design Is Easier to Change Than Bad Design... ...As far as we can tell, every design principle out there is a special case of ETC. Why is decoupling good? Because by isolating concerns we make each easier to change. ETC. Why is the single responsibility principle useful? Because a change in requirements is mirrored by a change in just one module. ETC. Why is naming important? Because good names make code easier to read, and you have to read it to change it. ETC!
 
 Try to make what you write replaceable. That way, whatever happens in the future, this chunk of code won’t be a roadblock...  ...It’s really just thinking about keeping code decoupled and cohesive.
 
-### 9 DRY—The Evils of Duplication
+### Topic 9 DRY—The Evils of Duplication
 
 Most people assume that maintenance begins when an application is released, that maintenance means fixing bugs and enhancing features. We think these people are wrong. Programmers are constantly in maintenance mode. Our understanding changes day by day.
 
@@ -121,7 +121,7 @@ For internal APIs, look for tools that let you specify the API in some kind of n
 
 Foster an environment where it’s easier to find and reuse existing stuff than to write it yourself. If it isn’t easy, people won’t do it. And if you fail to reuse, you risk duplicating knowledge.
 
-### 10 Orthogonality
+### Topic 10 Orthogonality
 
 Two or more things are orthogonal if changes in one do not affect any of the others. In a well- designed system, the database code will be orthogonal to the user interface: you can change the interface without affecting the database, and swap databases without changing the interface.
 
@@ -135,7 +135,7 @@ An orthogonally designed and implemented system is easier to test. Because the i
 
 With DRY, you’re looking to minimize duplication within a system, whereas with orthogonality you reduce the interdependency among the system’s components. It may be a clumsy word, but if you use the principle of orthogonality, combined closely with the DRY principle, you’ll find that the systems you develop are more flexible, more understandable, and easier to debug, test, and maintain. 
 
-### 11 Reversibility
+### Topic 11 Reversibility
 
 > Nothing is more dangerous than an idea if it’s the only one you have.
 > — Emil-Auguste Chartier (Alain), Propos sur la religion, 1938
@@ -148,7 +148,7 @@ Requirements, users, and hardware change faster than we can get the software dev
 
 The mistake lies in assuming that any decision is cast in stone— and in not preparing for the contingencies that might arise. Instead of carving decisions in stone, think of them more as being written in the sand at the beach. A big wave can come along and wipe them out at any time. 
 
-### 12 Tracer bullets
+### Topic 12 Tracer bullets
 
 Look for the important requirements, the ones that define the system. Look for the areas where you have doubts, and where you see the biggest risks. Then prioritize your development so that these are the first areas you code. 
 
@@ -156,7 +156,7 @@ Tracer development is consistent with the idea that a project is never finished:
 
 Prototyping generates disposable code. Tracer code is lean but complete, and forms part of the skeleton of the final system. Think of prototyping as the reconnaissance and intelligence gathering that takes place before a single tracer bullet is fired.
 
-### 13 Prototypes and Post-it Notes
+### Topic 13 Prototypes and Post-it Notes
 
 We build software prototypes... ...to analyze and expose risk, and to offer chances for correction at a greatly reduced cost.
 
@@ -164,7 +164,7 @@ If you find yourself in an environment where you cannot give up the details, the
 
 Prototyping is a learning experience. Its value lies not in the code produced, but in the lessons learned. That’s really the point of prototyping.
 
-### 14 Domain Languages
+### Topic 14 Domain Languages
 
 > The limits of language are the limits of one’s world.
 > — Ludwig Wittgenstein
@@ -173,7 +173,7 @@ One of the reasons that the classic gather requirements, design, code, ship appr
 
 don’t spend more effort than you save. Writing a domain language adds some cost to your project, and you’ll need to be convinced that there are offsetting savings (potentially in the long term).
 
-### 15 Estimating
+### Topic 15 Estimating
 
 By learning to estimate, and by developing this skill to the point where you have an intuitive feel for the magnitudes of things, you will be able to show an apparent magical ability to determine their feasibility.
 
@@ -213,7 +213,7 @@ Always be on the lookout for better ways of doing things.
 
 Let need drive your acquisitions.
 
-### 16 The Power of Plain Text
+### Topic 16 The Power of Plain Text
 
 As Pragmatic Programmers, our base material isn’t wood or iron, it’s knowledge.
 
@@ -225,7 +225,7 @@ All software becomes legacy software as soon as it’s written.
 
 You need to ensure that all parties can communicate using a common standard. Plain text is that standard.
 
-### 17 Shell Games
+### Topic 17 Shell Games
 
 Every woodworker needs a good, solid, reliable workbench, somewhere to hold work pieces at a convenient height while they’re being shaped. The workbench becomes the center of the woodshop, the maker returning to it time and time again as a piece takes shape.
 For a programmer manipulating files of text, that workbench is the command shell. From the shell prompt, you can invoke your full repertoire of tools, using pipes to combine them in ways never dreamt of by their original developers.
@@ -236,7 +236,7 @@ A benefit of GUIs is WYSIWYG— what you see is what you get. The disadvantage i
 
 You’ll spend a lot of time living in one of these shells. Be like a hermit crab and make it your own home.
 
-### 18 Power Editing
+### Topic 18 Power Editing
 
 By becoming fluent, you no longer have to think about the mechanics of editing... ...Your thoughts will flow, and your programming will benefit.
 
@@ -261,7 +261,7 @@ Every time you find yourself doing something repetitive, get into the habit of t
 
 Edit using just the keyboard... ...as you learn to do stuff without moving your hands away from the home position, you’ll find that your editing becomes faster and more fluent than it ever was in the past.
 
-### 19 Version Control
+### Topic 19 Version Control
 
 > Progress, far from consisting in change, depends on retentiveness. Those who cannot remember the past are condemned to repeat it.
 > — George Santayana, Life of Reason
@@ -270,7 +270,7 @@ A good VCS will let you track changes, answering questions such as: Who made cha
 
 Always. Even if you are a single-person team on a one-week project. Even if it’s a “throw-away’’ prototype. Even if the stuff you’re working on isn’t source code. Make sure that everything is under version control.
 
-### 20 Debugging
+### Topic 20 Debugging
 
 > It is a painful thing to look at your own trouble and know that you yourself and no one else has made it.
 > — Sophocles, Ajax
@@ -302,11 +302,11 @@ Remember, if you see hoof prints, think horses—not zebras.
 
 The amount of surprise you feel when something goes wrong is proportional to the amount of trust and faith you have in the code being run.
 
-### 21 Text Manipulation
+### Topic 21 Text Manipulation
 
 Text manipulation languages are to programming what routers are to woodworking. They are noisy, messy, and somewhat brute force. Make mistakes with them, and entire pieces can be ruined. Some people swear they have no place in the toolbox. But in the right hands, both routers and text manipulation languages can be incredibly powerful and versatile. 
 
-### 22 Engineering Daybooks
+### Topic 22 Engineering Daybooks
 
 Try keeping an engineering daybook. Use paper, not a file or a wiki: there’s something special about the act of writing compared to typing. Give it a month, and see if you’re getting any benefits. If nothing else, it’ll make writing your memoir easier when you’re rich and famous.
 
@@ -318,7 +318,7 @@ Knowing that no one writes perfect code, including themselves, Pragmatic Program
 
 We stick to small steps always... ...so we don’t fall off the edge of the cliff.
 
-### 23 Design by Contract
+### Topic 23 Design by Contract
 
 Dealing with computer systems is hard. Dealing with people is even harder.
 
@@ -341,7 +341,7 @@ Be sure not to confuse requirements that are fixed, inviolate laws with those th
 How many numbers are in the series 0, 5, 10, 15, ..., 100? 
 There are 21 terms in the series. If you said 20, you just experienced a fencepost error (not knowing whether to count the fenceposts or the spaces between them).
 
-### 24 Dead Programs Tell No Lies
+### Topic 24 Dead Programs Tell No Lies
 
 If something is starting to go awry with one of our programs, sometimes it is a library or framework routine that catches it first.
 
@@ -354,7 +354,7 @@ Crash, Don’t Trash. One of the benefits of detecting problems as soon as you c
 
 A dead program normally does a lot less damage than a crippled one.
 
-### 25 Assertive Programming
+### Topic 25 Assertive Programming
 
 > There is a luxury in self-reproach. When we blame ourselves we feel no one else has a right to blame us.
 > — Oscar Wilde, The Picture of Dorian Gray.
@@ -365,7 +365,7 @@ Don’t use assertions in place of real error handling.
 
 Turning off assertions when you deliver a program to production is like crossing a high wire without a net because you once made it across in practice. There’s dramatic value, but it’s hard to get life insurance.
 
-### 26 How to Balance Resources
+### Topic 26 How to Balance Resources
 
 > To light a candle is to cast a shadow...
 > — Ursula K. Le Guin, A Wizard of Earthsea.
@@ -389,7 +389,7 @@ end
 
 Because Pragmatic Programmers trust no one, including ourselves, we feel that it is always a good idea to build code that actually checks that resources are indeed freed appropriately.
 
-### 27 Don’t Outrun Your Headlights
+### Topic 27 Don’t Outrun Your Headlights
 
 We can’t see too far ahead into the future, and the further off- axis you look, the darker it gets. So Pragmatic Programmers have a firm rule: Take Small Steps—Always. Always take small, deliberate steps, checking for feedback and adjusting before proceeding.
 
@@ -405,7 +405,7 @@ Much of the time, tomorrow looks a lot like today. But don’t count on it.
 
 Life doesn’t stand still. Neither can the code that we write. In order to keep up with today’s near-frantic pace of change, we need to make every effort to write code that’s as loose—as flexible—as possible. Otherwise we may find our code quickly becoming outdated, or too brittle to fix, and may ultimately be left behind in the mad dash toward the future.
 
-### 28 Decoupling
+### Topic 28 Decoupling
 
 > When we try to pick out anything by itself, we find it hitched to everything else in the Universe.
 > — John Muir, My First Summer in the Sierra.
@@ -435,7 +435,7 @@ If It’s Important Enough to Be Global, Wrap It in an API
 
 Keeping your code shy: having it only deal with things it directly knows about, will help keep your applications decoupled, and that will make them more amenable to change.
 
-### 29 Juggling the Real World
+### Topic 29 Juggling the Real World
 
 > Things don’t just happen; they are made to happen.
 > — John F. Kennedy.
@@ -464,7 +464,7 @@ Streams let us treat events as if they were a collection of data. It’s as if w
 
 This is a very powerful abstraction: we no longer need to think about time as being something we have to manage. Event streams unify synchronous and asynchronous processing behind a common, convenient API.
 
-### 30 Transforming Programming
+### Topic 30 Transforming Programming
 
 > If you can’t describe what you are doing as a process, you don’t know what you’re.
 > — W. Edwards Deming, (attr)
@@ -481,7 +481,7 @@ Don’t Hoard State; Pass It Around... ...This means that we can greatly reduce 
 
 We never pass raw values between transformations. Instead, we wrap them in a data structure (or type) which also tells us if the contained value is valid... ...you can handle checking for errors inside your transformations or outside them.
 
-### 31 Inheritance Tax
+### Topic 31 Inheritance Tax
 
 
 > You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
@@ -505,7 +505,7 @@ Each of these methods may be better for you in different circumstances, dependin
 
 As with anything in programming, aim to use the technique that best expresses your intent.
 
-### 32 configuration 
+### Topic 32 configuration 
 
 When code relies on values that may change after the application has gone live, keep those values external to the app... ...In this way, you’re parameterizing your application; the code adapts to the places it runs.
 
@@ -531,7 +531,7 @@ _Blackboards_... ...are systems which act like a combination of an object store 
 
 Concurrent and parallel code used to be exotic. Now it is required.
 
-### 33 Breaking Temporal Coupling
+### Topic 33 Breaking Temporal Coupling
 
 There are two aspects of time that are important to us: concurrency (things happening at the same time) and ordering (the relative positions of things in time).
 
@@ -541,7 +541,7 @@ Find out what _can_ happen at the same time, and what _must_ happen in a strict 
  	
 Remember the distinction: concurrency is a software mechanism, and parallelism is a hardware concern.
 
-### 34 Shared State Is Incorrect State
+### Topic 34 Shared State Is Incorrect State
 
 You can create a semaphore and then use it to control access to some other resource.
 
@@ -549,7 +549,7 @@ A lot of attention is given to shared memory as a source of concurrency problems
 
 Functional languages, with their tendency to make all data immutable, make concurrency simpler. However, they still face the same challenges, because at some point they are forced to step into the real, mutable world.
 
-### 35 Actors and Processes
+### Topic 35 Actors and Processes
 
 Actors and processes offer interesting ways of implementing concurrency without the burden of synchronizing access to shared memory.
 
@@ -557,7 +557,7 @@ Actors execute concurrently, asynchronously, and share nothing... ...the code ru
 
 [Concurrency Actors Example](https://gist.github.com/reymon359/f9a1563d744a4d0d29a3289584c9ae38)
 
-### 36 Blackboards
+### Topic 36 Blackboards
 
 Use Blackboards to Coordinate Workflow Messaging Systems Can Be Like Blackboards
 
@@ -573,7 +573,7 @@ Developers who don’t actively think about their code are programming by coinci
 
 The major benefits of testing happen when you think about and write the tests, not just when you run them. 
 
-### 37 Listen to Your Lizard Brain
+### Topic 37 Listen to Your Lizard Brain
 
 Instincts are simply a response to patterns packed into our nonconscious brain. Some are innate, others are learned through repetition.
 
@@ -590,7 +590,7 @@ First, stop what you’re doing... ...Let the ideas percolate up through the lay
 A large part of our job is dealing with existing code, often written by other people. Those people will have different instincts to you, and so the decisions they made will be different. Not necessarily worse; just different... ...When you spot things done in a way that seems strange, jot it down. Continue doing this, and look for patterns. If you can see what drove them to write code that way, you may find that the job of understanding it becomes a lot easier. You’ll be able consciously to apply the patterns that they applied tacitly.
 And you might just learn something new along the way.
 
-### 38 Programming by Coincidence
+### Topic 38 Programming by Coincidence
 
 As developers, we also work in minefields. There are hundreds of traps waiting to catch us each day... ...We should avoid programming by coincidence—relying on luck and accidental successes—in favor of _programming deliberately_.
 
