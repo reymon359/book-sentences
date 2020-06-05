@@ -555,6 +555,8 @@ Actors and processes offer interesting ways of implementing concurrency without 
 
 Actors execute concurrently, asynchronously, and share nothing... ...the code running in the actors is the same.
 
+[Concurrency Actors Example](https://gist.github.com/reymon359/f9a1563d744a4d0d29a3289584c9ae38)
+
 ### 36 Blackboards
 
 Use Blackboards to Coordinate Workflow Messaging Systems Can Be Like Blackboards
@@ -592,6 +594,31 @@ And you might just learn something new along the way.
 
 As developers, we also work in minefields. There are hundreds of traps waiting to catch us each day... ...We should avoid programming by coincidence—relying on luck and accidental successes—in favor of _programming deliberately_.
 
+For routines you call, rely only on documented behavior. If you can’t, for whatever reason, then document your assumption well.
+
+[Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)
+
+Don’t assume it, prove it.
+
+Finding an answer that happens to fit is not the same as the right answer.
+
+Don’t Program by Coincidence
+
+Catch and fix errors as early in the development cycle as possible, and create fewer errors to begin with.
+
+Can you explain the code, in detail, to a more junior programmer? If not, perhaps you are relying on coincidences.
+
+Don’t code in the dark.... ...If you’re not sure why it works, you won’t know why it fails.
+
+Proceed from a plan, whether that plan is in your head, on the back of a cocktail napkin, or on a whiteboard.
+
+Rely only on reliable things. Don’t depend on assumptions. If you can’t tell if something is reliable, assume the worst.
+
+Don’t just test your code, but test your assumptions as well. Don’t guess; actually try it. Write an assertion to test your assumptions. If your assertion is right, you have improved the documentation in your code. If you discover your assumption is wrong, then count yourself lucky.
+
+Prioritize your effort. Spend time on the important aspects; more than likely, these are the hard parts. If you don’t have fundamentals or infrastructure correct, brilliant bells and whistles will be irrelevant.
+
+Don’t be a slave to history. Don’t let existing code dictate future code. All code can be replaced if it is no longer appropriate.
 
 
 
@@ -599,6 +626,15 @@ As developers, we also work in minefields. There are hundreds of traps waiting t
 
 
 
-https://gist.github.com/reymon359/f9a1563d744a4d0d29a3289584c9ae38
+
+
+
+
+
+
+
+
+
+
 
 
