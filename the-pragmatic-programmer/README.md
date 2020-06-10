@@ -620,6 +620,15 @@ Prioritize your effort. Spend time on the important aspects; more than likely, t
 
 Don’t be a slave to history. Don’t let existing code dictate future code. All code can be replaced if it is no longer appropriate.
 
+### Topic 39 Algorithm Speed
+
+The larger the input, the longer the running time or the more memory used.
+
+The Big-O notation, written _O()_, is a mathematical way of dealing with approximations... ...Think of the _O()_ as meaning _on the order of_.
+
+Big-O is never going to give you actual numbers for time or memory or whatever: it simply tells you how these values will change as the input changes.
+
+
 
 
 
