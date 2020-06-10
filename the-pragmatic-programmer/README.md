@@ -628,22 +628,77 @@ The Big-O notation, written _O()_, is a mathematical way of dealing with approxi
 
 Big-O is never going to give you actual numbers for time or memory or whatever: it simply tells you how these values will change as the input changes.
 
+- _O(1)_ Constant (access element in array, simple statements)
+- _O(lg n)_ Logarithmic (binary search). The base of the logarithm doesn’t matter, so this is equivalent _O(log n)_
+- _O(n)_ Linear (sequential search)
+- _O(nlg n)_ Worse than linear, but not much worse. (Average runtime of quicksort, heapsort)
+- _O(n^2)_ Square law (selection and insertion sorts)
+- _O(n^3)_ Cubic (multiplication of two matrices)
+- _O(C^n)_ Exponential (traveling salesman problem, set partitioning)
+
+Figure 3 - Runtimes of various algorithms
+TODO: ADD FIGURE 3
+
+_Simple loops_
+If a simple loop runs from _1_ to _n_, then the algorithm is likely to be _O(n)_—time increases linearly with .
+
+_Nested loops_
+If you nest a loop inside another, then your algorithm becomes _O(m x n)_, where   and   are the two loops’ limits. This commonly occurs in simple sorting algorithms, such as bubble sort... ...Such sorting algorithms tend to be _O(n^2)_.
+
+_Binary chop_
+If your algorithm halves the set of things it considers each time around the loop, then it is likely to be logarithmic, _O(lg n)_.
 
 
+_Divide and conquer_
+Algorithms that partition their input work on the two halves independently, and then combine the result can be _O(nlg n)_. Although technically _O(n^2)_, because its behavior degrades when it is fed sorted input, the average runtime of quicksort is _O(nlg n)_.
 
+_Combinatoric_
+Whenever algorithms start looking at the permutations of things, their running times may get out of hand. This is because permutations involve factorials... ...Often, heuristics are used to reduce the running times of these types of algorithms in particular problem domains.
 
+Estimate the Order of Your Algorithms... ...If you’re not sure how long your code will take, or how much memory it will use, try running it, varying the input record count or whatever is likely to impact the runtime. Then plot the results. You should soon get a good idea of the shape of the curve.
 
+Try to cover both the theoretical and practical bases. After all this estimating, the only timing that counts is the speed of your code, running in the production environment, with real data.
 
+Best Isn’t Always Best. You also need to be pragmatic about choosing appropriate algorithms—the fastest one is not always the best for the job.
 
+### Topic 40 Refactoring
 
+As a program evolves, it will become necessary to rethink earlier decisions and rework portions of the code. This process is perfectly natural. Code needs to evolve; it’s not a static thing.
 
+Rather than construction, software is more like _gardening_—it is more organic than concrete. You plant many things in a garden according to an initial plan and conditions... ...You constantly monitor the health of the garden, and make adjustments as needed.
 
+_Refactoring_ is defined by Martin Fowler as a: 
+> disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
 
+In order to guarantee that the external behavior hasn’t changed, you need good, automated unit testing that validates the behavior of the code.
 
+Anything at all strikes you as being "wrong," _don’t hesitate to change it_. There’s no time like the present.
 
+Things may cause code to qualify for refactoring:
 
+- _Duplication_ You’ve discovered a violation of the DRY principle.
 
+- _Nonorthogonal design_ You’ve discovered something that could be made more orthogonal.
 
+- _Outdated knowledge_ Things change, requirements drift, and your knowledge of the problem increases. Code needs to keep up.
 
+- _Usage_ As the system gets used by real people under real circumstances, you realize some features are now more important than previously thought, and “must have” features perhaps weren’t.
 
+- _Performance_ You need to move functionality from one area of the system to another to improve performance.
 
+- _The Tests Pass_ Yes. Seriously. We did say that refactoring should be a small scale activity, backed up by good tests. So when you’ve added a small amount of code, and that one extra test passes, you now have a great opportunity to dive in and tidy up what you just wrote.
+
+Fail to refactor now, and there’ll be a far greater time investment to fix the problem down the road—when there are more dependencies to reckon with. Will there be more time available then? Nope.
+
+Refactoring as "a growth." Removing it requires invasive surgery. You can... ...take it out while it is still small. Or, you could wait while it grows and spreads—but removing it then will be both more expensive and more dangerous. Wait even longer, and you may lose the patient entirely.
+
+Refactoring, as with most things, is easier to do while the issues are small, as an ongoing activity while coding.
+
+Refactoring is redesign. Anything that you or others on your team designed can be redesigned in light of new facts, deeper understandings, changing requirements, and so on. 
+
+Martin Fowler... ...tips on how to refactor without doing more harm than good:
+1. Don’ttrytorefactorandaddfunctionalityatthesametime.
+2. Makesureyouhavegoodtestsbeforeyoubeginrefactoring. Run the tests as often as possible.
+3. Takeshort,deliberatesteps:moveafieldfromoneclasstoanother, split a method, rename a variable. Refactoring often involves making many localized changes that result in a larger-scale change.
+
+Next time you see a piece of code that isn’t quite as it should be, fix it. Manage the pain: if it hurts now, but is going to hurt even more later, you might as well get it over with. RememberNext time you see a piece of code that isn’t quite as it should be, fix it. Manage the pain: if it hurts now, but is going to hurt even more later, you might as well get it over with. Remember: don’t live with broken windows.
