@@ -620,6 +620,8 @@ Prioritize your effort. Spend time on the important aspects; more than likely, t
 
 Don’t be a slave to history. Don’t let existing code dictate future code. All code can be replaced if it is no longer appropriate.
 
+Never store a phone number in a numeric field.
+
 ### Topic 39 Algorithm Speed
 
 The larger the input, the longer the running time or the more memory used.
