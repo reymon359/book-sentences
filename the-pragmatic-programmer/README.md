@@ -704,3 +704,25 @@ Martin Fowler... ...tips on how to refactor without doing more harm than good:
 3. Takeshort,deliberatesteps:moveafieldfromoneclasstoanother, split a method, rename a variable. Refactoring often involves making many localized changes that result in a larger-scale change.
 
 Next time you see a piece of code that isn’t quite as it should be, fix it. Manage the pain: if it hurts now, but is going to hurt even more later, you might as well get it over with. RememberNext time you see a piece of code that isn’t quite as it should be, fix it. Manage the pain: if it hurts now, but is going to hurt even more later, you might as well get it over with. Remember: don’t live with broken windows.
+
+### Topic 41 Test to Code
+
+Testing Is Not About Finding Bugs... ...the major benefits of testing happen when you think about and write the tests, not when you run them.
+
+A Test Is the First User of Your Code... ...testing is vital feedback that guides your coding.
+
+If you think about testing boundary conditions and how that will work before you start coding, you may well find the patterns in the logic that'll simplify the function. If you think about the error conditions you’ll need to test, you’ll structure your function accordingly.
+
+Test-Driven Development... ...The basic cycle of TDD is:
+1. Decide on a small piece of functionality you want to add.
+2. Write a test that will pass once that functionality is implemented.
+3. Run all tests. Verify that the only failure is the one you just wrote.
+4. Write the smallest amount of code needed to get the test to pass, and verify that the tests now run cleanly.
+5. Refactor your code: see if there is a way to improve on what you just wrote (the test or the function). Make sure the tests still pass when you’re done.
+
+However... ...people become slaves to TDD in a number of ways:... ...They have lots of redundant tests... ...Their designs tend to start at the bottom and work their way up.
+
+Practice TDD. But, if you do, don’t forget to stop every now and then and look at the big picture. It is easy to become seduced by the green "tests passed" message, writing lots of code that doesn’t actually get you closer to a solution.
+
+TDD: You Need To Know Where You're Going... ...When you can’t comprehend the whole problem, take small steps, one test at a time. However, this approach can mislead you, encouraging you to focus on and endlessly polish the easy problems while ignoring the real reason you’re coding.
+
