@@ -726,3 +726,65 @@ Practice TDD. But, if you do, don’t forget to stop every now and then and look
 
 TDD: You Need To Know Where You're Going... ...When you can’t comprehend the whole problem, take small steps, one test at a time. However, this approach can mislead you, encouraging you to focus on and endlessly polish the easy problems while ignoring the real reason you’re coding.
 
+Bottom-Up vs. Top-Down... ...Neither school actually works, because both ignore one of the most important aspects of software development: we don’t know what we’re doing when we start. The top-down folks assume they can express the whole requirement up front: they can’t. The bottom- up folks assume they can build a list of abstractions which will take them eventually to a single top-level solution, but how can they decide on the functionality of layers when they don’t know where they are heading?
+
+The only way to build software is incrementally. Build small pieces of end-to-end functionality, learning about the problem as you go.
+
+Tests can definitely help drive development. But, as with every drive, unless you have a destination in mind, you can end up going in circles.
+
+We need to build testability into the software from the very beginning, and test each piece thoroughly before trying to wire them together.
+
+A software unit test is code that exercises a module.
+
+We want to write test cases that ensure that a given unit honors its contract... ...We want to test that the module delivers the functionality it promises, over a wide range of test cases and boundary conditions.
+
+Above all, we want to avoid creating a "time bomb"—something that sits around unnoticed and blows up at an awkward moment later in the project. 
+
+To test a piece of software once it has been deployed... ...Log files containing trace messages are one such mechanism. Log messages should be in a regular, consistent format.
+
+All software you write _will_ be tested—if not by you and your team, then by the eventual users.
+
+You really only have a few choices:
+- Test First 
+- Test During 
+- Test Never
+Test First, including Test-Driven Design, is probably your best choice in most circumstances, as it ensures that testing happens. But sometimes that’s not as convenient or useful, so Test During coding can be a good fallback, where you write some code, fiddle with it, write the tests for it, then move on to the next bit. The worst choice is often called "Test Later," but who are you kidding? "Test Later" really means "Test Never."
+
+Treat test code with the same care as any production code. Keep it decoupled, clean, and robust. Don’t rely on unreliable things.
+
+Make no mistake, testing is part of programming. It’s not something left to other departments or staff. Testing, design, coding—it’s all programming.
+
+### Topic 42 Property-Based Testing
+
+> Доверяй, но проверяй (Trust, but verify)
+> — Russian proverb
+ 
+If you write the original code and you write the tests, is it possible that an incorrect assumption could be expressed in both? The code passes the tests, because it does what it is supposed to based on your understanding.
+
+Code _invariants_, things that remain true about some piece of state when it’s passed through a function.
+
+Use Property-Based Tests to Validate Your Assumptions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
