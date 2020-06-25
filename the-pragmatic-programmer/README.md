@@ -765,17 +765,41 @@ Code _invariants_, things that remain true about some piece of state when it’s
 
 Use Property-Based Tests to Validate Your Assumptions.
 
+When a property-based test fails, find out what parameters it was passing to the test function, and then use those values to create a separate, regular, unit test. That unit test does two things for you. First, it lets you focus in on the problem without all the additional calls being made into your code by the property-based testing framework. Second, that unit test acts as a _regression test_. Because property-based tests generate random values that get passed to your test, there’s no guarantee that the same values will be used the next time you run tests. Having a unit test that forces those values to be used ensures that this bug won’t slip through.
 
+### Topic 43 Stay Safe Out There
 
+> Good fences make good neighbors.
+> — Robert Frost, Mending Wall
 
+Analyze the code for ways it can go wrong and add those to your test suite.
 
+You need to consider how an external actor could deliberately screw up the system.
 
+Security through obscurity just doesn’t work.
 
+Pragmatic Programmers have a healthy amount of paranoia. We know we have faults and limitations, and that external attackers will seize on _any_ opening we leave to compromise our systems.
 
+Minimize Attack Surface Area... ...is the sum of all access points where an attacker can enter data, extract data, or invoke execution of a service.
 
+Less code means fewer bugs, fewer opportunities for a crippling security hole. Simpler, tighter, less complex code is easier to reason about, easier to spot potential weaknesses.
 
+Never trust data from an external entity, always sanitize it before passing it on to a database, view rendering, or other processing.
 
+Keep the number of authorized users at an absolute minimum. Cull unused, old, or outdated users and services.
 
+Don’t give away information. Make sure that the data you report is appropriate for the authorization of that user.
+
+> Every program and every privileged user of the system should operate using the least amount of privilege necessary to complete the job.
+> — Jerome Saltzer, Communications of the ACM, 1974.
+
+The default settings on your app, or for your users on your site, should be the _most_ secure values.
+
+Don’t check in secrets, API keys, SSH keys, encryption passwords or other credentials alongside your source code in version control.
+
+Apply Security Patches Quickly.
+
+Rely only on reliable things: well- vetted, thoroughly examined, well-maintained, frequently updated, preferably open source libraries and frameworks.
 
 
 
