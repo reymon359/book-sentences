@@ -801,6 +801,37 @@ Apply Security Patches Quickly.
 
 Rely only on reliable things: well- vetted, thoroughly examined, well-maintained, frequently updated, preferably open source libraries and frameworks.
 
+### Topic 44 Naming Things
+
+> The beginning of wisdom is to call things by their proper name.
+> — Confucius
+
+What’s in a name? When we’re programming, the answer is “everything!”... ...we’re constantly creating new things and bestowing names on them. And those names are very, very important, because they reveal a lot about your intent and belief.
+
+Your brain treats written words as something to be respected. We need to make sure the names we use live up to this.
+
+When naming things, you’re constantly looking for ways of clarifying what you mean, and that act of clarification will lead you to a better understanding of your code as _you write it_.
+
+Honor the local culture... ...Get a sense of what the community expects.
+
+Encourage a lot of communication. If everyone pair programs, and pairs switch frequently, then jargon will spread osmotically.
+
+No matter how much effort you put in up front, things change.
+
+If you aren’t vigilant about updating names as you go, you can quickly descend into a nightmare much worse than meaningless names: _misleading_ names.
+ 
+When you spot a problem, fix it—right here and now. When you see a name that no longer expresses the intent, or is misleading or confusing, fix it.  
+ 
+If for some reason you can’t change the now-wrong name, then you’ve got a bigger problem: an ETC violation. Fix that first, then change the offending name. Make renaming easy, and do it often. Otherwise you’ll have to explain to the new folks on the team that `getData` really writes data to a file, and you’ll have to do it with a straight face.
+
+## Chapter 8 Before the Project
+
+### Topic 45 The Requirements Pit
+
+> Perfection is achieved, not when there is nothing left to add but when there is nothing left to take away...
+> — Antoine de St. Exupery, Wind, Sand, and Stars, 1939
+ 
+No One Knows Exactly What They Want.
 
 
 
