@@ -833,7 +833,47 @@ If for some reason you can’t change the now-wrong name, then you’ve got a bi
  
 No One Knows Exactly What They Want.
 
+The real world is messy, conflicted, and unknown. In that world, exact specifications of anything are rare, if not downright impossible.
 
+Our job is to help people understand what they want. In fact, that’s probably our most valuable attribute.
+
+Your role in this is to interpret what the client says and to feed back to them the implications. This is both an intellectual process and a creative one.
+
+Requirements Are Learned in a Feedback Loop.
+
+Sometimes you honestly won’t know enough about the domain to be as specific as that. In those cases, Pragmatic Programmers rely on the "is this what you meant?" school of feedback. We produce mockups and prototypes, and let the client play with them.
+
+The Pragmatic Programmer looks at _all_ of the project as a requirements gathering exercise. That’s why we prefer short iterations; ones that end with direct client feedback. This keeps us on track, and makes sure that if we _do_ go in the wrong direction, the amount of time lost is minimized.
+
+For getting inside your clients’ heads... ...become a client... ...As well as giving you insight into how the system will _really_ be used... ...helps build trust and establishes a basis for communication with your clients.
+
+Policy Is Metadata.
+
+Implement the general case, with the policy information as an example of the type of thing the system needs to support.
+
+Successful tools adapt to the hands that use them. Successful requirements gathering takes this into account. And this is why early feedback, with prototypes or tracer bullets, will let your clients say "yes, it does _what_ I want, but not _how_ I want."
+
+The client doesn’t really know what they want up front. So when we take what they say and expand it into what is almost a legal document, we are building an incredibly complex castle on quicksand... ...And... ...the client never reads them.
+
+Giving them a large technical document is like giving the average developer a copy of the _Iliad_ in Homeric Greek and asking them to code the video game from it.
+
+By keeping this statement of requirements short, you’re encouraging developers to ask clarifying questions. You’re enhancing the feedback process between clients and coders before and during the creation of each piece of code.
+
+Another big danger in producing a requirements document is being too specific. Good requirements are abstract.
+
+Requirements are not architecture. Requirements are not design, nor are they the user interface. Requirements are _need_.
+
+Create and maintain a _project glossary_—one place that defines all the specific terms and vocabulary used in a project.
+
+It’s hard to succeed on a project if users and developers call the same thing by different names or, even worse, refer to different things by the same name.
+
+### Topic 46 Solving Impossible Puzzles
+
+Identify the real (not imagined) constraints, and find a solution therein. Some constraints are _absolute_; others are merely _preconceived notions_. Absolute constraints _must_ be honored, however distasteful or stupid they may appear to be... ...some apparent constraints may not be real constraints at all.
+
+The key to solving puzzles is both to recognize the constraints placed on you and to recognize the degrees of freedom you _do_ have, for in those you’ll find your solution.
+
+It’s not whether you think inside the box or outside the box. The problem lies in _finding_ the box—identifying the real constraints.
 
 
 
