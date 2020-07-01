@@ -875,6 +875,19 @@ The key to solving puzzles is both to recognize the constraints placed on you an
 
 It’s not whether you think inside the box or outside the box. The problem lies in _finding_ the box—identifying the real constraints.
 
+Categorize and prioritize your constraints... ...identify the most restrictive constraints first, and fit the remaining constraints within them.
+
+> To put it plainly—people who were distracted did better on a complex problem-solving task than people who put in conscious effort.
+> — [_Psychology Today_](https://www.psychologytoday.com/us/blog/your-brain-work/201209/stop-trying-solve-problems)
+
+Ask you questions such as:
+- Why are you solving this problem?
+- What’s the benefit of solving it?
+- Are the problems you’re having related to edge cases? Can you eliminate them?
+- Is there a simpler, related problem you can solve?
+
+### Topic 47 Working Together
+
 
 
 
