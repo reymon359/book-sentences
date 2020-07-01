@@ -888,7 +888,7 @@ Ask you questions such as:
 
 ### Topic 47 Working Together
 
-
+Working closely with users; they are part of your team... ..._pair programming or mob programming:_... ...It’s a powerful way of working together that transcends endless meetings, memos, and overstuffed legalistic documentation prized for weight over usefulness.
 
 
 
