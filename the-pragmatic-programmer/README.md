@@ -890,6 +890,28 @@ Ask you questions such as:
 
 Working closely with users; they are part of your team... ..._pair programming or mob programming:_... ...It’s a powerful way of working together that transcends endless meetings, memos, and overstuffed legalistic documentation prized for weight over usefulness.
 
+> Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.
+> — 1967, Melvin Conway
+
+The social structures and communication pathways of the team and the organization will be mirrored in the application, website, or product being developed.
+
+Development teams that include users will produce software that clearly reflects that involvement, and teams that don’t bother will reflect that, too.
+
+_Pair programming_ is one of the practices of eXtreme Programming that has become popular outside of XP itself... ...There are many benefits to pair programming. Different people bring different backgrounds and experience, different problem- solving techniques and approaches, and differing levels of focus and attention to any given problem.
+
+_Mob programming_,... ...It’s an extension of pair programming that involves more than just two developers.
+
+Here are just a few tips to get started:
+- Build the code, not your ego. It’s not about who’s brightest; we all have our moments, good and bad.
+- Start small. Mob with only 4-5 people, or start with just a few pairs, in short sessions.
+- Criticize the code, not the person. “Let’s look at this block” sounds much better than “you’re wrong.”
+- Listen and try to understand others’ viewpoints. Different isn’t wrong.
+- Conduct frequent retrospectives to try and improve for next time.
+
+### Topic 48 The Essence of Agility
+
+
+
 
 
 
