@@ -910,6 +910,65 @@ Here are just a few tips to get started:
 
 ### Topic 48 The Essence of Agility
 
+_Agile_ is an adjective: it’s how you do something... ...Agility is your style, not you.
+
+The [Manifesto for Agile Software Development](https://agilemanifesto.org/): 
+We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
+- **Individuals and interactions** over processes and tools
+- **Working software** over comprehensive documentation
+- **Customer collaboration** over contract negotiation
+- **Responding to change** over following a plan
+That is, while there is value in the items on the right, we value the items on the left more.
+
+Agility... ...is all about responding to change, responding to the unknowns you encounter after you set out.
+
+The values don’t tell you what to do. They tell you what to look for when you decide for yourself what to do.
+
+Working in an agile way:
+1. Work out where you are.
+2. Make the smallest meaningful step towards where you want to be.
+3. Evaluate where you end up, and fix anything you broke.
+Repeat these steps until you’re done. And use them recursively, at every level of everything you do.
+
+Teams should... ....review their process and how well it worked. A team that doesn’t continuously experiment with their process is not an agile team.
+
+To make this whole agile thing work, we need to practice good design, because good design makes things easy to change. And if it’s easy to change, we can adjust, at every level, without any hesitation.
+That is agility.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
