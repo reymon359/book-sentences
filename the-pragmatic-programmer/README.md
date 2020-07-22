@@ -182,9 +182,9 @@ The first question you have to ask yourself when someone asks you for an estimat
 | Duration      | Quote estimate in                    |
 | ------------- |:------------------------------------:|
 | 1–15 days     | Days                                 |
-| 3–6	weeks     | Weeks                                |
+| 3–6	weeks   | Weeks                                |
 | 8–20	weeks   | Months                               |
-| 20+	weeks     | Think hard before giving an estimate |  	
+| 20+	weeks   | Think hard before giving an estimate |  	
 
 Choose the units of your answer to reflect the accuracy you intend to convey.
 
@@ -935,9 +935,21 @@ Teams should... ....review their process and how well it worked. A team that doe
 To make this whole agile thing work, we need to practice good design, because good design makes things easy to change. And if it’s easy to change, we can adjust, at every level, without any hesitation.
 That is agility.
 
+## Chapter 9 Pragmatic Projects
 
+As soon as you have more than one person working on a project, you need to establish some ground rules and delegate parts of the project accordingly.
 
+### Topic 49 Pragmatic Teams
 
+Programmers are a bit like cats: intelligent, strong willed, opinionated, independent, and often worshiped by the net.
+
+A pragmatic team is small, under 10-12 or so members. Members come and go rarely. Everyone knows everyone well, trusts each other, and depends on each other.
+
+As team size grows, communication paths grow at the rate of _O(n^2)_, where _n_ is the number of team members. On larger teams, communication begins to break down and becomes ineffective.
+
+Quality can come only from the individual contributions of all team members. Quality is built in, not bolted on.
+
+Stay awake and aware for increased scope, decreased time scales, additional features, new environments—anything that wasn’t in the original understanding.
 
 
 
