@@ -951,6 +951,37 @@ Quality can come only from the individual contributions of all team members. Qua
 
 Stay awake and aware for increased scope, decreased time scales, additional features, new environments—anything that wasn’t in the original understanding.
 
+Trying to get things done "whenever there’s a free moment" means _they will never happen_.
+
+Continuous improvement can only happen when you take the time to look around, figure out what’s working and not, and then make changes.
+
+Schedule It to Make It Happen.
+
+Great project teams have a distinct personality. People look forward to meetings with them, because they know that they’ll see a well-prepared performance that makes everyone feel good. The documentation they produce is crisp, accurate, and consistent. The team speaks with one voice.
+
+Good developers tend to be passionate about their work.
+
+Good communication is key to avoiding these problems. And by “good” we mean _instant_ and _frictionless_... ...Frictionless means it’s easy and low-ceremony to ask questions, share your progress, your problems, your insights and learnings, and to stay aware of what your teammates are doing.
+
+With a tracer bullet approach, you can implement very small bits of functionality very quickly, and get immediate feedback on how well your team communicates and delivers. That creates an environment where you can make changes and tune your team and process quickly and easily.
+
+Build teams so you can build code end-to-end, incrementally and iteratively.
+
+Automation is an essential component of every project team. Make sure the team has skills at _tool building_ to construct and deploy the tools that automate the project development and production deployment.
+
+### Topic 50 Coconuts Don’t Cut It
+
+Do What Works, Not What’s Fashionable.
+
+How do you know “what works”?... ...Try it... ...Keep the good bits that seem to work well, and discard anything else as waste or overhead.
+
+The purpose of a software development methodology is to help people work together.
+
+You want to take the best pieces from any particular methodology and adapt them for use. No one size fits all, and current methods are far from complete, so you’ll need to look at more than just one popular method.
+
+The goal... ...isn’t to “do Scrum,” “do agile,” “do Lean,”... ...The goal is to be in a position to deliver working software that gives the users some new capability _at a moment’s notice_.
+
+Overly investing in any particular methodology can leave you blind to alternatives. You get used to it... ...and now you can’t adapt quickly anymore.
 
 
 
