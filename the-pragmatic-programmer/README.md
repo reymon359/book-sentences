@@ -983,6 +983,12 @@ The goal... ...isn’t to “do Scrum,” “do agile,” “do Lean,”... ...T
 
 Overly investing in any particular methodology can leave you blind to alternatives. You get used to it... ...and now you can’t adapt quickly anymore.
 
+### Topic 51 Pragmatic Starter Kit
+
+> Civilization advances by extending the number of important operations we can perform without thinking.
+> — Alfred North Whitehead
+
+
 
 
 
