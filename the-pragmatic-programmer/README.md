@@ -988,9 +988,45 @@ Overly investing in any particular methodology can leave you blind to alternativ
 > Civilization advances by extending the number of important operations we can perform without thinking.
 > — Alfred North Whitehead
 
+The most basic, most important elements that every team needs regardless of methodology, language, or technology stack... ...
+- Version Control 
+- Regression Testing 
+- Full Automation
+These are the three legs that support every project.
 
+At the project level, version control _drives_ the build and release process. That is, build, test, and deployment are triggered via commits or pushes to version control.
 
+Pragmatic Programmers are... ..._driven_ to find our bugs _now_, so we don’t have to endure the shame of others finding our bugs later.
 
+A good project may well have more test code than production code. The time it takes... ...It ends up being much cheaper in the long run, and you actually stand a chance of producing a product with close to zero defects.
+
+Knowing that you’ve passed the test gives you a high degree of confidence that a piece of code is "done."
+
+“test for real," in other words, the test environment should match the production environment closely. Any gaps are where bugs breed.
+
+Major types of software testing: unit testing; integration testing; validation and verification; and performance testing.
+
+**Unit Testing** A _unit test_ is code that exercises a module.
+
+**Integration Testing** _Integration testing_ shows that the major subsystems that make up the project work and play well with each other.
+
+**Validation and Verification** As soon as you have an executable user interface or prototype, you need to answer... ...Does it meet the functional requirements of the system? This, too, needs to be tested.
+
+**Performance Testing** Performance or stress testing may be important aspects of the project as well. Ask yourself if the software meets the performance requirements under real-world conditions... ...is it scalable?
+
+**Tesing the Tests** Because we can’t write perfect software, it follows that we can’t write perfect test software either.
+
+After you have written a test to detect a particular bug, cause the bug deliberately and make sure the test complains. This ensures that the test will catch the bug if it happens for real.
+
+Don’t expect to see 100% coverage.
+
+We just don’t have the time to go chasing after bugs that the automated tests could have found for us. We have to spend our time writing new code—and new bugs.
+
+Modern development relies on scripted, automatic procedures.
+
+People just aren’t as repeatable as computers are. Nor should we expect them to be.
+
+Everything depends on automation... ...And once you introduce manual steps (“just for this one part...”) you’ve broken a very large window... ...Always remember _Software Entropy_. Always.
 
 
 
