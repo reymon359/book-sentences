@@ -1028,9 +1028,18 @@ People just aren’t as repeatable as computers are. Nor should we expect them t
 
 Everything depends on automation... ...And once you introduce manual steps (“just for this one part...”) you’ve broken a very large window... ...Always remember _Software Entropy_. Always.
 
+### Topic 52 Delight Your Users
+
+> When you enchant people, your goal is not to make money from them or to get them to do what you want, but to fill them with great delight.
+> — Guy Kawasaki
+
+Our goal as developers is to _delight users_. That’s why we’re here. 
 
 
+How do you unearth their expectations, then? Ask a simple question: 
+> How will you know that we’ve all been successful a month (or a year, or whatever) after this project is done?
 
+It’s these expectations of business value that really count—not just the software project itself. The software is only a means to these ends.
 
 
 
