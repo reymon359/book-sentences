@@ -9,7 +9,7 @@
 
 ## Description
 
-This is a collection of my favorite sentences from the books I read. These are not to be taken as summaries from the books, just some random sentences from here and there. 
+This project is a collection of my favorite sentences from the books I read. These are not to be taken as summaries from the books, just some random sentences from here and there. 
 
 It all started some years ago with a Google Keep note and when I reached the characters limit I moved to a Google Doc. Then, while reading the Pragmatic Programmer I wanted to share them with other people and created this project.
 
@@ -44,5 +44,3 @@ I didn't want to underline the sentences because I wanted the marks to interfere
 **Then why you added the Spanish translations?**
 
 There are [a ton of researches and articles](https://www.google.com/search?q=Writing+by+hand+to+retain+information&oq=Writing+by+hand+to+retain+information) that show that writing by hand improves your memory and helps to retain information. I believe I will remember the translations more effectively by doing so.
-                                                            
- 
