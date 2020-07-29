@@ -13,6 +13,7 @@ Here is the list of the books I picked up sentences from
 ## More information
 
 **What are those `... ...` ??**
+
 While reading the Pragmatic Programmer I realized that sometimes some words or part of the sentence were not relevant to me, so I skipped that part to continue after.
 
 I implemented my own guidelines while reading it and added some indications at the beginning in case someone else picks up the book in the future, to understand what are those marks throughout it.
