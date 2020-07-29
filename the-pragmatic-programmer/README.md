@@ -710,6 +710,7 @@ Big-O is never going to give you actual numbers for time or memory or whatever: 
 - _O(C^n)_ Exponential (traveling salesman problem, set partitioning)
 
 Figure 3 - Runtimes of various algorithms
+
 ![Algorithms runtimes](./algorithms_runtimes.png)
 
 _Simple loops_
