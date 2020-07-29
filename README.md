@@ -1,10 +1,19 @@
-# Book Sentences
+<h1 align="center">
+        📖 <br>
+      Book Sentences
+</h1>
+
+<p align="center">
+      <b>A collection of sentences from different books.</b>
+</p> 
+
+## Description
 
 This is a collection of my favorite sentences from the books I read. These are not to be taken as summaries from the books, just some random sentences from here and there. 
 
-It all started some years ago with a Google Keep note and when I reached the characters limit I moved to a Google Doc. Then, while reading the Pragmatic Programmer I wanted to share this with other people and created this project.
+It all started some years ago with a Google Keep note and when I reached the characters limit I moved to a Google Doc. Then, while reading the Pragmatic Programmer I wanted to share them with other people and created this project.
 
-## Books
+## List of Books
 
 Here is the list of the books I picked up sentences from
 
@@ -18,11 +27,15 @@ While reading the Pragmatic Programmer I realized that sometimes some words or p
 
 I implemented my own guidelines while reading it and added some indications at the beginning in case someone else picks up the book in the future, to understand what are those marks throughout it.
 
-![Guidelines](./assets/guidelines.jpg)
+<p align="center">
+    <img  height="200"  alt="Guidelines" src="./assets/guidelines.jpg" />
+</p>
 
 Here is an example of a random page.
 
-![Guidelines example](./assets/guidelines_example.jpg)
+<p align="center">
+    <img  width="500"  alt="Guidelines Example" src="./assets/guidelines_example.jpg" />
+</p>
 
 **Why not underline them?**
 
