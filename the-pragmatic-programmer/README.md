@@ -1041,11 +1041,21 @@ How do you unearth their expectations, then? Ask a simple question:
 
 It’s these expectations of business value that really count—not just the software project itself. The software is only a means to these ends.
 
+Start thinking about how you can deliver against them:
+- Make sure everyone on the team is totally clear about these expectations.
+- When making decisions, think about which path forward moves closer to those expectations.
+- Critically analyze the user requirements in light of the expectations... ....
+- Continue to think about these expectations as you progress through the project.
 
+If you want to delight your client, forge a relationship with them where you can actively help solve their problems. Even though your title might be some variation of “Software Developer” or “Software Engineer,” in truth it should be “Problem Solver.” That’s what we do, and that’s the essence of a Pragmatic Programmer. We solve problems.
 
+### Topic 53 Pride and Prejudice
 
+We rejoice in accepting challenges and in making our expertise well known.
 
+Treat other people’s code with respect... ...a foundation of mutual respect among the developers is critical to make this tip work.
 
+People should see your name on a piece of code and expect it to be solid, well written, tested, and documented. A really professional job. Written by a professional.
 
 
 
