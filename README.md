@@ -12,6 +12,6 @@ Here is the list of the books I picked up sentences from
 
 ## What are those ... ... ??
 
-While reading the Pragmatic Programmer I realized that sometimes some words or part of the sentence was not relevant to me, so I skipped that part to continue later.
+While reading the Pragmatic Programmer I realized that sometimes some words or part of the sentence were not relevant to me, so I skipped that part to continue after.
 
  
