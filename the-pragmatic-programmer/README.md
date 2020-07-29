@@ -1,6 +1,9 @@
 # The Pragmatic Programmer. Your Journey to Mastery, 20th Anniversary Edition 
 Andy Hunt and Dave Thomas - 2019
 
+TODO: table of contents
+
+
 ## Foreword
 
 Programming is about trying to make the future less painful. It's about making things easier for our teammates. It's about getting things wrong and being able to bounce back. It's about forming good habits. It's about understanding your toolset. 
@@ -1057,7 +1060,25 @@ Treat other people’s code with respect... ...a foundation of mutual respect am
 
 People should see your name on a piece of code and expect it to be solid, well written, tested, and documented. A really professional job. Written by a professional.
 
+## Chapter 10 Postface
 
+> In the long run, we shape our lives, and we shape ourselves. The process never ends until we die. And the choices we make are ultimately our own responsibility.
+> — Eleanor Roosevelt
+
+We can create pretty much anything we can imagine. And the things we create can change the world.
+
+We developers are incredibly privileged. We are truly building the future. It’s an extraordinary amount of power. And with that power comes an extraordinary responsibility.
+
+We have a duty to ask ourselves two questions about every piece of code we deliver:
+1. Have I protected the user? 
+2. Would I use this myself?
+
+Envision the future we _could_ have, and have the courage to create it. Build castles in the air every day.
+
+It’s Your Life. Share it. Celebrate it. Build it. AND HAVE FUN!
+
+     
+ 
 
 
 
