@@ -24,7 +24,7 @@ Here is an example of a random page.
 
 **Why not underline them?**
 
-I didn't want to underline the sentences because I wanted the marks to be the least distracting and as possible and to interfere the least in the text.
+I didn't want to underline the sentences because I wanted the marks to interfere and distract the least in the text.
       
 **Then why you added the Spanish translations?**
 
