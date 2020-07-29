@@ -30,6 +30,6 @@ I didn't want to underline the sentences because I wanted the marks to interfere
       
 **Then why you added the Spanish translations?**
 
-There are [a ton of researches and articles](https://www.google.com/search?q=Writing+by+hand+to+retain+information&oq=Writing+by+hand+to+retain+information) that show that writing by hand improves your memory and helps to retain information. Thus, I believe I will remember the translations more effectively.
+There are [a ton of researches and articles](https://www.google.com/search?q=Writing+by+hand+to+retain+information&oq=Writing+by+hand+to+retain+information) that show that writing by hand improves your memory and helps to retain information. I believe I will remember the translations more effectively by doing so.
                                                             
  
