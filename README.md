@@ -17,7 +17,9 @@ It all started some years ago with a Google Keep note and when I reached the cha
 
 Here is the list of the books I picked up sentences from
 
-- [2020 - The Pragmatic Programmer](./the-pragmatic-programmer)
+| Year I read it | Name | Author/s | Publication Year |
+|----------------|------|----------|------------------|
+| 2020|[The Pragmatic Programmer](./the-pragmatic-programmer)|Andy Hunt and Dave Thomas | 2019|
 
 ## More information
 
