@@ -2,9 +2,11 @@
 
 ## Carlos Ruiz Zafón - 2001
 
-**_I read this book in Spanish, so the original phrases are written in Spanish. I translated them into English as best I could._**
+**_I read this book in Spanish, so the original phrases are written in Spanish. For those that do not understand Spanish, I have added the original English translation of each below_**
 
-Un secreto vale lo que aquellos de quienes tenemos que guardarlo. 
+Spanish: Un secreto vale lo que aquellos de quienes tenemos que guardarlo. 
+
+English: A secret's worth depends on the people from whom it must be kept.
 
 Una de las trampas de la infancia es que no hace falta comprender para sentirlo.para cuando la razón es capaz de entender lo sucedido, las heridas en el corazón ya son demasiado profundas
  
