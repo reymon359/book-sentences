@@ -19,7 +19,8 @@ Here is the list of the books I picked up sentences from
 
 | Year I read it | Name | Author/s | Publication Year |
 |----------------|------|----------|------------------|
-| 2020|[The Pragmatic Programmer](./the-pragmatic-programmer)|Andy Hunt and Dave Thomas | 2019|
+| 2020 |[The Pragmatic Programmer](./the-pragmatic-programmer)|Andy Hunt and Dave Thomas | 2019|
+| 2016 |[The Shadow of the Wind](./the-shadow-of-the-wind)| Carlos Ruiz Zafón | 2001|
 
 ## More information
 
