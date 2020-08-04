@@ -1,3 +1,7 @@
+<p align="center">
+    <img alt="the-shadow-of-the-wind" src="./the-shadow-of-the-wind.png" width="100" />
+</p>
+
 # The Shadow of the Wind. 
 
 ## Carlos Ruiz Zafón - 2001
