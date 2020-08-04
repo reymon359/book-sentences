@@ -1,5 +1,8 @@
-# The Pragmatic Programmer. Your Journey to Mastery, 20th Anniversary Edition 
-## Andy Hunt and Dave Thomas - 2019
+<p align="center"><img alt="the-pragmatic-programmer" src="./the-pragmatic-programmer.png" width="250" /></p> 
+
+<h1 align="center">The Pragmatic Programmer. Your Journey to Mastery, 20th Anniversary Edition </h1>
+
+<h3 align="center">Andy Hunt and Dave Thomas - 2019</h3> 
 
 # Table of contents
 

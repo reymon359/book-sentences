@@ -17,9 +17,10 @@ It all started some years ago with a Google Keep note and when I reached the cha
 
 Here is the list of the books I picked up sentences from
 
-| Year I read it | Name | Author/s | Publication Year |
-|----------------|------|----------|------------------|
-| 2020|[The Pragmatic Programmer](./the-pragmatic-programmer)|Andy Hunt and Dave Thomas | 2019|
+| Year I read it | Cover | Name | Author/s | Publication Year |
+|----------------|-------|------|----------|------------------|
+| 2020 | <img width="100"  src="./the-pragmatic-programmer/the-pragmatic-programmer.png" />|[The Pragmatic Programmer](./the-pragmatic-programmer)|Andy Hunt and Dave Thomas | 2019|
+| 2016 |<img width="100"  src="./the-shadow-of-the-wind/the-shadow-of-the-wind.png" /> | [The Shadow of the Wind](./the-shadow-of-the-wind)| Carlos Ruiz Zafón | 2001|
 
 ## More information
 
