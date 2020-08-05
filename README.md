@@ -20,8 +20,8 @@ Here is the list of the books I picked up sentences from
 | Year I read it | Cover | Name | Author/s | Publication Year |
 |----------------|-------|------|----------|------------------|
 | 2020 | <img width="100"  src="./the-pragmatic-programmer/the-pragmatic-programmer.png" />|[The Pragmatic Programmer](./the-pragmatic-programmer)|Andy Hunt and Dave Thomas | 2019|
+| 2017 |<img width="100"  src="./the-angels-game/the-angels-game.png" /> | [The Angel's Game](./the-angels-game)| Carlos Ruiz Zafón | 2008|
 | 2016 |<img width="100"  src="./the-shadow-of-the-wind/the-shadow-of-the-wind.png" /> | [The Shadow of the Wind](./the-shadow-of-the-wind)| Carlos Ruiz Zafón | 2001|
-
 ## More information
 
 **What are those `... ...` ??**
