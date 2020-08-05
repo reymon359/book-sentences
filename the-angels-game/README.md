@@ -2,70 +2,67 @@
 
 <h1 align="center">The Angel's Game.</h1>
 
-<h3 align="center">Carlos Ruiz Zafón - 2001</h3> 
+<h3 align="center">Carlos Ruiz Zafón - 2008</h3> 
 
-**_I read this book in Spanish, so the original phrases are written in Spanish. I have added the original English translation of each below_**
+**_I read this book in Spanish, so the original phrases are written in Spanish. I have added the original English translation of each below._**
 
-Spanish: Un secreto vale lo que aquellos de quienes tenemos que guardarlo. 
 
-English: A secret's worth depends on the people from whom it must be kept.
+Spanish: Uno acaba convirtiéndose en aquello que ve en los ojos de quienes desea.
 
-Spanish: Una de las trampas de la infancia es que no hace falta comprender para sentirlo.para cuando la razón es capaz de entender lo sucedido, las heridas en el corazón ya son demasiado profundas.
+English: You end up becoming what you see in the eyes of those you love.
 
-English: One of the pitfalls of childhood is that one doesn't have to understand something to feel it. By the time the mind is able to comprehend what has happened, the wounds of the heart are already too deep. 
- 
-Spanish: Este mundo no se morirá de una bomba atómica como dicen los diarios, se morirá de risa, de banalidad, haciendo un chiste de todo, y además un chiste malo.
+Spanish: Incluso las peores noticias son un alivio cuando no pasan de ser una confirmación de algo que uno ya sabía sin querer saberlo.
 
-English: Our world will not die as a result of the bomb, as the papers say - it will die of laughter, of banality, of making a joke of everything, and a lousy joke at that.
+English: Even the worst news is a relief when all it does is confirm what you already knew without wanting to know.
 
-Spanish:
-> El momento que te paras a pensar si quieres a alguien, ya has dejado de quererle para siempre.
-> — Julian Carax
+Spanish: Todo el dinero es sucio. Si estuviese limpio nadie lo querría.
 
-English:
-> The moment you stop to think about whether you love someone, you've already stopped loving that person forever.
-> — Julian Carax
+English: All money is dirty. If it were clean nobody would want it.
 
-Spanish: Quien quiere de verdad quiere en silencio, con hechos y nunca con palabras.
+Spanish: Por norma general, cuanto más talento se tiene, más duda uno de tenerlo. Y a la inversa.
 
-English: Those who really love, love in silence, with deeds and not with words
+English: Normally, the more talent one has, the more one doubts it. And vice versa.
 
-Spanish:
-> Hablar es de necios; callar es de cobardes; escuchar es de sabios.
-> — Braulio Recolons
+Spanish: Para llegar a cualquier cosa que te propongas hace falta primero la ambición y luego el talento, el conocimiento, y finalmente, la oportunidad.
 
-English:
-> Fools talk, cowards are silent, wise men listen.
-> — Braulio Recolons
+English: To achieve anything you must first have ambition and then talent, knowledge, and finally the opportunity.
 
-Spanish: Frente a un ataúd, todos vemos solo lo bueno o lo que queremos ver.
+Spanish: Un acuerdo de honor no se puede romper porque rompe a quien lo ha suscrito.
 
-English: When we stand in front of a coffin, we see only what is good, or what we want to see.
+English: A gentleman’s agreement cannot be broken because it breaks the person who has signed it.
 
-Spanish: No te fíes del que se fía de todos.
+Spanish: No hay nada en el camino de la vida que no sepamos ya antes de iniciarlo. No se aprende nada importante en la vida, simplemente se recuerda.
 
-English: Never trust he who trusts everyone.
+English: There is nothing in the path of life that we don’t already know before we started. Nothing important is learned, it is simply remembered.
 
-Spanish: No hay segundas oportunidades, excepto para el remordimiento.
+Spanish: Lo mejor de los corazones rotos es que solo pueden romperse de verdad una vez. Lo demás son rasguños.
 
-English: There are no second chances in life, except to feel remorse.
+English: The best thing about broken hearts is that they can only really break once. The rest is just scratches.
 
-Spanish: El tiempo pasa más aprisa cuanto más vacío está. Las vidas sin significado pasan de largo como trenes que no paran en tu estación.
+Spanish: La verdad emocional es la sinceridad dentro de la ficción. Hay que tener oficio. La verdad emocional no es una cualidad moral, es una técnica.
 
-English: Time goes faster the more hollow it is. Lives with no meaning go straight past you, like trains that don't stop at your station.
+English: Emotional truth is sincerity within fiction. One has to be skilled. Emotional truth is not a moral quality, it’s a technique.
 
-Spanish: 
-> El destino suele estar a la vuelta de la esquina. Como si fuese un chorizo, una furcia o un vendedor de lotería: sus tres encarnaciones más socorridas. Pero lo que no hace es visitas a domicilio. Hay que ir a por él.
-> — Fermín Romero de Torres
+Spanish: Nada es justo. A lo máximo que se puede aspirar es a que sea lógico. La justicia es una rara enfermedad en un mundo por lo demás sano como un roble.
 
-English: 
-> Destiny is usually just around the corner. Like a thief, a hooker, or a lottery vendor: its three most common personifications. But what destiny does not do is home visits. You have to go for it yourself.
-> — Fermín Romero de Torres
+English: Nothing is fair. The most one can hope is for things to be logical. Justice is a rare illness in a world that is otherwise a picture of health.
 
-Spanish: 
-> Las casualidades son las cicatrices del destino.
-> — Julian Carax
+Spanish: Al maestro lo hace el alumno, no a la inversa.
 
-English: 
-> Coincidences are the scars of fate.
-> — Julian Carax
+English: It’s the student who makes the teacher, not the other way round.
+
+Spanish: El tiempo lo cura todo, pensé, menos la verdad.
+
+English: Time cures all, I thought, except the truth.
+
+Spanish: Le interesa espantar la soledad y no perder el tiempo en comprender que en este perro mundo nada vale un céntimo si no tenemos a alguien con quien compartirlo.
+
+English: She’s interested in brushing aside loneliness and in not wasting time trying to understand that in this rotten world nothing is worth a single céntimo if there isn’t someone to share it with.
+
+Spanish: Escribiría la historia de aquel recuerdo que nunca fue, la memoria de una vida robada.
+
+English: I would write the tale of a memory that never was, the memory of a stolen life.
+
+Spanish: La culpa y el remordimiento no tienen significado. Son sentimientos, emociones, no ideas.
+
+English: Guilt and remorse have no meaning. They are feelings, emotions, not ideas.
