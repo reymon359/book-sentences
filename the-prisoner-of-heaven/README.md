@@ -6,63 +6,58 @@
 
 **_I read this book in Spanish, so the original phrases are written in Spanish. I have added the original English translation of each below._**
 
+Spanish: Todo es falso en este mundo, joven. Todo menos el dinero
 
-Spanish: Uno acaba convirtiéndose en aquello que ve en los ojos de quienes desea.
+English: In this world, everything is a fake, young man. Everything except money.
 
-English: You end up becoming what you see in the eyes of those you love.
+Spanish: En el fondo nunca hemos sido el de antes, sólo recordamos lo que nunca sucedió.
 
-Spanish: Incluso las peores noticias son un alivio cuando no pasan de ser una confirmación de algo que uno ya sabía sin querer saberlo.
+English: Deep down we’ve never been who we think we once were, and we only remember what never happened 
 
-English: Even the worst news is a relief when all it does is confirm what you already knew without wanting to know.
+Spanish: Su salud no le permitía grandes alardes y que más que nada comía por los ojos, como si al pedir tapas y platillos que no podía apenas probar recordarse otros tiempos de mayor saque. El paladar no saborea, simplemente recuerda.
 
-Spanish: Todo el dinero es sucio. Si estuviese limpio nadie lo querría.
+English: He seemed to be eating more with his eyes, as if when he asked for tapas, which he barely sampled, he was recalling days of healthier appetites. Sometimes the palate does not savour so much as try to remember. 
 
-English: All money is dirty. If it were clean nobody would want it.
+Spanish: 
+> En el fondo nadie es malo, sino que sólo tiene miedo.
+> — Fermín Romero de Torres
 
-Spanish: Por norma general, cuanto más talento se tiene, más duda uno de tenerlo. Y a la inversa.
+English: 
+> Deep down nobody is bad, only frightened.
+> — Fermín Romero de Torres
 
-English: Normally, the more talent one has, the more one doubts it. And vice versa.
+Spanish: En esta vida se perdona todo menos decir la verdad.
 
-Spanish: Para llegar a cualquier cosa que te propongas hace falta primero la ambición y luego el talento, el conocimiento, y finalmente, la oportunidad.
+English: Everything can be forgiven in this world, save telling the truth.
 
-English: To achieve anything you must first have ambition and then talent, knowledge, and finally the opportunity.
+Spanish: Loco es el que se tiene por cuerdo y cree que los necios no son de su condicion.
 
-Spanish: Un acuerdo de honor no se puede romper porque rompe a quien lo ha suscrito.
+English: A madman is one who considers himself sane and thinks that fools don’t belong in his rank.
 
-English: A gentleman’s agreement cannot be broken because it breaks the person who has signed it.
+Spanish: El futuro no se desea; se merece.
 
-Spanish: No hay nada en el camino de la vida que no sepamos ya antes de iniciarlo. No se aprende nada importante en la vida, simplemente se recuerda.
+English: One mustn’t dream of one’s future; one must earn it.
 
-English: There is nothing in the path of life that we don’t already know before we started. Nothing important is learned, it is simply remembered.
+Spanish: Hay épocas y lugares en los que no ser nadie es más honorable que ser alguien.
 
-Spanish: Lo mejor de los corazones rotos es que solo pueden romperse de verdad una vez. Lo demás son rasguños.
+English: There are times and places where not to be anyone is more honourable than to be someone.
 
-English: The best thing about broken hearts is that they can only really break once. The rest is just scratches.
+Spanish: Un hombre que podía mear de pie y sin ayuda era un hombre en condiciones de afrontar sus responsabilidades.
 
-Spanish: La verdad emocional es la sinceridad dentro de la ficción. Hay que tener oficio. La verdad emocional no es una cualidad moral, es una técnica.
+English: A man who could urinate standing up and without help was a man in a fit state to face his responsibilities. 
 
-English: Emotional truth is sincerity within fiction. One has to be skilled. Emotional truth is not a moral quality, it’s a technique.
+Spanish: El mejor modo de desarmar a la autoridad es dirigirse a ella antes de que la autoridad se dirija a uno.
 
-Spanish: Nada es justo. A lo máximo que se puede aspirar es a que sea lógico. La justicia es una rara enfermedad en un mundo por lo demás sano como un roble.
+English: The best way of disarming the authorities was to speak to them first before they addressed you.
 
-English: Nothing is fair. The most one can hope is for things to be logical. Justice is a rare illness in a world that is otherwise a picture of health.
+Spanish: Un buen mentiroso sabe que la mentira más efectiva es siempre una verdad a la que se le ha sustraído una pieza clave.
 
-Spanish: Al maestro lo hace el alumno, no a la inversa.
+English: A good liar knows that the most efficient lie is always a truth that has had a key piece removed from it.
 
-English: It’s the student who makes the teacher, not the other way round.
+Spanish: -Es la verdad -mentí de nuevo.
 
-Spanish: El tiempo lo cura todo, pensé, menos la verdad.
+English: ‘It’s the truth …’ I lied again.
 
-English: Time cures all, I thought, except the truth.
+Spanish: El destino no hace visitas a domicilio, hay que ir a por él.
 
-Spanish: Le interesa espantar la soledad y no perder el tiempo en comprender que en este perro mundo nada vale un céntimo si no tenemos a alguien con quien compartirlo.
-
-English: She’s interested in brushing aside loneliness and in not wasting time trying to understand that in this rotten world nothing is worth a single céntimo if there isn’t someone to share it with.
-
-Spanish: Escribiría la historia de aquel recuerdo que nunca fue, la memoria de una vida robada.
-
-English: I would write the tale of a memory that never was, the memory of a stolen life.
-
-Spanish: La culpa y el remordimiento no tienen significado. Son sentimientos, emociones, no ideas.
-
-English: Guilt and remorse have no meaning. They are feelings, emotions, not ideas.
+English: Destiny doesn’t do home visits, that you have to go for it yourself.
