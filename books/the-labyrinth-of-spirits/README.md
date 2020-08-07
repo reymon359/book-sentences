@@ -4,7 +4,7 @@
 
 <h3 align="center">Carlos Ruiz Zafón - 2016</h3> 
 
-**_I read this book in Spanish, so the original phrases are written in Spanish. I have added the original English translation of each below._**
+**_I read this book in Spanish, so the sentences are written in Spanish. I have added the original English translation of each below._**
 
 Spanish: Los recuerdos que uno entierra en el silencio son los que nunca dejan de perseguirle
 

@@ -4,7 +4,7 @@
 
 <h3 align="center">Carlos Ruiz Zafón - 2001</h3> 
 
-**_I read this book in Spanish, so the original phrases are written in Spanish. I have added the original English translation of each below_**
+**_I read this book in Spanish, so the sentences are written in Spanish. I have added the original English translation of each below._**
 
 Spanish: Un secreto vale lo que aquellos de quienes tenemos que guardarlo. 
 

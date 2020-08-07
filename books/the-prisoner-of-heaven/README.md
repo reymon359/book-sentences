@@ -4,7 +4,7 @@
 
 <h3 align="center">Carlos Ruiz Zafón - 2011</h3> 
 
-**_I read this book in Spanish, so the original phrases are written in Spanish. I have added the original English translation of each below._**
+**_I read this book in Spanish, so the sentences are written in Spanish. I have added the original English translation of each below._**
 
 Spanish: Todo es falso en este mundo, joven. Todo menos el dinero
 

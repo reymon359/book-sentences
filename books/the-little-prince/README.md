@@ -4,7 +4,7 @@
 
 <h3 align="center">Antoine de Saint-Exupéry - 1943</h3> 
 
-**_I read this book in Spanish, so the original phrases are written in Spanish. I have added the original English translation of each below._**
+**_I read this book in Spanish, so the sentences are written in Spanish. I have added the original English translation of each below._**
 
 Spanish: Cuando el misterio es demasiado emocionante, no es posible desobedecer.
 
