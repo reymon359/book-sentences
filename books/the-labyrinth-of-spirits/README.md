@@ -6,18 +6,6 @@
 
 **_I read this book in Spanish, so the original phrases are written in Spanish. I have added the original English translation of each below._**
 
-
-Spanish: 
-> En el fondo nadie es malo, sino que sólo tiene miedo.
-> — Fermín Romero de Torres
-
-English: 
-> Deep down nobody is bad, only frightened.
-> — Fermín Romero de Torres
-
-
-
-
 Spanish: Los recuerdos que uno entierra en el silencio son los que nunca dejan de perseguirle
 
 English: The memories we bury under mountains of silence are the ones that never stop haunting us.
