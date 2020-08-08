@@ -75,3 +75,7 @@ Where does intrinsic security come from? It doesn't come from what other people 
 It comes from within. It comes from accurate paradigms and correct principles deep in our own mind and heart. It comes from inside-out congruence, from living a life of integrity in which our daily habits reflect our deepest values.
 
 I believe that a life of integrity is the most fundamental source of personal worth. I do not agree with the popular success literature that says that self-esteem is primarily a matter of mind set, of attitude--that you can psych yourself into peace of mind.
+
+By the way here is a Guide with the 7 habits of highly effective people. 
+
+<p align="center"><img alt="the-7-habits-of-highly-effective-people-guide" src="./the-7-habits-of-highly-effective-people-guide.png" width="400" /></p> 
