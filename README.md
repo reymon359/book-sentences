@@ -20,6 +20,7 @@ Here is the list of the books I picked up sentences from
 | Year I read it | Cover | Name | Author/s | Publication Year |
 |----------------|-------|------|----------|------------------|
 | 2020 | <img width="100" src="./books/the-pragmatic-programmer/the-pragmatic-programmer.png" />|[The Pragmatic Programmer](./books/the-pragmatic-programmer)|Andy Hunt and Dave Thomas | 2019 |
+| 2019 |<img width="100" src="./books/the-7-habits-of-highly-effective-people/the-7-habits-of-highly-effective-people.png" /> | [The 7 habits of highly effective people](./books/the-7-habits-of-highly-effective-people)| Stephen R. Covey | 1989 |
 | 2018 |<img width="100" src="./books/the-little-prince/the-little-prince.png" /> | [The Little Prince](./books/the-little-prince)| Antoine de Saint-Exupéry | 1943 |
 | 2017 |<img width="100" src="./books/the-labyrinth-of-spirits/the-labyrinth-of-spirits.png" /> | [The Labyrinth of Spirits](./books/the-labyrinth-of-spirits)| Carlos Ruiz Zafón | 2016 |
 | 2017 |<img width="100" src="./books/the-prisoner-of-heaven/the-prisoner-of-heaven.png" /> | [The Prisoner of Heaven](./books/the-prisoner-of-heaven)| Carlos Ruiz Zafón | 2011 |
