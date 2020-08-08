@@ -11,15 +11,22 @@
 
 This project is a collection of my favorite sentences from the books I read. These are not to be taken as summaries from the books, just some random sentences from here and there. 
 
-It all started some years ago with a Google Keep note and when I reached the characters limit I moved to a Google Doc. Then, while reading the Pragmatic Programmer I wanted to share them with other people and created this project.
+It all started some years ago with a Google Keep note and when I reached the characters limit I moved to a Google Doc. Then, while reading the Pragmatic Programmer I thought this project could be a better way to keep them and share them.
 
 ## List of Books
 
 Here is the list of the books I picked up sentences from
 
-| Year I read it | Name | Author/s | Publication Year |
-|----------------|------|----------|------------------|
-| 2020|[The Pragmatic Programmer](./the-pragmatic-programmer)|Andy Hunt and Dave Thomas | 2019|
+| Year I read it | Cover | Name | Author/s | Publication Year |
+|----------------|-------|------|----------|------------------|
+| 2020 | <img width="100" src="./books/the-pragmatic-programmer/the-pragmatic-programmer.png" />|[The Pragmatic Programmer](./books/the-pragmatic-programmer)|Andy Hunt and Dave Thomas | 2019 |
+| 2020 |<img width="100" src="./books/the-7-habits-of-highly-effective-people-personal-workbook/the-7-habits-of-highly-effective-people-personal-workbook.png" /> | [The 7 habits of highly effective people Personal Workbook](./books/the-7-habits-of-highly-effective-people-personal-workbook)| Stephen R. Covey | 2003 |
+| 2019 |<img width="100" src="./books/the-7-habits-of-highly-effective-people/the-7-habits-of-highly-effective-people.png" /> | [The 7 habits of highly effective people](./books/the-7-habits-of-highly-effective-people)| Stephen R. Covey | 1989 |
+| 2018 |<img width="100" src="./books/the-little-prince/the-little-prince.png" /> | [The Little Prince](./books/the-little-prince)| Antoine de Saint-Exupéry | 1943 |
+| 2017 |<img width="100" src="./books/the-labyrinth-of-spirits/the-labyrinth-of-spirits.png" /> | [The Labyrinth of Spirits](./books/the-labyrinth-of-spirits)| Carlos Ruiz Zafón | 2016 |
+| 2017 |<img width="100" src="./books/the-prisoner-of-heaven/the-prisoner-of-heaven.png" /> | [The Prisoner of Heaven](./books/the-prisoner-of-heaven)| Carlos Ruiz Zafón | 2011 |
+| 2017 |<img width="100" src="./books/the-angels-game/the-angels-game.png" /> | [The Angel's Game](./books/the-angels-game)| Carlos Ruiz Zafón | 2008 |
+| 2016 |<img width="100" src="./books/the-shadow-of-the-wind/the-shadow-of-the-wind.png" /> | [The Shadow of the Wind](./books/the-shadow-of-the-wind)| Carlos Ruiz Zafón | 2001 |
 
 ## More information
 
