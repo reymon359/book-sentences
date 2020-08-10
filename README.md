@@ -19,6 +19,7 @@ Here is the list of the books I picked up sentences from
 
 | Year I read it | Cover | Name | Author/s | Publication Year |
 |----------------|-------|------|----------|------------------|
+| 2020 | <img width="100" src="./books/the-clean-coder/the-clean-coder.png" />|[The Clean Coder](./books/the-clean-coder)|Robert C. Martin | 2011 |
 | 2020 | <img width="100" src="./books/the-pragmatic-programmer/the-pragmatic-programmer.png" />|[The Pragmatic Programmer](./books/the-pragmatic-programmer)|Andy Hunt and Dave Thomas | 2019 |
 | 2020 |<img width="100" src="./books/the-7-habits-of-highly-effective-people-personal-workbook/the-7-habits-of-highly-effective-people-personal-workbook.png" /> | [The 7 habits of highly effective people Personal Workbook](./books/the-7-habits-of-highly-effective-people-personal-workbook)| Stephen R. Covey | 2003 |
 | 2019 |<img width="100" src="./books/the-7-habits-of-highly-effective-people/the-7-habits-of-highly-effective-people.png" /> | [The 7 habits of highly effective people](./books/the-7-habits-of-highly-effective-people)| Stephen R. Covey | 1989 |
