@@ -66,22 +66,28 @@ The only way to prove that your software is easy to change is to make easy chang
 
 If you have an automated suite of tests that covers virtually 100% of the code... ..._you simply will not be afraid to change the code._
 
+### First, Do No Harm
 
+Your career is _your_ responsibility... ...Woe to the software developer who entrusts his career to his employer.
 
+You owe your employer a certain amount of time and effort... ...These... ...should be spent on _your employer’s_ problems, not on _your_ problems.
 
+Do the math. In a week there are 168 hours. Give your employer 40, and your career another 20. That leaves 108. Another 56 for sleep leaves 52 for everything else.
 
+Professionals spend _time_ caring for their profession.
 
+Presumably you became a software developer because you are passionate about software and your desire to be a professional is motivated by that passion.
 
+Our field is progressing and at a ferocious pace... ..., however, that progress is in many respects peripheral.
 
+The vast majority of the hard-won ideas of the last 50 years are as valuable today as they were then. Perhaps they are even more valuable now.
 
+> Those who cannot remember the past are condemned to repeat it.
+> — Santayana.
 
-
-
-
-
-
-
-
-
-
-
+_Minimal_ list of the things that every software professional should be conversant with:
+- Design patterns. You ought to be able to describe all 24 patterns in the GOF book and have a working knowledge of many of the patterns in the POSA books.
+- Design principles. You should know the SOLID principles and have a good understanding of the component principles.
+- Methods. You should understand XP, Scrum, Lean, Kanban, Waterfall, Structured Analysis, and Structured Design.
+- Disciplines. You should practice TDD, Object-Oriented design, Structured Programming, Continuous Integration, and Pair Programming.
+- Artifacts: You should know how to use: UML, DFDs, Structure Charts, Petri Nets, State Transition Diagrams and Tables, flow charts, and decision tables.
