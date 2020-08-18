@@ -66,7 +66,7 @@ The only way to prove that your software is easy to change is to make easy chang
 
 If you have an automated suite of tests that covers virtually 100% of the code... ..._you simply will not be afraid to change the code._
 
-### First, Do No Harm
+### Work Ethic
 
 Your career is _your_ responsibility... ...Woe to the software developer who entrusts his career to his employer.
 
@@ -91,3 +91,37 @@ _Minimal_ list of the things that every software professional should be conversa
 - Methods. You should understand XP, Scrum, Lean, Kanban, Waterfall, Structured Analysis, and Structured Design.
 - Disciplines. You should practice TDD, Object-Oriented design, Structured Programming, Continuous Integration, and Pair Programming.
 - Artifacts: You should know how to use: UML, DFDs, Structure Charts, Petri Nets, State Transition Diagrams and Tables, flow charts, and decision tables.
+
+Read books, articles, blogs, tweets. Go to conferences. Go to user groups. Participate in reading and study groups. Learn things that are outside your comfort zone.
+
+Professionals practice. True professionals work hard to keep their skills sharp and ready... ...Practice is when you specifically exercise your skills _outside_ of the performance of your job for the sole purpose of refining and enhancing those skills.
+
+The point of the kata is to train your fingers and your brain.
+
+The second best way to learn is to collaborate with other people. Professional software developers make a special effort to program together, practice together, design and plan together. By doing so they learn a lot from each other, and they get more done faster with fewer errors.
+
+The best way to learn is to teach. Nothing will drive facts and values into your head faster and harder than having to communicate them to people you are responsible for. So the benefit of teaching is strongly in favor of the teacher.
+
+Professionals take personal responsibility for mentoring juniors.
+
+It is the responsibility of every software professional to understand the domain of the solutions they are programming.
+
+It is the worst kind of unprofessional behavior to simply code from a spec without understanding why that spec makes sense to the business. Rather, you should know enough about the domain to be able to recognize and challenge specification errors.
+
+Your employer’s problems are _your_ problems. You need to understand what those problems are and work toward the best solutions. 
+
+It’s easy to fall into an _us versus them_ attitude with your employer. Professionals avoid this at all costs.
+
+A professional is confident in his abilities, and takes bold and calculated risks based on that confidence. A professional is not timid.
+
+## Chapter 2 Saying No
+
+
+
+
+
+
+
+
+
+
