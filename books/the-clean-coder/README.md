@@ -116,6 +116,36 @@ A professional is confident in his abilities, and takes bold and calculated risk
 
 ## Chapter 2 Saying No
 
+> Do; or do not. There is no trying.
+> — Yoda
+
+Professionals speak truth to power. Professionals have the courage to say no to their managers.
+
+Slaves are not allowed to say no. Laborers may be hesitant to say no. But professionals are _expected_ to say no.
+
+### Adversarial Roles
+
+The hard decisions are best made through the confrontation of adversarial roles.
+
+Your manager is counting on you to defend your objectives as aggressively as he defends his. That’s how the two of you are going to get to _the best possible outcome_.
+
+The _why_ is a lot less important than the _fact_.
+
+### High Stakes
+
+The higher the stakes, the more valuable no becomes.
+
+### Being a "Team Player"
+
+Being a team player means playing your position as well as you possibly can, and helping out your teammates when they get into a jam. A team-player communicates frequently, keeps an eye out for his or her teammates, and executes his or her own responsibilities as well as possible.
+
+The promise to try is an admission that you’ve been holding back, that you have a reservoir of extra effort that you can apply... ...moreover, it is a commitment to apply that extra effort to achieve the goal.
+
+
+
+
+
+
 
 
 
