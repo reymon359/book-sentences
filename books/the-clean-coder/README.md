@@ -141,17 +141,32 @@ Being a team player means playing your position as well as you possibly can, and
 
 The promise to try is an admission that you’ve been holding back, that you have a reservoir of extra effort that you can apply... ...moreover, it is a commitment to apply that extra effort to achieve the goal.
 
+### The Cost of Saying Yes
 
+Sometimes the only way to get to the right yes is to be unafraid so say no.
 
+### Code Imposible
 
+“Is good code impossible? Is professionalism impossible?” Answer: I say no.
 
+## Chapter 3 Saying Yes
 
+### A Language of commitment
 
+Say. Mean. Do.
+There are three parts to making a commitment.
+1. You _say_ you’ll do it. 
+2. You _mean_ it.
+3. You _actually do_ it.
 
+There are very few people who, when they say something, they mean it and then actually get it done. There are some who will say things and _mean_ them, but they never get it done. And there are far more people who promise things and don’t even _mean_ to do them. 
 
+Examples of words and phrases to look for that are telltale signs of noncommitment:
+- **Need\should**. “We need to get this done.” “I need to lose weight.” “Someone should make that happen.”
+- **Hope\wish**. “I hope to get this done by tomorrow.” “I hope we can meet again some day.” “I wish I had time for that.” “I wish this computer was faster.”
+- **Let’s**. (not followed by “I ...”) “Let’s meet sometime.” “Let’s finish this thing.”
 
+Start recognizing lack of commitment around you, and in you.
 
-
-
-
+The real truth is that _you, personally_, ALWAYS have something that’s under _your_ control, so there is always _something_ you can fully commit to doing.
 
