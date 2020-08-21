@@ -170,3 +170,42 @@ Start recognizing lack of commitment around you, and in you.
 
 The real truth is that _you, personally_, ALWAYS have something that’s under _your_ control, so there is always _something_ you can fully commit to doing.
 
+If the end goal depends on someone else, you should commit to specific actions that bring you closer to the end goal.
+
+Something unexpected might happen, and that’s life. But you still want to live up to expectations. In that case, it’s time to change the expectations, _as soon as possible_.
+
+If you can’t make your commitment, the most important thing is to raise a red flag as soon as possible to whoever you committed to.
+
+Creating a language of commitment may sound a bit scary, but it can help solve many of the communication problems programmers face today—estimations, deadlines, and face-to-face communication mishaps. You’ll be taken as a serious developer who lives up to their word, and that’s one of the best things you can hope for in our industry.
+
+### Learning How to Say "Yes"
+
+Breaking disciplines only slows us down.
+
+Professionals know their limits. They know how much overtime they can effectively apply, and they know what the cost will be.
+
+Professionals are not required to say yes to everything that is asked of them. However, they should work hard to find creative ways to make “yes” possible. When professionals say yes, they use the language of commitment so that there is no doubt about what they’ve promised.
+
+## Chapter 4 Coding
+
+Typing blind is all about _confidence_.
+
+Being able to sense your errors is really important... ...in everything. Having error-sense means that you very rapidly close the feedback loop and learn from your errors all the more quickly.
+
+The key to mastery is confidence and error-sense.
+
+### Preparedness
+
+Coding is an intellectually challenging and exhausting activity. It requires a level of concentration and focus that few other disciplines require. The reason for this is that coding requires you to juggle many competing factors at once.
+
+1. First, your code must work.
+2. Your code must solve the problem set for you by the customer.
+3. Your code must fit well into the existing system... ...your code needs to follow solid engineering principles.
+4. Your code must be readable by other programmers... ...this may be the most difficult thing a programmer can master.
+
+Working while distracted creates waste. If you are tired or distracted, _do not code_. You’ll only wind up redoing what you did. Instead, find a way to eliminate the distractions and settle your mind.
+
+
+
+
+
