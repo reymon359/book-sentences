@@ -205,7 +205,85 @@ Coding is an intellectually challenging and exhausting activity. It requires a l
 
 Working while distracted creates waste. If you are tired or distracted, _do not code_. You’ll only wind up redoing what you did. Instead, find a way to eliminate the distractions and settle your mind.
 
+Don’t write code when you are tired. Dedication and professionalism are more about discipline than hours. Make sure that your sleep, health, and lifestyle are tuned so that you can put in eight _good_ hours per day.
 
+Professional developers allocate their personal time in order to ensure that the time spent at the office is as productive as possible.
+
+### The Flow Zone
+
+“The Zone”... ...is the highly focused, tunnel-vision state of consciousness that programmers can get into while they write code. In this state they feel _productive_. In this state they feel _infallible_. And so they desire to attain that state... ...a little hint from someone whose been there and back: _Avoid the Zone_... ...It’s really just a mild meditative state in which certain rational faculties are diminished in favor of a sense of speed.
+
+Pairing can be very helpful as a way to deal with interruptions. Your pair partner can hold the context of the problem at hand.. ...When you return to your pair partner, he quickly helps you reconstruct the mental context you had before the interruption... ...TDD is another big help. If you have a failing test, that test holds the context of where you are.
+
+_There will be interruptions_ that distract you and cause you to lose time... ...remember that next time you may be the one who needs to interrupt someone else. So the professional attitude is a polite willingness to be helpful.
+
+### Writer's Block
+
+Sometimes the code just doesn’t come... ...You sit at your workstation and nothing happens... ...many of the factors are...not getting enough sleep...worry, fear, and depression... ...The solution: Find a pair partner.
+
+Creative output depends on creative input... ...creativity breeds creativity.
+
+### Debugging
+
+Debugging time is just as expensive to the business as coding time is, and therefore anything we can do to avoid or diminish it is good.
+
+It is incumbent upon you as a professional to reduce your debugging time as close to zero as you can get. Clearly zero is an asymptotic goal, but it is the goal nonetheless.
+
+### Pacing Yourself
+
+Software development is a marathon, not a sprint... ...A marathon runner takes care of her body both before and _during_ the race. Professional programmers conserve their energy and creativity with the same care.
+
+When you are stuck, when you are tired, disengage for awhile.
+
+There is something about _disengagement_ that allows your mind to hunt for solutions in a different and more creative way.
+
+When you are working on a problem, you sometimes get so close to it that you can’t see all the options.
+
+Sometimes the best way to solve a problem is to go home, eat dinner, watch TV, go to bed, and then wake up the next morning and take a shower.
+
+### Being Late
+
+You _will_ be late... ...Sometimes we just blow our estimates and wind up late.
+
+The trick to managing lateness is early detection and transparency... ..._regularly_ measure your progress against your goal... ...Be as honest as you can about all dates. _Do not incorporate hope into your estimates!_
+
+Hope is the project killer. Hope destroys schedules and ruins reputations. Hope will get you into deep trouble.
+
+The only way to improve the schedule is to reduce scope. _Do not be tempted to rush_.
+
+Woe to the poor developer who buckles under pressure and agrees to try to make the deadline... ...This is a recipe for disaster because it gives you, your team, and your stakeholders false hope.
+
+There is no way to rush. You can’t make yourself code faster. You can’t make yourself solve problems faster.
+
+You should _not agree_ to work overtime unless (1) you can personally afford it, (2) it is short term, two weeks or less, and (3) _your boss has a fall-back plan_ in case the overtime effort fails.
+
+Of all the unprofessional behaviors... ...perhaps the worst of all is saying you are done when you know you aren’t... ...This is a contagious practice. If one programmer does it, others will see and follow suit... ...When a team falls into this trap... ...It’s like blind men having a picnic on the railroad tracks.
+
+You avoid the problem of false delivery by creating an independent definition of “done.” The best way to do this is to have... ...automated acceptance tests.
+
+### Help
+
+Programming is hard. The younger you are the less you believe this... ...you have to carefully partition the system into small understandable units that have as little to do with each other as possible—and that’s hard.
+
+No matter how skilled you are, you will certainly benefit from another programmer’s thoughts and ideas.
+
+It is the responsibility of programmers to be available to help each other.
+
+As a professional you are honor bound to offer that help whenever it is needed.
+
+If you see someone who appears to be in trouble, you should offer your help.
+
+When you help someone, sit down and write code together... ...You will likely come away having learned more than you gave.
+
+When someone offers to help you, be gracious about it. Accept the help gratefully and give yourself to that help. 
+
+Just as you are honor bound to offer help, you are honor bound to accept help.
+
+It is unprofessional to remain stuck when help is easily accessible.
+
+Collaboration is critical to effective programming. 
+
+The training of less experienced programmers is the responsibility of those who have more experience... ...Nothing can bring a young software developer to high performance quicker than his own drive, and effective mentoring by his seniors.
 
 
 
