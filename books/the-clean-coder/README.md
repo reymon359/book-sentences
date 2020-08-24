@@ -320,7 +320,7 @@ The unit tests are documents. They describe the lowest-level design of the syste
 
 The need to test first forces you to think about _good design_.
 
-But the tests you write after the fact are _defense_. The tests you write first are _offense_.
+The tests you write after the fact are _defense_. The tests you write first are _offense_.
 
 TDD is the professional option. It is a discipline that enhances certainty, courage, defect reduction, documentation, and design... ...it could be considered _unprofessional_ not to use it.
 
