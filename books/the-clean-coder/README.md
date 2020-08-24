@@ -233,7 +233,7 @@ It is incumbent upon you as a professional to reduce your debugging time as clos
 
 Software development is a marathon, not a sprint... ...A marathon runner takes care of her body both before and _during_ the race. Professional programmers conserve their energy and creativity with the same care.
 
-When you are stuck, when you are tired, disengage for awhile.
+When you are stuck, when you are tired, disengage for a while.
 
 There is something about _disengagement_ that allows your mind to hunt for solutions in a different and more creative way.
 
@@ -296,31 +296,33 @@ The Three laws of TDD:
 2. You are not allowed to write more of a unit test than is sufficient to fail—and not compiling is failing.
 3. You are not allowed to write more production code that is sufficient to pass the currently failing unit test.
 
-**Certainty**. 
+#### Certainty 
 
 If you adopt TDD as a professional discipline, then you will write dozens of tests every day... ...And you will keep all those tests on hand and run them any time you make any changes to the code.
 
 How certain is “nearly certain”? Certain enough to ship!
 
-**Defect Injection Rate**.
+#### Defect Injection Rate
 
-**Courage**. 
+#### Courage 
 
 When you have a suite of tests that you trust, then you lose all fear of making changes... ...The code becomes clay that you can safely sculpt into simple and pleasing structures.
 
 When programmers lose the fear of cleaning, they clean! And clean code is easier to understand, easier to change, and easier to extend.
 
-**Documentation**. 
+#### Documentation 
 
 If you want to know how to use code you need to read code.
 
 The unit tests are documents. They describe the lowest-level design of the system... ...They are the best kind of low-level documentation that can exist.
 
-**Design**
+#### Design
 
 The need to test first forces you to think about _good design_.
 
 The tests you write after the fact are _defense_. The tests you write first are _offense_.
+
+#### The Professional Option
 
 TDD is the professional option. It is a discipline that enhances certainty, courage, defect reduction, documentation, and design... ...it could be considered _unprofessional_ not to use it.
 
@@ -344,7 +346,7 @@ Doing anything quickly requires practice... ...Making decisions quickly means be
 
 [Coding dojo reference site](https://codingdojo.org/)
 
-**Kata**
+#### Kata
 
 In martial arts, a _kata_ is a precise set of choreographed movements that simulates one side of a combat. The goal... ...is perfection.
 
@@ -357,7 +359,7 @@ Like any martial artist, a programmer should know several different kata and pra
 - Prime Factors: http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactors-Kata
 - Word Wrap: http://thecleancoder.blogspot.com/2010/10/craftsman-62-dark-path.html
 
-**Wasa**
+#### Wasa
 
 Wasa is very much like a two-man kata... ...One partner plays the role of the aggressor, and the other partner is the defender. The motions are repeated over and over again as the practitioners swap roles.
 
