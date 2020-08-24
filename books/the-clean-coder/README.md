@@ -4,7 +4,7 @@
 
 <h3 align="center">Robert C. Martin - 2011</h3> 
 
-# Table of contents
+# Table of contents // TODO
 
 ## Foreword
 
@@ -285,5 +285,46 @@ Collaboration is critical to effective programming.
 
 The training of less experienced programmers is the responsibility of those who have more experience... ...Nothing can bring a young software developer to high performance quicker than his own drive, and effective mentoring by his seniors.
 
+## Chapter 5 Test Driven Development
 
+### The Jury Is In
+
+### The Three Laws of TDD
+
+The Three laws of TDD:
+1. You are not allowed to write any production code until you have first written a failing unit test.
+2. You are not allowed to write more of a unit test than is sufficient to fail—and not compiling is failing.
+3. You are not allowed to write more production code that is sufficient to pass the currently failing unit test.
+
+**Certainty**. 
+
+If you adopt TDD as a professional discipline, then you will write dozens of tests every day... ...And you will keep all those tests on hand and run them any time you make any changes to the code.
+
+How certain is “nearly certain”? Certain enough to ship!
+
+**Defect Injection Rate**.
+
+**Courage**. 
+
+When you have a suite of tests that you trust, then you lose all fear of making changes... ...The code becomes clay that you can safely sculpt into simple and pleasing structures.
+
+When programmers lose the fear of cleaning, they clean! And clean code is easier to understand, easier to change, and easier to extend.
+
+**Documentation**. 
+
+If you want to know how to use code you need to read code.
+
+The unit tests are documents. They describe the lowest-level design of the system... ...They are the best kind of low-level documentation that can exist.
+
+**Design**
+
+The need to test first forces you to think about _good design_.
+
+But the tests you write after the fact are _defense_. The tests you write first are _offense_.
+
+TDD is the professional option. It is a discipline that enhances certainty, courage, defect reduction, documentation, and design... ...it could be considered _unprofessional_ not to use it.
+
+### What TDD Is Not
+
+No professional developer should ever follow a discipline when that discipline does more harm than good.
 
