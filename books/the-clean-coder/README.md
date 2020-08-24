@@ -328,3 +328,36 @@ TDD is the professional option. It is a discipline that enhances certainty, cour
 
 No professional developer should ever follow a discipline when that discipline does more harm than good.
 
+## Chapter 6 Practicing
+
+All professionals practice their art by engaging in skill-sharpening exercises... ...When performance matters, professionals practice.
+
+### Some Background on Practicing
+
+Practicing is not a new concept in software development, but we didn’t recognize it as practicing until just after the turn of the millennium... ...We were too busy writing code to think about practicing our skills.
+
+Code in 2010 would be recognizable to a programmer from the 1960s. The clay that we manipulate has not changed much in those four decades... ...But the way we work has changed dramatically... ...Programmers today don’t wait for compiles.
+
+Doing anything quickly requires practice... ...Making decisions quickly means being able to recognize a vast number of situations and problems and simply _know_ what to do to address them.
+
+### The Coding Dojo
+
+[Coding dojo reference site](https://codingdojo.org/)
+
+**Kata**
+
+In martial arts, a _kata_ is a precise set of choreographed movements that simulates one side of a combat. The goal... ...is perfection.
+
+The purpose of learning a kata is not to perform it on stage. The purpose is to train your mind and body how to react in a particular combat situation. The goal is to make the perfected movements automatic and instinctive so that they are there when you need them.
+
+A programming kata... ...simulates the solving of some programming problem. You aren’t actually solving the problem because you already know the solution. Rather, you are practicing the movements and decisions involved in solving the problem.
+
+Like any martial artist, a programmer should know several different kata and practice them regularly so that they don’t fade away from memory... ...Some of my favorites are:
+- The Bowling Game: http://butunclebob.com/ArticleS.UncleBob.TheBowling-GameKata
+- Prime Factors: http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactors-Kata
+- Word Wrap: http://thecleancoder.blogspot.com/2010/10/craftsman-62-dark-path.html
+
+**Wasa**
+
+Wasa is very much like a two-man kata... ...One partner plays the role of the aggressor, and the other partner is the defender. The motions are repeated over and over again as the practitioners swap roles.
+
