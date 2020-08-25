@@ -363,3 +363,27 @@ Like any martial artist, a programmer should know several different kata and pra
 
 Wasa is very much like a two-man kata... ...One partner plays the role of the aggressor, and the other partner is the defender. The motions are repeated over and over again as the practitioners swap roles.
 
+Programmers can practice in a similar fashion using a game known as _[ping-pong](http://wiki.c2.com/?PairProgrammingPingPongPattern)_... ...One programmer writes a unit test, and then the other must make it pass. Then they reverse roles.
+
+#### Randori
+
+_Randori_ is free-form combat... ...set up a variety of combat scenarios and then enact them.
+
+There is a game that is played at many coding dojos called randori... ...these exercises can be a _lot_ of fun... ...You can gain an immense insight into the way other people solve problems. These insights can only serve to broaden your own approach and improve your skill.
+
+### Broadening Your Experience
+
+Professional programmers often suffer from a lack of diversity in the kinds of problems that they solve... ...Without a broadening influence, this can lead to a very unhealthy narrowing of your resume and your mindset.
+
+One way to stay ahead of the curve is... ...by contributing to an open-source project... ...there is probably no better way to increase your repertoire of skills than to actually work on something that someone else cares about.
+
+Professional programmers practice on their own time... ...Since your practice time is your own time, you don’t have to use the same languages or platforms that you use with your employer.
+
+### Conclusion
+
+_All_ professionals practice... ...because they care about doing the best job they possibly can.
+
+
+
+
+
