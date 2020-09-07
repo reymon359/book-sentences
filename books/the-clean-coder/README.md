@@ -383,7 +383,7 @@ Professional programmers practice on their own time... ...Since your practice ti
 
 _All_ professionals practice... ...because they care about doing the best job they possibly can.
 
-## Chapter 6 Acceptance Testing
+## Chapter 7 Acceptance Testing
 
 The role of the professional developer is a communications role as well as a development role. Remember that garbage-in/garbage-out applies to programmers too, so professional programmers are careful to make sure that their communication with other members of the team, and the business, are accurate and healthy.
 
@@ -455,5 +455,25 @@ keep the CI tests running at all times... ...If they fail, then the whole team s
 Communication about details is hard... ...It is too easy for each party to wave their hands and _assume_ that the other party understands. All too often both parties agree that they understand and leave with completely different ideas.
 
 To effectively eliminate communication errors between programmers and stakeholders... ...write automated acceptance tests. They are the perfect requirements document.
+
+## Chapter 8 Testing Strategies
+
+Professional developers test their code.
+
+What every professional development team needs is a good _testing strategy._
+
+### QA should find nothing
+
+It should be the goal of the development group that QA find nothing wrong.
+
+Every time QA finds something the development team should react in horror. They should ask themselves how it happened and take steps to prevent it in the future.
+
+QA and Development should be working together to ensure the quality of the system.
+
+It should be QA’s role to work with business to create the automated acceptance tests that become the true specification and requirements document for the system.
+
+In general, the business writes the happy-path tests, while QA writes the corner, boundary, and unhappy-path tests.
+
+The other role for QA is to use the discipline of [exploratory testing1](https://www.satisfice.com/exploratory-testing) to characterize the true behavior of the running system and report that behavior back to development and business. In this role QA is _not_ interpreting the requirements. Rather, they are identifying the actual behaviors of the system.
 
 
