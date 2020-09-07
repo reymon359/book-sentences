@@ -383,7 +383,77 @@ Professional programmers practice on their own time... ...Since your practice ti
 
 _All_ professionals practice... ...because they care about doing the best job they possibly can.
 
+## Chapter 6 Acceptance Testing
 
+The role of the professional developer is a communications role as well as a development role. Remember that garbage-in/garbage-out applies to programmers too, so professional programmers are careful to make sure that their communication with other members of the team, and the business, are accurate and healthy.
 
+### Communicating Requirements
+
+One of the most common communication issues between programmers and business is the requirements.
+
+The trap of **Premature Precision.** Business people want to know exactly what they are going to get before they authorize a project. Developers want to know exactly what they are supposed to deliver before they estimate the project. Both sides want a precision that simply cannot be achieved.
+
+Things appear different on paper than they do in a working system... ...the more precise you make your requirements, the less relevant they become as the system is implemented.
+
+Even with perfect information your estimates will have a huge variance... ...The uncertainty principle makes hash out of early precision. The requirements _will_ change making that precision moot.
+
+The solution to premature precision is to defer precision as long as possible... ...However, that can lead to another malady: late ambiguity.
+
+> An ambiguity in a requirements document represents an argument amongst the stakeholders.
+> — Tom DeMarco
+
+It is the responsibility of professional developers (and stakeholders) to make sure that all ambiguity is removed from the requirements.
+
+### Acceptante tests
+
+Acceptance tests as tests written by a collaboration of the stakeholders and the programmers _in order to define when a requirement is done_.
+
+Professional developers have a single definition of done: Done means _done._ Done means all code written, all tests pass, QA and the stakeholders have accepted. Done.
+
+Create a set of automated tests that, when they pass, meet all of the above criteria! When the acceptance tests for your feature pass, you are _done._
+
+The purpose of acceptance tests is communication, clarity, and precision. By agreeing to them, the developers, stakeholders, and testers all understand what the plan for the system behavior is.
+
+Professional developers make it their responsibility to work with stakeholders and testers to ensure that all parties know what is about to be built.
+
+Acceptance tests should _always_ be automated... ..._these_ kinds of tests should never be manual. The reason is simple: cost.
+
+Professional developers take responsibility for their part in ensuring that acceptance tests are automated.
+
+Writing these tests is simply the work of specifying the system. Specifying at this level of detail is the only way we, as programmers, can know what “done” means.
+
+Following the principle of “late precision,” acceptance tests should be written as late as possible, typically a few days before the feature is implemented. In Agile projects, the tests are written _after_ the features have been selected for the next Iteration or Sprint.
+
+Implementation work on a feature begins when the acceptance tests for that feature are ready. The developers execute the acceptance tests for the new feature and see how they fail. Then they work to connect the acceptance test to the system, and then start making the test pass by implementing the desired feature.
+
+Test authors are human and make mistakes. Sometimes the tests as written don’t make a lot of sense once you start implementing them... ...As a professional developer, it is your job to negotiate with the test author for a better test. What you should _never_ do is take the passive-aggressive option and say to yourself, “Well, that’s what the test says, so that’s what I’m going to do.”
+
+Acceptance tests are not _unit_ tests. Unit tests are written _by_ programmers _for_ programmers. They are formal design documents that describe the lowest level structure and behavior of the code. The audience is programmers, not business. Acceptance tests are written _by_ the business _for_ the business (even when you, the developer, end up writing them). They are formal requirements documents that specify how the system should behave from the business’ point of view. The audience is the business _and_ the programmers.
+
+Unit tests and acceptance tests are documents first, and tests second. Their primary purpose is to formally document the design, structure, and behavior of the system. The fact that they automatically verify the design, structure, and behavior that they specify is wildly useful, but the specification is their true purpose.
+
+It is hard to specify GUIs up front... ...People want to _fiddle_ with GUIs... ...GUIs are constantly in flux.
+
+The Single Responsibility Principle (SRP)... ...states that you should separate those things that change for different reasons, and group together those things that change for the same reasons. GUIs are no exception.
+
+When writing acceptance tests for a GUI you take advantage of the underlying abstractions that don’t change very frequently.
+
+It is much better to write a test that selects the button whose ID is `ok_button` than it is to select the button in column 3 of row 4 of the control grid.
+
+Design experts have been telling us for decades to separate our GUIs from our business rules... ...When every GUI change breaks a thousand tests, you are either going to start throwing the tests away or you are going to stop changing the GUI. Neither of those are good options. So write your business rule tests to go through an API just below the GUI.
+
+Some acceptance tests specify the behavior of the GUI itself. These tests _must_ go through the GUI... ...Therefore, it is a good idea to decouple the GUI and the business rules and replace the business rules with stubs while testing the GUI itself.
+
+Keep the GUI tests to a minimum. They are fragile, because the GUI is volatile. The more GUI tests you have the less likely you are to keep them.
+
+Make sure that all your unit tests and acceptance tests are run several times per day in a _continuous integration_ system. This system should be triggered by your source code control system. Every time someone commits a module, the CI system should kick off a build, and then run all the tests in the system.
+
+keep the CI tests running at all times... ...If they fail, then the whole team should stop what they are doing and focus on getting the broken tests to pass again. A broken build in the CI system should be viewed as an emergency.
+
+### Conclusion
+
+Communication about details is hard... ...It is too easy for each party to wave their hands and _assume_ that the other party understands. All too often both parties agree that they understand and leave with completely different ideas.
+
+To effectively eliminate communication errors between programmers and stakeholders... ...write automated acceptance tests. They are the perfect requirements document.
 
 
