@@ -476,4 +476,190 @@ In general, the business writes the happy-path tests, while QA writes the corner
 
 The other role for QA is to use the discipline of [exploratory testing1](https://www.satisfice.com/exploratory-testing) to characterize the true behavior of the running system and report that behavior back to development and business. In this role QA is _not_ interpreting the requirements. Rather, they are identifying the actual behaviors of the system.
 
+The Test Automation Pyramid, a graphical depiction of the kinds of tests that a professional development organization needs.
+
+![Figure 8-1 The test automation pyramid](./the_test_automation_pyramid.png)
+
+#### Unit Tests
+
+Unit Tests... ...are written by programmers, for programmers, in the programming language of the system... ...to specify the system at the lowest level. Developers write these tests before writing production code as a way to specify what they are about to write.
+
+Unit tests provide as close to 100% coverage as is practical. Generally this number should be somewhere in the 90s. And it should be _true_ coverage.
+
+#### Component Tests
+
+The components of the system encapsulate the business rules, so the tests for those components are the acceptance tests for those business rules.
+
+![Figure 8-2 Component acceptance test](./component_acceptance_test.png)
+
+Component tests are written by QA and Business with assistance from develop- ment... ...The intent is that the business should be able to read and interpret these tests, if not author them.
+
+Component tests cover roughly half the system. They are directed more towards happy-path situations... ...The vast majority of unhappy-path cases are covered by unit tests and are meaningless at the level of component tests.
+
+#### Integration Tests
+
+Integration Tests... ...only... ...for larger systems that have many components... ...these tests assemble groups of components and test how well they communicate with each other. The other components of the system are decoupled as usual with appropriate mocks and test-doubles.
+
+Integration tests are _choreography tests._ They do not test business rules. Rather, they test how well the assembly of components dances together.
+
+![Figure 8-3 Integration test](./integration_test.png)
+
+Integration tests are typically written by the system architects, or lead designers, of the system. The tests ensure that the architectural structure of the system is sound. It is at this level that we might see performance and throughput tests.
+
+Integration tests... ...are typically _not_ executed as part of the Continuous Integration suite,... ...Instead... ...are run periodically (nightly, weekly, etc.)
+
+#### System Tests
+
+System Tests are automated tests that execute against the entire integrated system... ...They do not test business rules directly. Rather, they test that the system has been wired together correctly and its parts interoperate according to plan. We would expect to see throughput and performance tests in this suite.
+
+System tests cover perhaps 10% of the system. This is because their intent is not to ensure correct system behavior, but correct _system construction._
+
+#### Manual Exploratory Tests
+
+Manual Exploratory Tests are not automated, _nor are they scripted._ The intent of these tests is to explore the system for unexpected behaviors while confirming expected behaviors.
+
+#### Conlusion
+
+To make good on the goal that “QA should find nothing,” development teams need to work hand in hand with QA to create a hierarchy of unit, component, integration, system, and exploratory tests.
+
+Tests should be run as frequently as possible to provide maximum feedback and to ensure that the system remains continuously clean.
+
+## Chapter 9 Time Management
+
+Eight hours is a remarkably short period of time. It’s just 480 minutes or 28,800 seconds. As a professional, you expect that you will use those few precious seconds as efficiently and effectively as possible.
+
+### Meetings
+
+There are two truths about meeting. 
+1. Meetings are necessary.
+2. Meetings are huge time wasters.
+
+Professionals are aware of the high cost of meetings. They are also aware that their own time is precious... ...Therefore, they actively resist attending meetings that don’t have an immediate and significant benefit.
+
+It is unprofessional to go to too many meetings. You need to use your time wisely. So be very careful about which meetings you attend and which you politely refuse.
+
+The person inviting you to a meeting is not responsible for managing your time. Only _you_ can do that... ...don’t accept unless it is a meeting for which your participation is... ...necessary to the job you are doing now.
+
+Sometimes the meeting will be about something that interests you, but is not immediately necessary. You will have to choose whether you can afford the time.
+
+Sometimes the meeting will be about something that you can contribute to but is not immediately significant to what you are currently doing. You will have to choose whether the loss to your project is worth the benefit to theirs... ...your responsibility is to your projects first. Still, it is often good for one team to help another.
+
+Sometimes your presence at the meeting will be requested by someone in authority... ...choose whether that authority outweighs your work schedule... ...your team and your supervisor can be of help in making that decision.
+
+One of the most important duties of your manager is to keep you _out_ of meetings.
+
+A good manager... ...is just as concerned about your time as you are.
+
+When the meeting gets boring, leave.
+
+If you find yourself stuck in a meeting that is not a good use of your time, you need to find a way to politely exit that meeting.
+
+Remaining in a meeting that has become a waste of time for you, and to which you can no longer significantly contribute, is unprofessional.
+
+To use the participants’ time wisely, the meeting should have a clear agenda, with times for each topic and a stated goal.
+
+If you are asked to go to a meeting, make sure you know what discussions are on the table, how much time is allotted for them, and what goal is to be achieved. If you can’t get a clear answer on these things, then politely decline to attend.
+
+Stand-Up Meetings are part of the Agile cannon. Their name comes from the fact that the participants are expected to stand while the meeting is in session. Each participant takes a turn to answer three questions:
+1. What did I do yesterday?
+2. What am I going to do today? 
+3. What’s in my way?
+Each question should require _no more_ than twenty seconds, so each participant should require no more than one minute.
+
+Iteration Planning Meetings are the most difficult meetings in the Agile canon to do well. Done poorly, they take far too much time. It takes skill to make these meetings go well, a skill that is well worth learning.
+
+Iteration Planning Meetings... ...should take no more than 5% of the total time in the iteration. So for a one week iteration (forty hours) the meeting should be over within two hours.
+
+Iteration Retrospective and Demo are conducted at the end of each iteration. Team members discuss what went right and what went wrong. Stakeholders see a demo of the newly working features. These meetings can be badly abused and can soak up a lot of time, so schedule them 45 minutes before quitting time on the last day of the iteration. Allocate no more than 20 minutes for retrospective and 25 minutes for the demo.
+
+> Any argument that can’t be settled in five minutes can’t be settled by arguing.
+> — Kent Beck
+
+Without data, any argument that doesn’t forge agreement within a few minutes... ...simply won’t ever forge agreement. The only thing to do is to go get some data.
+
+Force of will doesn’t settle disagreements for long. Data does.
+
+Sometimes the best alternative is to simply flip a coin to choose one of the two paths in question. If things work out, then that path was workable. If you get into trouble, you can back out and go down the other path. It would be wise to agree on a time as well as a set of criteria to help determine when the chosen path should be abandoned.
+
+If an argument must truly be settled, then ask each of the arguers to present their case to the team in five minutes or less. Then have the team vote. The whole meeting will take less than fifteen minutes.
+
+
+Programming is an intellectual exercise that requires extended periods of concentration and focus. After you have expended your focus-manna, you have to recharge by doing unfocused activities for an hour or more.
+
+Professional developers learn to manage their time to take advantage of their focus-manna. We write code when our focus-manna is high; and we do other, less productive things when it’s not.
+
+If you spend all your focus-manna in a meeting, you won’t have any left for coding.
+
+Worry and distractions also consume focus-manna.
+
+Professional developers manage their sleep schedule to ensure that they have topped up their focus-manna by the time they get to work in the morning.
+
+Caffeine... ....Too much of it can send your focus off in very strange directions. A really strong caffeine buzz can cause you to waste an entire day hyper-focussing on all the wrong things.
+
+Doing physical disciplines... ...require... ...a different kind of focus from coding. It’s not intellectual, it’s muscle. And somehow muscle focus helps to recharge mental focus.
+
+There is something about activities that focus on muscles that enhances the ability to work with your mind.
+
+Writing software is a _creative_ exercise.
+
+### The Boxing and Tomatoes
+
+To manage... ...time and focus... ...use the well-known [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+
+The real benefit of the Pomodoro Technique is that 25-minute window of productive time that you aggressively defend against all interruptions.
+
+### Avoidance
+
+_Priority inversion._ You raise the priority of a task so that you can postpone the task that has the true priority. Priority inversions are a lie we tell ourselves. We can’t face what needs to be done, so we convince ourselves that another task is more important. We know it’s not, but we lie to ourselves.
+
+Professionals evaluate the priority of each task, disregarding their personal fears and desires, and execute those tasks in priority order.
+
+### Blind Alleys
+
+Blind alleys are a fact of life for all software craftsmen. Sometimes you will make a decision and wander down a technical pathway that leads to nowhere... ...Prudence and experience will help you avoid certain blind alleys, but you’ll never avoid them all. So the real skill you need is to quickly realize when you are in one, and have the courage to back out.
+
+_The Rule of Holes:_ When you are in one, stop digging.
+
+Professionals avoid getting so vested in an idea that they can’t abandon it and... ...keep an open mind about other ideas so that when they hit a dead end they still have other options.
+
+### Marshes, Bogs, Swamps, and Other Messes
+
+Messes are worse than blind alleys because you can always see the way forward, and it always looks shorter than the way back (but it isn’t).
+
+Nothing has a more profound or long-lasting negative effect on the productivity of a software team than a mess. Nothing.
+
+The problem is that starting a mess, like going down a blind alley, is unavoidable. Experience and prudence can help you to avoid them, but eventually you will make a decision that leads to a mess... ...At some point you realize that you made a wrong design choice when you started, and that your code doesn’t scale well in the direction that the requirements are moving. This is the inflection point! You can still go back and fix the design... ...looks expensive... ...but... ...will _never_ be easier than it is now.
+
+Professionals... ...are always on the lookout for messes that start to grow without bound.
+
+Moving forward through a swamp, when you know it’s a swamp, is the worst kind of priority inversion... ...you are lying to yourself, lying to your team, lying to your company, and lying to your customers.
+
+### Conclusion
+
+Software professionals are diligent in the management of their time and their focus. They understand the temptations of priority inversion and fight it as a matter of honor. They keep their options open by keeping an open mind about alternate solutions. They never become so vested in a solution that they can’t abandon it. And they are always on the lookout for growing messes, and they clean them as soon as they are recognized. 
+
+## Chapter 10 Estimation
+
+Estimation... ...is the primary wedge... ...between business people and developers. It is the source of nearly all the distrust that rules that relationship.
+
+### What is an Estimate?
+
+Business likes to view estimates as commitments. Developers like to view estimates as guesses. The difference is profound.
+
+A commitment is something you must achieve. If you commit to getting something done by a certain date, then you simply _have_ to get it done by that date.
+
+Professionals don’t make commitments unless they _know_ they can achieve them.
+
+If you are asked to commit to something that you aren’t certain you can do, then you are honor bound to decline. If you are asked to commit to a date that you know you can achieve,... ...then the choice is yours; but you’d better be willing to do what it takes.
+
+Commitment is about _certainty._ Other people are going to accept your commitments and make plans based upon them... ...Missing a commitment is an act of dishonesty only slightly less onerous than an overt lie.
+
+An estimate is a guess. No commitment is implied.... ...Missing an estimate is not in any way dishonorable.
+
+An estimate is not a number. An estimate is a... ..._probability distribution._... ...the likelihood of completion.
+
+![Figure 10-1 Probability distribution](./probability_distribution.png)
+
+> If anything can go wrong, it will go wrong.
+> — Murphy’s Law
 
