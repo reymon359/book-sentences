@@ -663,3 +663,24 @@ An estimate is not a number. An estimate is a... ..._probability distribution._.
 > If anything can go wrong, it will go wrong.
 > — Murphy’s Law
 
+The word _try_ is a loaded term... ...Agreeing to try is agreeing to succeed.
+
+Professionals draw a clear distinction between estimates and commitments. They do not commit unless they know for certain they will succeed. They are careful not to make any _implied_ commitments. They communicate the proba- bility distribution of their estimates as clearly as possible, so that managers can make appropriate plans.
+
+### PERT
+
+In 1957, the Program Evaluation and Review Technique (PERT) was created to support the U.S. Navy’s Polaris submarine project... ...The scheme provides a very simple, but very effective way to convert estimates into probability distributions... ...When you estimate a task, you provide three numbers. This is called _trivariate analysis:_
+
+- **O:** Optimistic Estimate. This number is _wildly_ optimistic. You could only get the task done this quickly if absolutely everything went right. Indeed, in order for the math to work this number should have much less than a 1% chance of occurrence... ...this would be 1 day, as shown in Figure 10-1.
+
+- **N:** Nominal Estimate. This is the estimate with the greatest chance of success. If you were to draw a bar chart, it would be the highest bar, as shown in Figure 10-1. It is 3 days.
+
+- **P:** Pessimistic Estimate. Once again this is _wildly_ pessimistic. It should include everything except... ...catastrophes. Again, the math only works if this number has much less than a 1% chance of success... ...this number is off the chart on the right. So 12 days.
+
+We can describe the probability distribution as follows:
+- `μ = (O + 4 N + P) / 6` μ is the expected duration of the task... ...For most tasks this will be a somewhat pessimistic number because the right-hand tail of the distribution is longer than the left-hand.
+
+- `σ = (P − O) / 6` σ is the standard deviation of the probability distribution for the task. It is a measure of how uncertain the task is. When this number is large, the uncertainty is large too.
+
+
+
