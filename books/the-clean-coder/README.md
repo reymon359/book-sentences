@@ -682,5 +682,237 @@ We can describe the probability distribution as follows:
 
 - `σ = (P − O) / 6` σ is the standard deviation of the probability distribution for the task. It is a measure of how uncertain the task is. When this number is large, the uncertainty is large too.
 
+Peter has three of those tasks that he must work on in sequence... ...Table 10-1 Peter’s Tasks:
+
+| Task | Optimistic | Nominal | Pessimistic | μ | σ | 
+|--|--|--|--|--|--|
+| Alpha | 1 | 3 | 12 | 4.2 | 1.8 |
+| Beta | 1 | 1.5 | 14 | 3.5 | 2.2 | 
+| Gamma | 3 | 6.25 | 11 | 6.5 | 1.3 |
+
+How long... ...for Peter to complete all three tasks? Combine all tasks and come up with a probability distribution for the entire set of tasks. The math is pretty straightforward:
+
+- μ<sub>sequence</sub> = ∑μ<sub>task</sub>
+
+For any sequence of tasks the expected duration of that sequence is the simple sum of all the expected durations of the tasks in that sequence. So if Peter has three tasks to complete, and their estimates are 4.2/1.8, 3.5/2.2, and 6.5/1.3, then Peter will likely be done with all three in about 14 days: 4.2 + 3.5 + 6.5.
+
+- σ<sub>sequence</sub> = √(∑σ<sub>task</sub>)^2
+
+The standard deviation of the sequence is the square root of the sum of the squares of the standard deviations of the tasks. So the standard deviation for all three of Peter’s tasks is about 3... ...`(1.8+2.2+1.3) = 1/2 (3.24 + 2.48 + 1.69) = 9.771/2 =∼ 3.13`... ...Peter’s tasks will likely take 14 days, but could very well take 17 days (1s) and could possibly even take 20 days (2s). It could even take longer, but that’s pretty unlikely.
+
+The uncertainty in those tasks compounds in a way that adds _realism_ to the plan.
+
+The simple PERT scheme... ...is one reasonable way to help prevent setting optimistic expectations. Software professionals are very careful to set reasonable expectations despite the pressure to _try_ to go fast.
+
+### Estimating Tasks
+
+The most important estimation resource you have are the people around you. They can see things that you don’t. They can help you estimate your tasks more accurately than you can estimate them on your own.
+
+#### Wideband Delphi
+
+In the 1970s Barry Boehm introduced us to an estimation technique called “wideband delphi.”5 There have been many variations... ...but they all have one thing in common: consensus... ...A team of people... ...discuss a task, estimate the task, and iterate the discussion and estimation until they reach agreement. The original approach... ...by Boehm involved... ...too much ceremony and overhead... ...I prefer simple low-overhead approaches such as: Flying Fingers, Planning Poker, Affinity Estimation and Trivariate Estimates.
+
+#### Flying Fingers
+
+Everybody sits around a table. Tasks are discussed one at a time. For each task there is discussion about what the task involves, what might confound or complicate it, and how it might be implemented. Then the participants put their hands below the table and raise 0 to 5 fingers based on how long they think the task will take. The moderator counts 1-2-3, and all the participants show their hands at once.
+If everyone agrees, then they go on to the next task. Otherwise they continue the discussion to determine why they disagree. They repeat this until they agree.
+Agreement does not need to be absolute. As long as the estimates are close, it’s good enough... ...if everyone holds up 4 fingers except for one person who holds up 1 finger, then they have something to talk about... ...The scale... ...is decided on at the beginning of the meeting. It might be the number of days for a task, or... ...“fingers times three” or “fingers squared.”
+
+#### Planning Poker
+
+In 2002 James Grenning wrote a delightful [paper](https://wingman-sw.com/articles/planning-poker) describing “Planning Poker.” This variation of wideband delphi... ...is very simple. For each member of the estimation team, deal a hand of cards with different numbers on them... ...make this system logically equivalent to _flying fingers._... ...Pick a task and discuss it. At some point the moderator asks everyone to pick a card. The members of the team pull out a card that matches their estimate... ...with the back facing outward... ...Then the moderator tells everyone to show their cards. The rest is just like flying fingers. If there is agreement, then the estimate is accepted. Otherwise the cards are returned to the hand, and the players continue to discuss the task... ...Some... ...use cards based on a Fibonacci series. Others have included cards for infinity and question mark. Personally, I think five cards labeled 0, 1, 3, 5, 10 are sufficient.
+
+#### Affinity Estimation
+
+A particularly unique variation of wideband delphi... ...by Lowell Lindstrom... ...All the tasks are written onto cards, without any estimates showing. The... ...team stands... ...with the cards spread out randomly. The team members do not talk, they simply start sorting the cards relative to one another. Tasks that take longer are moved to the right. Smaller tasks move to the left... ...Eventually... ...discussion can begin. Disagreements about the ordering of the cards are explored. There may be some quick design sessions or some quick hand-drawn wire frames to help gain consensus... ...The next step is to draw lines between the cards that represent bucket sizes. These buckets might be in days, weeks, or points. Five buckets in a Fibonacci sequence (1, 2, 3, 5, 8) is traditional.
+
+#### Trivariate Estimates
+
+These wideband delphi techniques are good for choosing a single nominal estimate for a task. But... ...most of the time we want three estimates so that we can create a probability distribution. The optimistic and pessimistic values for each task can be generated very quickly using any of the wideband delphi variants. For example,... ...using planning poker, you simply ask the team to hold up the cards for their pessimistic estimate and then take the highest... ...for the optimistic estimate... ...take the lowest.
+
+### The Law of Large Numbers
+
+Estimates are fraught with error... ...One way of managing error is to take advantage of the [_Law of Large Numbers._](https://en.wikipedia.org/wiki/Law_of_large_numbers)... ...if you break up a large task into many smaller tasks and estimate them independently, the sum of the estimates of the small tasks will be more accurate than a single estimate of the larger task. The reason... ...is that the errors in the small tasks tend to integrate out... ...Frankly, this is optimistic. Errors... ...tend toward underestimation and not overestimation, so the integration is hardly perfect... ...breaking large tasks into small ones and estimating the small ones independently... ...is a good way to understand those tasks better and uncover surprises.
+
+### Conclusion
+
+Professional software developers know how to provide the business with practical estimates that the business can use for planning purposes. They do not make promises that they can’t keep, and they don’t make commitments that they aren’t sure they can meet.
+
+In most cases professionals do not make such committments. Rather, they provide probabilistic estimates that describe the expected completion time and the likely variance.
+
+Professional developers work with the other members of their team to achieve consensus on the estimates that are given to management.
+
+## Pressure
+
+The professional developer is calm and decisive under pressure. As the pressure grows he adheres to his training and disciplines, knowing that they are the best way to meet the deadlines and commitments that are pressing on him.
+
+### Avoiding Presure
+
+The best way to stay calm under pressure is to avoid the situations that cause pressure.
+
+It is important to avoid committing to deadlines that we aren’t sure we can meet.
+
+We must... ...make sure that the risk is quantified and presented to the business so that they can manage it appropriately. Accepting unrealistic commitments thwarts this goal and does a disservice to both the business and to ourselves.
+
+Sometimes... ...business has made promises to the customers without consulting us... ...we are honor bound to help the business find a way to meet those commitments. However, we are _not_ honor bound to _accept_ the commitments.
+
+The difference is important. Professionals will always help the business find a way to achieve its goals. But professionals do not necessarily accept commit- ments made for them by the business.
+
+In the end, if we can find no way to meet the promises made by the business, then the people who made the promises must accept the responsibility.
+
+When your business is failing... ... it’s hard not to feel the pressure. But if you have behaved professionally, at least you can hold your head high as you hunt for a new job.
+
+The way to go fast, and to keep the deadlines at bay, is to stay clean. Professionals do not succumb to the temptation to create a mess in order to move quickly.
+
+“Quick and dirty” is an oxymoron. Dirty always means slow!
+
+Avoid pressure by keeping our systems, our code, and our design as clean as possible... ...don’t tolerate messes.
+
+You know what you believe by observing yourself in a crisis. If in a crisis you follow your disciplines, then you truly believe in those disciplines. On the other hand, if you change your behavior in a crisis, then you don’t truly believe in your normal behavior.
+
+If you keep your code clean during normal times but make messes in a crisis, then you don’t really believe that messes slow you down. If you pair in a crisis but don’t normally pair, then you believe pairing is more efficient than non-pairing.
+
+Choose disciplines that you feel comfortable following in a crisis. _Then follow them all the time._ Following these disciplines is the best way to avoid getting into a crisis. Don’t change your behavior when the crunch comes. If your disciplines are the best way to work, then they should be followed even in the depths of a crisis.
+
+### Handling Pressure
+
+Sometimes the pressure comes despite all your best intentions and preventions... ...Then what?...don't panic, communicate, rely on your disciplines, and get help.
+
+Don't Panic. Manage your stress... ...Think the problem through. Plot a course to the best possible outcome, and then drive towards that outcome at a reasonable and steady pace.
+
+Let your team and your superiors know that you are in trouble. Tell them your best plans for getting out of trouble. Ask them for their input and guidance.
+
+Avoid creating surprises. Nothing makes people more angry and less rational than surprises. Surprises multiply the pressure by ten.
+
+Rely on Your disciplines. When the going gets tough, _trust your disciplines._ The reason you _have_ disciplines is to give you guidance through times of high pressure. These are the times to pay special attention to all your disciplines. These are _not_ the times to question or abandon them.
+
+When the heat is on, find an associate who is willing to pair program with you. You will get done faster, with fewer defects. Your pair partner will help
+you hold on to your disciplines and keep you from panicking. 
+
+When you see someone else who’s under pressure, offer to pair with them. Help them out of the hole they are in.
+
+### Conclusion
+
+The trick to handling pressure is to avoid it when you can, and weather it when you can’t. You avoid it by managing commitments, following your disciplines, and keeping clean. You weather it by staying calm, communicating, following your disciplines, and getting help.
+
+## Chapter 12 Collaboration
+
+Teams are most effective when the team members collaborate professionally. It is unprofessional to be a loner or a recluse on a team.
+
+This was when I first discovered how hard it is to optimize software, and how nonintuitive the process is.
+
+### Programmers versus People
+
+> Bugs aren’t interesting. Bugs just need to be fixed!
+> — Ken Finder
+
+It’s good to be passionate about what we do. But it’s also good to keep your eye on the goals of the people who pay you.
+
+The first responsibility of the professional programmer is to meet the needs of his or her employer... ...collaborating with your managers, business analysts, testers, and other team members to _deeply understand_ the business goals.
+
+You need to understand why you are writing the code you are writing, and how the business that employs you will benefit from it.
+
+Take the time to understand the business... ...talk to users about the software they are using... ...talk to sales and marketing... ...about the...issues they have.... ...talk to managers to understand the short- and long-term goals of the team. In short,... ...pay attention to the ship they are sailing on.
+
+When each programmer builds a wall around his code and refuses to let other programmers touch it... ...even let other... ..._see_ their code. This is a recipe for disaster.
+
+It is far better to... ...the _team_ to own the code, not the individuals.
+
+Professional developers do not prevent others from working in the code.... ...They learn from each other by working with each other on other parts of the system.
+
+_Professionals pair._ Why? Because for... ...problems it is the most efficient way to solve them.... ...also... ...is the best way to share knowledge.
+
+No system should consist of code that hasn’t been reviewed by other programmers.
+
+The most efficient and effective way to review code is to collaborate in writing it.
+
+### Cerebellums
+
+Professionals work _together._... ...smell each other’s fear... ...overhear someone’s frustrated mutterings... ...serendipitous communication, both verbal and body language... ...communicating as a unit.
+
+There are times when working alone is the right thing to do... ...But... ...it is best to collaborate closely with others and to pair with them a large fraction of the time.
+
+### Conclusion
+
+Programming is _all about working with people._ We need to work with our business, and we need to work with each other.
+
+## Chapter 13 Teams and Projects
+
+### Does it Blend?
+
+There is no such thing as half a person.
+
+It makes no sense to tell a programer to devote half their time to project A and the rest of their time to project B.
+
+When... ...projects have... ...different managers,... ...business analysts,... ...programmers and... ...testers. That’s not a team, that’s something that came out of a Waring blender.
+
+It take time for a team to form... ...relationships... ...learn how to collaborate... ...learn each other’s quirks, strengths, and weaknesses. Eventually the team begins to _gel._
+
+A gelled team... ...can work miracles... ...anticipate each other, cover for each other, support each other, and demand the best from each other. They make things happen.
+
+A gelled team... ...hould be composed of programmers, testers, analysts. And... ...a project manager. The ratio of programmers to testers and analysts can vary greatly, but 2:1 is a good number.
+
+The analysts... ...and... ...The testers... ...write automated acceptance tests. The difference between the two is perspective. Both are writing requirements. But analysts focus on business value; testers focus on correctness.
+
+The project manager tracks the progress... ...and makes sure the team understands the schedules and priorities.
+
+One of the team members may play a part-time role of coach, or master... ...defending the team’s process and disciplines... ...as the team conscience when the team is tempted to go off-process because of schedule pressure.
+
+It takes time for a team... ...to work... ...with each other... ...Once this happens, it is ludicrous to break it apart just because a project comes to an end. It’s best to keep that team together and just keep feeding it projects.
+
+A gelled team will plan together, solve problems together, face issues together, and _get things done._
+ 
+To form teams around projects... ...is a foolish approach... ...individuals are only on the project for a short time... ... and therefore never learn how to deal with each other.
+
+Professional development organizations allocate projects to existing gelled teams, they don’t form teams around projects.
+
+A gelled team can accept many projects simultaneously and... ...divvy up the work according to their own opinions, skills, and abilities.
+
+The velocity of a team is simply the amount of work it can get done in a fixed period of time.
+
+Teams measure their velocity in _points_ per week... ...They break down the features of each project they are working on and estimate them in points. Then they measure how many points they get done per week... ...Over time this will average out.
+
+In an emergency... ...gelled teams that are working on two or three projects concurrently can turn on a dime.
+
+The business should not have its hands tied by the artificial difficulty of forming and disbanding teams. If the business decides that one project is higher priority than another, it should be able to reallocate resources quickly.
+
+It is the project owner’s responsibility to make the case for his project.
+
+### Conclusion
+
+Teams are harder to build than projects. Therefore, it is better to form persistent teams that move together from one project to the next and can take on more than one project at a time.
+
+## Chapter 14 Mentoring, Apprenticeship, and Craftmanship
+
+### Degrees of failure
+
+It is possible to get an excellent education at a university... ...also... ...it’s possible to wiggle yourself through the system and come out with a diploma, and not much else.
+
+The best... ...do not typically prepare the young... ...for what they will find in industry... ...it is the reality of nearly all disciplines.
+
+What you learn in school and what you find on the job are... ...very different things.
+
+### Mentoring
+
+It is better to ask forgiveness than permission!
+
+The approach to a problem can have a profound effect on the user. 
+
+A true mentor, someone to teach me the in’s and out’s. Someone I could have observed while I helped him with small tasks, and who would review and guide my early work. Someone to act as a role model and teach me appropriate values and reflexes. A sensei. A master. A mentor.
+
+### Apprenticeship
+
+When the stakes are high, we do not send graduates into a room, throw meat in occasionally, and expect good things to come out. So why do we do this in software?
+
+There are relatively few deaths caused by software bugs. But there are significant monetary losses. Companies lose huge amounts of money due to the inadequate training of their software developers.
+
+Somehow the software development industry has gotten the idea that program- mers are programmers, and that once you graduate you can code. Indeed, it is not at all uncommon for companies to hire kids right out of school, form them into “teams,” and ask them to build the most critical systems. It’s insane!
+
+Our civilization runs on software. It is software that moves and manipulates the information that pervades our daily life.
+
+#### Software Apprenticeship
+
+
+
 
 
