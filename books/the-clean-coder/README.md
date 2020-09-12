@@ -950,8 +950,70 @@ School does not, and cannot teach the discipline, practice, and skill of being a
 
 It’s time for us to adopt a program of apprenticeship, internship, and long-term guidance.
 
+## Tooling
 
+### Tools 
 
+### Source Code Control
 
+Open source tools are usually your best option. Why? Because they are written by developers, for developers.
 
+Open source tools are what developers write for themselves when they need something that works.
+
+The era of pessimistic locking is over... ...We just check out the whole system and edit any files we need to.
+
+_Never_ check in code that doesn’t pass all the tests. _Never ever._
+
+`git`, and tools like it, are what the future of source code control looks like.
+
+### IDE/Editor
+
+IDEs... ...With these tools, code editing is no longer about lines and characters as much as it is about complex manipulations. Rather than thinking about the next few characters and lines you need to type, you think about the next few trans- formations you need to make. In short, the programming model is remarkably different and highly productive.
+
+### Issue Tracking
+
+The best issue-tracking system of all is a set of cards and a bulletin board... ...divided into columns such as “To Do,” “In Progress,” and “Done.” The developers simply move the cards from one column to the next when appropriate.
+
+If you have thousands of bugs, something is wrong. If you have thousands of features and/or tasks, something is wrong. In general, the list of issues should be relatively small, and therefore manageable with a lightweight tool.
+
+When issue-tracking tools are forced to track thousands of issues, then the word “tracking” loses meaning. They become “issue dumps” (and often smell like a dump too).
+
+### Continuous Build
+
+Hook it up to your source code control system. Whenever anybody checks in code, it should automatically build and then report status to the team.
+
+The team must... ...keep the build working at all times. If the build fails,... ...Under no circumstances should... ...be allowed to persist for a day or more.
+
+### Unit Testing Tools
+
+Whatever unit testing tool you choose: 
+1. It should be quick and easy to run the tests.
+2. Should give you a clear visual pass/fail indication.
+3. Give you a clear visual indication of progress.
+4. Help you keep your tests independent from each other.
+5. Make it very easy to write tests.
+
+Dependent tests are a deep trap that you don’t want to fall into.
+
+### Component Testing Tools
+
+Component Testing Tools... ...make sure that the behavior of a component is specified in a language that the business and QA people can understand... ...the ideal case is when business analysts and QA can _write_ that specification using the tool.
+
+### Integration Testing Tools
+
+Don’t... ...drive very many tests through the UI because UIs are notoriously volatile. That volatility makes tests... ...very fragile.
+
+A few end-to-end tests should go through the whole assembled system, including the UI.
+
+### UML/MDA
+
+Model Driven Architecture (MDA)... ...assumes that the problem is code. But code is _not_ the problem. It has never been the problem. The problem is _detail._
+
+Programmers are detail managers... ...We specify the behavior of systems in the minutest detail.
+
+Let’s say that one day someone does invent a truly useful diagrammatic language. It won’t be architects drawing those diagrams, it will be programmers. The diagrams will simply become the new code, and programmers will be needed to _draw_ that code because, in the end, it’s all about detail, and it is programmers who manage that detail.
+
+In the end, it’s all about detail, and it is programmers who manage that detail.
+
+### Conlclusion
 
