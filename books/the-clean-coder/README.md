@@ -912,6 +912,45 @@ Our civilization runs on software. It is software that moves and manipulates the
 
 #### Software Apprenticeship
 
+##### Masters
+
+Programmers who... ...know how to lead and coordinate multiple teams, are proficient designers and architects, and can code circles around everyone else without breaking a sweat... ...They maintain that technical role by reading, studying, practicing, doing, and _teaching._ It is to a master that the company will assign technical responsibility for a project. Think, “Scotty.”
+
+##### Journeymen
+
+Programmers who are trained, competent, and energetic... ...they will learn to work well in a team and to become team leaders... ...They tend to know one language, one system, one platform; but they are learning more... ...the average is about five years... ...As they gain in experience, autonomy grows. Supervision becomes less direct and more nuanced.
+
+##### Apprentices/Interns
+
+Apprentices have no autonomy. They are very closely supervised by journeymen... ...This should be a time of very intense pair-programming. This is when disciplines are learned and reinforced. This is when the foundation of values is created.
+
+Journeymen... ...make sure that the apprentices know design principles, design patterns, disciplines, and rituals. Journeymen teach TDD, refactoring, estimation, and so forth. They assign reading, exercises, and practices to the apprentices; they review their progress.
+
+If the journeymen are willing to accept the apprentice into their ranks, they will make a recommendation to the masters. The masters should examine the apprentice... ...If the masters agree, then the apprentice becomes a journeyman.
+
+The problem is that... ...In most companies there is no technical supervision at all. Programmers get raises and eventual promotions because, well, that’s just what you do with programmers.
+
+Professional values and technical acumen must be taught, nurtured, nourished, coddled, and encultured.
+
+What’s missing from our current sterile approach is the responsibility of the elders to teach the young.
+
+### Craftmanship
+
+A craftsman... ...works quickly, but without rushing,... ...provides reasonable estimates and meets commitments... ...knows when to say no, but tries hard to say yes. A craftsman is a professional.
+
+Craftsmanship is the _mindset_ held by craftsmen. Craftsmanship... ...is handed from one person to another... ...by elders to the young... ...You catch it by observing others and allowing the meme to take hold.
+
+The acceptance of a meme is not so much a rational decision as an emotional one. This is a very _human_ thing.
+
+How do you get people to adopt the craftsmanship meme?... ...make the meme observable... ...act as a role model... ...become a craftsman first, and let your craftsmanship show. Then just let the meme do the rest of the work.
+
+### Conclusion
+
+School does not, and cannot teach the discipline, practice, and skill of being a craftsman. Those things are acquired through years of personal tutelage and mentoring.
+
+It’s time for us to adopt a program of apprenticeship, internship, and long-term guidance.
+
+
 
 
 
