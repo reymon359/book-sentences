@@ -35,11 +35,21 @@ Life is meaningful and... ...we must learn to see life as meaningful despite our
 
 ## Preface to the 1992 Edition
 
+For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side-effect of one’s dedication to a cause greater than oneself.
 
+Happiness must happen, and the same holds for success: you have to let it happen by not caring about it... ...Then you will live to see that in the long run... ...success will follow you precisely because you had _forgotten_ to think of it.
 
 ## PART ONE: Experiences in a Concentration Camp 
 
+Capos—prisoners who acted as trustees, having special privileges—... ...were never hungry... ...were chosen only from those prisoners whose characters promised to make them suitable for such procedures, and if they did not comply with what was expected of them, they were immediately demoted.
 
+The best of us did not return.
+
+Former prisoners often say, “We dislike talking about our experiences. No explanations are needed for those who have been inside, and the others will understand neither how we felt then nor how we feel now.”
+
+We were practically sold as slaves: the firm paid the camp authorities a fixed price per day, per prisoner.
+
+The cigarettes could be exchanged for twelve soups, and twelve soups were often a very real respite from starvation... ...Thus, when we saw a comrade smoking his own cigarettes, we knew he had given up faith in his strength to carry on, and, once lost, the will to live seldom returned.
 
 ## PART TWO: Logotherapy in a Nutshell
 
