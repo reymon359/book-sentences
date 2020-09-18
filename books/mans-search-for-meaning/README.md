@@ -51,6 +51,67 @@ We were practically sold as slaves: the firm paid the camp authorities a fixed p
 
 The cigarettes could be exchanged for twelve soups, and twelve soups were often a very real respite from starvation... ...Thus, when we saw a comrade smoking his own cigarettes, we knew he had given up faith in his strength to carry on, and, once lost, the will to live seldom returned.
 
+“Delusion of reprieve.” The condemned man, immediately before his execution, gets the illusion that he might be reprieved at the very last minute.
+
+There was another group of prisoners who got liquor supplied in almost unlimited quantities by the SS: these were the men who were employed in the gas chambers and crematoriums, and who knew very well that one day they would be relieved by a new shift of men, and that they would have to leave their enforced role of executioner and become victims themselves.
+
+None of us had the slightest idea of the sinister meaning behind that little movement of a man’s finger, pointing now to the right and now to the left, but far more frequently to the left... ...I inquired from prisoners who had been there for some time where my colleague and friend P—had been sent.
+“Was he sent to the left side?”
+“Yes,” I replied.
+“Then you can see him there,” I was told.
+“Where?” A hand pointed to the chimney a few hundred yards off, which was sending a column of flame up into the grey sky of Poland. It dissolved into a sinister cloud of smoke.
+“That’s where your friend is, floating up to Heaven,” was the answer. But I still did not understand until the truth was explained to me in plain words.
+
+While we were waiting for the shower, our nakedness was brought home to us: we really had nothing now except our bare bodies—even minus hair; all we possessed, literally, was our naked existence. What else remained for us as a material link with our former lives?
+
+Thus the illusions some of us still held were destroyed one by one, and then, quite unexpectedly, most of us were overcome by a grim sense of humor. We knew that we had nothing to lose except our so ridiculously naked lives.
+
+Apart from that strange kind of humor, another sensation seized us: curiosity... ...I felt only one sensation at the critical moment: curiosity, curiosity as to whether I should come out of it alive or with... ...some other injuries.
+
+Cold curiosity predominated even in Auschwitz, somehow detaching the mind from its surroundings, which came to be regarded with a kind of objectivity. At that time one cultivated this state of mind as a means of protection.
+
+How much we could endure: we were unable to clean our teeth, and yet, in spite of that and a severe vitamin deficiency, we had healthier gums than ever before... ...For days we were unable to wash... ...and yet the sores and abrasions on hands which were dirty from work in the soil did not suppurate... ...a light sleeper,... ...found himself lying pressed against a comrade who snored loudly a few inches from his ear and yet slept quite soundly through the noise.
+
+> Man is a creature that can get accustomed to anything, and I think that is the best definition of him.
+> — Fyodor Dostoevsky, The House of the Dead
+
+The thought of suicide was entertained by nearly everyone, if only for a brief time.
+
+There was little point in committing suicide, since, for the average inmate, life expectation, calculating objectively and counting all likely chances, was very poor.
+
+The prisoner of Auschwitz, in the first phase of shock, did not fear death. Even the gas chambers lost their horrors for him after the first few days—after all, they spared him the act of committing suicide.
+
+‘Moslem’... ...A man who looks miserable, down and out, sick and emaciated, and who cannot manage hard physical labor any longer... ...Sooner or later, usually sooner, every ‘Moslem’ goes to the gas chambers.
+
+> There are things which must cause you to lose your reason or you have none to lose.
+> — Lessing
+
+> If the world doesn't ocasionally cause you to go crazy then you're already crazy.
+> — [Daniel R Hicks - Hot Licks](https://english.stackexchange.com/questions/258735/lessings-quote-and-its-meaning#comment567388_258735)
+
+An abnormal reaction to an abnormal situation is normal behavior.
+
+The reaction of a man to his admission to a concentration camp also represents an abnormal state of mind, but judged objectively it is a normal and, as will be shown later, typical reaction to the given circumstances.
+
+In a few days. The prisoner passed... ...to the second phase; the phase of relative apathy, in which he achieved a kind of emotional death.
+
+Between the huts in the camp lay pure filth, and the more one worked to clear it away, the more one had to come in contact with it.
+
+Disgust, horror and pity are emotions that our spectator could not really feel any more. The sufferers, the dying and the dead, became such commonplace sights to him after a few weeks of camp life that they could not move him any more.
+
+Apathy, the blunting of the emotions and the feeling that one could not care any more, were the symptoms arising during the second stage of the prisoner’s psychological reactions, and which eventually made him insensitive to daily and hourly beatings. By means of this insensibility the prisoner soon surrounded himself with a very necessary protective shell.
+
+At such a moment it is not the physical pain which hurts the most (and this applies to adults as much as to punished children); it is the mental agony caused by the injustice, the unreasonableness of it all.
+
+Strangely enough, a blow which does not even find its mark can, under certain circumstances, hurt more than one that finds its mark.
+
+The most painful part of beatings is the insult which they imply.
+
+Like nearly all the camp inmates I was
+suffering from edema. My legs were so swollen and the skin on them so tightly stretched that I could scarcely bend my knees. I had to leave my shoes unlaced in order to make them fit my swollen feet. There would not have been space for socks even if I had had any. So my partly bare feet were always wet and my shoes always full of snow. This, of course, caused frostbite and chilblains. Every single step became real torture.
+
+
+
 ## PART TWO: Logotherapy in a Nutshell
 
 
