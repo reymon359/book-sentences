@@ -157,6 +157,48 @@ I sensed my spirit piercing through the enveloping gloom. I felt it transcend th
 
 Art. Is there such a thing in a concentration camp? It rather depends on what one chooses to call art. A kind of cabaret was improvised from time to time... ...They came to have a few laughs or perhaps to cry a little; anyway, to forget... ...All were meant to help us forget, and they did help. The gatherings were so effective that a few ordinary prisoners went to see the cabaret in spite of their fatigue even though they missed their daily portion of food by going.
 
+Humor, more than anything else in the human make-up, can afford an aloofness and an ability to rise above any situation, even if only for a few seconds.
+
+The attempt to develop a sense of humor and to see things in a humorous light is some kind of a trick learned while mastering the art of living. Yet it is possible to practice the art of living even in a concentration camp, although suffering is omnipresent.
+
+A very trifling thing can cause the greatest of joys.
+
+No man should judge unless he asks himself in absolute honesty whether in a similar situation he might not have done the same.
+
+Everything that was not connected with the immediate task of keeping oneself and one’s closest friends alive lost its value. Everything was sacrificed to this end. A man’s character became involved to the point that he was caught in a mental turmoil which threatened all the values he held and threw them into doubt. Under the influence of a world which no longer recognized the value of human life and human dignity, which had robbed man of his will and had made him an object to be exterminated (having planned, however, to make full use of him first—to the last ounce of his physical resources)—under this influence the personal ego finally suffered a loss of values. If the man in the concentration camp did not struggle against this in a last effort to save his self-respect, he lost the feeling of being an individual, a being with a mind, with inner freedom and personal value. He thought of himself then as only a part of an enormous mass of people; his existence descended to the level of animal life.
+
+We, the sheep, thought of two things only—how to evade the bad dogs and how to get a little food.
+
+One of the camp’s most imperative laws of self-preservation: Do not be conspicuous. We tried at all times to avoid attracting the attention of the SS.
+
+There were times, of course, when it was possible, and even necessary, to keep away from the crowd. It is well known that an enforced community life, in which attention is paid to everything one does at all times, may result in an irresistible urge to get away, at least for a short while. The prisoner craved to be alone with himself and his thoughts. He yearned for privacy and for solitude.
+
+I just sat and looked out at the green flowering slopes and the distant blue hills of the Bavarian landscape, framed by the meshes of barbed wire. I dreamed longingly,... ...The corpses near me, crawling with lice, did not bother me. Only the steps of passing guards could rouse me from my dreams.
+
+The desperately ill received no medicine. It would not have helped, and besides, it would have deprived those for whom there was still some hope. For light cases, I had nothing, except perhaps a word of encouragement.
+
+The list was the only thing that mattered. A man counted only because he had a prison number. One literally became a number: dead or alive—that was unimportant; the life of a “number” was completely irrelevant. What stood behind that number and that life mattered even less: the fate, the history, the name of the man.
+
+We had no documents; everyone was lucky to own his body, which, after all, was still breathing.
+
+I told him that this was not my way; that I had learned to let fate take its course. “I might as well stay with my friends,” I said. There was a look of pity in his eyes, as if he knew. . . . He shook my hand silently, as though it were a farewell, not for life, but from life.
+
+The next morning I departed with the transport... ...We were not heading for the gas chambers, and we actually did go to a rest camp. Those who had pitied me remained in a camp where famine was to rage even more fiercely than in our new camp... ...Months later, after liberation, I met a friend from the old camp. He related to me how he, as camp policeman, had searched for a piece of human flesh that was missing from a pile of corpses. He confiscated it from a pot in which he found it cooking. Cannibalism had broken out. I had left just in time.
+
+The story of Death in Teheran
+> A rich and mighty Persian once walked in his garden with one of his servants. The servant cried that he had just encountered Death, who had threatened him. He begged his master to give him his fastest horse so that he could make haste and flee to Teheran, which he could reach that same evening. The master consented and the servant galloped off on the horse. On returning to his house the master himself met Death, and questioned him, “Why did you terrify and threaten my servant?” “I did not threaten him; I only showed surprise in still finding him here when I planned to meet him tonight in Teheran,” said Death.
+
+At times, lightning decisions had to be made, decisions which spelled life or death.
+
+The unpleasant feeling that had gripped me as soon as I had told my friend I would escape with him became more intense. Suddenly I decided to take fate into my own hands for once. I ran out of the hut and told my friend that I could not go with him. As soon as I had told him with finality that I had made up my mind to stay with my patients, the unhappy feeling left me. I did not know what the following days would bring, but I had gained an inward peace that I had never experienced before.
+
+Our last day in camp arrived. As the battle-front came nearer, mass transports had taken nearly all the prisoners to other camps. The camp authorities, the Capos and the cooks had fled. On this day an order was given that the camp must be evacuated completely by sunset... ...At night, the camp was to be set on fire... ...For the second time my friend and I decided to escape... ...After three years of imprisonment, I was picturing freedom joyously, imagining how wonderful it would be to run toward the battle-front. But we did not get that far. The very moment when my friend came back, the camp gate was thrown open. A splendid, aluminum-colored car, on which were painted large red crosses, slowly rolled on to the parade ground. A delegate from the International Red Cross in Geneva had arrived, and the camp and its inmates were under his protection... ...The Red Cross delegate had assured us that an agreement had been signed, and that the camp must not be evacuated. But that night the SS arrived with trucks and brought an order to clear the camp. The last remaining prisoners were to be taken to a central camp... ...The chief doctor counted out the requisite number, but he omitted the two of us... ...and we had to stay behind... ...e slept in our clothes and shoes, ready for the journey. The noise of rifles and cannons woke us... ...Then we grasped what was happening: the battle-front had reached us! The shooting decreased and morning dawned. Outside on the pole at the camp gate a white flag floated in the wind. Many weeks later we found out that... ...Our friends who had thought they were traveling to freedom that night had been taken in the trucks to this camp, and there they were locked in the huts and burned to death. Their partially charred bodies were recognizable on the photograph. I thought again of Death in Teheran.
+
+How uncertain human decisions are, especially in matters of life and death.
+
+Apart from its role as a defensive mechanism, the prisoners’ apathy was also the result of other factors. Hunger and lack of sleep contributed to it (as they do in normal life, also) and to the general irritability which was another characteristic of the prisoners’ mental state.
+
+The lack of sleep was due partly to the pestering of vermin which infested the terribly overcrowded huts because of the general lack of hygiene and sanitation.
 
 
 
