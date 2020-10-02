@@ -200,10 +200,172 @@ Apart from its role as a defensive mechanism, the prisoners’ apathy was also t
 
 The lack of sleep was due partly to the pestering of vermin which infested the terribly overcrowded huts because of the general lack of hygiene and sanitation.
 
+The majority of prisoners suffered from a kind of inferiority complex. We all had once been or had fancied ourselves to be “somebody.” Now we were treated like complete nonentities. (The consciousness of one’s inner value is anchored in higher, more spiritual things, and cannot be shaken by camp life. But how many free men, let alone prisoners, possess it?)
 
+Since the prisoner continually witnessed scenes of beatings, the impulse toward violence was increased.
+
+The pretense at inspection to which the hut was frequently submitted was more for the purpose of torture than of hygiene.
+
+Apathy was particularly increased among the feverish patients, so that they did not react at all unless they were shouted at. Even this failed at times.
+
+Man does have a choice of action... ...apathy could be overcome, irritability suppressed. Man _can_ preserve a vestige of spiritual freedom, of independence of mind, even in such terrible conditions of psychic and physical stress.
+
+Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.
+
+Even though conditions such as lack of sleep, insufficient food and various mental stresses may suggest that the inmates were bound to react in certain ways, in the final analysis it becomes clear that the sort of person the prisoner became was the result of an inner decision, and not the result of camp influences alone.
+
+Fundamentally, therefore, any man can... ...decide what shall become of him—mentally and spiritually. He may retain his human dignity even in a concentration camp.
+
+> There is only one thing that I dread: not to be worthy of my sufferings.
+> — Dostoevski
+
+It is this spiritual freedom—which cannot be taken away—that makes life meaningful and purposeful.
+
+If there is a meaning in life at all, then there must be a meaning in suffering. Suffering is an ineradicable part of life, even as fate and death. Without suffering and death human life cannot be complete.
+
+The way in which a man accepts his fate... ...gives him ample opportunity... ...to add a deeper meaning to his life. It may remain brave, dignified and unselfish. Or in the bitter fight for self- preservation he may forget his human dignity and become no more than an animal... ...and this decides whether he is worthy of his sufferings or not.
+
+Which was ultimately responsible for the state of the prisoner’s inner self was not so much the enumerated psychophysical causes as it was the result of a free decision.
+
+Psychological observations of the prisoners have shown that only the men who allowed their inner hold on their moral and spiritual selves to subside eventually fell victim to the camp’s degenerating influences.
+
+The most depressing influence of all was that a prisoner could not know how long his term of imprisonment would be.
+
+Life in a concentration camp could be called a... ...“provisional existence of unknown limit.”
+
+On entering camp a change took place in the minds of the men. With the end of uncertainty there came the uncertainty of the end.
+
+The unemployed... ...suffer from a peculiar sort of deformed time—inner time—which is a result of their unemployed state... ...a small time unit, a day, for example, filled with hourly tortures and fatigue, appeared endless. A larger time unit, perhaps a week, seemed to pass very quickly... ...a day lasted longer than a week.
+
+Patients... ...who know no date for their release... ...experience a similar existence—without a future and without a goal.
+
+Anything outside the barbed wire became remote—out of reach and, in a way, unreal. The events and the people outside, all the normal life there, had a ghostly aspect for the prisoner. The outside life, that is, as much as he could see of it, appeared to him almost as it might have to a dead man who looked at it from another world.
+
+A man who let himself decline because he could not see any future goal found himself occupied with retrospective thoughts... ...But in robbing the present of its reality there lay a certain danger. It became easy to overlook the opportunities to make something positive of camp life, opportunities which really did exist.
+
+They preferred to close their eyes and to live in the past. Life for such people became meaningless.
+
+> Life is like being at the dentist. You always think that the worst is still to come, and yet it is over already.
+> — Bismarck
+
+In reality, there was an opportunity and a challenge. One could make a victory of those experiences, turning life into an inner triumph, or one could ignore the challenge and simply vegetate, as did a majority of the prisoners.
+
+It is a peculiarity of man that he can only live by looking to the future—_sub specie aeternitatis._ And this is his salvation in the most difficult moments of his existence, although he sometimes has to force his mind to the task.
+
+_Sub specie aeternitatis_ (Latin for "under the aspect of eternity") is, from Baruch Spinoza onwards, an honorific expression describing what is universally and eternally true, without any reference to or dependence upon the temporal portions of reality.
+
+By this method I succeeded somehow in rising above the situation, above the sufferings of the moment, and I observed them as if they were already of the past. Both I and my troubles became the object of an interesting psychoscientific study undertaken by myself.
+
+> “Affectus, qui passio est, desinit esse passio simulatque eius claram et distinctam formamus ideam.” Emotion, which is suffering, ceases to be suffering as soon as we form a clear and precise picture of it.
+> — Spinoza, Ethics
+
+The prisoner who had lost faith in the future—his future—was doomed... ...We all feared this moment— not for ourselves, which would have been pointless, but for our friends.
+
+Those who know how close the connection is between the state of mind of a man—his courage and hope, or lack of them—and the state of immunity of his body will understand that the sudden loss of hope and courage can have a deadly effect.
+
+The death rate in the week between Christmas, 1944, and New Year’s, 1945, increased in camp beyond all previous experience... ...the majority of the prisoners had lived in the naïve hope that they would be home again by Christmas. As the time drew near and there was no encouraging news, the prisoners lost courage and disappointment overcame them. This had a dangerous influence on their powers of resistance and a great number of them died.
+
+Any attempt to restore a man’s inner strength... ...had first to succeed in showing him some future goal.
+
+> He who has a why to live for can bear with almost any how.
+> — Nietzsche
+
+We had to learn ourselves and, furthermore, we had to teach the despairing men, that _it did not really matter what we expected from life, but rather what life expected from us._
+
+Life ultimately means taking the responsibility to find the right answer to its problems and to fulfill the tasks which it constantly sets for each individual.
+
+The meaning of life, differ from man to man, and from moment to moment. Thus it is impossible to define the meaning of life in a general way. Questions about the meaning of life can never be answered by sweeping statements. “Life” does not mean something vague, but something very real and concrete, just as life’s tasks are also very real and concrete. They form man’s destiny, which is different and unique for each individual. No man and no destiny can be compared with any other man or any other destiny. No situation repeats itself, and each situation calls for a different response.
+
+The meaning of life, differ from man to man, and from moment to moment. Thus it is impossible to define the meaning of life in a general way.
+
+Long ago we had passed the stage of asking what was the meaning of life, a naïve query which understands life as the attaining of some aim through the active creation of something of value. For us, the meaning of life embraced the wider cycles of life and death, of suffering and of dying.
+
+> “Wie viel ist aufzuleiden!” (How much suffering there is to get through!)
+> — Rilke
+
+There was plenty of suffering for us to get through. Therefore, it was necessary to face up to the full amount of suffering, trying to keep moments of weakness and furtive tears to a minimum.
+
+There was no need to be ashamed of tears, for tears bore witness that a man had the greatest of courage, the courage to suffer. Only very few realized that.
+
+A very strict camp ruling forbade any efforts to save a man who attempted suicide. It was forbidden, for example, to cut down a man who was trying to hang himself. Therefore, it was all important to prevent these attempts from occurring.
+
+This uniqueness and singleness which distinguishes each individual and gives a meaning to his existence has a bearing on creative work as much as it does on human love. When the impossibility of replacing a person is realized, it allows the responsibility which a man has for his existence and its continuance to appear in all its magnitude.
+
+A man who... ...knows the “why” for his existence,... ...will be able to bear almost any “how.”
+
+The immediate influence of behavior is always more effective than that of words.
+
+Whoever was still alive had reason for hope. Health, family, happiness, professional abilities, fortune, position in society—all these were things that could be achieved again or restored. After all, we still had all our bones intact. Whatever we had gone through could still be an asset to us in the future.
+
+> “Was mich nicht umbringt, macht mich stärker.” (That which does not kill me, makes me stronger.)
+> — Nietzsche
+
+> “Was Du erlebst, kann keine Macht der Welt Dir rauben.” (What you have experienced, no power on earth can take from you.)
+> — A poet
+
+Not only our experiences, but all we have done, whatever great thoughts we may have had, and all we have suffered, all this is not lost, though it is past; we have brought it into being. Having been is also a kind of being, and perhaps the surest kind.
+
+About the psychological make-up of the camp guards...
+- First, among the guards there were some sadists, sadists in the purest clinical sense. 
+- Second, these sadists were always selected when a really severe detachment of guards was needed.
+- Third, the feelings of the majority of the guards had been dulled by the number of years... ...they had witnessed the brutal methods of the camp.
+- Fourth, it must be stated that even among the guards there were some who took pity on us.
+
+Human kindness can be found in all groups, even those which as a whole it would be easy to condemn.
+
+There are two races of men in this world, but only these two—the “race” of the decent man and the “race” of the indecent man. Both are found everywhere; they penetrate into all groups of society. No group consists entirely of decent or indecent people. In this sense, no group is of “pure race”.
+
+The psychology of the prisoner who has been released... ...the morning when the white flag was hoisted above the camp gates... ...we ventured a few steps out of camp... ...guards... ...had hurriedly changed into civilian clothes... ...“Freedom”—we repeated to ourselves, and yet we could not grasp it. We had said this word so often during all the years we dreamed about it, that it had lost its meaning. Its reality did not penetrate into our consciousness; we could not grasp the fact that freedom was ours... ...we did not yet belong to this world... ...We had literally lost the ability to feel pleased and had to relearn it slowly.
+
+Psychologically, what was happening to the liberated prisoners could be called “depersonalization.” Everything appeared unreal, unlikely, as in a dream. We could not believe it was true.
+
+The body has fewer inhibitions than the mind. It made good use of the new freedom from the first moment on. It began to eat ravenously, for hours and days, even half the night. It is amazing what quantities one can eat.
+
+It would be an error to think that a liberated prisoner was not in need of spiritual care any more. We have to consider that a man who has been under such enormous mental pressure for such a long time is naturally in some danger after his liberation, especially since the pressure was released quite suddenly. This danger (in the sense of psychological hygiene) is the psychological counterpart of the bends. Just as the physical health of the caisson worker would be endangered if he left his diver’s chamber suddenly (where he is under enormous atmospheric pressure), so the man who has suddenly been liberated from mental pressure can suffer damage to his moral and spiritual health.
+
+No one has the right to do wrong, not even if wrong has been done to them.
+
+Apart from the moral deformity resulting from the sudden release of mental pressure, there were two other fundamental experiences which threatened to damage the character of the liberated prisoner: bitterness and disillusionment when he returned to his former life.
+
+The experience of disillusionment is different... ...A man who for years had thought he had reached the absolute limit of all possible suffering now found that suffering has no limits, and that he could suffer still more, and still more intensely.
+
+We were not prepared for unhappiness. This disillusionment, which awaited not a small number of prisoners, was an experience which these men have found very hard to get over and which, for a psychiatrist, is also very difficult to help them overcome. But this must not be a discouragement to him; on the contrary, it should provide an added stimulus.
+
+The crowning experience of all, for the homecoming man, is the wonderful feeling that, after all he has suffered, there is nothing he need fear any more—except his God.
 
 ## PART TWO: Logotherapy in a Nutshell
 
+“During psychoanalysis, the patient must lie down on a couch and tell you things which sometimes are very disagreeable to tell.”... ...“Now, in logotherapy the patient may remain sitting erect but he must hear things which sometimes are very disagreeable to hear.”
+
+Logotherapy, in comparison with psychoanalysis, is a method less _retrospective_ and less _introspective._
+
+Logotherapy focuses rather on the future, that is to say, on the meanings to be fulfilled by the patient in his future.
+
+In logotherapy the patient is actually confronted with and reoriented toward the meaning of his life. And to make him aware of this meaning can contribute much to his ability to overcome his neurosis.
+
+_Logos_ is a Greek word which denotes “meaning.” Logotherapy,.. ...focuses on the meaning of human existence as well as on man’s search for such a meaning. According to logotherapy, this striving to find a meaning in one’s life is the primary motivational force in man. That is why I speak of a _will to meaning_ in contrast to the pleasure principle (or, as we could also term it, the _will to pleasure_) on which Freudian psychoanalysis is centered, as well as in contrast to the _will to power_ on which Adlerian psychology, using the term “striving for superiority,” is focused.
+
+### THE WILL TO MEANING
+
+Man’s search for meaning is the primary motivation in his life and not a “secondary rationalization” of instinctual drives. This meaning is unique and specific in that it must and can be fulfilled by him alone; only then does it achieve a significance which will satisfy his own _will_ to meaning.
+
+Man... ...is able to live and even to die for the sake of his ideals and values!
+
+### EXISTENTIAL FRUSTRATION
+
+Man’s will to meaning can also be frustrated, in which case logotherapy speaks of “existential frustration.” The term “existential” may be used in three ways: to refer to (1) _existence_ itself, i.e., the specifically human mode of being; (2) the _meaning_ of existence; and (3) the striving to find a concrete meaning in personal existence, that is to say, the _will_ to meaning.
+
+Existential frustration can also result in neuroses. For this type of neuroses, logotherapy has coined the term “noögenic neuroses” in contrast to neuroses in the traditional sense of the word, i.e., psychogenic neuroses.
+
+### NOÖGENIC NEUROSES
+
+Noögenic neuroses do not emerge from conflicts between drives and instincts but rather from existential problems. Among such problems, the frustration of the will to meaning plays a large role.
+
+Existential frustration is in itself neither pathological nor pathogenic. A man’s concern, even his despair, over the worthwhileness of life is an _existential distress_ but by no means a _mental disease._
+
+Logotherapy regards its assignment as that of assisting the patient to find meaning in his life. Inasmuch as logotherapy makes him aware of the hidden _logos_ of his existence, it is an analytical process.
+
+Any analysis, however, even when it refrains from including the noölogical dimension in its therapeutic process, tries to make the patient aware of what he actually longs for in the depth of his being. Logotherapy deviates from psychoanalysis insofar as it considers man a being whose main concern consists in fulfilling a meaning, rather than in the mere gratification and satisfaction of drives and instincts, or in merely reconciling the conflicting claims of id, ego and superego, or in the mere adaptation and adjustment to society and environment.
 
 
 ## POSTSCRIPT 1984: The Case for a Tragic Optimism
