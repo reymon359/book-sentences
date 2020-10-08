@@ -367,6 +367,109 @@ Logotherapy regards its assignment as that of assisting the patient to find mean
 
 Any analysis, however, even when it refrains from including the noölogical dimension in its therapeutic process, tries to make the patient aware of what he actually longs for in the depth of his being. Logotherapy deviates from psychoanalysis insofar as it considers man a being whose main concern consists in fulfilling a meaning, rather than in the mere gratification and satisfaction of drives and instincts, or in merely reconciling the conflicting claims of id, ego and superego, or in the mere adaptation and adjustment to society and environment.
 
+### NOÖ-DYNAMICS
+
+There is nothing in the world,... ...,that would so effectively help one to survive even the worst conditions as the knowledge that there is a meaning in one’s life.
+
+Mental health is based on a certain degree of tension, the tension between what one has already achieved and what one still ought to accomplish, or the gap between what one is and what one should become. Such a tension is inherent in the human being and therefore is indispensable to mental well-being.
+
+What man actually needs is not a tensionless state but rather the striving and struggling for a worthwhile goal, a freely chosen task.
+
+“noö-dynamics,” i.e., the existential dynamics in a polar field of tension where one pole is represented by a meaning that is to be fulfilled and the other pole by the man who has to fulfill it.
+
+### THE EXISTENTIAL VACUUM
+
+The existential vacuum... ...man has suffered... ...loss in his more recent development inasmuch as the traditions which buttressed his behavior are now rapidly diminishing. No instinct tells him what he has to do, and no tradition tells him what he ought to do; sometimes he does not even know what he wishes to do. Instead, he either wishes to do what other people do (conformism) or he does what other people wish him to do (totalitarianism).
+
+The existential vacuum manifests itself mainly in a state of boredom.
+
+> Mankind was apparently doomed to vacillate eternally between the two extremes of distress and boredom.
+> — Schopenhauer
+
+Progressive automation will probably lead to an enormous increase in the leisure hours available to the average worker. The pity of it is that many of these will not know what to do with all their newly acquired free time.
+
+Sometimes the frustrated will to meaning is vicariously compensated for by a will to power, including the most primitive form of the will to power, the will to money. In other cases, the place of frustrated will to meaning is taken by the will to pleasure. That is why existential frustration often eventuates in sexual compensation. We can observe in such cases that the sexual libido becomes rampant in the existential vacuum.
+
+> Every therapy must in some way, no matter how restricted, also be logotherapy.
+> — Magda B. Arnold
+
+### THE MEANING OF LIFE
+
+The meaning of life differs from man to man, from day to day and from hour to hour. What matters, therefore, is not the meaning of life in general but rather the specific meaning of a person’s life at a given moment.
+
+Everyone has his own specific vocation or mission in life to carry out a concrete assignment which demands fulfillment. Therein he cannot be replaced, nor can his life be repeated. Thus, everyone’s task is as unique as is his specific opportunity to implement it.
+
+The question of the meaning of life may actually be reversed. Ultimately, man should not ask what the meaning of his life is, but rather he must recognize that it is _he_ who is asked. In a word, each man is questioned by life; and he can only answer to life by _answering for_ his own life; to life he can only respond by being responsible. Thus, logotherapy sees in responsibleness the very essence of human existence.
+
+Logotherapy sees in responsibleness the very essence of human existence.
+
+### THE ESSENCE OF EXISTENCE
+
+“Live as if you were living already for the second time and as if you had acted the first time as wrongly as you are about to act now!”
+
+The present is past and, second, that the past may yet be changed and amended. Such a precept confronts him with life’s _finiteness_ as well as the _finality_ of what he makes out of both his life and himself.
+
+Logotherapy tries to make the patient fully aware of his own responsibleness; therefore, it must leave to him the option for what, to what, or to whom he understands himself to be responsible.
+
+A logotherapist,... ...will never permit the patient to pass to the doctor the responsibility of judging.
+
+The logotherapist’s role consists of widening and broadening the visual field of the patient so that the whole spectrum of potential meaning becomes conscious and visible to him.
+
+The true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system.
+
+Being human always points, and is directed, to something, or someone, other than oneself... ...The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself.
+
+Self-actualization is not an attainable aim at all, for the simple reason that the more one would strive for it, the more he would miss it. In other words, self-actualization is possible only as a side-effect of self-transcendence.
+
+We can discover meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.
+
+The second way of finding a meaning in life is by experiencing something—such as goodness, truth and beauty—by experiencing nature and culture or, last but not least, by experiencing another human being in his very uniqueness—by loving him.
+
+### THE MEANING OF LOVE
+
+Love is the only way to grasp another human being in the innermost core of his personality.
+
+No one can become fully aware of the very essence of another human being unless he loves him.
+
+By his love, the loving person enables the beloved person to actualize these potentialities. By making him aware of what he can be and of what he should become, he makes these potentialities come true.
+
+Love is as primary a phenomenon as sex... ...Sex is justified, even sanctified, as soon as, but only as long as, it is a vehicle of love... ...sex is a way of expressing the experience of that ultimate togetherness which is called love.
+
+### THE MEANING OF SUFFERING
+
+We may also find meaning in life even when confronted with a hopeless situation, when facing a fate that cannot be changed. For what then matters is to bear witness to the uniquely human potential at its best, which is to transform a personal tragedy into a triumph.
+
+When we are no longer able to change a situation—just think of an incurable disease such as inoperable cancer—we are challenged to change ourselves.
+
+Suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.
+
+It is one of the basic tenets of logotherapy that man’s main concern is not to gain pleasure or to avoid pain but rather to see a meaning in his life. That is why man is even ready to suffer, on the condition, to be sure, that his suffering has a meaning.
+
+In no way is suffering _necessary_ to find meaning. I only insist that meaning is possible even in spite of suffering—provided, certainly, that the suffering is unavoidable. If it _were_ avoidable, however, the meaningful thing to do would be to remove its cause,... ...To suffer unnecessarily is masochistic rather than heroic.
+
+> Our current mental-hygiene philosophy stresses the idea that people ought to be happy, that unhappiness is a symptom of maladjustment. Such a value system might be responsible for the fact that the burden of unavoidable unhappiness is increased by unhappiness about being unhappy.
+> — Edith Weisskopf-Joelson
+
+What never can be ruled out is the unavoidability of suffering. In accepting this challenge to suffer bravely, life has a meaning up to the last moment, and it retains this meaning literally to the end. In other words, life’s meaning is an unconditional one, for it even includes the potential meaning of unavoidable suffering.
+
+### META-CLINICAL PROBLEMS
+
+More and more, a psychiatrist is approached today by patients who confront him with human problems rather than neurotic symptoms. Some of the people who nowadays call on a psychiatrist would have seen a pastor, priest or rabbi in former days. Now they often refuse to be handed over to a clergyman and instead confront the doctor with questions such as, “What is the meaning of my life?”
+
+### A LOGODRAMA
+
+I asked her how old she was and she answered, “Thirty.” I replied, “No, you are not thirty but instead eighty and lying on your deathbed. And now you are looking back on your life.
+
+A life of short duration... ...could be so rich in joy and love that it could contain more meaning than a life lasting eighty years.
+
+“And what about man? Are you sure that the human world is a terminal point in the evolution of the cosmos? Is it not conceivable that there is still another dimension, a world beyond man’s world; a world in which the question of an ultimate meaning of human suffering would find an answer?”
+
+### THE SUPER-MEANING
+
+What is demanded of man is not, as some existential philosophers teach, to endure the meaninglessness of life, but rather to bear his incapacity to grasp its unconditional meaningfulness in rational terms. _Logos_ is deeper than logic.
+
+
+
 
 ## POSTSCRIPT 1984: The Case for a Tragic Optimism
 
