@@ -468,6 +468,49 @@ A life of short duration... ...could be so rich in joy and love that it could co
 
 What is demanded of man is not, as some existential philosophers teach, to endure the meaninglessness of life, but rather to bear his incapacity to grasp its unconditional meaningfulness in rational terms. _Logos_ is deeper than logic.
 
+### LIFE’S TRANSITORINESS
+
+Those things which seem to take meaning away from human life include not only suffering but dying as well.
+
+For, in the past, nothing is irretrievably lost but everything irrevocably stored.
+
+Thus, the transitoriness of our existence in no way makes it meaningless. But it does constitute our responsibleness; for everything hinges upon our realizing the essentially transitory possibilities.
+
+At any moment, man must decide, for better or for worse, what will be the monument of his existence.
+
+_Having been_ is the surest kind of being.
+
+The person who attacks the problems of life actively is like a man who removes each successive leaf from his calendar and files it neatly and carefully away with its predecessors, after first having jotted down a few diary notes on the back. He can reflect with pride and joy on all the richness set down in these notes, on all the life he has already lived to the fullest.
+
+What reasons has he to envy a young person? For the possibilities that a young person has, the future which is in store for him? “No, thank you,” he will think. “Instead of possibilities, I have realities in my past, not only the reality of work done and of love loved, but of sufferings bravely suffered. These sufferings are even the things of which I am most proud, though these are things which cannot inspire envy.”
+
+### LOGOTHERAPY AS A TECHNIQUE
+
+Anticipatory anxiety... ...this fear that produces precisely that of which the patient is afraid. 
+
+One might amend the saying “The wish is father to the thought” to “The fear is mother of the event.”
+
+A forced intention makes impossible what one forcibly wishes.
+
+The more a man tries to demonstrate his sexual potency or a woman her ability to experience orgasm, the less they are able to succeed. Pleasure is, and must remain, a side-effect or by-product, and is destroyed and spoiled to the degree to which it is made a goal in itself.
+
+The patient had lived constantly with the fearful expectation of the toll which her traumatic experience would someday take. This anticipatory anxiety resulted both in excessive intention to confirm her femininity and excessive attention centered upon herself rather than upon her partner. This was enough to incapacitate the patient for the peak experience of sexual pleasure, since the orgasm was made an object of intention, and an object of attention as well, instead of remaining an unintended effect of unreflected dedication and surrender to the partner. After undergoing short-term logotherapy, the patient’s excessive attention and intention of her ability to experience orgasm had been “dereflected,” to introduce another logotherapeutic term. When her attention was refocused toward the proper object, i.e., the partner, orgasm established itself spontaneously.
+
+Logotherapy bases its technique called “paradoxical intention” on the twofold fact that fear brings about that which one is afraid of, and that hyper-intention makes impossible what one wishes.
+
+This procedure consists of a reversal of the patient’s attitude, inasmuch as his fear is replaced by a paradoxical wish. By this treatment, the wind is taken out of the sails of the anxiety.
+
+make use of the specifically human capacity for self-detachment inherent in a sense of humor. This basic capacity to detach one from oneself is actualized whenever the logotherapeutic technique called paradoxical intention is applied... ...the patient is enabled to put himself at a distance from his own neurosis.
+
+> “The neurotic who learns to laugh at himself may be on the way to self-management, perhaps to cure.”
+> — Gordon W. Allport’s book, _The Individual and His Religion_
+
+Paradoxical intention is the empirical validation and clinical application of Allport’s statement.
+
+Paradoxical intention can also be applied in cases of sleep disturbance. The fear of sleeplessness results in a hyper-intention to fall asleep, which, in turn, incapacitates the patient to do so. To overcome this particular fear, I usually advise the patient not to try to sleep but rather to try to do just the opposite, that is, to stay awake as long as possible. In other words, the hyper-intention to fall asleep, arising from the anticipatory anxiety of not being able to do so, must be replaced by the paradoxical intention not to fall asleep, which soon will be followed by sleep.
+
+Paradoxical intention is no panacea. Yet it lends itself as a useful tool in treating obsessive-compulsive and phobic conditions, especially in cases with underlying anticipatory anxiety.
+
 
 
 
