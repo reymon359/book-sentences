@@ -511,6 +511,45 @@ Paradoxical intention can also be applied in cases of sleep disturbance. The fea
 
 Paradoxical intention is no panacea. Yet it lends itself as a useful tool in treating obsessive-compulsive and phobic conditions, especially in cases with underlying anticipatory anxiety.
 
+One of “the more common illusions of Freudian orthodoxy,” to quote the late Emil A. Gutheil, “is that the durability of results corresponds to the length of therapy.”
+
+> Although traditional psychotherapy has insisted that therapeutic practices have to be based on findings on etiology, it is possible that certain factors might cause neuroses during early childhood and that entirely different factors might relieve neuroses during adulthood.
+> — Edith Weisskopf-Joelson
+
+As for the actual causation of neuroses... ...such feedback mechanisms as anticipatory anxiety seem to be a major pathogenic factor. A given symptom is responded to by a phobia, the phobia triggers the symptom, and the symptom, in turn, reinforces the phobia.
+
+As soon as the patient stops fighting his obsessions and instead tries to ridicule them by dealing with them in an ironical way—by applying paradoxical intention—_the vicious circle is cut,_ the symptom diminishes and finally atrophies.
+
+Anticipatory anxiety has to be counteracted by paradoxical intention; hyper-intention as well as hyper-reflection have to be counteracted by dereflection; dereflection, however, ultimately is not possible except by the patient’s orientation toward his specific vocation and mission in life.
+
+> As the focus of striving shifts from the conflict to selfless goals, the life as a whole becomes sounder even though the neurosis may never completely disappear.
+> — Allport
+
+It is not the neurotic’s self-concern, whether pity or contempt, which breaks the circle formation; the cue to cure is self-transcendence!
+
+### THE COLLECTIVE NEUROSIS
+
+There is a danger inherent in the teaching of man’s “nothingbutness,” the theory that man is nothing but the result of biological, psychological and sociological conditions, or the product of heredity and environment.
+
+A human being is a finite thing, and his freedom is restricted. It is not freedom from conditions, but it is freedom to take a stand toward the conditions.
+
+### CRITIQUE OF PAN-DETERMINISM
+
+“Pan-determinism.”... ...the view of man which disregards his capacity to take a stand toward any conditions whatsoever.
+
+Man is _not_ fully conditioned and determined but rather determines himself whether he gives in to conditions or stands up to them. In other words, man is ultimately self-determining.
+
+Man does not simply exist but always decides what his existence will be, what he will become in the next moment.
+
+Every human being has the freedom to change at any instant.
+
+Man is capable of changing the world for the better if possible, and of changing himself for the better if necessary.
+
+How can we dare to predict the behavior of man? We may predict the movements of a machine, of an automaton; more than this, we may even try to predict the mechanisms or “dynamisms” of the human _psyche_ as well. But man is more than _psyche._
+
+Freedom, however, is not the last word. Freedom is only part of the story and half of the truth. Freedom is but the negative aspect of the whole phenomenon whose positive aspect is responsibleness. In fact, freedom is in danger of degenerating into mere arbitrariness unless it is lived in terms of responsibleness.
+
+_I recommend that the Statue of Liberty on the East Coast be supplemented by a Statue of Responsibility on the West Coast._
 
 
 
