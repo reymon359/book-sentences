@@ -565,10 +565,31 @@ _Things_ determine each other, but _man_ is ultimately self-determining.
 
 Man has... ...potentialities within himself; which one is actualized depends on decisions but not on conditions.
 
-
-
-
 ## POSTSCRIPT 1984: The Case for a Tragic Optimism
+
+“A tragic optimism.”... ...means that one is, and remains, optimistic in spite of the “tragic triad,”... ...which consists of those aspects of human existence which may be circumscribed by: (1) pain; (2) guilt; and (3) death.
+
+“Saying yes to life in spite of everything,”... ...presupposes that life is potentially meaningful under any conditions... ...And this in turn presupposes the human capacity to creatively turn life’s negative aspects into something positive or constructive.
+
+What matters is to make the best of any given situation. “The best,”... ...in Latin is called _optimum_—hence the reason... ...of a tragic optimism, that is, an optimism in the face of tragedy.
+
+The human potential... ...at its best always allows for: (1) turning suffering into a human achievement and accomplishment; (2) deriving from guilt the opportunity to change oneself for the better; and (3) deriving from life’s transitoriness an incentive to take responsible action.
+
+One cannot even force oneself to be optimistic indiscriminately, against all odds, against all hope.
+
+Hope... ...faith and love cannot be commanded or ordered either.
+
+Happiness cannot be pursued; it must ensue. One must have a reason to “be happy.” Once the reason is found, however, one becomes happy automatically.
+
+A human being is not one in pursuit of happiness but rather in search of a reason to become happy, last but not least, through actualizing the potential meaning inherent and dormant in a given situation.
+
+“Hyperintention.” It plays an important role in the causation of sexual neurosis, be it frigidity or impotence. The more a patient, instead of forgetting himself through giving himself, directly strives for orgasm, i.e., sexual pleasure, the more this pursuit of sexual pleasure becomes self-defeating.
+
+Once an individual’s search for a meaning is successful, it not only renders him happy but also gives him the capability to cope with suffering.
+
+Meaning orientation had subsided, and consequently the seeking of immediate pleasure had taken over.
+
+
 
 ## About the Author
 
