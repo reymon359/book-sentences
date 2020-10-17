@@ -825,6 +825,7 @@ You really only have a few choices:
 - Test First 
 - Test During 
 - Test Never
+
 Test First, including Test-Driven Design, is probably your best choice in most circumstances, as it ensures that testing happens. But sometimes that’s not as convenient or useful, so Test During coding can be a good fallback, where you write some code, fiddle with it, write the tests for it, then move on to the next bit. The worst choice is often called "Test Later," but who are you kidding? "Test Later" really means "Test Never."
 
 Treat test code with the same care as any production code. Keep it decoupled, clean, and robust. Don’t rely on unreliable things.
