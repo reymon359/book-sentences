@@ -551,9 +551,26 @@ Freedom, however, is not the last word. Freedom is only part of the story and ha
 
 _I recommend that the Statue of Liberty on the East Coast be supplemented by a Statue of Responsibility on the West Coast._
 
+### THE PSYCHIATRIC CREDO
+
+There is nothing conceivable which would so condition a man as to leave him without the slightest freedom.
+
+An incurably psychotic individual may lose his usefulness but yet retain the dignity of a human being. This is my psychiatric credo.
+
+### PSYCHIATRY REHUMANIZED
+
+For too long a time... ...psychiatry tried to interpret the human mind merely as a mechanism, and consequently the therapy of mental disease merely in terms of a technique... ...What now begins to loom on the horizon are not the sketches of a psychologized medicine but rather those of a humanized psychiatry.
+
+_Things_ determine each other, but _man_ is ultimately self-determining.
+
+Man has... ...potentialities within himself; which one is actualized depends on decisions but not on conditions.
+
+
 
 
 ## POSTSCRIPT 1984: The Case for a Tragic Optimism
 
 ## About the Author
+
+
 
