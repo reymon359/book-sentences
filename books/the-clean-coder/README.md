@@ -442,7 +442,7 @@ No professional developer should ever follow a discipline when that discipline d
 
 All professionals practice their art by engaging in skill-sharpening exercises... ...When performance matters, professionals practice.
 
-### Some Background on Practicing
+### Some Background on Practicing
 
 Practicing is not a new concept in software development, but we didn’t recognize it as practicing until just after the turn of the millennium... ...We were too busy writing code to think about practicing our skills.
 
