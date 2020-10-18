@@ -82,7 +82,7 @@
     - [Trivariate Estimates](#trivariate-estimates)
   - [The Law of Large Numbers](#the-law-of-large-numbers)
   - [Conclusion](#conclusion-3)
-- [Pressure](#pressure)
+- [Chapter 11 Pressure](#chapter-11-pressure)
   - [Avoiding Presure](#avoiding-presure)
   - [Handling Pressure](#handling-pressure)
   - [Conclusion](#conclusion-4)
@@ -442,7 +442,7 @@ No professional developer should ever follow a discipline when that discipline d
 
 All professionals practice their art by engaging in skill-sharpening exercises... ...When performance matters, professionals practice.
 
-### Some Background on Practicing
+### Some Background on Practicing
 
 Practicing is not a new concept in software development, but we didn’t recognize it as practicing until just after the turn of the millennium... ...We were too busy writing code to think about practicing our skills.
 
@@ -853,7 +853,7 @@ In most cases professionals do not make such committments. Rather, they provide 
 
 Professional developers work with the other members of their team to achieve consensus on the estimates that are given to management.
 
-## Pressure
+## Chapter 11 Pressure
 
 The professional developer is calm and decisive under pressure. As the pressure grows he adheres to his training and disciplines, knowing that they are the best way to meet the deadlines and commitments that are pressing on him.
 
