@@ -609,9 +609,47 @@ If a pre-reflective axiological self-understanding exists, we may assume that it
 > _Argumenta ad hominem_. _**Ad hominem**_ (Latin for 'to the person'), short for _**argumentum ad hominem,**_ is a term that refers to several types of arguments, most of which are fallacious. Typically this term refers to a rhetorical strategy where the speaker attacks the character, motive, or some other attribute of the person making an argument rather than attacking the substance of the argument itself. This avoids genuine debate by creating a diversion to some irrelevant but often highly charged issue. The most common form of this fallacy is "A makes a claim x, B asserts that A holds a property that is unwelcome, and hence B concludes that argument x is wrong". 
 > — [Wikipedia](https://en.wikipedia.org/wiki/Ad_hominem)
 
+I know that without the suffering, the growth that I have achieved would have been impossible.
 
+As we see, the priority stays with creatively changing the situation that causes us to suffer. But the superiority goes to the “know-how to suffer,” if need be.
+
+The second aspect of the tragic triad, guilt... ..._mysterium iniquitatis,_... ...a crime in the final analysis remains inexplicable inasmuch as it cannot be fully traced back to biological, psychological and/or sociological factors.
+
+When I addressed the prisoners in San Quentin, I told them that “you are human beings like me, and as such you were free to commit a crime, to become guilty. Now, however, you are responsible for overcoming guilt by rising above it, by growing beyond yourselves, by changing for the better.” They felt understood.
+
+It is totally unjustified to hold one person responsible for the behavior of another person or a collective of persons.
+
+The third aspect of the tragic triad concerns death. But it concerns life as well, for at any time each of the moments of which life consists is dying, and that moment will never recur.
+
+_Live as if you were living for the second time and had acted as wrongly the first time as you are about to act now._
+
+The opportunities to act properly, the potentialities to fulfill a meaning, are affected by the irreversibility of our lives. But also the potentialities alone are so affected. For as soon as we have used an opportunity and have actualized a potential meaning, we have done so once and for all.
+
+In the past, nothing is irretrievably lost, but rather, on the contrary, everything is irrevocably stored and treasured.
+
+People tend to see only the stubble fields of transitoriness but overlook and forget the full granaries of the past into which they have brought the harvest of their lives: the deeds done, the loves loved, and last but not least, the sufferings they have gone through with courage and dignity.
+
+There is no reason to pity old people. Instead, young people should envy them. It is true that the old have no opportunities, no possibilities in the future. But they have more than that. Instead of possibilities in the future, they have realities in the past—the potentialities they have actualized, the meanings they have fulfilled, the values they have realized—and nothing and nobody can ever remove these assets from the past.
+
+Just as life remains potentially meaningful under any conditions, even those which are most miserable, so too does the value of each and every person stay with him or her, and it does so because it is based on the values that he or she has realized in the past, and is not contingent on the usefulness that he or she may or may not retain in the present.
+
+Usefulness is usually defined in terms of functioning for the benefit of society. But today’s society is characterized by achievement orientation, and consequently it adores people who are successful and happy and, in particular, it adores the young. It virtually ignores the value of all those who are otherwise, and in so doing blurs the decisive difference between being valuable in the sense of dignity and being valuable in the sense of usefulness. 
+
+Confounding the dignity of man with mere usefulness arises from a conceptual confusion that in turn may be traced back to the contemporary nihilism transmitted on many an academic campus and many an analytical couch.
+
+Nihilism does not contend that there is nothing, but it states that everything is meaningless.
+
+Logotherapy is not imposed on those who are interested in psychotherapy. It is not comparable to an Oriental bazaar but rather to a supermarket. In the former, the customer is talked into buying something. In the latter, he is shown, and offered, various things from which he may pick what he deems usable and valuable.
+
+“The degurufication of logotherapy.” My interest does not lie in raising parrots that just rehash “their master’s voice,” but rather in passing the torch to “independent and inventive, innovative and creative spirits.”
+
+> “Sed omnia praeclara tam difficilia quam rara sunt” (but everything great is just as difficult to realize as it is rare to find)
+> — Ethics of Spinoza
+
+Whether we really need to refer to “saints.” Wouldn’t it suffice just to refer to decent people? It is true that they form a minority. More than that, they always will remain a minority. And yet I see therein the very challenge to join the minority. For the world is in a bad state, but everything will become still worse unless each of us does his best.
+
+So, let us be alert—alert in a twofold sense: Since Auschwitz we know what man is capable of. And since Hiroshima we know what is at stake.
 
 ## About the Author
 
-
-
+Viktor E. Frankl was Professor of Neurology and Psychiatry at the University of Vienna Medical School. He was the founder of what has come to be called the Third Viennese school of Psychotherapy (after Freud’s psychoanalysis and Adler’s individual psychology) – the school of logotherapy. Born in 1905, Dr. Frankl received the degrees of Doctor of Medicine and Doctor of Philosophy from the University of Vienna. During World War II he spent three at Auschwitz, Dachau, and other concentration camps.
