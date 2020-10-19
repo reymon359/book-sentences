@@ -589,6 +589,26 @@ Once an individual’s search for a meaning is successful, it not only renders h
 
 Meaning orientation had subsided, and consequently the seeking of immediate pleasure had taken over.
 
+As to the causation of the feeling of meaninglessness, one may say, albeit in an oversimplifying vein, that people have enough to live by but nothing to live for; they have the means but no meaning.
+
+Being jobless was equated with being useless, and being useless was equated with having a meaningless life... ...as soon as they could fill their abundant free time with some sort of unpaid but meaningful activity—their depression disappeared although their economic situation had not changed and their hunger was the same. The truth is that man does not live by welfare alone.
+
+Not each and every case of depression is to be traced back to a feeling of meaninglessness, nor does suicide... ...always result from an existential vacuum. But even if each and every case of suicide had not been _undertaken_ out of a feeling of meaninglessness, it may well be that an individual’s impulse to take his life would have been _overcome_ had he been aware of some meaning and purpose worth living for.
+
+Consider a movie: it consists of thousands upon thousands of individual pictures, and each of them makes sense and carries a meaning, yet the meaning of the whole film cannot be seen before its last sequence is shown. However, we cannot understand the whole film without having first understood each of its components, each of the individual pictures. Isn’t it the same with life?
+
+The perception of meaning... ...boils down to becoming aware of a possibility against the background of reality or, to express it in plain words, to becoming aware of _what can be done_ about a given situation.
+
+Logotherapy conceives of conscience as a prompter which, if need be, indicates the direction in which we have to move in a given life situation. In order to carry out such a task, conscience must apply a measuring stick to the situation one is confronted with, and this situation has to be evaluated in the light of a set of criteria, in the light of a hierarchy of values. These values, however, cannot be espoused and adopted by us on a conscious level—they are something that we _are._ They have crystallized in the course of the evolution of our species; they are founded on our biological past and are rooted in our biological depth.
+
+If a pre-reflective axiological self-understanding exists, we may assume that it is ultimately anchored in our biological heritage.
+
+> Notion that experiencing can be as valuable as achieving is therapeutic because it compensates for our one-sided emphasis on the external world of achievement at the expense of the internal world of experience.
+> — Edith Weisskopf-Joelson
+
+> _Argumenta ad hominem_. _**Ad hominem**_ (Latin for 'to the person'), short for _**argumentum ad hominem,**_ is a term that refers to several types of arguments, most of which are fallacious. Typically this term refers to a rhetorical strategy where the speaker attacks the character, motive, or some other attribute of the person making an argument rather than attacking the substance of the argument itself. This avoids genuine debate by creating a diversion to some irrelevant but often highly charged issue. The most common form of this fallacy is "A makes a claim x, B asserts that A holds a property that is unwelcome, and hence B concludes that argument x is wrong". 
+> — [Wikipedia](https://en.wikipedia.org/wiki/Ad_hominem)
+
 
 
 ## About the Author
