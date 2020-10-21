@@ -6,7 +6,18 @@
 
 ## Table of Contents
 
+TODO
+
 ## Foreword
+
+As with any metaphor, describing software through the lens of architecture can hide as much as it can reveal. It can both promise more than it can deliver and deliver more than it promises.
+
+It’s not obvious that software structure obeys our intuition the way building structure does.
+
+Software is made of software. Large software constructs are made from smaller software components, which are in turn made of smaller software components still, and so on.
+
+Software is recursive and fractal in nature, etched and sketched in code. Everything is details.
+
 
 ## Preface
 
