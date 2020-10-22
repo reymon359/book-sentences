@@ -18,6 +18,39 @@ Software is made of software. Large software constructs are made from smaller so
 
 Software is recursive and fractal in nature, etched and sketched in code. Everything is details.
 
+You can even argue quite convincingly that there is more design activity and focus in software than in building architecture—in this sense, it’s not unreasonable to consider software architecture more architectural than building architecture!
+
+To mistake boxes for _the_ big picture— for _the_ architecture—is to miss the big picture and the architecture: Software architecture doesn’t look like anything.
+
+Software may be such stuff as dreams are made on, but it runs in the physical world.
+
+> This is the monstrosity in love, lady, that the will is infinite, and the execution confined; that the desire is boundless, and the act a slave to limit.
+> — William Shakespeare
+
+> Architecture represents the significant design decisions that shape a system, where significant is measured by cost of change.
+> — Grady Booch
+
+A good architecture meet the needs of its users, developers, and owners at a given point in time, but it also meets them over time.
+
+> If you think good architecture is expensive, try bad architecture.
+> — Brian Foote and Joseph Yoder
+
+The kinds of changes a system’s development typically experiences should not be the changes that are costly, that are hard to make, that take managed projects of their own rather than being folded into the daily and weekly flow of work.
+
+> Architecture is the decisions that you wish you could get right early in a project, but that you are not necessarily more likely to get them right than any other.
+> — Ralph Johnson
+
+Understanding the past is hard enough as it is; our grasp of the present is slippery at best; predicting the future is nontrivial.
+
+The darkest path... ...strong and stable architecture comes from authority and rigidity. If change is expensive, change is eliminated... ...The architect’s mandate is total and totalitarian, with the architecture becoming a dystopia for its developers and a constant source of frustration for all... ...another path... ...speculative generality. A route filled with hard-coded guesswork, countless parameters, tombs of dead code, and more accidental complexity than you can shake a maintenance budget at... ...The path...cleanest... ...recognizes the softness of software and aims to preserve it as a first-class property of the system. It recognizes that we operate with incomplete knowledge, but it also understands that, as humans, operating with incomplete knowledge is something we do, something we’re good at. It plays more to our strengths than to our weaknesses. We create things and we discover things. We ask questions and we run experiments. A good architecture comes from understanding it more as a journey than as a destination, more as an ongoing process of enquiry than as a frozen artifact.
+
+A good architecture comes from understanding it more as a journey than as a destination, more as an ongoing process of enquiry than as a frozen artifact.
+
+> Architecture is a hypothesis, that needs to be proven by implementation and measurement.
+> — Tom Gilb
+
+> The only way to go fast, is to go well.
+> — Robert C. Martin
 
 ## Preface
 
