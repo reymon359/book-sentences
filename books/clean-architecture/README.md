@@ -60,11 +60,15 @@ There is one thing about the software we have now, compared to the software from
 
 Changelessness of the code is the reason that the rules of software architecture are so consistent across system types. The rules of software architecture are the rules of ordering and assembling the building blocks of programs. And since those building blocks are universal and haven’t changed, the rules for ordering them are likewise universal and changeless.
 
-## Acknowledgments 
-
-## About the Author
-
 ## PART I Introduction
+
+It doesn’t take a huge amount of knowledge and skill to get a program working... ...Getting it right is another matter entirely.
+
+Getting software right is _hard._ It takes knowledge and skills... ...discipline and dedication... ...Mostly, it takes a passion for the craft and the desire to be a professional.
+
+When software is done right, it requires a fraction of the human resources to create and maintain.
+
+It is far more common to fight your way through terrible software designs than it is to enjoy the pleasure of working with a good one.
 
 ## Chapter 1 What Is Design and Architecture?
 ## The Goal?
