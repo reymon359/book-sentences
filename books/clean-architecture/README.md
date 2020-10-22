@@ -106,6 +106,10 @@ _Their overconfidence will drive the redesign into the same mess as the original
 
 ### Conclusion
 
+The best option is for the development organization to recognize and avoid its own overconfidence and to start taking the quality of its software architecture seriously.
+
+To take software architecture seriously, you need to know what good software architecture is.
+
 ## Chapter 2 A Tale of Two Values
 ## Behavior
 ## Architecture
