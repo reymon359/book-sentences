@@ -111,9 +111,28 @@ The best option is for the development organization to recognize and avoid its o
 To take software architecture seriously, you need to know what good software architecture is.
 
 ## Chapter 2 A Tale of Two Values
-## Behavior
-## Architecture
-## The Greater Value
+
+Every software system provides two different values to the stakeholders: behavior and structure.
+
+### Behavior
+
+The first value of software is its behavior. Programmers are hired to make machines behave in a way that makes or saves money for the stakeholders... ...Many programmers believe that is the entirety of their job. They believe their job is to make the machine implement the requirements and to fix any bugs. They are sadly mistaken.
+
+### Architecture
+
+Software was invented to be “soft.” It was intended to be a way to easily change the behavior of machines. If we’d wanted the behavior of machines to be hard to change, we would have called it _hardware._
+
+Software must be soft—that is, it must be easy to change.
+
+The difficulty in making a change should be proportional only to the scope of the change, and not to the _shape_ of the change.
+
+It is this difference between scope and shape that often drives the growth in software development costs... ...From the stakeholders’ point of view, they are simply providing a stream of changes of roughly similar scope. From the developers’ point of view, the stakeholders are giving them a stream of jigsaw puzzle pieces that they must fit into a puzzle of ever-increasing complexity. Each new request is harder
+to fit than the last, because the shape of the system does not match the shape of the request.
+
+The more architecture prefers one shape over another, the more likely new features will be harder and harder to fit into that structure. Therefore architectures should be as shape agnostic are practical.
+
+### The Greater Value
+
 ## Eisenhower’s Matrix
 ## Fight for the Architecture
 ## PART II Starting with the Bricks: Programming Paradigms
