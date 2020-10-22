@@ -71,9 +71,41 @@ When software is done right, it requires a fraction of the human resources to cr
 It is far more common to fight your way through terrible software designs than it is to enjoy the pleasure of working with a good one.
 
 ## Chapter 1 What Is Design and Architecture?
-## The Goal?
-## Case Study
-## Conclusion
+
+What is design? What is architecture? What are the differences between the two?... ...there is no difference between them. _None at all._
+
+The low-level details and the high-level structure are all part of the same whole. They form a continuous fabric that defines the shape of the system. You can’t have one without the other; indeed, no clear dividing line separates them. There is simply a continuum of decisions from the highest to the lowest levels.
+
+### The Goal?
+
+_The goal of software architecture is to minimize the human resources required to build and maintain the required system._
+
+The measure of design quality is simply the measure of the effort required to meet the needs of the customer. If that effort is low, and stays low... ...the design is good. If that effort grows with each new release, the design is bad.
+
+### Case Study
+
+“The race is not to the swift, nor the battle to the strong.”
+
+“The more haste, the less speed.”
+
+Modern developers... ...work their butts off. But a part of their brain _does_ sleep—the part that knows that good, clean, well-designed code _matters._
+
+A familiar lie: “We can clean it up later; we just have to get to market first!” Of course, things never do get cleaned up later, because market pressures never abate. Getting to market first simply means that you’ve now got a horde of competitors on your tail, and you have to stay ahead of them by running as fast as you can.
+
+Developers are overconfident in their ability to remain productive. But the creeping mess of code that saps their productivity never sleeps and never relents. If given its way, it will reduce productivity to zero in a matter of months.
+
+The bigger lie that developers buy into is the notion that writing messy code makes them go fast in the short term, and just slows them down in the long term. Developers who accept this lie exhibit... ...overconfidence in their ability to switch modes from making messes to cleaning up messes sometime in the future, but they also make a simple error of fact. The fact is that _making messes is always slower than staying clean,_ no matter which time scale you are using.
+
+_Making messes is always slower than staying clean._
+
+_The only way to go fast, is to go well._
+
+The only way to reverse the decline in productivity and the increase in cost is to get the developers to stop thinking... ...overconfident... ...and start taking responsibility for the mess that they’ve made.
+
+_Their overconfidence will drive the redesign into the same mess as the original project._
+
+### Conclusion
+
 ## Chapter 2 A Tale of Two Values
 ## Behavior
 ## Architecture
