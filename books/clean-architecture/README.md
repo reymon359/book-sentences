@@ -54,6 +54,12 @@ A good architecture comes from understanding it more as a journey than as a dest
 
 ## Preface
 
+_The rules of software architecture are independent of every other variable._
+
+There is one thing about the software we have now, compared to the software from back then: _It’s made of the same stuff._ It’s made of `if` statements, assignment statements, and `while` loops... ...you might object and say that we’ve got much better languages and superior paradigms... ...True—and yet the code is still just an assemblage of sequence, selection, and iteration, just as it was back in the 1960s and 1950s.
+
+Changelessness of the code is the reason that the rules of software architecture are so consistent across system types. The rules of software architecture are the rules of ordering and assembling the building blocks of programs. And since those building blocks are universal and haven’t changed, the rules for ordering them are likewise universal and changeless.
+
 ## Acknowledgments 
 
 ## About the Author
