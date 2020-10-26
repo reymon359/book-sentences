@@ -173,7 +173,16 @@ Software architects are... ...more focused on the structure of the system than o
 If architecture comes last, then the system will become ever more costly to develop, and eventually change will become practically impossible for part or all of the system.
 
 ## PART II Starting with the Bricks: Programming Paradigms
+
+Software architecture begins with the code.
+
+Alan Turing... ...was the first to understand that programs were simply data... ...writing real programs on real computers... ...in the late 1940s, came assemblers... ...relieved the programmers... ...of translating their programs into binary. In 1951, Grace Hopper invented A0, the first compiler. In fact, she coined the term _compiler._ Fortran was invented in 1953... ...What followed was an unceasing flood of new programming languages.
+
+Paradigms are ways of programming, relatively unrelated to languages. A paradigm tells you which programming structures to use, and when to use them. 
+
 ## Chapter 3 Paradigm Overview
+
+
 ## Structured Programming
 ## Object-Oriented Programming
 ## Functional Programming
