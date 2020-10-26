@@ -140,8 +140,38 @@ Function or architecture? Which of these two provides the greater value? Is it m
 
 If you ask the business managers if they want to be able to make changes, they’ll say that of course they do, but may then qualify their answer by noting that the current functionality is more important than any later flexibility. In contrast, if the business managers ask you for a change, and your estimated costs for that change are unaffordably high, the business managers will likely be furious that you allowed the system to get to the point where the change was impractical.
 
-## Eisenhower’s Matrix
-## Fight for the Architecture
+### Eisenhower’s Matrix
+
+> I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent.
+> — Dwight D. Eisenhower
+
+| **Important Urgent**   | **Important Not Urgent**   |
+|------------------------|----------------------------|
+| **Unimportant Urgent** | **Unimportant Not Urgent** |
+Figure 2.1 Eisenhower matrix
+
+The first value of software—behavior—is urgent but not always particularly important. The second value of software—architecture—is important but never particularly urgent.
+
+four couplets into priorities:
+1. Urgent and important
+2. Not urgent and important
+3. Urgent and not important
+4. Not urgent and not important
+
+The architecture of the code... ...is in the top two... ...whereas the behavior... ...occupies the first and _third_ positions.
+
+The mistake... ...is to elevate items in position 3 to position 1... ...fail to separate those features that are urgent but not important from those features that truly are urgent and important... ...leads to ignoring the important architecture... ...in favor of the unimportant features.
+
+Business managers are not equipped to evaluate the importance of architecture. _That’s what software developers were hired to do._ Therefore it is the responsibility of the software development team to assert the importance of architecture over the urgency of features.
+
+### Fight for the Architecture
+
+Remember, as a software developer, _you are a stakeholder._ You have a stake in the software that you need to safeguard. That’s part of your role, and part of your duty. And it’s a big part of why you were hired.
+
+Software architects are... ...more focused on the structure of the system than on its features and functions... ...create an architecture that allows those features and functions to be easily developed, modified, and extended.
+
+If architecture comes last, then the system will become ever more costly to develop, and eventually change will become practically impossible for part or all of the system.
+
 ## PART II Starting with the Bricks: Programming Paradigms
 ## Chapter 3 Paradigm Overview
 ## Structured Programming
