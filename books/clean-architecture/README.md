@@ -182,8 +182,12 @@ Paradigms are ways of programming, relatively unrelated to languages. A paradigm
 
 ## Chapter 3 Paradigm Overview
 
-
 ## Structured Programming
+
+Dijkstra in 1968... ...showed that the use of unrestrained jumps (`goto` statements) is harmful to program structure... ...he replaced those jumps with... ...`if/then/else` and `do/while/until` constructs.
+
+_Structured programming imposes discipline on direct transfer of control._
+
 ## Object-Oriented Programming
 ## Functional Programming
 ## Food for Thought
