@@ -182,25 +182,25 @@ Paradigms are ways of programming, relatively unrelated to languages. A paradigm
 
 ## Chapter 3 Paradigm Overview
 
-## Structured Programming
+### Structured Programming
 
 Dijkstra in 1968... ...showed that the use of unrestrained jumps (`goto` statements) is harmful to program structure... ...he replaced those jumps with... ...`if/then/else` and `do/while/until` constructs.
 
 _Structured programming imposes discipline on direct transfer of control._
 
-## Object-Oriented Programming
+### Object-Oriented Programming
 
 1966... ...Ole Johan Dahl and Kristen Nygaard... ...noticed that the function call stack frame in the `ALGOL` language could be moved to a heap, thereby allowing local variables declared by a function to exist long after the function returned. The function became a constructor for a class, the local variables became instance variables, and the nested functions became methods. This led inevitably to the discovery of polymorphism through the disciplined use of function pointers.
 
 _Object-oriented programming imposes discipline on indirect transfer of control._
 
-## Functional Programming
+### Functional Programming
 
 Its invention predates computer programming itself... ...Alonzo Church, in 1936 invented λ-calculus while pursuing the same mathematical problem that was motivating Alan Turing at the same time. His λ-calculus is the foundation of the LISP language, invented in 1958 by John McCarthy. A foundational notion of λ-calculus is immutability—that is, the notion that the values of symbols do not change. This effectively means that a functional language has no assignment statement.
 
 _Functional programming imposes discipline upon assignment._
 
-## Food for Thought
+### Food for Thought
 
 Each of the paradigms _removes_ capabilities from the programmer. None of them adds new capabilities. Each imposes some extra discipline that is _negative_ in its intent. The paradigms tell us what _not_ to do, more than they tell us what _to_ do.
 
@@ -208,11 +208,13 @@ The three paradigms together remove `goto` statements, function pointers, and as
 
 These three paradigms are likely to be the only three we will see... ...they were all discovered within the ten years between 1958 and 1968. In the many decades that have followed, no new paradigms have been added.
 
-## Conclusion
+### Conclusion
 
 What... ...paradigms have to do with architecture? Everything. We use polymorphism as the mechanism to cross architectural boundaries; we use functional programming to impose discipline on the location of and access to data; and we use structured programming as the algorithmic foundation of our modules... ...those three align with the three big concerns of architecture: function, separation of components, and data management.
 
 ## Chapter 4 Structured Programming
+
+
 ## Proof
 ## A Harmful Proclamation
 ## Functional Decomposition
