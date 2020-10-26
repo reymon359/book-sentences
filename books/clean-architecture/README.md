@@ -189,6 +189,11 @@ Dijkstra in 1968... ...showed that the use of unrestrained jumps (`goto` stateme
 _Structured programming imposes discipline on direct transfer of control._
 
 ## Object-Oriented Programming
+
+1966... ...Ole Johan Dahl and Kristen Nygaard... ...noticed that the function call stack frame in the `ALGOL` language could be moved to a heap, thereby allowing local variables declared by a function to exist long after the function returned. The function became a constructor for a class, the local variables became instance variables, and the nested functions became methods. This led inevitably to the discovery of polymorphism through the disciplined use of function pointers.
+
+_Object-oriented programming imposes discipline on indirect transfer of control._
+
 ## Functional Programming
 ## Food for Thought
 ## Conclusion
