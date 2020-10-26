@@ -214,9 +214,13 @@ What... ...paradigms have to do with architecture? Everything. We use polymorphi
 
 ## Chapter 4 Structured Programming
 
+### Proof
 
-## Proof
+Dijkstra recognized... ...that programming is _hard,_ and that programmers don’t do it very well... ...Dijkstra’s solution was to apply the mathematical discipline of _proof_... ...Dijkstra discovered that certain uses of `goto`... ...preventing use of the divide-and-conquer approach necessary for reasonable proofs. Other uses of `goto`, however, did not have this problem... ...these “good” uses of `goto` corresponded to... ...structures such as `if/then/else` and `do/while.` Modules that used those kinds of control structures _could_ be recursively subdivided into provable units... ...those control structures, when combined with sequential execution, were special... ...Böhm and Jacopini, who proved that all programs can be constructed from just three structures: sequence, selection, and iteration... ...The very control structures that made a module provable were the same minimum set of control structures from which all programs can be built. Thus structured programming was born.
+
 ## A Harmful Proclamation
+
+
 ## Functional Decomposition
 ## No Formal Proofs
 ## Science to the Rescue
