@@ -222,7 +222,12 @@ Dijkstra recognized... ...that programming is _hard,_ and that programmers don�
 
 Nowadays we are all structured programmers, though not necessarily by choice. It’s just that our languages don’t give us the option to use undisciplined direct transfer of control.
 
-## Functional Decomposition
+### Functional Decomposition
+
+Structured programming allows modules to be recursively decomposed into provable units, which in turn means that modules can be functionally decomposed.
+
+By following these disciplines, programmers could break down large proposed systems into modules and components that could be further broken down into tiny provable functions.
+
 ## No Formal Proofs
 ## Science to the Rescue
 ## Tests
