@@ -201,7 +201,17 @@ Its invention predates computer programming itself... ...Alonzo Church, in 1936 
 _Functional programming imposes discipline upon assignment._
 
 ## Food for Thought
+
+Each of the paradigms _removes_ capabilities from the programmer. None of them adds new capabilities. Each imposes some extra discipline that is _negative_ in its intent. The paradigms tell us what _not_ to do, more than they tell us what _to_ do.
+
+The three paradigms together remove `goto` statements, function pointers, and assignment.
+
+These three paradigms are likely to be the only three we will see... ...they were all discovered within the ten years between 1958 and 1968. In the many decades that have followed, no new paradigms have been added.
+
 ## Conclusion
+
+What... ...paradigms have to do with architecture? Everything. We use polymorphism as the mechanism to cross architectural boundaries; we use functional programming to impose discipline on the location of and access to data; and we use structured programming as the algorithmic foundation of our modules... ...those three align with the three big concerns of architecture: function, separation of components, and data management.
+
 ## Chapter 4 Structured Programming
 ## Proof
 ## A Harmful Proclamation
