@@ -195,6 +195,11 @@ _Structured programming imposes discipline on direct transfer of control._
 _Object-oriented programming imposes discipline on indirect transfer of control._
 
 ## Functional Programming
+
+Its invention predates computer programming itself... ...Alonzo Church, in 1936 invented λ-calculus while pursuing the same mathematical problem that was motivating Alan Turing at the same time. His λ-calculus is the foundation of the LISP language, invented in 1958 by John McCarthy. A foundational notion of λ-calculus is immutability—that is, the notion that the values of symbols do not change. This effectively means that a functional language has no assignment statement.
+
+_Functional programming imposes discipline upon assignment._
+
 ## Food for Thought
 ## Conclusion
 ## Chapter 4 Structured Programming
