@@ -228,8 +228,16 @@ Structured programming allows modules to be recursively decomposed into provable
 
 By following these disciplines, programmers could break down large proposed systems into modules and components that could be further broken down into tiny provable functions.
 
-## No Formal Proofs
-## Science to the Rescue
+### No Formal Proofs
+
+But the proofs never came. The Euclidean hierarchy of theorems was never built. And programmers at large never saw the benefits of working through the laborious process of formally proving each and every little function correct. In the end, Dijkstra’s dream faded and died.
+
+### Science to the Rescue
+
+Science is fundamentally different from mathematics, in that scientific theories and laws cannot be proven correct... ...I can demonstrate these laws to you, and I can make measurements that show them correct to many decimal places, but I cannot prove them in the sense of a mathematical proof...there is always the chance that some experiment will show that those laws... ...are incorrect.
+
+Scientific theories and laws are _falsifiable_ but not provable.
+
 ## Tests
 ## Conclusion
 ## Chapter 5 Object-Oriented Programming
