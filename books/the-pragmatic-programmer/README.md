@@ -776,9 +776,9 @@ Refactoring, as with most things, is easier to do while the issues are small, as
 Refactoring is redesign. Anything that you or others on your team designed can be redesigned in light of new facts, deeper understandings, changing requirements, and so on. 
 
 Martin Fowler... ...tips on how to refactor without doing more harm than good:
-1. Don’ttrytorefactorandaddfunctionalityatthesametime.
-2. Makesureyouhavegoodtestsbeforeyoubeginrefactoring. Run the tests as often as possible.
-3. Takeshort,deliberatesteps:moveafieldfromoneclasstoanother, split a method, rename a variable. Refactoring often involves making many localized changes that result in a larger-scale change.
+1. Don’t try to refactor and add functionality at the same time.
+2. Make sure you have good tests before you begin refactoring. Run the tests as often as possible.
+3. Take short, deliberate steps: move a field from one class to another, split a method, rename a variable. Refactoring often involves making many localized changes that result in a larger-scale change.
 
 Next time you see a piece of code that isn’t quite as it should be, fix it. Manage the pain: if it hurts now, but is going to hurt even more later, you might as well get it over with. RememberNext time you see a piece of code that isn’t quite as it should be, fix it. Manage the pain: if it hurts now, but is going to hurt even more later, you might as well get it over with. Remember: don’t live with broken windows.
 
