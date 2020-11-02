@@ -238,6 +238,16 @@ Science is fundamentally different from mathematics, in that scientific theories
 
 Scientific theories and laws are _falsifiable_ but not provable.
 
+Science does not work by proving statements true, but rather by _proving statements false._ Those statements that we cannot prove false, after much effort, we deem to be true enough for our purposes.
+
+Not all statements are provable. The statement "This is a lie" is neither true nor false.
+
+Mathematics is the discipline of proving provable statements true. Science, in contrast, is the discipline of proving provable statements false.
+
+
+
+
+
 ## Tests
 ## Conclusion
 ## Chapter 5 Object-Oriented Programming
