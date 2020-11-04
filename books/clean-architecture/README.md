@@ -331,6 +331,11 @@ When the source code in a component changes, only that component needs to be red
 If the modules in your system can be deployed independently, then they can be developed independently by different teams. That’s _independent developability._
 
 ### Conclusion
+
+OO is the ability, through the use of polymorphism, to gain absolute control over every source code dependency in the system.
+
+It allows... ...to create a plugin architecture,... ...The low-level details are relegated to plugin modules that can be deployed and developed independently from the modules that contain high-level policies.
+
 ## Chapter 6 Functional Programming
 ## Squares of Integers
 ## Immutability and Architecture
