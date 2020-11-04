@@ -244,7 +244,7 @@ Not all statements are provable. The statement "This is a lie" is neither true n
 
 Mathematics is the discipline of proving provable statements true. Science, in contrast, is the discipline of proving provable statements false.
 
-## Tests
+### Tests
 
 > Testing shows the presence, not the absence, of bugs.
 > — Dijkstra
@@ -259,19 +259,19 @@ A program that is not provable... ...cannot be deemed correct no matter how many
 
 Structured programming forces us to recursively decompose a program into a set of small provable functions. We can then use tests to try to prove those small provable functions incorrect. If such tests fail to prove incorrectness, then we deem the functions to be correct enough for our purposes.
 
-## Conclusion
+### Conclusion
 
 It is this ability to create falsifiable units of programming that makes structured programming valuable today... ...Moreover, at the architectural level, this is why we still consider _functional decomposition_ to be one of our best practices.
 
 Software is like a science... ...is driven by falsifiability. Software architects strive to define modules, components, and services that are easily falsifiable (testable). To do so, they employ restrictive disciplines similar to structured programming, albeit at a much higher level.
 
-### Chapter 5 Object-Oriented Programming
+## Chapter 5 Object-Oriented Programming
 
 The basis of a good architecture is the understanding and application of the principles of object-oriented design (OO).
 
 Three magic words to explain the nature of OO: _encapsulation, inheritance, and polymorphism_... ...an OO language must support these three things.
 
-## Encapsulation?
+### Encapsulation?
 
 OO languages provide easy and effective encapsulation of data and function.
 
@@ -279,7 +279,7 @@ A line can be drawn around a cohesive set of data and functions. Outside of that
 
 This idea is certainly not unique to OO. Indeed, we had perfect encapsulation in C... ...But then came OO in the form of C++—and the perfect encapsulation of C was broken. Java and C# simply abolished the header/implementation split altogether, thereby weakening encapsulation even more. In these languages, it is impossible to separate the declaration and definition of a class. For these reasons, it is difficult to accept that OO depends on strong encapsulation... ...the languages that claim to provide OO have only weakened the once perfect encapsulation we enjoyed with C.
 
-## Inheritance?
+### Inheritance?
 
 Inheritance is simply the redeclaration of a group of variables and functions within an enclosing scope.
 
@@ -287,7 +287,37 @@ We might say that we had a kind of inheritance long before OO languages were inv
 
 While OO languages did not give us something completely brand new, it did make the masquerading of data structures significantly more convenient.
 
-## Polymorphism?
+### Polymorphism?
+
+Polymorphic behavior before OO languages? Of course... ...Consider this simple C `copy` program.
+
+```c
+#include <stdio.h>
+void copy() {
+  int c;
+  while ((c=getchar()) != EOF)
+    putchar(c);
+}
+```
+
+These functions are _polymorphic_—their behavior depends on the type of `STDIN` and `STDOUT`... ...The UNIX operating system requires that every IO device driver provide five standard functions: `open`, `close`, `read`, `write`, and `seek`. The signatures of those functions must be identical for every IO driver.
+
+The bottom line is that polymorphism is an application of pointers to functions... ...since Von Neumann architectures were first implemented in the late 1940s... ...OO languages may not have given us polymorphism, but they have made it much safer and much more convenient.
+
+The problem with explicitly using pointers to functions to create polymorphic behavior is that pointers to functions are _dangerous._ Such use is driven by a set of manual conventions... ...OO languages eliminate these conventions and, therefore, these dangers.
+
+OO imposes discipline on indirect transfer of control.
+
+#### The Power of Polymorphism
+
+The IO devices have become plugins... ...our programs should be _device independent._
+
+OO allows the plugin architecture to be used anywhere, for anything.
+
+#### Dependency Inversion
+
+Before a safe and convenient mechanism for polymorphism was available. In the typical calling tree, main functions called high-level functions, which called mid-level functions, which called low-level functions... ...source code dependencies inexorably followed the flow of control (Figure 5.1).
+
 ## Conclusion
 ## Chapter 6 Functional Programming
 ## Squares of Integers
