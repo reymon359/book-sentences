@@ -319,8 +319,10 @@ OO allows the plugin architecture to be used anywhere, for anything.
 Before a safe and convenient mechanism for polymorphism was available. In the typical calling tree, main functions called high-level functions, which called mid-level functions, which called low-level functions... ...source code dependencies inexorably followed the flow of control (Figure 5.1).
 
 ![Figure 5.1 Source code dependencies versus flow of control](./figure5.1.jpg)
+Figure 5.1 Source code dependencies versus flow of control
 
-![FFigure 5.2 Dependency inversion](./figure5.2.jpg)
+![Figure 5.2 Dependency inversion](./figure5.2.jpg)
+Figure 5.2 Dependency inversion
 
 In Figure 5.2, module `HL1` calls the `F()` function in module `ML1`... ...At runtime, the interface doesn’t exist. `HL1` simply calls `F()` within `ML1`... ...the source code dependency (the inheritance relationship) between `ML1` and the interface `I` points in the opposite direction compared to the flow of control. This is called _dependency inversion,_ and its implications for the software architect are profound... ...convenient polymorphism means that _any source code dependency, no matter where it is, can be inverted_... ...software architects... ...have _absolute control_ over the direction of all source code dependencies in the system. They are not constrained to align those dependencies with the flow of control. No matter which module does the calling and which module is called, the software architect can point the source code dependency in either direction... ...That is the power that OO provides.
 
@@ -342,6 +344,33 @@ Functional programming predate programming itself... ...is based on the λ-calcu
 
 ### Squares of Integers
 
+Java Program
+
+```java
+public class Squint {
+  public static void main(String args[]) {
+    for (int i=0; i<25; i++)
+    System.out.println(i*i);
+  }
+}
+```
+
+Clojure Program
+
+```clojure
+(println (take 25 (map (fn [x] (* x x)) (range))))
+```
+
+```clojure
+(println ;___________________ Print
+  (take 25 ;_________________ the first 25
+    (map (fn [x] (* x x)) ;__ squares 
+      (range)))) ;___________ of Integers
+```
+
+The Java program uses a _mutable variable_—a variable that changes state during the execution of the program... ...In the Clojure program, variables like x are initialized, but they are never modified.
+
+Variables in functional languages _do not vary._
 
 ### Immutability and Architecture
 ### Segregation of Mutability
