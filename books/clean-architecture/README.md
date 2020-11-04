@@ -318,6 +318,8 @@ OO allows the plugin architecture to be used anywhere, for anything.
 
 Before a safe and convenient mechanism for polymorphism was available. In the typical calling tree, main functions called high-level functions, which called mid-level functions, which called low-level functions... ...source code dependencies inexorably followed the flow of control (Figure 5.1).
 
+![Figure 5.1 Source code dependencies versus flow of control](./figure5.1.jpg)
+
 ## Conclusion
 ## Chapter 6 Functional Programming
 ## Squares of Integers
