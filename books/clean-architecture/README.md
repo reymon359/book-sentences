@@ -244,13 +244,28 @@ Not all statements are provable. The statement "This is a lie" is neither true n
 
 Mathematics is the discipline of proving provable statements true. Science, in contrast, is the discipline of proving provable statements false.
 
-
-
-
-
 ## Tests
+
+> Testing shows the presence, not the absence, of bugs.
+> — Dijkstra
+
+A program can be proven incorrect by a test, but it cannot be proven correct.
+
+Tests... ...after sufficient testing effort allow us to deem a program to be correct enough for our purposes.
+
+Software development is not a mathematical endeavor, even though it seems to manipulate mathematical constructs. Rather, software is like a science. We show correctness by failing to prove incorrectness, despite our best efforts.
+
+A program that is not provable... ...cannot be deemed correct no matter how many tests are applied to it.
+
+Structured programming forces us to recursively decompose a program into a set of small provable functions. We can then use tests to try to prove those small provable functions incorrect. If such tests fail to prove incorrectness, then we deem the functions to be correct enough for our purposes.
+
 ## Conclusion
-## Chapter 5 Object-Oriented Programming
+
+It is this ability to create falsifiable units of programming that makes structured programming valuable today... ...Moreover, at the architectural level, this is why we still consider _functional decomposition_ to be one of our best practices.
+
+Software is like a science... ...is driven by falsifiability. Software architects strive to define modules, components, and services that are easily falsifiable (testable). To do so, they employ restrictive disciplines similar to structured programming, albeit at a much higher level.
+
+### Chapter 5 Object-Oriented Programming
 ## Encapsulation?
 ## Inheritance?
 ## Polymorphism?
