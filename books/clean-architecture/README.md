@@ -379,6 +379,16 @@ All race conditions, deadlock conditions, and concurrent update problems are due
 Immutability is practicable... ...if you have infinite storage and infinite processor speed. Lacking those infinite resources, the answer is a bit more nuanced.
 
 ### Segregation of Mutability
+
+One of the most common compromises in regard to immutability is to segregate the application... ...into mutable and immutable components. The immutable components perform their tasks in a purely functional way, without using any mutable variables... ...communicate with... ...other components that are not purely functional, and allow for the state of variables to be mutated (Figure 6.1).
+
+![Figure 6.1 Mutating state and transactional memory](./figure6.1.jpg)
+Figure 6.1 Mutating state and transactional memory
+
+It is common practice to use... ..._transactional memory_ to protect the mutable variables from concurrent updates and race conditions... ...It protects those variables with a transaction-or retry-based scheme.
+
+Well-structured applications will be segregated into those components that do not mutate variables and those that do... ...by the use of appropriate disciplines to protect those mutated variables. Architects would be wise to push as much processing as possible into the immutable components, and to drive as much code as possible out of those components that must allow mutation.
+
 ### Event Sourcing
 ### Conclusion
 ## PART III Design Principles
