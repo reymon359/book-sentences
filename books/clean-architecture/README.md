@@ -373,6 +373,11 @@ The Java program uses a _mutable variable_—a variable that changes state durin
 Variables in functional languages _do not vary._
 
 ### Immutability and Architecture
+
+All race conditions, deadlock conditions, and concurrent update problems are due to mutable variables... ...all the problems that we face in concurrent applications—all the problems we face in applications that require multiple threads, and multiple processors—cannot happen if there are no mutable variables.
+
+Immutability is practicable... ...if you have infinite storage and infinite processor speed. Lacking those infinite resources, the answer is a bit more nuanced.
+
 ### Segregation of Mutability
 ### Event Sourcing
 ### Conclusion
