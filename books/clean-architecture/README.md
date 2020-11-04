@@ -337,11 +337,16 @@ OO is the ability, through the use of polymorphism, to gain absolute control ove
 It allows... ...to create a plugin architecture,... ...The low-level details are relegated to plugin modules that can be deployed and developed independently from the modules that contain high-level policies.
 
 ## Chapter 6 Functional Programming
-## Squares of Integers
-## Immutability and Architecture
-## Segregation of Mutability
-## Event Sourcing
-## Conclusion
+
+Functional programming predate programming itself... ...is based on the λ-calculus invented by Alonzo Church in the 1930s.
+
+### Squares of Integers
+
+
+### Immutability and Architecture
+### Segregation of Mutability
+### Event Sourcing
+### Conclusion
 ## PART III Design Principles
 ## Chapter 7 SRP: The Single Responsibility Principle
 ## Symptom 1: Accidental Duplication
