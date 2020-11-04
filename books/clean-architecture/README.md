@@ -272,7 +272,15 @@ The basis of a good architecture is the understanding and application of the pri
 Three magic words to explain the nature of OO: _encapsulation, inheritance, and polymorphism_... ...an OO language must support these three things.
 
 ## Encapsulation?
+
+OO languages provide easy and effective encapsulation of data and function.
+
+A line can be drawn around a cohesive set of data and functions. Outside of that line, the data is hidden and only some of the functions are known. We see this concept in action as the private data members and the public member functions of a class.
+
+This idea is certainly not unique to OO. Indeed, we had perfect encapsulation in C... ...But then came OO in the form of C++—and the perfect encapsulation of C was broken. Java and C# simply abolished the header/implementation split altogether, thereby weakening encapsulation even more. In these languages, it is impossible to separate the declaration and definition of a class. For these reasons, it is difficult to accept that OO depends on strong encapsulation... ...the languages that claim to provide OO have only weakened the once perfect encapsulation we enjoyed with C.
+
 ## Inheritance?
+
 ## Polymorphism?
 ## Conclusion
 ## Chapter 6 Functional Programming
