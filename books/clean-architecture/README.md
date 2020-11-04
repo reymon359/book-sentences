@@ -320,7 +320,17 @@ Before a safe and convenient mechanism for polymorphism was available. In the ty
 
 ![Figure 5.1 Source code dependencies versus flow of control](./figure5.1.jpg)
 
-## Conclusion
+![FFigure 5.2 Dependency inversion](./figure5.2.jpg)
+
+In Figure 5.2, module `HL1` calls the `F()` function in module `ML1`... ...At runtime, the interface doesn’t exist. `HL1` simply calls `F()` within `ML1`... ...the source code dependency (the inheritance relationship) between `ML1` and the interface `I` points in the opposite direction compared to the flow of control. This is called _dependency inversion,_ and its implications for the software architect are profound... ...convenient polymorphism means that _any source code dependency, no matter where it is, can be inverted_... ...software architects... ...have _absolute control_ over the direction of all source code dependencies in the system. They are not constrained to align those dependencies with the flow of control. No matter which module does the calling and which module is called, the software architect can point the source code dependency in either direction... ...That is the power that OO provides.
+
+UI and the database can be plugins to the business rules... ...the source code of the business rules never mentions the UI or the database.
+
+When the source code in a component changes, only that component needs to be redeployed. This is _independent deployability._
+
+If the modules in your system can be deployed independently, then they can be developed independently by different teams. That’s _independent developability._
+
+### Conclusion
 ## Chapter 6 Functional Programming
 ## Squares of Integers
 ## Immutability and Architecture
