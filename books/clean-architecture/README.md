@@ -281,6 +281,12 @@ This idea is certainly not unique to OO. Indeed, we had perfect encapsulation in
 
 ## Inheritance?
 
+Inheritance is simply the redeclaration of a group of variables and functions within an enclosing scope.
+
+We might say that we had a kind of inheritance long before OO languages were invented. That statement wouldn’t quite be true, though. We had a trick, but it’s not nearly as convenient as true inheritance. Moreover, multiple inheritance is a considerably more difficult to achieve by such trickery.
+
+While OO languages did not give us something completely brand new, it did make the masquerading of data structures significantly more convenient.
+
 ## Polymorphism?
 ## Conclusion
 ## Chapter 6 Functional Programming
