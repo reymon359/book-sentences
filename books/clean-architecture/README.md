@@ -266,6 +266,11 @@ It is this ability to create falsifiable units of programming that makes structu
 Software is like a science... ...is driven by falsifiability. Software architects strive to define modules, components, and services that are easily falsifiable (testable). To do so, they employ restrictive disciplines similar to structured programming, albeit at a much higher level.
 
 ### Chapter 5 Object-Oriented Programming
+
+The basis of a good architecture is the understanding and application of the principles of object-oriented design (OO).
+
+Three magic words to explain the nature of OO: _encapsulation, inheritance, and polymorphism_... ...an OO language must support these three things.
+
 ## Encapsulation?
 ## Inheritance?
 ## Polymorphism?
