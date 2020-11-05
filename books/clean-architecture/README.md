@@ -390,6 +390,21 @@ It is common practice to use... ..._transactional memory_ to protect the mutable
 Well-structured applications will be segregated into those components that do not mutate variables and those that do... ...by the use of appropriate disciplines to protect those mutated variables. Architects would be wise to push as much processing as possible into the immutable components, and to drive as much code as possible out of those components that must allow mutation.
 
 ### Event Sourcing
+
+The more memory we have, and the faster our machines are, the less we need mutable state.
+
+Imagine a banking application that maintains the account balances of its customers. It mutates those balances when deposit and withdrawal transactions are executed. Now imagine that instead of storing the account balances, we store only the transactions. Whenever anyone wants to know the balance of an account, we simply add up all the transactions for that account, from the beginning of time. This scheme requires no mutable variables... ...Over time, the number of transactions would grow without bound, and the processing power required to compute the totals would become intolerable. To make this scheme work forever, we would need infinite storage and infinite processing power. But perhaps we don’t have to make the scheme work forever. And perhaps we have enough storage and enough processing power to make the scheme work for the reasonable lifetime of the application. This is the idea behind _event sourcing._
+
+Event sourcing is a strategy wherein we store the transactions, but not the state. When state is required, we simply apply all the transactions from the beginning of time.
+
+We can take shortcuts... ...and save the state every midnight. Then... ...we need compute only the transactions since midnight.
+
+Nothing ever gets deleted or updated from such a data store. As a consequence, our applications are not CRUD; they are just CR... ...there cannot be any concurrent update issues.
+
+If we have enough storage and enough processor power, we can make our applications entirely immutable—and, therefore, _entirely functional._
+
+This is the way your source code control system works.
+
 ### Conclusion
 ## PART III Design Principles
 ## Chapter 7 SRP: The Single Responsibility Principle
