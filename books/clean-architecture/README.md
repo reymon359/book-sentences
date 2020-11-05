@@ -437,7 +437,13 @@ The executive summary:
 - **ISP:** The Interface Segregation Principle. This principle advises software designers to avoid depending on things that they don’t use.
 - **DIP:** The Dependency Inversion Principle. The code that implements high-level policy should not depend on the code that implements low-level details. Rather, details should depend on policies.
 
+> Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
+> — Melvin E. Conway
+
 ## Chapter 7 SRP: The Single Responsibility Principle
+
+
+
 ## Symptom 1: Accidental Duplication
 ## Symptom 2: Merges
 ## Solutions
