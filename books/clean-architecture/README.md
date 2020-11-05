@@ -473,6 +473,29 @@ Multiple people changing the same source file for different reasons... ...to avo
 
 ### Solutions
 
+Many different solutions to this problem. Each moves the functions into different classes.
+
+The most obvious way to solve the problem is to separate the data from the functions... ...
+
+![Figure 7.3 The three classes do not know about each other](./figure7.3.jpg)
+Figure 7.3 The three classes do not know about each other
+
+The downside of this solution is that the developers now have three classes that they have to instantiate and track. A common solution to this dilemma is to use the _Facade_ pattern (Figure 7.4).
+
+![Figure 7.4 The Facade pattern](./figure7.4.jpg)
+Figure 7.4 The `Facade` pattern
+
+The `EmployeeFacade` contains very little code. It is responsible for instantiating and delegating to the classes with the functions.
+
+To keep the most important business rules closer to the data... ...can be done by keeping the most important method in the original Employee class and then using that class as a Facade for the lesser functions (Figure 7.5).
+
+![Figure 7.5 The most important method is kept in the original Employee class and used as a Facade for the lesser functions](./figure7.5.jpg)
+Figure 7.5 The most important method is kept in the original `Employee` class and used as a Facade for the lesser functions
+
+Every class would contain just one function. This is hardly the case. The number of functions required... ...is likely to be large in each case. Each of those classes would have many _private_ methods in them.
+
+Each of the classes that contain such a family of methods is a scope. Outside of that scope, no one knows that the private members of the family exist.
+
 ### Conclusion
 
 ## Chapter 8 OCP: The Open-Closed Principle
