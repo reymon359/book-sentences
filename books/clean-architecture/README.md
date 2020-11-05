@@ -406,6 +406,17 @@ If we have enough storage and enough processor power, we can make our applicatio
 This is the way your source code control system works.
 
 ### Conclusion
+
+- Structured programming is discipline imposed upon direct transfer of control.
+- Object-oriented programming is discipline imposed upon indirect transfer of control.
+- Functional programming is discipline imposed upon variable assignment.
+
+Each of these three paradigms has taken something away from us. Each restricts some aspect of the way we write code. None of them has added to our power or our capabilities.
+
+Software is not a rapidly advancing technology. The rules of software are the same today as they were in 1946, when Alan Turing wrote the very first code... ...The tools have changed, and the hardware has changed, but the essence of software remains the same.
+
+Software—the stuff of computer programs—is composed of sequence, selection, iteration, and indirection. Nothing more. Nothing less.
+
 ## PART III Design Principles
 ## Chapter 7 SRP: The Single Responsibility Principle
 ## Symptom 1: Accidental Duplication
