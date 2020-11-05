@@ -442,12 +442,22 @@ The executive summary:
 
 ## Chapter 7 SRP: The Single Responsibility Principle
 
+The Single Responsibility Principle (SRP) might be the least well understood... ...It is too easy for programmers to hear the name and then assume that it means that every module should do just one thing... ...there _is_ a principle like that. A _function_ should do one, and only one, thing. We use that... ...when we are refactoring... ...at the lowest levels. But it is not one of the SOLID principles—it is not the SRP.
 
+Historically, the SRP has been described this way: _A module should have one, and only one, reason to change_... ...satisfy users and stakeholders... ..._are_ the "reason to change"... ...Indeed, we can rephrase the principle to... ..._A module should be responsible to one, and only one, user or stakeholder_... ...the words "user" and "stakeholder" aren’t really the right words to use here... ...we’re really referring to a group... ...We’ll refer to that group as an _actor._ Thus the final version of the SRP is: _A module should be responsible to one, and only one, actor._
 
-## Symptom 1: Accidental Duplication
-## Symptom 2: Merges
-## Solutions
-## Conclusion
+A module is just a cohesive set of functions and data structures... ..."cohesive" implies the SRP. Cohesion is the force that binds together the code responsible to a single actor.
+
+The best way to understand this principle is by looking at the symptoms of violating it.
+
+### Symptom 1: Accidental Duplication
+
+### Symptom 2: Merges
+
+### Solutions
+
+### Conclusion
+
 ## Chapter 8 OCP: The Open-Closed Principle
 ## A Thought Experiment
 ## Directional Control
