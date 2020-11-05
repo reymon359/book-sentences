@@ -452,6 +452,11 @@ The best way to understand this principle is by looking at the symptoms of viola
 
 ### Symptom 1: Accidental Duplication
 
+`Employee` class three methods: _calculatePay()_, _reportHours()_, and _save()_ (Figure 7.1).
+
+![Figure 7.1 The Employee class](./figure7.1.jpg)
+Figure 7.1 The `Employee` class
+
 ### Symptom 2: Merges
 
 ### Solutions
