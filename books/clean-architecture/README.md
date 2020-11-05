@@ -465,6 +465,12 @@ These problems occur because we put code that different actors depend on into cl
 
 ### Symptom 2: Merges
 
+Merges will be common in source files that contain many different methods. This situation is especially likely if those methods are responsible to different actors.
+
+Merges are risky affairs... ...no tool can deal with every merge case. In the end, there is always risk.
+
+Multiple people changing the same source file for different reasons... ...to avoid this problem is to _separate code that supports different actors._
+
 ### Solutions
 
 ### Conclusion
