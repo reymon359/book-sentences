@@ -452,10 +452,16 @@ The best way to understand this principle is by looking at the symptoms of viola
 
 ### Symptom 1: Accidental Duplication
 
-`Employee` class three methods: _calculatePay()_, _reportHours()_, and _save()_ (Figure 7.1).
-
 ![Figure 7.1 The Employee class](./figure7.1.jpg)
 Figure 7.1 The `Employee` class
+
+`Employee` class three methods: _calculatePay()_, _reportHours()_, and _save()_ (Figure 7.1)... ...violates the SRP because those three methods are responsible to... ...different actors.
+- The `calculatePay()`... ...by the accounting department, which reports to the CFO.
+- The `reportHours()`... ...by the human resources department, which reports to the COO.
+- The `save()`... ...by the database administrators (DBAs), who report to the CTO
+By putting... ...these three methods into a single `Employee` class, the developers have coupled each of these actors to the others. This Symptom 1: Accidental Duplication coupling can cause the actions of the CFO’s team to affect something that the COO’s team depends on.
+
+These problems occur because we put code that different actors depend on into close proximity. The SRP says to _separate the code that different actors depend on._
 
 ### Symptom 2: Merges
 
