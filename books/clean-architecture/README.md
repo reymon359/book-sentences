@@ -498,6 +498,8 @@ Each of the classes that contain such a family of methods is a scope. Outside of
 
 ### Conclusion
 
+The Single Responsibility Principle is about functions and classes... ...At the level of components, it becomes the Common Closure Principle. At the architectural level, it becomes the Axis of Change responsible for the creation of Architectural Boundaries.
+
 ## Chapter 8 OCP: The Open-Closed Principle
 ## A Thought Experiment
 ## Directional Control
