@@ -501,6 +501,14 @@ Each of the classes that contain such a family of methods is a scope. Outside of
 The Single Responsibility Principle is about functions and classes... ...At the level of components, it becomes the Common Closure Principle. At the architectural level, it becomes the Axis of Change responsible for the creation of Architectural Boundaries.
 
 ## Chapter 8 OCP: The Open-Closed Principle
+
+The Open-Closed Principle (OCP) was coined in 1988 by Bertrand Meyer.
+
+> A software artifact should be open for extension but closed for modification.
+> — Bertrand Meyer.
+
+The behavior of a software artifact ought to be extendible, without having to modify that artifact... ...is the most fundamental reason that we study software architecture... ...if simple extensions to the requirements force massive changes to the software, then the architects... ...have engaged in a spectacular failure.
+
 ## A Thought Experiment
 ## Directional Control
 ## Information Hiding
