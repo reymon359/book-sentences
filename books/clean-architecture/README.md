@@ -520,7 +520,27 @@ Applying the SRP, we... ...come up with the data-flow view shown in Figure 8.1..
 
 Having made this separation, we need to organize the source code dependencies to ensure that changes to one of those responsibilities do not cause changes in the other. Also, the new organization should ensure that the behavior can be extended without undo modification.
 
-Partitioning the processes into classes, and separating those classes into components, as shown... ...in the diagram in Figure 8.2. In this figure, the component at the upper left is the _Controller._ At the upper right, we have the _Interactor._ At the lower right, there is the _Database._ Finally, at the lower left, there are four components that represent the _Presenters_ and the _Views._
+Partitioning the processes into classes, and separating those classes into components, as shown... ...in the diagram in Figure 8.2. In this figure, the component at the upper left is the _Controller._ At the upper right, we have the _Interactor._ At the lower right, there is the _Database._ Finally, at the lower left, there are four components that represent the _Presenters_ and the _Views._ Classes marked with `<I>` are interfaces; those marked with `<DS>` are data structures. Open arrowheads are _using_ relationships. Closed arrowheads are _implements_ or _inheritance_ relationships.
+
+![Figure 8.2 Partitioning the processes into classes and separating the classes into components](./figure8.2.jpg)
+Figure 8.2 Partitioning the processes into classes and separating the classes into components
+
+All the dependencies are _source code_ dependencies. An arrow pointing from class A to class B means that the source code of class A mentions the name of class B, but class B mentions nothing about class A. 
+
+all component relationships are unidirectional, as shown in the component graph in Figure 8.3. These arrows point toward the components that we want to protect from change.
+
+![Figure 8.3 The component relationships are unidirectional](./figure8.3.jpg)
+Figure 8.3 The component relationships are unidirectional
+
+If component A should be protected from changes in component B, then component B should depend on component A.
+
+We want to protect the _Controller_ from changes in the _Presenters._ We want to protect the _Presenters_ from changes in the _Views._ We want to protect the _Interactor_ from changes in—well, _anything._... ...Because it contains the business rules. The Interactor contains the highest-level policies of the application. All the other components are dealing with peripheral concerns. The _Interactor_ deals with the central concern.
+
+This creates a hierarchy of protection based on the notion of "level." _Interactors_ are the highest-level concept, so they are the most protected. _Views_ are among the lowest-level concepts, so they are the least protected. _Presenters_ are higher level than _Views,_ but lower level than the _Controller_ or the _Interactor._
+
+How the OCP works at the architectural level. Architects separate functionality based on how, why, and when it changes, and then organize that separated functionality into a hierarchy of components. Higher-level components in that hierarchy are protected from the changes made to lower-level components.
+
+
 
 ## Directional Control
 ## Information Hiding
