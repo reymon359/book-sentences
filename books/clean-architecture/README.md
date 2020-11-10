@@ -552,7 +552,10 @@ Transitive dependencies are a violation of the general principle that software e
 
 Even though our first priority is to protect the _Interactor_ from changes to the _Controller,_ we also want to protect the _Controller_ from changes to the _Interactor_ by hiding the internals of the _Interactor._
 
-## Conclusion
+### Conclusion
+
+The OCP... ...goal is to make the system easy to extend without incurring a high impact of change. Accomplished by partitioning the system into components, and arranging those components into a dependency hierarchy that protects higher-level components from changes in lower-level components.
+
 ## Chapter 9 LSP: The Liskov Substitution Principle
 ## Guiding the Use of Inheritance
 ## The Square/Rectangle Problem
