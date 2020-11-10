@@ -587,7 +587,10 @@ The best way to understand the LSP from an architectural viewpoint is to look at
 
 No architect worth his or her salt would allow... ...Putting word... ...into the code itself creates an opportunity for all kinds of horrible and mysterious errors, not to mention security breaches.
 
-## Conclusion
+### Conclusion
+
+The LSP can, and should, be extended to the level of architecture. A simple violation of substitutability, can cause a system’s architecture to be polluted with a significant amount of extra mechanisms.
+
 ## Chapter 10 ISP: The Interface Segregation Principle
 ## ISP and Language
 ## ISP and Architecture
