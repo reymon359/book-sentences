@@ -596,7 +596,10 @@ The LSP can, and should, be extended to the level of architecture. A simple viol
 ![Figure 10.1 The Interface Segregation Principle](./figure10.1.jpg)
 Figure 10.1 The Interface Segregation Principle
 
-The Interface Segregation Principle (ISP) derives... ...from the diagram... ...in Figure 10.1.
+The Interface Segregation Principle (ISP) derives... ...from the diagram... ...in Figure 10.1... ...several users who use the operations of the `OPS` class... ...the source code of `User1` will... ...depend on `op2` and `op3`, even though it doesn’t call them... ...a change to the source code of `op2` in `OPS` will force `User1` to be recompiled and redeployed... ...This problem can be resolved by segregating the operations into interfaces as shown in Figure 10.2... ...`User1` will depend on `U1Ops`, and `op1`, but will not depend on `OPS`. Thus a change to `OPS` that `User1` does not care about will not cause `User1` to be recompiled and redeployed.
+
+![Figure 10.2 Segregated operations](./figure10.2.jpg)
+Figure 10.2 Segregated operations
 
 ## ISP and Language
 ## ISP and Architecture
