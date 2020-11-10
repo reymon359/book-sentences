@@ -592,6 +592,12 @@ No architect worth his or her salt would allow... ...Putting word... ...into the
 The LSP can, and should, be extended to the level of architecture. A simple violation of substitutability, can cause a system’s architecture to be polluted with a significant amount of extra mechanisms.
 
 ## Chapter 10 ISP: The Interface Segregation Principle
+
+![Figure 10.1 The Interface Segregation Principle](./figure10.1.jpg)
+Figure 10.1 The Interface Segregation Principle
+
+The Interface Segregation Principle (ISP) derives... ...from the diagram... ...in Figure 10.1.
+
 ## ISP and Language
 ## ISP and Architecture
 ## Conclusion
