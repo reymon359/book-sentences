@@ -575,7 +575,14 @@ Figure 9.2 The infamous square/rectangle problem
 
 The canonical example of a violation of the LSP is the... ...square/rectangle problem (Figure 9.2)... ...`Square` is not a proper subtype of `Rectangle` because the height and width of the `Rectangle` are independently mutable; in contrast, the height and width of the `Square` must change together... ...to defend against this kind of LSP violation... ...add mechanisms to the `User` (such as an `if` statement) that detects whether the `Rectangle` is, in fact, a `Square`. Since the behavior of the `User` depends on the types it uses, those types are not substitutable.
 
-## LSP and Architecture
+### LSP and Architecture
+
+In the early years... ...LSP... ...way to guide the use of inheritance... ...However, over the years... ...has morphed into a broader principle of software design... ...to interfaces and implementations.
+
+The LSP is applicable because there are users who depend on well-defined interfaces, and on the substitutability of the implementations of those interfaces.
+
+The best way to understand the LSP from an architectural viewpoint is to look at what happens to the architecture of a system when the principle is violated.
+
 ## Example LSP Violation
 ## Conclusion
 ## Chapter 10 ISP: The Interface Segregation Principle
