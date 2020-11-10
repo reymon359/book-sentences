@@ -557,7 +557,13 @@ Even though our first priority is to protect the _Interactor_ from changes to th
 The OCP... ...goal is to make the system easy to extend without incurring a high impact of change. Accomplished by partitioning the system into components, and arranging those components into a dependency hierarchy that protects higher-level components from changes in lower-level components.
 
 ## Chapter 9 LSP: The Liskov Substitution Principle
+
+> What is wanted here is something like the following substitution property: If for each object o1 of type S there is an object o2 of type T such that for all programs P defined in terms of T, the behavior of P is unchanged when o1 is substituted for o2 then S is a subtype of T.
+> — Barbara Liskov, “Data Abstraction and Hierarchy,” SIGPLAN Notices 23, 5 (May 1988).
+
 ## Guiding the Use of Inheritance
+
+
 ## The Square/Rectangle Problem
 ## LSP and Architecture
 ## Example LSP Violation
