@@ -546,7 +546,7 @@ Much of the complexity... ...was intended to make sure that the dependencies bet
 
 ### Information Hiding
 
-The `FinancialReportRequester` is there to protect the `FinancialReportController` from knowing too much about the internals of the _Interactor._ If that interface were not there, then the _Controller_ would have transitive dependencies on the `FinancialEntities.`
+The `FinancialReportRequester` is there to protect the `FinancialReportController` from knowing too much about the internals of the _Interactor._ If that interface were not there, then the _Controller_ would have transitive dependencies on the `FinancialEntities`.
 
 Transitive dependencies are a violation of the general principle that software entities should not depend on things they don’t directly use.
 
@@ -561,8 +561,12 @@ The OCP... ...goal is to make the system easy to extend without incurring a high
 > What is wanted here is something like the following substitution property: If for each object o1 of type S there is an object o2 of type T such that for all programs P defined in terms of T, the behavior of P is unchanged when o1 is substituted for o2 then S is a subtype of T.
 > — Barbara Liskov, “Data Abstraction and Hierarchy,” SIGPLAN Notices 23, 5 (May 1988).
 
-## Guiding the Use of Inheritance
+### Guiding the Use of Inheritance
 
+Imagine... ...a class named `License`, as shown in Figure 9.1... ...`calcFee()`, is called by the `Billing` application... ...This design conforms to the LSP because the behavior of the `Billing` application does not depend,... ...on which of the two subtypes it uses. Both of the subtypes are substitutable for the `License` type.
+
+![Figure 9.1 License, and its derivatives, conform to LSP](./figure9.1.jpg)
+Figure 9.1 `License`, and its derivatives, conform to LSP
 
 ## The Square/Rectangle Problem
 ## LSP and Architecture
