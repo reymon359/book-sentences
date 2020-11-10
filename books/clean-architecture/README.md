@@ -540,9 +540,10 @@ This creates a hierarchy of protection based on the notion of "level." _Interact
 
 How the OCP works at the architectural level. Architects separate functionality based on how, why, and when it changes, and then organize that separated functionality into a hierarchy of components. Higher-level components in that hierarchy are protected from the changes made to lower-level components.
 
+### Directional Control
 
+Much of the complexity... ...was intended to make sure that the dependencies between the components pointed in the correct direction. For example, the `FinancialDataGateway` interface between the `FinancialReportGenerator` and the `FinancialDataMapper` exists to invert the dependency that would otherwise have pointed from the _Interactor_ component to the _Database_ component.
 
-## Directional Control
 ## Information Hiding
 ## Conclusion
 ## Chapter 9 LSP: The Liskov Substitution Principle
