@@ -544,7 +544,14 @@ How the OCP works at the architectural level. Architects separate functionality 
 
 Much of the complexity... ...was intended to make sure that the dependencies between the components pointed in the correct direction. For example, the `FinancialDataGateway` interface between the `FinancialReportGenerator` and the `FinancialDataMapper` exists to invert the dependency that would otherwise have pointed from the _Interactor_ component to the _Database_ component.
 
-## Information Hiding
+### Information Hiding
+
+The `FinancialReportRequester` is there to protect the `FinancialReportController` from knowing too much about the internals of the _Interactor._ If that interface were not there, then the _Controller_ would have transitive dependencies on the `FinancialEntities.`
+
+Transitive dependencies are a violation of the general principle that software entities should not depend on things they don’t directly use.
+
+Even though our first priority is to protect the _Interactor_ from changes to the _Controller,_ we also want to protect the _Controller_ from changes to the _Interactor_ by hiding the internals of the _Interactor._
+
 ## Conclusion
 ## Chapter 9 LSP: The Liskov Substitution Principle
 ## Guiding the Use of Inheritance
