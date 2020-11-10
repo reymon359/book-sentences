@@ -583,7 +583,10 @@ The LSP is applicable because there are users who depend on well-defined interfa
 
 The best way to understand the LSP from an architectural viewpoint is to look at what happens to the architecture of a system when the principle is violated.
 
-## Example LSP Violation
+### Example LSP Violation
+
+No architect worth his or her salt would allow... ...Putting word... ...into the code itself creates an opportunity for all kinds of horrible and mysterious errors, not to mention security breaches.
+
 ## Conclusion
 ## Chapter 10 ISP: The Interface Segregation Principle
 ## ISP and Language
