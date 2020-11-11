@@ -711,6 +711,8 @@ The problem... ...was that... ...devices were slow and memory was expensive... .
 
 ### Relocatability
 
+Relocatable binaries... ...The compiler was changed to output binary code that could be relocated in memory by a smart loader. The loader would be told where to load the relocatable code. The relocatable code was instrumented with flags that told the loader which parts of the loaded data had to be altered to be loaded at the selected address. Usually this just meant adding the starting address to any memory reference addresses in the binary. Now the programmer could tell the loader where to load the function library, and where to load the application... ...This allowed programmers to load only those functions that they needed... ...The compiler was also changed to emit the names of the functions as metadata in the relocatable binary... ...Then the loader could _link_ the external references to the external definitions... ...And the linking loader was born.
+
 ### Linkers
 ### Conclusion
 ## Chapter 13 Component Cohesion
