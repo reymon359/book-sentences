@@ -774,7 +774,23 @@ _Gather together those things that change at the same times and for the same rea
 
 ### The Common Reuse Principle
 
+_Don’t force users of a component to depend on things they don’t need._
 
+The Common Reuse Principle (CRP)... ...helps us to decide which classes and modules should be placed into a component... ...classes and modules that tend to be reused together belong in the same component.
+
+Classes are seldom reused in isolation. More typically, reusable classes collaborate with other classes that are part of the reusable abstraction... ...these classes belong together in the same component. In such... ...we would expect... ...classes that have lots of dependencies on each other.
+
+The CRP... ...tells us which classes _not_ to keep together in a component. When one component uses another, a dependency is created between... ...The _using_ component depends on the _used_ component... ...every time the _used_ component is changed, the _using_ component will need corresponding changes.
+
+When we depend on a component, we want to make sure we depend on every class in that component... ...we want to make sure that the classes that we put into a component are inseparable—that it is impossible to depend on some and not on the others. Otherwise, we will be redeploying more components than is necessary.
+
+Classes that are not tightly bound to each other should not be in the same component.
+
+#### Relation to ISP
+
+The CRP is the generic version of the ISP. The ISP advises us not to depend on classes that have methods we don’t use. The CRP advises us not to depend on components that have classes we don’t use.
+
+_Don’t depend on things you don’t need._
 
 ### The Tension Diagram for Component Cohesion
 
