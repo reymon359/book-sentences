@@ -616,7 +616,10 @@ Figure 10.3 A problematic architecture
 
 For example, an architect working on a system, S... ...So S depends on F. which depends on D (Figure 10.3). Now suppose that D contains features that F does not use and, therefore, that S does not care about. Changes to those features within D may well force the redeployment of F and, therefore, the redeployment of S. Even worse, a failure of one of the features within D may cause failures in F and S.
 
-## Conclusion
+### Conclusion
+
+Depending on something that carries baggage that you don’t need can cause you troubles that you didn’t expect.
+
 ## Chapter 11 DIP: The Dependency Inversion Principle
 ## Stable Abstractions
 ## Factories
