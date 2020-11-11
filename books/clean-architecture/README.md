@@ -692,11 +692,16 @@ DIP... ...will be the most visible organizing principle in our architecture diag
 The curved line in Figure 11.1 will become the architectural boundaries... ...The way the dependencies cross that curved line in one direction, and toward more abstract entities, will become... ...the _Dependency Rule._
 
 ## PART IV Component Principles
+
+The SOLID principles tell us how to arrange the bricks into walls and... ...component principles tell us how to arrange the rooms into buildings. Large software systems, like large buildings, are built out of smaller components.
+
 ## Chapter 12 Components
-## A Brief History of Components
-## Relocatability
-## Linkers
-## Conclusion
+
+### A Brief History of Components
+
+### Relocatability
+### Linkers
+### Conclusion
 ## Chapter 13 Component Cohesion
 ## The Reuse/Release Equivalence Principle
 ## The Common Closure Principle
