@@ -319,9 +319,11 @@ OO allows the plugin architecture to be used anywhere, for anything.
 Before a safe and convenient mechanism for polymorphism was available. In the typical calling tree, main functions called high-level functions, which called mid-level functions, which called low-level functions... ...source code dependencies inexorably followed the flow of control (Figure 5.1).
 
 ![Figure 5.1 Source code dependencies versus flow of control](./figure5.1.jpg)
+
 Figure 5.1 Source code dependencies versus flow of control
 
 ![Figure 5.2 Dependency inversion](./figure5.2.jpg)
+
 Figure 5.2 Dependency inversion
 
 In Figure 5.2, module `HL1` calls the `F()` function in module `ML1`... ...At runtime, the interface doesn’t exist. `HL1` simply calls `F()` within `ML1`... ...the source code dependency (the inheritance relationship) between `ML1` and the interface `I` points in the opposite direction compared to the flow of control. This is called _dependency inversion,_ and its implications for the software architect are profound... ...convenient polymorphism means that _any source code dependency, no matter where it is, can be inverted_... ...software architects... ...have _absolute control_ over the direction of all source code dependencies in the system. They are not constrained to align those dependencies with the flow of control. No matter which module does the calling and which module is called, the software architect can point the source code dependency in either direction... ...That is the power that OO provides.
@@ -383,6 +385,7 @@ Immutability is practicable... ...if you have infinite storage and infinite proc
 One of the most common compromises in regard to immutability is to segregate the application... ...into mutable and immutable components. The immutable components perform their tasks in a purely functional way, without using any mutable variables... ...communicate with... ...other components that are not purely functional, and allow for the state of variables to be mutated (Figure 6.1).
 
 ![Figure 6.1 Mutating state and transactional memory](./figure6.1.jpg)
+
 Figure 6.1 Mutating state and transactional memory
 
 It is common practice to use... ..._transactional memory_ to protect the mutable variables from concurrent updates and race conditions... ...It protects those variables with a transaction-or retry-based scheme.
@@ -453,6 +456,7 @@ The best way to understand this principle is by looking at the symptoms of viola
 ### Symptom 1: Accidental Duplication
 
 ![Figure 7.1 The Employee class](./figure7.1.jpg)
+
 Figure 7.1 The `Employee` class
 
 `Employee` class three methods: _calculatePay()_, _reportHours()_, and _save()_ (Figure 7.1)... ...violates the SRP because those three methods are responsible to... ...different actors.
@@ -478,11 +482,13 @@ Many different solutions to this problem. Each moves the functions into differen
 The most obvious way to solve the problem is to separate the data from the functions... ...
 
 ![Figure 7.3 The three classes do not know about each other](./figure7.3.jpg)
+
 Figure 7.3 The three classes do not know about each other
 
 The downside of this solution is that the developers now have three classes that they have to instantiate and track. A common solution to this dilemma is to use the _Facade_ pattern (Figure 7.4).
 
 ![Figure 7.4 The Facade pattern](./figure7.4.jpg)
+
 Figure 7.4 The `Facade` pattern
 
 The `EmployeeFacade` contains very little code. It is responsible for instantiating and delegating to the classes with the functions.
@@ -490,6 +496,7 @@ The `EmployeeFacade` contains very little code. It is responsible for instantiat
 To keep the most important business rules closer to the data... ...can be done by keeping the most important method in the original Employee class and then using that class as a Facade for the lesser functions (Figure 7.5).
 
 ![Figure 7.5 The most important method is kept in the original Employee class and used as a Facade for the lesser functions](./figure7.5.jpg)
+
 Figure 7.5 The most important method is kept in the original `Employee` class and used as a Facade for the lesser functions
 
 Every class would contain just one function. This is hardly the case. The number of functions required... ...is likely to be large in each case. Each of those classes would have many _private_ methods in them.
@@ -514,6 +521,7 @@ The behavior of a software artifact ought to be extendible, without having to mo
 Imagine... ...that we have a system... ...some new code must be written. But how much old code will have to change? A good software architecture would reduce the amount of changed code to the barest minimum. Ideally, zero. How? By properly separating the things that change for different reasons (the Single Responsibility Principle), and then organizing the dependencies between those things properly (the Dependency Inversion Principle).
 
 ![Figure 8.1 Applying the SRP](./figure8.1.jpg)
+
 Figure 8.1 Applying the SRP
 
 Applying the SRP, we... ...come up with the data-flow view shown in Figure 8.1.... ...generating the report involves two separate responsibilities: the calculation of the reported data, and the presentation of that data into a web- and printer-friendly form.
@@ -523,6 +531,7 @@ Having made this separation, we need to organize the source code dependencies to
 Partitioning the processes into classes, and separating those classes into components, as shown... ...in the diagram in Figure 8.2. In this figure, the component at the upper left is the _Controller._ At the upper right, we have the _Interactor._ At the lower right, there is the _Database._ Finally, at the lower left, there are four components that represent the _Presenters_ and the _Views._ Classes marked with `<I>` are interfaces; those marked with `<DS>` are data structures. Open arrowheads are _using_ relationships. Closed arrowheads are _implements_ or _inheritance_ relationships.
 
 ![Figure 8.2 Partitioning the processes into classes and separating the classes into components](./figure8.2.jpg)
+
 Figure 8.2 Partitioning the processes into classes and separating the classes into components
 
 All the dependencies are _source code_ dependencies. An arrow pointing from class A to class B means that the source code of class A mentions the name of class B, but class B mentions nothing about class A. 
@@ -530,6 +539,7 @@ All the dependencies are _source code_ dependencies. An arrow pointing from clas
 all component relationships are unidirectional, as shown in the component graph in Figure 8.3. These arrows point toward the components that we want to protect from change.
 
 ![Figure 8.3 The component relationships are unidirectional](./figure8.3.jpg)
+
 Figure 8.3 The component relationships are unidirectional
 
 If component A should be protected from changes in component B, then component B should depend on component A.
@@ -566,11 +576,13 @@ The OCP... ...goal is to make the system easy to extend without incurring a high
 Imagine... ...a class named `License`, as shown in Figure 9.1... ...`calcFee()`, is called by the `Billing` application... ...This design conforms to the LSP because the behavior of the `Billing` application does not depend,... ...on which of the two subtypes it uses. Both of the subtypes are substitutable for the `License` type.
 
 ![Figure 9.1 License, and its derivatives, conform to LSP](./figure9.1.jpg)
+
 Figure 9.1 `License`, and its derivatives, conform to LSP
 
 ### The Square/Rectangle Problem
 
 ![Figure 9.2 The infamous square/rectangle problem](./figure9.2.jpg)
+
 Figure 9.2 The infamous square/rectangle problem
 
 The canonical example of a violation of the LSP is the... ...square/rectangle problem (Figure 9.2)... ...`Square` is not a proper subtype of `Rectangle` because the height and width of the `Rectangle` are independently mutable; in contrast, the height and width of the `Square` must change together... ...to defend against this kind of LSP violation... ...add mechanisms to the `User` (such as an `if` statement) that detects whether the `Rectangle` is, in fact, a `Square`. Since the behavior of the `User` depends on the types it uses, those types are not substitutable.
@@ -594,11 +606,13 @@ The LSP can, and should, be extended to the level of architecture. A simple viol
 ## Chapter 10 ISP: The Interface Segregation Principle
 
 ![Figure 10.1 The Interface Segregation Principle](./figure10.1.jpg)
+
 Figure 10.1 The Interface Segregation Principle
 
 The Interface Segregation Principle (ISP) derives... ...from the diagram... ...in Figure 10.1... ...several users who use the operations of the `OPS` class... ...the source code of `User1` will... ...depend on `op2` and `op3`, even though it doesn’t call them... ...a change to the source code of `op2` in `OPS` will force `User1` to be recompiled and redeployed... ...This problem can be resolved by segregating the operations into interfaces as shown in Figure 10.2... ...`User1` will depend on `U1Ops`, and `op1`, but will not depend on `OPS`. Thus a change to `OPS` that `User1` does not care about will not cause `User1` to be recompiled and redeployed.
 
 ![Figure 10.2 Segregated operations](./figure10.2.jpg)
+
 Figure 10.2 Segregated operations
 
 ### ISP and Language
@@ -612,6 +626,7 @@ Dynamically typed languages create systems that are more flexible and less tight
 It is harmful to depend on modules that contain more than you need.
 
 ![Figure 10.3 A problematic architecture](./figure10.3.jpg)
+
 Figure 10.3 A problematic architecture
 
 For example, an architect working on a system, S... ...So S depends on F. which depends on D (Figure 10.3). Now suppose that D contains features that F does not use and, therefore, that S does not care about. Changes to those features within D may well force the redeployment of F and, therefore, the redeployment of S. Even worse, a failure of one of the features within D may cause failures in F and S.
@@ -657,6 +672,7 @@ The creation of volatile concrete objects requires special handling... ...becaus
 In most object-oriented languages... ...we would use an _Abstract Factory_ to manage this undesirable dependency... ...Figure 11.1 shows the structure. The `Application` uses the `ConcreteImpl` through the `Service` interface. However, the `Application` must somehow create instances of the `ConcreteImpl`. To achieve this without creating a source code dependency on the `ConcreteImpl`, the `Application` calls the `makeSvc` method of the `ServiceFactory` interface. This method is implemented by the `ServiceFactoryImpl` class, which derives from `ServiceFactory`. That implementation instantiates the `ConcreteImpl` and returns it as a `Service`. The curved line in Figure 11.1 is an architectural boundary. It separates the abstract from the concrete. All source code dependencies cross that curved line pointing in the same direction, toward the abstract side.
 
 ![Figure 11.1 Use of the Abstract Factory pattern to manage the dependency](./figure11.1.jpg)
+
 Figure 11.1 Use of the _Abstract Factory_ pattern to manage the dependency
 
 The abstract component contains all the high-level business rules of the application. The concrete component contains all the implementation details that those business rules manipulate.
