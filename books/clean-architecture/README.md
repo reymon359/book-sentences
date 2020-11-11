@@ -634,12 +634,25 @@ We tend to ignore the stable background of operating system and platform facilit
 
 It is the _volatile_ concrete elements of our system that we want to avoid depending on... ...modules that we are actively developing, and that are undergoing frequent change.
 
-## Stable Abstractions
+### Stable Abstractions
 
+Every change to an abstract interface corresponds to a change to its concrete implementations. Conversely, changes to concrete implementations do not always, or even usually, require changes to the interfaces that they implement. Therefore interfaces are less volatile than implementations.
 
-## Factories
-## Concrete Components
-## Conclusion
+Try to find ways to add functionality to implementations without making changes to the interfaces. This is Software Design 101.
+
+Stable software architectures are those that avoid depending on volatile concretions, and that favor the use of stable abstract interfaces.
+
+Coding practices:
+- **Don’t refer to volatile concrete classes.** Refer to abstract interfaces instead.
+- **Don’t derive from volatile concrete classes.** This is a corollary to the previous rule.
+- **Don’t override concrete functions.** Concrete functions often require source code dependencies. When you override those functions, you do not eliminate those dependencies—indeed, you _inherit_ them... ...make the function abstract and create multiple implementations.
+- **Never mention the name of anything concrete and volatile.** This is really just a restatement of the principle itself.
+
+In statically typed languages, inheritance is the strongest, and most rigid, of all the source code relationships; consequently, it should be used with great care. In dynamically typed languages, inheritance is less of a problem, but it is still a dependency—and caution is always the wisest choice.
+
+### Factories
+### Concrete Components
+### Conclusion
 ## PART IV Component Principles
 ## Chapter 12 Components
 ## A Brief History of Components
