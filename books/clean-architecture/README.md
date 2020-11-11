@@ -686,6 +686,11 @@ The concrete component in Figure 11.1 contains a single dependency, so it violat
 Most systems will contain at least one concrete component—often called `main` because it contains the `main` function... ...in Figure 11.1, the `main` function would instantiate the `ServiceFactoryImpl` and place that instance in a global variable of type `ServiceFactory`. The `Application` would then access the factory through that global variable.
 
 ### Conclusion
+
+DIP... ...will be the most visible organizing principle in our architecture diagrams.
+
+The curved line in Figure 11.1 will become the architectural boundaries... ...The way the dependencies cross that curved line in one direction, and toward more abstract entities, will become... ...the _Dependency Rule._
+
 ## PART IV Component Principles
 ## Chapter 12 Components
 ## A Brief History of Components
