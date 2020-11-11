@@ -736,7 +736,27 @@ Three principles of component cohesion:
 
 ### The Reuse/Release Equivalence Principle
 
+_The granule of reuse is the granule of release._
+
+The last decade... ...a vast number of reusable components and component libraries have been created. We are now living in the age of software reuse—a fulfillment of one of the oldest promises of the object- oriented model.
+
+The Reuse/Release Equivalence Principle (REP)... ...components are tracked through a release process and are given release numbers... ...to ensure that all the reused components are compatible with each other... ...developers need to know when new releases are coming, and which changes those new releases will bring.
+
+The release process must produce the appropriate notifications and release documentation so that users can make informed decisions about when and whether to integrate the new release.
+
+Classes and modules that are formed into a component must belong to a cohesive group.
+
+Classes and modules that are grouped together into a component should be _releasable_ together.
+
+The fact that they share the same version number and the same release tracking, and are included under the same release documentation, should make sense both to the author and to the users.
+
+It is hard to precisely explain the glue that holds the classes and modules together into a single component... ...violations are easy to detect— they don’t “make sense.” If you violate the REP, your users will know, and they won’t be impressed with your architectural skills.
+
+The weakness of this principle is... ...compensated for by the strength of... ...the CCP and the CRP.
+
 ### The Common Closure Principle
+
+
 
 ### The Common Reuse Principle
 
