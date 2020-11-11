@@ -621,7 +621,22 @@ For example, an architect working on a system, S... ...So S depends on F. which 
 Depending on something that carries baggage that you don’t need can cause you troubles that you didn’t expect.
 
 ## Chapter 11 DIP: The Dependency Inversion Principle
+
+The Dependency Inversion Principle (DIP) tells us that the most flexible systems are those in which source code dependencies refer only to abstractions, not to concretions.
+
+The `use`, `import`, and `include` statements should refer only to source modules containing interfaces, abstract classes, or some other kind of abstract declaration. Nothing concrete should be depended on.
+
+Source code dependencies should not refer to concrete modules.
+
+Treating this idea as a rule is unrealistic, because software systems must depend on many concrete facilities. For example, the `String` class in Java... ...dependency on the concrete `java.lang.string` cannot, and should not, be avoided.
+
+We tend to ignore the stable background of operating system and platform facilities when it comes to DIP. We tolerate those concrete dependencies because we know we can rely on them not to change.
+
+It is the _volatile_ concrete elements of our system that we want to avoid depending on... ...modules that we are actively developing, and that are undergoing frequent change.
+
 ## Stable Abstractions
+
+
 ## Factories
 ## Concrete Components
 ## Conclusion
