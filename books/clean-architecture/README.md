@@ -680,6 +680,11 @@ The abstract component contains all the high-level business rules of the applica
 The flow of control crosses the curved line in the opposite direction of the source code dependencies. The source code dependencies are inverted against the flow of control—which is why we refer to this principle as Dependency Inversion.
 
 ### Concrete Components
+
+The concrete component in Figure 11.1 contains a single dependency, so it violates the DIP. This is typical. DIP violations cannot be entirely removed, but they can be gathered into a small number of concrete components and kept separate from the rest of the system.
+
+Most systems will contain at least one concrete component—often called `main` because it contains the `main` function... ...in Figure 11.1, the `main` function would instantiate the `ServiceFactoryImpl` and place that instance in a global variable of type `ServiceFactory`. The `Application` would then access the factory through that global variable.
+
 ### Conclusion
 ## PART IV Component Principles
 ## Chapter 12 Components
