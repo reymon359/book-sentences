@@ -651,6 +651,18 @@ Coding practices:
 In statically typed languages, inheritance is the strongest, and most rigid, of all the source code relationships; consequently, it should be used with great care. In dynamically typed languages, inheritance is less of a problem, but it is still a dependency—and caution is always the wisest choice.
 
 ### Factories
+
+The creation of volatile concrete objects requires special handling... ...because, in virtually all languages, the creation of an object requires a source code dependency on the concrete definition of that object.
+
+In most object-oriented languages... ...we would use an _Abstract Factory_ to manage this undesirable dependency... ...Figure 11.1 shows the structure. The `Application` uses the `ConcreteImpl` through the `Service` interface. However, the `Application` must somehow create instances of the `ConcreteImpl`. To achieve this without creating a source code dependency on the `ConcreteImpl`, the `Application` calls the `makeSvc` method of the `ServiceFactory` interface. This method is implemented by the `ServiceFactoryImpl` class, which derives from `ServiceFactory`. That implementation instantiates the `ConcreteImpl` and returns it as a `Service`. The curved line in Figure 11.1 is an architectural boundary. It separates the abstract from the concrete. All source code dependencies cross that curved line pointing in the same direction, toward the abstract side.
+
+![Figure 11.1 Use of the Abstract Factory pattern to manage the dependency](./figure11.1.jpg)
+Figure 11.1 Use of the _Abstract Factory_ pattern to manage the dependency
+
+The abstract component contains all the high-level business rules of the application. The concrete component contains all the implementation details that those business rules manipulate.
+
+The flow of control crosses the curved line in the opposite direction of the source code dependencies. The source code dependencies are inverted against the flow of control—which is why we refer to this principle as Dependency Inversion.
+
 ### Concrete Components
 ### Conclusion
 ## PART IV Component Principles
