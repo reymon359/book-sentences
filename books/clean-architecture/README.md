@@ -756,9 +756,25 @@ The weakness of this principle is... ...compensated for by the strength of... ..
 
 ### The Common Closure Principle
 
+_Gather into components those classes that change for the same reasons and at the same times. Separate into different components those classes that change at different times and for different reasons._
 
+This is the Single Responsibility Principle restated for components. Just as the SRP says that a _class_ should not contain multiples reasons to change, so the Common Closure Principle (CCP) says that a _component_ should not have multiple reasons to change.
+
+For most applications, maintainability is more important than reusability. If the code in an application must change, you would rather that all of the changes occur in one component, rather than being distributed across many components
+
+If changes are confined to a single component, then we need to redeploy only the one changed component. Other components that don’t depend on the changed component do not need to be revalidated or redeployed.
+
+This principle is closely associated with the Open Closed Principle (OCP). Indeed, it is "closure" in the OCP sense of the word that the CCP addresses. The OCP states that classes should be closed for modification but open for extension. Because 100% closure is not attainable, closure must be strategic. We design our classes such that they are closed to the most common kinds of changes that we expect or have experienced.
+
+The CCP... ...by gathering together... ...those classes that are closed to the same types of changes... ...when a change in requirements comes along... ...being restricted to a minimal number of components.
+
+#### Similarity with SRP
+
+_Gather together those things that change at the same times and for the same reasons. Separate those things that change at different times or for different reasons._
 
 ### The Common Reuse Principle
+
+
 
 ### The Tension Diagram for Component Cohesion
 
