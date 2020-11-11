@@ -703,7 +703,14 @@ Regardless of how they are eventually deployed, well designed components always 
 
 ### A Brief History of Components
 
+In the early years of software development, programmers controlled the memory location and layout of their programs... ...This kind of programming is a foreign concept for most programmers today. They rarely have to think about where a program is loaded in the memory of the computer. But in the early days... ...programs were not relocatable.
+
+How did you access a library function in those olden days?... ...Programmers included the source code of the library functions with their application code... ...Libraries were kept in source, not in binary.
+
+The problem... ...was that... ...devices were slow and memory was expensive... ...Compiling a large program could take hours... ...To shorten the compile times, programmers separated the source code of the function library from the applications. They compiled the function library separately and loaded the binary at a known address... ...When they wanted to run an application, they would load the binary function library,2 and then load the application... ...soon applications grew to be larger than the space allotted... ...programmers had to split their applications into two address segments, jumping around the function library... ...this was not a sustainable situation. As programmers added more functions to the function library, it exceeded its bounds, and they had to allocate more space for it... ...This fragmentation of programs and libraries necessarily continued as computer memory grew. Clearly, something had to be done.
+
 ### Relocatability
+
 ### Linkers
 ### Conclusion
 ## Chapter 13 Component Cohesion
