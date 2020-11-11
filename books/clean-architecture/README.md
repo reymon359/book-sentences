@@ -728,11 +728,22 @@ In the late 1980s... ...Disks started to shrink and got significantly faster. Co
 These dynamically linked files, which can be plugged together at runtime, are the software components of our architectures. It has taken 50 years, but we have arrived at a place where component plugin architecture can be the casual default as opposed to the herculean effort it once was.
 
 ## Chapter 13 Component Cohesion
-## The Reuse/Release Equivalence Principle
-## The Common Closure Principle
-## The Common Reuse Principle
-## The Tension Diagram for Component Cohesion
-## Conclusion
+
+Three principles of component cohesion:
+- **REP:** The Reuse/Release Equivalence Principle
+- **CCP:** The Common Closure Principle
+- **CRP:** The Common Reuse Principle
+
+### The Reuse/Release Equivalence Principle
+
+### The Common Closure Principle
+
+### The Common Reuse Principle
+
+### The Tension Diagram for Component Cohesion
+
+### Conclusion
+
 ## Chapter 14 Component Coupling
 ## The Acyclic Dependencies Principle
 ## Top-Down Design
