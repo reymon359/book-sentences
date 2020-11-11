@@ -724,6 +724,9 @@ Then came the 1980s. Programmers were working in C or some other high- level lan
 In the late 1980s... ...Disks started to shrink and got significantly faster. Computer memory started to get so ridiculously cheap that much of the data on disk could be cached in RAM. Computer clock rates increased from 1 MHz to 100 MHz. By the mid-1990s, the time spent linking had begun to shrink faster than our ambitions could make programs grow. In many cases, link time decreased to a matter of _seconds._ For small jobs, the idea of a linking loader became feasible again... ...We could link together several... ...files, or several shared libraries in a matter of seconds, and execute the resulting program. And so the component plugin architecture was born.
 
 ### Conclusion
+
+These dynamically linked files, which can be plugged together at runtime, are the software components of our architectures. It has taken 50 years, but we have arrived at a place where component plugin architecture can be the casual default as opposed to the herculean effort it once was.
+
 ## Chapter 13 Component Cohesion
 ## The Reuse/Release Equivalence Principle
 ## The Common Closure Principle
