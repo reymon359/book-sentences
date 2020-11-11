@@ -697,6 +697,10 @@ The SOLID principles tell us how to arrange the bricks into walls and... ...comp
 
 ## Chapter 12 Components
 
+Components are... ...the smallest entities that can be deployed as part of a system... ...In all languages, they are the granule of deployment.
+
+Regardless of how they are eventually deployed, well designed components always retain the ability to be independently deployable and, therefore, independently developable.
+
 ### A Brief History of Components
 
 ### Relocatability
