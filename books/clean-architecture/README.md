@@ -601,8 +601,13 @@ The Interface Segregation Principle (ISP) derives... ...from the diagram... ...i
 ![Figure 10.2 Segregated operations](./figure10.2.jpg)
 Figure 10.2 Segregated operations
 
-## ISP and Language
-## ISP and Architecture
+### ISP and Language
+
+The previously description depends critically on language type. Statically typed languages force programmers to create declarations that users must `import`, or `use`, or otherwise `include`... ...that create the source code dependencies that force recompilation and redeployment. In dynamically typed languages... ...such declarations don’t exist... ...they are inferred at runtime. Thus there are no source code dependencies to force recompilation and redeployment.
+
+Dynamically typed languages create systems that are more flexible and less tightly coupled than statically typed languages.
+
+### ISP and Architecture
 ## Conclusion
 ## Chapter 11 DIP: The Dependency Inversion Principle
 ## Stable Abstractions
