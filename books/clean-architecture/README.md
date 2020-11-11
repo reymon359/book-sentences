@@ -714,6 +714,15 @@ The problem... ...was that... ...devices were slow and memory was expensive... .
 Relocatable binaries... ...The compiler was changed to output binary code that could be relocated in memory by a smart loader. The loader would be told where to load the relocatable code. The relocatable code was instrumented with flags that told the loader which parts of the loaded data had to be altered to be loaded at the selected address. Usually this just meant adding the starting address to any memory reference addresses in the binary. Now the programmer could tell the loader where to load the function library, and where to load the application... ...This allowed programmers to load only those functions that they needed... ...The compiler was also changed to emit the names of the functions as metadata in the relocatable binary... ...Then the loader could _link_ the external references to the external definitions... ...And the linking loader was born.
 
 ### Linkers
+
+The linking loader allowed programmers to divide their programs up onto separately compilable and loadable segments.
+
+As programs grew larger and larger, and more library functions accumulated in libraries, a linking loader could take more than an hour just to load the program. Eventually, the loading and the linking were separated into two phases.... ...the slow part—the part that did that linking... ...into a separate application called the _linker._ The output... ...was a linked relocatable that a relocating loader could load very quickly. This allowed programmers to prepare an executable using the slow linker, but then they could load it quickly, at any time.
+
+Then came the 1980s. Programmers were working in C or some other high- level language. As their ambitions grew, so did their programs. Programs that numbered hundreds of thousands of lines of code were not unusual... ...The linker would then take even more time. Turnaround had again grown to an hour or more in many cases... ...Throughout the 1960s, 1970s, and 1980s, all the changes made to speed up workflow were thwarted by programmers’ ambitions, and the size of the programs they wrote... ...of course... ..._Programs will grow to fill all available compile and link time._
+
+In the late 1980s... ...Disks started to shrink and got significantly faster. Computer memory started to get so ridiculously cheap that much of the data on disk could be cached in RAM. Computer clock rates increased from 1 MHz to 100 MHz. By the mid-1990s, the time spent linking had begun to shrink faster than our ambitions could make programs grow. In many cases, link time decreased to a matter of _seconds._ For small jobs, the idea of a linking loader became feasible again... ...We could link together several... ...files, or several shared libraries in a matter of seconds, and execute the resulting program. And so the component plugin architecture was born.
+
 ### Conclusion
 ## Chapter 13 Component Cohesion
 ## The Reuse/Release Equivalence Principle
