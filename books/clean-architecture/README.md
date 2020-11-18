@@ -814,6 +814,8 @@ It has more to do with the way that project is developed and used, than with wha
 
 ### Conclusion
 
+In the past, our view of cohesion was... ...that cohesion was simply the attribute that a module performs one, and only one, function. However, the three principles of component cohesion describe a much more complex variety of cohesion... ...we must consider the opposing forces involved in reusability and develop-ability. Balancing these forces... ...is nontrivial. Moreover, the balance is almost always dynamic. That is, the partitioning that is appropriate today might not be appropriate next year... ...the composition of the components will jitter and evolve... ...as the focus of the project changes from develop-ability to reusability. 
+
 ## Chapter 14 Component Coupling
 ## The Acyclic Dependencies Principle
 ## Top-Down Design
