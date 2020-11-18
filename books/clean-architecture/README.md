@@ -830,6 +830,30 @@ The "morning after syndrome" occurs in development environments where many devel
 
 Two solutions... ..."the weekly build," and... ...the Acyclic Dependencies Principle (ADP).
 
+#### The Weekly Build
+
+The weekly build... ...All the developers ignore each other for the first four days of the week. They all work on private copies of the code, and don’t worry about integrating their work on a collective basis. Then, on Friday, they integrate all their changes and build the system... ...advantage of allowing the developers to live in an isolated world for four days out of five. The disadvantage... ...large integration penalty that is paid on Friday.
+
+Eventually this situation becomes so frustrating that the developers, or the project managers, declare that the schedule should be changed to a biweekly build. This suffices for a time, but... ...this scenario leads to a crisis... ...Integration and testing become increasingly harder to do, and the team loses the benefit of rapid feedback.
+
+#### Eliminating Dependency Cycles
+
+Partition the development environment into releasable components.
+
+Components become units of work that can be the responsibility of a single developer, or a team of developers... ...they release it for use by the other developers... ...They then continue to modify their component in their own private areas. Everyone else uses the released version.
+
+As new releases of a component are made available, other teams... ...Once they decide that they are ready, they begin to use the new release.
+
+No team is at the mercy of the others... ...Moreover, integration happens in small increments.
+
+To make it work successfully, however, you must _manage_ the dependency structure of the components. _There can be no cycles._ If there are cycles in the dependency structure, then the "morning after syndrome" cannot be avoided.
+
+The component diagram in Figure 14.1... ...this structure is a _directed graph._ The components are the _nodes,_ and the dependency relationships are the _directed edges_... ...Regardless of which component you begin at, it is impossible to follow the dependency relationships and wind up back at that component. This structure has no cycles. It is a _directed acyclic graph_ (DAG).
+
+![Figure 14.1 Typical component diagram](./figure14.1.jpg)
+
+Figure 14.1 Typical component diagram
+
 ### Top-Down Design
 
 ### The Stable Dependencies Principle
