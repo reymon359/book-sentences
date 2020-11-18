@@ -804,6 +804,13 @@ Figure 13.1 Cohesion principles tension diagram
 
 An architect who focuses on just the REP and CRP will find that too many components are impacted when simple changes are made. In contrast, an architect who focuses too strongly on the CCP and REP will cause too many unneeded releases to be generated.
 
+A good architect finds a position in that tension triangle that meets the _current_ concerns of the development team, but is also aware that those concerns will change over time.
+
+Early in the development of a project, the CCP is much more important than the REP, because developability is more important than reuse.
+
+Projects tend to start on the right hand side of the triangle... ...As the project matures, and other projects begin to draw from it, the project will slide over to the left.... ...the component structure of a project can vary with time and maturity. It has more to do with the way that project is developed and used, than with what the project actually does.
+
+It has more to do with the way that project is developed and used, than with what the project actually does.
 
 ### Conclusion
 
