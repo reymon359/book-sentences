@@ -822,6 +822,14 @@ The forces that impinge upon the architecture of a component structure are techn
 
 ### The Acyclic Dependencies Principle
 
+_Allow no cycles in the component dependency graph._
+
+Worked all day, gotten some stuff working, and then gone home, only to arrive the next morning to find that your stuff no longer works? Why doesn’t it work? Because somebody stayed later than you and changed something you depend on!... ..."the morning after syndrome."
+
+The "morning after syndrome" occurs in development environments where many developers are modifying the same source files. In small projects... ...it isn’t too big a problem. But as... ...the project and the development team grow, the mornings after can get pretty nightmarish... ...everyone keeps on changing and changing their code trying to make it work with the last changes that someone else made.
+
+Two solutions... ..."the weekly build," and... ...the Acyclic Dependencies Principle (ADP).
+
 ### Top-Down Design
 
 ### The Stable Dependencies Principle
