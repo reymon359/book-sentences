@@ -794,6 +794,17 @@ _Don’t depend on things you don’t need._
 
 ### The Tension Diagram for Component Cohesion
 
+The three cohesion principles tend to fight each other. The REP and CCP are _inclusive_ principles: Both tend to make components larger. The CRP is an _exclusive_ principle, driving components to be smaller. It is the tension between these principles that good architects seek to resolve.
+
+Figure 13.1 is a tension diagram that shows how the three principles of cohesion interact with each other. The edges of the diagram describe the _cost_ of abandoning the principle on the opposite vertex. 
+
+![Figure 13.1 Cohesion principles tension diagram](./figure13.1.jpg)
+
+Figure 13.1 Cohesion principles tension diagram
+
+An architect who focuses on just the REP and CRP will find that too many components are impacted when simple changes are made. In contrast, an architect who focuses too strongly on the CCP and REP will cause too many unneeded releases to be generated.
+
+
 ### Conclusion
 
 ## Chapter 14 Component Coupling
