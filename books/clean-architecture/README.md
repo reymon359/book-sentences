@@ -970,6 +970,34 @@ When the _I_ is equal to 1... ...and this component depends on other components 
 
 The SDP says that the _I_ metric of a component should be larger than the _I_ metrics of the components that it depends on. That is, _I_ metrics should _decrease_ in the direction of dependency.
 
+#### Not All Components Should Be Stable
+
+If all the components in a system were maximally stable, the system would be unchangeable.
+
+We want... ...our component structure so that some components are unstable and some are stable.
+
+Putting the unstable components at the top... ...is a useful convention because any arrow that points _up_ is violating the SDP (and, as we shall see later, the ADP).
+
+![Figure 14.8 An ideal configuration for a system with three components](./figure14.8.jpg)
+
+Figure 14.8 An ideal configuration for a system with three components
+
+![Figure 14.9 SDP violation](./figure14.9.jpg)
+
+Figure 14.9 SDP violation
+
+The diagram in Figure 14.9 shows how the SDP can be violated. `Flexible`is... ...designed to be easy to change. We want `Flexible` to be unstable... ...a dependency on `Flexible`... ...violates the SDP because the _I_ metric for `Stable` is much smaller than the _I_ metric for `Flexible`... ...A change to `Flexible` will force us to deal with `Stable` and all its dependents.
+
+![Figure 14.10 U within Stable uses C within Flexible](./figure14.10.jpg)
+
+Figure 14.10 `U` within `Stable` uses `C` within `Flexible`
+
+Let’s assume... ...(Figure 14.10)... ...We can fix this by employing the DIP... ...in Figure 14.11. This breaks the dependency of `Stable` on `Flexible`, and forces both components to depend on `UServer`. `UServer` is very stable (_I_ = 0), and `Flexible` retains its necessary instability (_I_ = 1). All the dependencies now flow in the direction of _decreasing_ I.
+
+![Figure 14.11 C implements the interface class US](./figure14.11.jpg)
+
+Figure 14.11 `C` implements the interface class `US`
+
 ### The Stable Abstractions Principle
 
 ### Conclusion
