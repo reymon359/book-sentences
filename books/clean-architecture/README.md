@@ -1012,6 +1012,19 @@ _A component should be as abstract as it is stable._
 
 The software that encapsulates the high-level policies of the system should be placed into stable components (_I_ = 0). Unstable components (_I_ = 1) should contain only the software that is volatile... ...However, if the high-level policies are placed into stable components, then the source code that represents those policies will be difficult to change. This could make the overall architecture inflexible. How can a component that is maximally stable (_I_ = 0) be flexible enough to withstand change?... ...OCP tells us that it is possible and desirable to create classes that are flexible enough to be extended without requiring modification... ..._Abstract classes._
 
+#### Introducing the Stable Abstractions Principle
+
+The Stable Abstractions Principle (SAP) sets up a relationship between stability and abstractness. On the one hand, it says that a stable component should also be abstract so that its stability does not prevent it from being extended. On the other hand, it says that an unstable component should
+be concrete since it its instability allows the concrete code within it to be easily changed.
+
+If a component is to be stable... ...consist of interfaces and abstract classes so that it can be extended.
+
+Stable components that are extensible are flexible and do not overly constrain the architecture.
+
+The SDP says that dependencies should run in the direction of stability, and the SAP says that stability implies abstraction. Thus _dependencies run in the direction of abstraction._
+
+The DIP... ...deals with classes... ...Either a class is abstract or it is not. The combination of the SDP and the SAP deals with components, and... ...a component can be partially abstract and partially stable.
+
 ### Conclusion
 
 ## PART V Architecture
