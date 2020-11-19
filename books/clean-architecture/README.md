@@ -1025,6 +1025,15 @@ The SDP says that dependencies should run in the direction of stability, and the
 
 The DIP... ...deals with classes... ...Either a class is abstract or it is not. The combination of the SDP and the SAP deals with components, and... ...a component can be partially abstract and partially stable.
 
+#### Measuring Abstraction
+
+The _A_ metric is a measure of the abstractness of a component... ...ratio of interfaces and abstract classes... ...to the total number of classes in the component.
+- _Nc:_ The number of classes in the component.
+- _Na:_ The number of abstract classes and interfaces in the component.
+- _A:_ Abstractness. _A = Na ÷ Nc._
+
+The _A_ metric ranges from 0 to 1... ...0 no abstract classes... ...1 nothing but abstract classes.
+
 ### Conclusion
 
 ## PART V Architecture
