@@ -948,6 +948,28 @@ Figure 14.6 `Y` is a very unstable component. No other components depend on Y, s
 
 Figure 14.6 `Y`: a very unstable component
 
+#### Stability Metrics
+
+Stability of a component... ...number of dependencies that enter and leave that component... ...to calculate the `positional` stability of the component.
+
+- _Fan-in:_ Incoming dependencies... ...number of classes outside this component that depend on classes within the component.
+- _Fan-out:_ Outgoing depenencies... ...number of classes inside this component that depend on classes outside the component.
+- _I: Instability: I = Fan-out , (Fan-in + Fan-out)_... ...range [0, 1]. _I_ = 0... ...maximally stable. _I_ = 1 indicates a maximally unstable.
+
+![Figure 14.7 Our example](./figure14.7.jpg)
+
+Figure 14.7 Our example
+
+Example in Figure 14.7... ...stability of the component `Cc`... ...three classes... ...depend on classes in `Cc`. Thus, _Fan-in_ = 3... ...one class outside _Cc_ that classes in `Cc` depend on. Thus, _Fan-out_ = 1 and _I_ = 1/4.
+
+The _I_ metric is easiest to calculate when you have organized your source code such that there is one class in each source file.
+
+When the _I_ is equal to 1... ...and this component depends on other components (_Fan-out_ > 0)
+
+When the _I_ is equal to 1... ...and this component depends on other components (Fan-out > 0)... ...This... ...component... ...is irresponsible and dependent. Its lack of dependents gives the component no reason not to change, and the components that it depends on may give it ample reason to change. In contrast, when the _I_ is equal to 0... ...is _responsible_ and _independent._ It is as stable as it can get. Its dependents make it hard to change the component, and its has no dependencies that might force it to change.
+
+The SDP says that the _I_ metric of a component should be larger than the _I_ metrics of the components that it depends on. That is, _I_ metrics should _decrease_ in the direction of dependency.
+
 ### The Stable Abstractions Principle
 
 ### Conclusion
