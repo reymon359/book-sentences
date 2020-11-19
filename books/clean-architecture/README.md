@@ -854,6 +854,28 @@ The component diagram in Figure 14.1... ...this structure is a _directed graph._
 
 Figure 14.1 Typical component diagram
 
+When `Main` is released, it has utterly no effect on any of the other components in the system... ...This is nice... ...the impact of releasing `Main` is relatively small.
+
+When the developers working on the `Presenters` would like to run a test... ...just need to build... ...the versions of the `Interactors` and `Entities` components that they are currently using... ...This is nice... ...little work to do to set up a test, and... ...few variables to consider.
+
+To release the whole system, the process proceeds from the bottom up... ...This process is very clear and easy to deal with... ...because we understand the dependencies between its parts.
+
+#### The Effect of a Cycle in the Component Dependency Graph
+
+Let’s say that the `User` class in `Entities` uses the `Permissions` class in `Authorizer`. This creates a dependency cycle, as shown in Figure 14.2... ...This makes `Database` much more difficult to release. `Entities`, `Authorizer`, and `Interactors` have, in effect, become one large component... ...developers working on any of those components will experience the dreaded "morning after syndrome."
+
+![Figure 14.2 A dependency cycle](./figure14.2.jpg)
+
+Figure 14.2 A dependency cycle
+
+When we want to test the `Entities` component... ...we must build and integrate with `Authorizer` and `Interactors`. This level of coupling between components is troubling, if not intolerable.
+
+Cycles in the dependency graph... ...make it very difficult to isolate components. Unit testing and releasing become very difficult and error prone. In addition, build issues grow geometrically with the number of modules.
+
+When there are cycles in the dependency graph, it can be very difficult to work out the order in which you must build the components. Indeed, there probably is no correct order.
+
+
+
 ### Top-Down Design
 
 ### The Stable Dependencies Principle
