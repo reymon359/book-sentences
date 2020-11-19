@@ -926,6 +926,28 @@ Any component... ...volatile should not be depended on by a component that is di
 
 By conforming to the Stable Dependencies Principle (SDP), we ensure that modules that are intended to be easy to change are not depended on by modules that are harder to change.
 
+#### Stability
+
+What is meant by "stability"? Stand a penny on its side. Is it stable in that position? You would likely say "no." However, unless disturbed, it will remain in that position for a very long time.
+
+Stability has nothing directly to do with frequency of change.
+
+Stability is related to the amount of work required to make a change.
+
+One sure way to make a software component difficult to change, is to make lots of other software components depend on it.
+
+in Figure 14.5 `X` is a stable component. Three components depend on `X`, so it has three good reasons not to change... ...`X` is _responsible_ to those three components. Conversely, `X` depends on nothing, so it has no external influence to make it change. We say it is _independent._
+
+![Figure 14.5 X: a stable component](./figure14.5.jpg)
+
+Figure 14.5 `X`: a stable component
+
+Figure 14.6 `Y` is a very unstable component. No other components depend on Y, so we say that it is irresponsible. Y also has three components that it depends on, so changes may come from three external sources. We say that Y is dependent.
+
+![Figure 14.6 Y: a very unstable component](./figure14.6.jpg)
+
+Figure 14.6 `Y`: a very unstable component
+
 ### The Stable Abstractions Principle
 
 ### Conclusion
