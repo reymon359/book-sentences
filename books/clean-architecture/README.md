@@ -874,7 +874,21 @@ Cycles in the dependency graph... ...make it very difficult to isolate component
 
 When there are cycles in the dependency graph, it can be very difficult to work out the order in which you must build the components. Indeed, there probably is no correct order.
 
+#### Breaking the Cycle
 
+It is always possible to break a cycle of components and reinstate the dependency graph as a DAG... ...two primary mechanisms
+
+1. Apply the Dependency Inversion Principle (DIP)... ...in Figure 14.3... ...create an interface that has the methods that `User` needs... ...then put that interface into `Entities` and inherit it into `Authorizer`. This inverts the dependency between `Entities` and `Authorizer`, thereby breaking the cycle.
+
+![Figure 14.3 Inverting the dependency between Entities and Authorizer](./figure14.3.jpg)
+
+Figure 14.3 Inverting the dependency between `Entities` and `Authorizer`
+
+2. Create a new component that both `Entities` and `Authorizer` depend on... ...(Figure 14.4).
+
+![Figure 14.4 The new component that both Entities and Authorizer depend on](./figure14.4.jpg)
+
+Figure 14.4 The new component that both `Entities` and `Authorizer` depend on
 
 ### Top-Down Design
 
