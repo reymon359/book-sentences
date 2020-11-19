@@ -1006,6 +1006,12 @@ Dynamically typed languages... ...abstract components don’t exist at all, nor 
 
 ### The Stable Abstractions Principle
 
+_A component should be as abstract as it is stable._
+
+#### Where Do We Put the High-Level Policy?
+
+The software that encapsulates the high-level policies of the system should be placed into stable components (_I_ = 0). Unstable components (_I_ = 1) should contain only the software that is volatile... ...However, if the high-level policies are placed into stable components, then the source code that represents those policies will be difficult to change. This could make the overall architecture inflexible. How can a component that is maximally stable (_I_ = 0) be flexible enough to withstand change?... ...OCP tells us that it is possible and desirable to create classes that are flexible enough to be extended without requiring modification... ..._Abstract classes._
+
 ### Conclusion
 
 ## PART V Architecture
