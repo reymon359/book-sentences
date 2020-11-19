@@ -890,6 +890,10 @@ Figure 14.3 Inverting the dependency between `Entities` and `Authorizer`
 
 Figure 14.4 The new component that both `Entities` and `Authorizer` depend on
 
+#### The "Jitters"
+
+The second solution implies that the component structure is volatile in the presence of changing requirements... ...When cycles occur, they must be broken somehow. Sometimes this will mean creating new components, making the dependency structure grow.
+
 ### Top-Down Design
 
 ### The Stable Dependencies Principle
