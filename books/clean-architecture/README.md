@@ -998,6 +998,12 @@ Let’s assume... ...(Figure 14.10)... ...We can fix this by employing the DIP..
 
 Figure 14.11 `C` implements the interface class `US`
 
+#### Abstract Components
+
+Create a component... ...that contains nothing but an interface... ...is a very common, and necessary, tactic when using statically typed languages... ...These abstract components are very stable and, therefore, are ideal targets for less stable components to depend on.
+
+Dynamically typed languages... ...abstract components don’t exist at all, nor do the dependencies that would have targeted them... ...dependency inversion does not require either the declaration or the inheritance of interfaces.
+
 ### The Stable Abstractions Principle
 
 ### Conclusion
