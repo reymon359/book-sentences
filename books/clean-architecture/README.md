@@ -896,6 +896,24 @@ The second solution implies that the component structure is volatile in the pres
 
 ### Top-Down Design
 
+The component structure cannot be designed from the top down. It is not one of the first things about the system that is designed, but rather evolves as the system grows and changes.
+
+We have come to expect that large-grained decompositions, like components, will also be high- level _functional_ decompositions... ...we believe that the components ought to somehow represent the functions of the system. Yet this does not seem to be an attribute of component dependency diagrams.
+
+Component dependency diagrams have very little do to with describing the function of the application. Instead, they are a map to the _buildability_ and _maintainability_ of the application... ...they aren’t designed at the beginning of the project. There is no software to build or maintain, so there is no need for a build and maintenance map.
+
+As more and more modules accumulate in the early stages of implementation and design, there is a growing need to manage the dependencies so that the project can be developed without the "morning after syndrome."
+
+So we start paying attention to the SRP and CCP and collocate classes that are likely to change together.
+
+One of the overriding concerns with this dependency structure is the isolation of volatility. We don’t want components that change frequently and for capricious reasons to affect components that otherwise ought to be stable... ...Consequently, the component dependency graph is created and molded by architects to protect stable high- value components from volatile components.
+
+As the application continues to grow, we start to become concerned about creating reusable elements... ...the CRP begins to influence the composition of the components. Finally, as cycles appear, the ADP is applied and the component dependency graph jitters and grows.
+
+If we tried to design the component dependency structure before we designed any classes, we would likely fail rather badly. We would not know much about common closure, we would be unaware of any reusable elements, and we would almost certainly create components that produced dependency cycles.
+
+The component dependency structure grows and evolves with the logical design of the system.
+
 ### The Stable Dependencies Principle
 
 ### The Stable Abstractions Principle
