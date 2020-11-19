@@ -916,6 +916,16 @@ The component dependency structure grows and evolves with the logical design of 
 
 ### The Stable Dependencies Principle
 
+_Depend in the direction of stability._
+
+Designs cannot be completely static. Some volatility is necessary if the design is to be maintained.
+
+By conforming to the Common Closure Principle (CCP), we create components that... ...are _designed_ to be volatile. We _expect_ them to change.
+
+Any component... ...volatile should not be depended on by a component that is difficult to change. Otherwise... ...will also be difficult to change.
+
+By conforming to the Stable Dependencies Principle (SDP), we ensure that modules that are intended to be easy to change are not depended on by modules that are harder to change.
+
 ### The Stable Abstractions Principle
 
 ### Conclusion
