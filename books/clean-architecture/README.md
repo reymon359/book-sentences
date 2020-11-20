@@ -1094,6 +1094,8 @@ Figure 14.15 Plot of _D_ for a single component over time
 
 ### Conclusion
 
+The _dependency management metrics_... ...are... ...not a god; it is merely a measurement against an arbitrary standard.
+
 ## PART V Architecture
 ## Chapter 15 What Is Architecture?
 ## Development
