@@ -1048,6 +1048,16 @@ There is a locus of points on the _A/I_ graph that defines reasonable positions 
 
 Figure 14.13 Zones of exclusion
 
+#### The Zone of Pain
+
+A component is not desirable because it is rigid. It cannot be extended because it is not abstract, and it is very difficult to change because of its stability.
+
+Within the Zone of Pain. An example... ...Database schemas are notoriously volatile, extremely concrete, and highly depended on... ...the interface between OO applications and databases is so difficult to manage... ...schema updates are generally painful.
+
+Although a library has an _I_ metric of 1, it may actually be nonvolatile... ...Nonvolatile components are harmless in the (0, 0) zone since they are not likely to be changed... ...only volatile components are problematic in the Zone of Pain.
+
+The more volatile a component in the Zone of Pain, the more "painful" it is. Indeed, we might consider volatility to be a third axis of the graph... ...Figure 14.13 shows only the most painful plane, where volatility = 1.
+
 ### Conclusion
 
 ## PART V Architecture
