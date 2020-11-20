@@ -1064,6 +1064,14 @@ A component near (1, 1)... ...is undesirable because it is maximally abstract, y
 
 Leftover abstract classes that no one ever implemented... ...sitting in the code base, unused. A component... ...deep within the Zone of Uselessness must contain a significant fraction of such entities... ...the presence of such useless entities is undesirable.
 
+#### Avoiding the Zones of Exclusion
+
+ our most volatile components should be kept as far from both zones of exclusion as possible. The locus of points that are maximally distant from each zone is the line that connects (1, 0) and (0, 1)... ...the _Main Sequence._
+ 
+A component that sits on the Main Sequence is not "too abstract" for its stability, nor is it "too unstable" for its abstractness. It is neither useless nor particularly painful. It is depended on to the extent that it is abstract, and it depends on others to the extent that it is concrete.
+
+The most desirable position for a component is at one of the two endpoints of the Main Sequence... ...However... ...some... ...components... ...are neither perfectly abstract nor perfectly stable... ...have the best characteristics if they are on, _or close,_ to the Main Sequence.
+
 ### Conclusion
 
 ## PART V Architecture
