@@ -1072,6 +1072,26 @@ A component that sits on the Main Sequence is not "too abstract" for its stabili
 
 The most desirable position for a component is at one of the two endpoints of the Main Sequence... ...However... ...some... ...components... ...are neither perfectly abstract nor perfectly stable... ...have the best characteristics if they are on, _or close,_ to the Main Sequence.
 
+#### Distance from the Main Sequence
+
+D^3: Distance. _D = |A+I-1|_ . The range is [0, 1]... ...0 the component is directly on the Main Sequence... ...1 the component is as far away as possible from the Main Sequence.
+
+A design can be analyzed for its overall conformance to the Main Sequence... ...Any component that has a _D_ value that is not near zero can be reexamined and restructured.
+
+We can calculate the mean and variance of all the _D_ metrics for the components within a design. We would expect... ...that are close to zero. The variance can be used to establish "control limits" so as to identify components that are "exceptional" in comparison to all the others.
+
+Figure 14.14... ...the bulk... ...along the Main Sequence, but some are more than one standard deviation (Z = 1) away. These are worth examining more closely... ...they are either very abstract... ...or very concrete. 
+
+![Figure 14.14 Scatterplot of the components](./figure14.14.jpg)
+
+Figure 14.14 Scatterplot of the components
+
+Plot the _D_ metric of each component over time... ...Figure 14.15... ...plot shows a control threshold at _D_ = 0.1. The R2.1 point has exceeded this control limit, so it would be worth... ...to find out why this component is so far from the main sequence.
+
+![Figure 14.15 Plot of D for a single component over time](./figure14.15.jpg)
+
+Figure 14.15 Plot of _D_ for a single component over time
+
 ### Conclusion
 
 ## PART V Architecture
