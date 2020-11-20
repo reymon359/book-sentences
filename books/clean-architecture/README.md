@@ -1034,6 +1034,20 @@ The _A_ metric is a measure of the abstractness of a component... ...ratio of in
 
 The _A_ metric ranges from 0 to 1... ...0 no abstract classes... ...1 nothing but abstract classes.
 
+#### The Main Sequence
+
+Relationship between stability _(I)_ and abstractness _(A)_... ...(Figure 14.12)... ...components that are maximally stable and abstract at the upper left at (0, 1). Components that are maximally unstable and concrete are at the lower right at (1, 0).
+
+![Figure 14.12 The I/A graph](./figure14.12.jpg)
+
+Figure 14.12 The I/A graph
+
+There is a locus of points on the _A/I_ graph that defines reasonable positions for components... ...by finding the areas where components should _not_ be... ...determining the zones of _exclusion_ (Figure 11.13).
+
+![Figure 14.13 Zones of exclusion](./figure14.13.jpg)
+
+Figure 14.13 Zones of exclusion
+
 ### Conclusion
 
 ## PART V Architecture
