@@ -1058,6 +1058,12 @@ Although a library has an _I_ metric of 1, it may actually be nonvolatile... ...
 
 The more volatile a component in the Zone of Pain, the more "painful" it is. Indeed, we might consider volatility to be a third axis of the graph... ...Figure 14.13 shows only the most painful plane, where volatility = 1.
 
+#### The Zone of Uselessness
+
+A component near (1, 1)... ...is undesirable because it is maximally abstract, yet has no dependents.
+
+Leftover abstract classes that no one ever implemented... ...sitting in the code base, unused. A component... ...deep within the Zone of Uselessness must contain a significant fraction of such entities... ...the presence of such useless entities is undesirable.
+
 ### Conclusion
 
 ## PART V Architecture
