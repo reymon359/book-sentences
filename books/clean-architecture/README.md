@@ -1330,6 +1330,15 @@ Imagine two use cases that have very similar screen structures. The architects w
 When you are vertically separating use cases from one another... ...your temptation will be to couple the use cases because they have similar screen structures, or similar algorithms, or similar database queries and/or schemas. Be careful. Resist the temptation to commit the sin of knee-jerk elimination of duplication. Make sure the duplication is real.
 
 ### Decoupling Modes (Again)
+
+Ways to decouple layers and use cases... ...at the source code level, at the binary code (deployment) level, and at the execution unit (service) level.
+
+- **Source level.** We can control the dependencies between source code modules so that changes to one module do not force changes or recompilation of others... ...the components all execute in the same address space, and communicate with each other using simple function calls... ...monolithic structure.
+
+- **Deployment level.** We can control the dependencies between deployable units... ...so that changes to the source code in one module do not force others to be rebuilt and redeployed.
+
+- **Service level.** We can reduce the dependencies down to the level of data structures, and communicate solely through network packets such that every execution unit is entirely independent of source and binary changes to others... ...services or micro-services.
+
 ### Conclusion
 
 ## Chapter 17 Boundaries: Drawing Lines
