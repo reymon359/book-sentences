@@ -1197,6 +1197,9 @@ _A good architect maximizes the number of decisions not made._
 Programs would invoke operating system services that dealt with abstract unit-record devices... ...the same program could read and write cards, or read and write tape, _without any change._ The Open–Closed Principle was born (but not yet named).
 
 ### Junk Mail
+
+In the late 1960s, I worked for a company that printed junk mail for clients. The clients would send us magnetic tapes with unit records containing the names and addresses of their customers, and we would write programs that printed nice personalized advertisements... ...The value of device independence was enormous! We could write our programs without knowing or caring which device would be used. We could test those programs using the local line printer connected to the computer. Then we could tell the operating system to “print” to magnetic tape and run off hundreds of thousands of forms. Our programs had a shape. That shape disconnected policy from detail. The policy was the formatting of the name and address records. The detail was the device. We deferred the decision about which device we would use.
+
 ### Physical Addressing
 ### Conclusion
 ## Chapter 16 Independence
