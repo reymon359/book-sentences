@@ -1260,6 +1260,17 @@ A good architecture helps the system to be immediately deployable after build.
 Achieved through the proper partitioning and isolation of the components of the system.
 
 ### Leaving Options Open
+
+A good architecture balances all of these concerns with a component structure that mutually satisfies them all... ...The reality is that achieving this balance is pretty hard.
+
+The problem is that most of the time we don’t know what all the use cases are, nor do we know the operational constraints, the team structure, or the deployment requirements. Worse, even if we did know them, they will inevitably change as the system moves through its life cycle. In short, the goals we must meet are indistinct and inconstant. Welcome to the real world.
+
+Some principles of architecture are relatively inexpensive to implement and can help balance those concerns.
+
+Partition our systems into well-isolated components that allow us to leave as many options open as possible, for as long as possible.
+
+A good architecture makes the system easy to change, in all the ways that it must change, by leaving options open.
+
 ### Decoupling Layers
 ### Decoupling Use Cases
 ### Decoupling Mode
