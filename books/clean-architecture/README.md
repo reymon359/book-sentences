@@ -1272,6 +1272,15 @@ Partition our systems into well-isolated components that allow us to leave as ma
 A good architecture makes the system easy to change, in all the ways that it must change, by leaving options open.
 
 ### Decoupling Layers
+
+The architect wants the structure of the system to support all the necessary use cases, but does not know what all those use cases are. However, the architect _does_ know the basic intent of the system... ...So the architect can employ the Single Responsibility Principle and the Common Closure Principle to separate those things that change for different reasons, and to collect those things that change for the same reasons—given the context of the intent of the system.
+
+Separate the UI portions of a use case from the business rule portions in such a way that they can be changed independently of each other, while keeping those use cases visible and clear.
+
+The database, the query language, and even the schema are technical details that have nothing to do with the business rules or the UI. They will change at rates, and for reasons, that are independent of other aspects of the system. Consequently, the architecture should separate them from the rest of the system so that they can be independently changed.
+
+System divided into decoupled horizontal layers—the UI, application-specific business rules, application-independent business rules, and the database, just to mention a few.
+
 ### Decoupling Use Cases
 ### Decoupling Mode
 ### Independent Develop-ability
