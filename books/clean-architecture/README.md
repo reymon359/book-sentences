@@ -1218,19 +1218,31 @@ A good architecture must support:
 - The development of the system.
 - The deployment of the system.
 
-## Use Cases
-## Operation
-## Development
-## Deployment
-## Leaving Options Open
-## Decoupling Layers
-## Decoupling Use Cases
-## Decoupling Mode
-## Independent Develop-ability
-## Independent Deployability
-## Duplication
-## Decoupling Modes (Again)
-## Conclusion
+### Use Cases
+
+Use cases—means that the architecture of the system must support the intent of the system.
+
+The first concern of the architect, and the first priority of the architecture. The architecture must support the use cases.
+
+Architecture does not wield much influence over the behavior of the system.
+
+The most important thing a good architecture can do to support behavior is to clarify and expose that behavior so that the intent of the system is visible at the architectural level.
+
+Behaviors will be first-class elements visible at the top level of the system... ...and they will have names that clearly describe their function.
+
+### Operation
+### Development
+### Deployment
+### Leaving Options Open
+### Decoupling Layers
+### Decoupling Use Cases
+### Decoupling Mode
+### Independent Develop-ability
+### Independent Deployability
+### Duplication
+### Decoupling Modes (Again)
+### Conclusion
+
 ## Chapter 17 Boundaries: Drawing Lines
 ## A Couple of Sad Stories
 ## FitNesse
