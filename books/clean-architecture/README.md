@@ -1241,6 +1241,16 @@ This decision is one of the options that a good architect leaves open.
 Monolithic structure, cannot easily be upgraded to multiple processes... ...By comparison, an architecture that maintains the proper isolation of its components, and does not assume the means of communication between those components, will be much easier to transition... ...as the operational needs of the system change over time.
 
 ### Development
+
+Architecture plays a significant role in supporting the development environment.
+
+> Any organization that designs a system will produce a design whose structure is a copy of the organization’s communication structure.
+> — Conway’s law.
+
+A system that must be developed by an organization with many teams and many concerns must have an architecture that facilitates independent actions by those teams, so that the teams do not interfere with each other during development.
+
+Partitioning the system into well-isolated, independently developable components... ...allocated to teams that can work independently of each other.
+
 ### Deployment
 ### Leaving Options Open
 ### Decoupling Layers
