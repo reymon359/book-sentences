@@ -1097,16 +1097,36 @@ Figure 14.15 Plot of _D_ for a single component over time
 The _dependency management metrics_... ...are... ...not a god; it is merely a measurement against an arbitrary standard.
 
 ## PART V Architecture
+
 ## Chapter 15 What Is Architecture?
-## Development
-## Deployment
-## Operation
-## Maintenance
-## Keeping Options Open
-## Device Independence
-## Junk Mail
-## Physical Addressing
-## Conclusion
+
+A software architect is a programmer; and continues to be a programmer... ...They do not! Software architects are the best programmers, and they continue to take programming tasks, while they also guide the rest of the team toward a design that maximizes productivity.
+
+They cannot do their jobs properly if they are not experiencing the problems that they are creating for the rest.
+
+The architecture of a software system is the shape given to that system by those who build it... ...to facilitate the development, deployment, operation, and maintenance of the software system contained within it. _The strategy behind that is to leave as many options open as possible, for as long as possible._
+
+The architecture of a system has very little bearing on whether that system works... ...rather in their deployment, maintenance, and ongoing development.
+
+Architecture... ...role is passive and cosmetic, not active or essential.
+
+There are few, if any, behavioral options that the architecture of a system can leave open.
+
+The primary purpose of architecture is to support the life cycle of the system.
+
+Good architecture makes the system easy to understand, easy to develop, easy to maintain, and easy to deploy.
+
+The ultimate goal is to minimize the lifetime cost of the system and to maximize programmer productivity.
+
+### Development
+### Deployment
+### Operation
+### Maintenance
+### Keeping Options Open
+### Device Independence
+### Junk Mail
+### Physical Addressing
+### Conclusion
 ## Chapter 16 Independence
 ## Use Cases
 ## Operation
