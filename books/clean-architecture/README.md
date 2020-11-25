@@ -1360,13 +1360,27 @@ A good architecture protects the majority of the source code from changes. It le
 The decoupling mode of a system is one of those things that is likely to change with time, and a good architect foresees and _appropriately_ facilitates those changes.
 
 ## Chapter 17 Boundaries: Drawing Lines
-## A Couple of Sad Stories
-## FitNesse
-## Which Lines Do You Draw, and When Do You Draw Them?
-## What About Input and Output?
-## Plugin Architecture
-## The Plugin Argument
-## Conclusion
+
+Software architecture is the art of drawing lines... ..._boundaries_... ...separate software elements from one another, and restrict those on one side from knowing about those on the other.
+
+Those that are drawn early are drawn for the purposes of deferring decisions for as long as possible, and of keeping those decisions from polluting the core business logic.
+
+The goal of an architect is to minimize the human resources required to build and maintain the required system.
+
+What saps people-power? _Coupling_—and especially coupling to premature decisions.
+
+Which kinds of decisions are premature? Decisions that have nothing to do with the business requirements—the use cases—of the system... ...frameworks, databases, web servers... ...and the like.
+
+A good system architecture is one in which decisions like these are rendered ancillary and deferrable... ...does not depend on those decisions...allows those decisions to be made at the latest possible moment, without significant impact.
+
+### A Couple of Sad Stories
+### FitNesse
+### Which Lines Do You Draw, and When Do You Draw Them?
+### What About Input and Output?
+### Plugin Architecture
+### The Plugin Argument
+### Conclusion
+
 ## Chapter 18 Boundary Anatomy
 ## Boundary Crossing
 ## The Dreaded Monolith
