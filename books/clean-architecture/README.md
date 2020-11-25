@@ -1292,6 +1292,19 @@ If you decouple the elements of the system that change for different reasons, th
 If each use case uses a different aspect of the UI and database, then adding new use cases will be unlikely to affect older ones.
 
 ### Decoupling Mode
+
+If the different aspects of the use cases are separated, then those that must run at a high throughput are likely already separated from those that must run at a low throughput... ...Those that require higher bandwidth can be replicated in many servers.
+
+The decoupling that we did for the sake of the use cases also helps with operations.
+
+To take advantage of the operational benefit, the decoupling must have the appropriate mode... ...components cannot depend on being together in the same address space of a processor. They must be independent services, which communicate over a network.
+
+An architecture based on services is often called a service-oriented architecture... ...sometimes we have to separate our components all the way to the service level.
+
+I’m not going to tell you that SoA is the best possible architecture, or that micro- services are the wave of the future.
+
+A good architecture leaves options open. _The decoupling mode is one of those options._
+
 ### Independent Develop-ability
 ### Independent Deployability
 ### Duplication
