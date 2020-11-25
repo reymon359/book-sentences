@@ -1159,6 +1159,37 @@ The primary cost of maintenance is in _spelunking_ and risk. Spelunking is the c
 By separating the system into components, and isolating those components through stable interfaces, it is possible to illuminate the pathways for future features and greatly reduce the risk of inadvertent breakage.
 
 ### Keeping Options Open
+
+Software has two types of value: the value of its behavior and the value of its structure. The second of these is the greater of the two because it is this value that makes software _soft._
+
+Software was invented because we needed a way to quickly and easily change the behavior of machines.
+
+The way you keep software soft is to leave as many options open as possible, for as long as possible.
+
+The options that we need to leave open _are the details that don’t matter._
+
+All software systems... ...two major elements: policy and details. The policy element embodies all the business rules and procedures... ...where the true value of the system lives. The details are those things that are necessary to enable humans, other systems, and programmers to communicate with the policy, but that do not impact the behavior of the policy at all. They include IO devices, databases, web systems, servers, frameworks, communication protocols, and so forth.
+
+The goal... ...is to create a shape for the system that recognizes policy as the most essential element of the system while making the details _irrelevant_ to that policy. This allows decisions about those details to be _delayed_ and _deferred._
+
+The high-level policy should not care which kind of database will be used.
+
+It is not necessary to choose a web server early in development, because the high-level policy should not know that it is being delivered over the web... ...Indeed, _you don’t even have to decide if the system will be delivered over the web._
+
+It is not necessary to adopt REST early in development, because the high- level policy should be agnostic about the interface to the outside world.
+
+It is not necessary to adopt a dependency injection framework... ...because the high-level policy should not care how dependencies are resolved.
+
+If you can develop the high-level policy without committing to the details that surround it, you can delay and defer decisions about those details for a long time. And the longer you wait to make those decisions, _the more information you have with which to make them properly._
+
+This also leaves you the option to try different experiments. If you have a portion of the high-level policy working, and it is agnostic about the database, you could try connecting it to several different databases to check applicability and performance. 
+
+The longer you leave options open... ...the more things you can try, and the more information you will have when you reach the point at which those decisions can no longer be deferred.
+
+If the decisions have already been made by someone else... ..._A good architect pretends that the decision has not been made,_ and shapes the system such that those decisions can still be deferred or changed.
+
+_A good architect maximizes the number of decisions not made._
+
 ### Device Independence
 ### Junk Mail
 ### Physical Addressing
