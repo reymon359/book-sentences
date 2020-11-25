@@ -1306,7 +1306,15 @@ I’m not going to tell you that SoA is the best possible architecture, or that 
 A good architecture leaves options open. _The decoupling mode is one of those options._
 
 ### Independent Develop-ability
+
+When components are strongly decoupled, the interference between teams is mitigated.
+
+If the business rules don’t know about the UI, then a team that focuses on the UI cannot much affect a team that focuses on the business rules. If the use cases themselves are decoupled from one another, then a team that focuses on the `addOrder` use case is not likely to interfere with a team that focuses on the `deleteOrder` use case.
+
+So long as the layers and use cases are decoupled, the architecture of the system will support the organization of the teams
+
 ### Independent Deployability
+
 ### Duplication
 ### Decoupling Modes (Again)
 ### Conclusion
