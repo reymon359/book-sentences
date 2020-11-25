@@ -1201,7 +1201,15 @@ Programs would invoke operating system services that dealt with abstract unit-re
 In the late 1960s, I worked for a company that printed junk mail for clients. The clients would send us magnetic tapes with unit records containing the names and addresses of their customers, and we would write programs that printed nice personalized advertisements... ...The value of device independence was enormous! We could write our programs without knowing or caring which device would be used. We could test those programs using the local line printer connected to the computer. Then we could tell the operating system to “print” to magnetic tape and run off hundreds of thousands of forms. Our programs had a shape. That shape disconnected policy from detail. The policy was the formatting of the name and address records. The detail was the device. We deferred the decision about which device we would use.
 
 ### Physical Addressing
+
+We changed the high-level policy of the system to be agnostic about the physical structure of the disk. That allowed us to decouple the decision about disk drive structure from the application.
+
 ### Conclusion
+
+Good architects carefully separate details from policy, and then decouple the policy from the details so thoroughly that the policy has no knowledge of the details and does not depend on the details in any way.
+
+Good architects design the policy so that decisions about the details can be delayed and deferred for as long as possible.
+
 ## Chapter 16 Independence
 ## Use Cases
 ## Operation
