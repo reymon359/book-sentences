@@ -1191,6 +1191,11 @@ If the decisions have already been made by someone else... ..._A good architect 
 _A good architect maximizes the number of decisions not made._
 
 ### Device Independence
+
+1960s... ...One mistake was to bind our code directly to the IO devices... ...Our code was _device dependent_... ...all our software was written to manipulate card readers and card punches. Those programs had to be rewritten to use magnetic tape. That was a big job. By the late 1960s, we had learned our lesson—and we invented _device independence._
+
+Programs would invoke operating system services that dealt with abstract unit-record devices... ...the same program could read and write cards, or read and write tape, _without any change._ The Open–Closed Principle was born (but not yet named).
+
 ### Junk Mail
 ### Physical Addressing
 ### Conclusion
