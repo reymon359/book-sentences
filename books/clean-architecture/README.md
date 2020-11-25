@@ -1252,6 +1252,13 @@ A system that must be developed by an organization with many teams and many conc
 Partitioning the system into well-isolated, independently developable components... ...allocated to teams that can work independently of each other.
 
 ### Deployment
+
+The goal is "immediate deployment."
+
+A good architecture helps the system to be immediately deployable after build.
+
+Achieved through the proper partitioning and isolation of the components of the system.
+
 ### Leaving Options Open
 ### Decoupling Layers
 ### Decoupling Use Cases
