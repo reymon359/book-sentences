@@ -1140,6 +1140,15 @@ Deployment strategy is seldom considered during initial development. This leads 
 
 ### Operation
 
+The impact of architecture on system operation tends to be less dramatic than the impact of architecture on development, deployment, and maintenance.
+
+Almost any operational difficulty can be resolved by throwing more hardware at the system without drastically impacting the software architecture.
+
+The fact that hardware is cheap and people are expensive means that architectures that impede operation are not as costly as architectures that impede development, deployment, and maintenance.
+
+A good software architecture communicates the operational needs of the system.
+
+Architecture should reveal operation... ...elevate the use cases, the features, and the required behaviors of the system to first-class entities... ...This simplifies the understanding of the system and, therefore, greatly aids in development and maintenance.
 
 ### Maintenance
 ### Keeping Options Open
