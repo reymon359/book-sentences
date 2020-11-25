@@ -1320,6 +1320,15 @@ The decoupling of the use cases and layers also affords a high degree of flexibi
 If the decoupling is done well, then it should be possible to hot-swap layers and use cases in running systems.
 
 ### Duplication
+
+Duplication is generally a bad thing in software. We don’t like duplicated code. When code is truly duplicated, we are honor-bound as professionals to reduce and eliminate it.
+
+There are different kinds of duplication. There is true duplication, in which every change to one instance necessitates the same change to every duplicate of that instance. Then there is false or accidental duplication. If two apparently duplicated sections of code evolve along different paths—if they change at different rates, and for different reasons—_then they are not true duplicates._
+
+Imagine two use cases that have very similar screen structures. The architects will be tempted to share the code for that structure... ...Most likely it is accidental. As time goes by, the odds are that those two screens will diverge and eventually look very different. For this reason... ...avoid unifying them. Otherwise, separating them later will be a challenge.
+
+When you are vertically separating use cases from one another... ...your temptation will be to couple the use cases because they have similar screen structures, or similar algorithms, or similar database queries and/or schemas. Be careful. Resist the temptation to commit the sin of knee-jerk elimination of duplication. Make sure the duplication is real.
+
 ### Decoupling Modes (Again)
 ### Conclusion
 
