@@ -1334,12 +1334,30 @@ When you are vertically separating use cases from one another... ...your temptat
 Ways to decouple layers and use cases... ...at the source code level, at the binary code (deployment) level, and at the execution unit (service) level.
 
 - **Source level.** We can control the dependencies between source code modules so that changes to one module do not force changes or recompilation of others... ...the components all execute in the same address space, and communicate with each other using simple function calls... ...monolithic structure.
-
 - **Deployment level.** We can control the dependencies between deployable units... ...so that changes to the source code in one module do not force others to be rebuilt and redeployed.
-
 - **Service level.** We can reduce the dependencies down to the level of data structures, and communicate solely through network packets such that every execution unit is entirely independent of source and binary changes to others... ...services or micro-services.
 
+It’s hard to know which mode is best during the early phases of a project. Indeed, as the project matures, the optimal mode may change.
+
+One solution... ...is to simply decouple at the service level by default. A problem... ...is that it is expensive and encourages coarse-grained decoupling. No matter how "micro" the micro-services get, the decoupling is not likely to be fine-grained enough.
+
+Service-level decoupling is expensive, both in development time and in system resources. Dealing with service boundaries where none are needed is a waste of effort, memory, and cycles... ...the last two are cheap—but the first is not.
+
+Push the decoupling to the point where a service _could_ be formed. should it become necessary; but then to leave the components in the same address space as long as possible. This leaves the option for a service open.
+
+If deployment or development issues arise, driving some of the decoupling to a deployment level may be sufficient—at least for a while.
+
+As the development, deployment, and operational issues increase, carefully choose which deployable units to turn into services, and gradually shift the system in that direction.
+
+Over time, the operational needs of the system may decline. What once required decoupling at the service level may now require only deployment-level or even source-level decoupling.
+
+A good architecture will allow a system to be born as a monolith, deployed in a single file, but then to grow into a set of independently deployable units, and then all the way to independent services and/or micro-services. Later, as things change, it should allow for reversing that progression and sliding all the way back down into a monolith.
+
+A good architecture protects the majority of the source code from changes. It leaves the decoupling mode open as an option so that large deployments can use one mode, whereas small deployments can use another.
+
 ### Conclusion
+
+The decoupling mode of a system is one of those things that is likely to change with time, and a good architect foresees and _appropriately_ facilitates those changes.
 
 ## Chapter 17 Boundaries: Drawing Lines
 ## A Couple of Sad Stories
