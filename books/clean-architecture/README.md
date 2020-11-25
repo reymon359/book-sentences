@@ -1282,6 +1282,15 @@ The database, the query language, and even the schema are technical details that
 System divided into decoupled horizontal layers—the UI, application-specific business rules, application-independent business rules, and the database, just to mention a few.
 
 ### Decoupling Use Cases
+
+What else changes for different reasons? The use cases themselves!... ...Use cases are a very natural way to divide the system.
+
+Use cases are narrow vertical slices that cut through the horizontal layers of the system. Each use case uses some UI, some application-specific business rules, some application-independent business rules, and some database functionality... ...dividing the system into thin vertical use cases that cut through those layers.
+
+If you decouple the elements of the system that change for different reasons, then you can continue to add new use cases without interfering with old ones.
+
+If each use case uses a different aspect of the UI and database, then adding new use cases will be unlikely to affect older ones.
+
 ### Decoupling Mode
 ### Independent Develop-ability
 ### Independent Deployability
