@@ -1119,6 +1119,15 @@ Good architecture makes the system easy to understand, easy to develop, easy to 
 The ultimate goal is to minimize the lifetime cost of the system and to maximize programmer productivity.
 
 ### Development
+
+A software system that is hard to develop is not likely to have a long and healthy lifetime.
+
+Architecture of a system should make that system easy to develop.
+
+The reason why so many systems lack good architecture: They were begun with none, because the team was small and did not want the impediment of a superstructure.
+
+A component-per-team architecture is not likely to be the best architecture for deployment, operation, and maintenance of the system. Nevertheless, it is the architecture that a group of teams will gravitate toward if they are driven solely by development schedule.
+
 ### Deployment
 ### Operation
 ### Maintenance
