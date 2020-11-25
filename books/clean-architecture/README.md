@@ -1231,6 +1231,15 @@ The most important thing a good architecture can do to support behavior is to cl
 Behaviors will be first-class elements visible at the top level of the system... ...and they will have names that clearly describe their function.
 
 ### Operation
+
+Architecture plays a more substantial, and less cosmetic, role in supporting the operation of the system
+
+If the system must handle 100,000 customers per second, the architecture must support that kind of throughput and response time for each use case that demands it.
+
+This decision is one of the options that a good architect leaves open.
+
+Monolithic structure, cannot easily be upgraded to multiple processes... ...By comparison, an architecture that maintains the proper isolation of its components, and does not assume the means of communication between those components, will be much easier to transition... ...as the operational needs of the system change over time.
+
 ### Development
 ### Deployment
 ### Leaving Options Open
