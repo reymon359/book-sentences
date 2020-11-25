@@ -1315,6 +1315,10 @@ So long as the layers and use cases are decoupled, the architecture of the syste
 
 ### Independent Deployability
 
+The decoupling of the use cases and layers also affords a high degree of flexibility in deployment.
+
+If the decoupling is done well, then it should be possible to hot-swap layers and use cases in running systems.
+
 ### Duplication
 ### Decoupling Modes (Again)
 ### Conclusion
