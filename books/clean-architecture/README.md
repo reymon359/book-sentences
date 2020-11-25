@@ -1110,7 +1110,7 @@ The architecture of a system has very little bearing on whether that system work
 
 Architecture... ...role is passive and cosmetic, not active or essential.
 
-There are few, if any, behavioral options that the architecture of a system can leave open.
+There are few, if any, _behavioral_ options that the architecture of a system can leave open.
 
 The primary purpose of architecture is to support the life cycle of the system.
 
@@ -1129,7 +1129,18 @@ The reason why so many systems lack good architecture: They were begun with none
 A component-per-team architecture is not likely to be the best architecture for deployment, operation, and maintenance of the system. Nevertheless, it is the architecture that a group of teams will gravitate toward if they are driven solely by development schedule.
 
 ### Deployment
+
+To be effective, a software system must be deployable.
+
+The higher the cost of deployment, the less useful the system is.
+
+A goal of a software architecture... ...to make a system that can be easily deployed _with a single action._
+
+Deployment strategy is seldom considered during initial development. This leads to architectures that may make the system easy to develop, but leave it very difficult to deploy.
+
 ### Operation
+
+
 ### Maintenance
 ### Keeping Options Open
 ### Device Independence
