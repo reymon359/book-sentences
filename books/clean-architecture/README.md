@@ -1151,6 +1151,13 @@ A good software architecture communicates the operational needs of the system.
 Architecture should reveal operation... ...elevate the use cases, the features, and the required behaviors of the system to first-class entities... ...This simplifies the understanding of the system and, therefore, greatly aids in development and maintenance.
 
 ### Maintenance
+
+Of all the aspects of a software system, maintenance is the most costly.
+
+The primary cost of maintenance is in _spelunking_ and risk. Spelunking is the cost of digging through the existing software, trying to determine the best place and the best strategy to add a new feature or to repair a defect. While making such changes, the likelihood of creating inadvertent defects is always there, adding to the cost of risk.
+
+By separating the system into components, and isolating those components through stable interfaces, it is possible to illuminate the pathways for future features and greatly reduce the risk of inadvertent breakage.
+
 ### Keeping Options Open
 ### Device Independence
 ### Junk Mail
