@@ -1211,6 +1211,13 @@ Good architects carefully separate details from policy, and then decouple the po
 Good architects design the policy so that decisions about the details can be delayed and deferred for as long as possible.
 
 ## Chapter 16 Independence
+
+A good architecture must support:
+- The use cases and operation of the system.
+- The maintenance of the system.
+- The development of the system.
+- The deployment of the system.
+
 ## Use Cases
 ## Operation
 ## Development
