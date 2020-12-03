@@ -1425,6 +1425,17 @@ The `Database` component contains the code that translates the calls made by the
 Having drawn this boundary line... ...we can now see that the `BusinessRules` could use _any_ kind of database. The `Database` component could be replaced with many different implementations—the `BusinessRules` don’t care... ...database decision can be deferred and you can focus on getting the business rules written and tested before you have to make the database decision.
 
 ### What About Input and Output?
+
+Developers and customers often get confused about what the system is. They... ...think that the GUI is the system. They define a system in terms of the GUI, so they believe that they should see the GUI start working immediately. They fail to realize a critically important principle: _The IO is irrelevant._
+
+`GUI` and `BusinessRules` components separated by a boundary line (Figure 17.4)... ...the less relevant component depends on the more relevant component. The arrows show which component knows about the other... ...The `GUI` cares about the `BusinessRules`.
+
+![Figure 17.4 The boundary between GUI and BusinessRules components](./figure17.4.jpg)
+
+Figure 17.4 The boundary between `GUI` and `BusinessRules` components
+
+The `GUI` could be replaced with any other kind of interface—and the `BusinessRules` would not care.
+
 ### Plugin Architecture
 ### The Plugin Argument
 ### Conclusion
