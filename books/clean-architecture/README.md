@@ -1489,6 +1489,24 @@ The architecture of a system is defined by a set of software components and the 
 At runtime, a boundary crossing is nothing more than a function on one side of the boundary calling a function on the other side and passing along some data. The trick to creating an appropriate boundary crossing is to manage the source code dependencies... ...Because when one source code module changes, other source code modules may have to be changed or recompiled, and then redeployed. Managing and building firewalls against this change is what boundaries are all about.
 
 ### The Dreaded Monolith
+
+The simplest and most common of the architectural boundaries has no strict physical representation.
+
+The fact that the boundaries are not visible during the deployment of a monolith does not mean that they are not present and meaningful.
+
+Even when statically linked into a single executable, the ability to independently develop and marshal the various components for final assembly is immensely valuable.
+
+Dynamic polymorphism to manage their internal dependencies.
+
+Static polymorphism (e.g., generics or templates) can sometimes be a viable means of dependency manage- ment in monolithic systems, especially in languages like C++. However, the decoupling afforded by generics cannot protect you from the need for recompilation and redeployment the way dynamic polymorphism can.
+
+Without OO, or an equivalent form of polymorphism, architects must fall back on the dangerous practice of using pointers to functions to achieve the appropriate decoupling.
+
+The simplest possible boundary crossing is a function call from a low-level client to a higher-level service. Both the runtime dependency and the compile-time dependency point in the same direction, toward the higher-level component.
+
+In Figure 18.1, the flow of control crosses the boundary from left to right. The `Client` calls function `f()` on the `Service`. It passes along an instance of `Data`. The `<DS>` marker simply indicates a data structure. The `Data` may be passed as a function argument or by some other more elaborate means. Note that the definition of the `Data` is on the _called_ side of the boundary.
+
+
 ### Deployment Components
 ### Threads
 ### Local Processes
