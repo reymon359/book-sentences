@@ -1401,6 +1401,29 @@ Many of us have been taught to believe that the database is inextricably connect
 
 All the business rules need to know is that there is a set of functions that can be used to fetch or save data. This allows us to put the database behind an interface.
 
+![Figure 17.1 The database behind an interface](./figure17.1.jpg)
+
+Figure 17.1 The database behind an interface
+
+The boundary is drawn across the inheritance relationship, just below the `DatabaseInterface` (Figure 17.2).
+
+![Figure 17.2 The boundary line](./figure17.2.jpg)
+
+Figure 17.2 The boundary line
+
+Note the two arrows leaving the `DatabaseAccess` class. Those two arrows point away from the `DatabaseAccess` class. That means that none of these classes knows that the `DatabaseAccess` class exists.
+
+We’ll look at the component that contains many business rules, and the component that contains the database and all its access classes (Figure 17.3). Note the direction of the arrow. The `Database` knows about the `BusinessRules`. The `BusinessRules` do not know about the `Database`. This implies that the `DatabaseInterface` classes live in the `BusinessRules` component, while the `DatabaseAccess` classes live in the `Database` component.
+The direction of this line is important. It shows that the `Database` does not matter to the `BusinessRules`, but the `Database` cannot exist without the `BusinessRules`.
+
+![Figure 17.3 The business rules and database components](./figure17.3.jpg)
+
+Figure 17.3 The business rules and database components
+
+The `Database` component contains the code that translates the calls made by the `BusinessRules` into the query language of the database. It is that translation code that knows about the `BusinessRules`.
+
+Having drawn this boundary line... ...we can now see that the `BusinessRules` could use _any_ kind of database. The `Database` component could be replaced with many different implementations—the `BusinessRules` don’t care... ...database decision can be deferred and you can focus on getting the business rules written and tested before you have to make the database decision.
+
 ### What About Input and Output?
 ### Plugin Architecture
 ### The Plugin Argument
