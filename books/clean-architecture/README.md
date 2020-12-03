@@ -1392,6 +1392,15 @@ The fact that we did not have a database running for 18 months of development me
 In short, drawing the boundary lines helped us delay and defer decisions, and it ultimately saved us an enormous amount of time and headaches. And that’s what a good architecture should do.
 
 ### Which Lines Do You Draw, and When Do You Draw Them?
+
+You draw lines between things that matter and things that don’t.
+
+The GUI doesn’t matter to the business rules, so there should be a line between them. The database doesn’t matter to the GUI, so there should be a line between them. The database doesn’t matter to the business rules, so there should be a line between them.
+
+Many of us have been taught to believe that the database is inextricably connected to the business rules... ... but... ...this idea is misguided. The database is a tool that the business rules can use _indirectly._
+
+All the business rules need to know is that there is a set of functions that can be used to fetch or save data. This allows us to put the database behind an interface.
+
 ### What About Input and Output?
 ### Plugin Architecture
 ### The Plugin Argument
