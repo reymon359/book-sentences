@@ -1451,6 +1451,29 @@ The database. Since we have chosen to treat it as a plugin, we can replace it wi
 By starting with the presumption of a plugin structure, we have at very least made such a change practical.
 
 ### The Plugin Argument
+
+Relationship between ReSharper and Visual Studio... ...there is nothing that the ReSharper team can do to disturb the Visual Studio team. But the Visual Studio team could completely disable the ReSharper team if they so desired.
+
+![Figure 17.6 ReSharper depends on Visual Studio](./figure17.6.jpg)
+
+Figure 17.6 ReSharper depends on Visual Studio
+
+We want certain modules to be immune to others.
+
+We don’t want the business rules to break when someone changes the format of a web page.
+
+We don’t want changes in one part of the system to cause other unrelated parts of the system to break. We don’t want our systems to exhibit that kind of fragility.
+
+Arranging our systems into a plugin architecture creates firewalls across which changes cannot propagate.
+
+If the GUI plugs in to the business rules, then changes in the GUI cannot affect those business rules.
+
+Boundaries are drawn where there is an _axis of change._ The components on one side of the boundary change at different rates, and for different reasons, than the components on the other side of the boundary.
+
+GUIs change at different times and at different rates than business rules, so there should be a boundary between them.
+
+This is simply the Single Responsibility Principle again. The SRP tells us where to draw our boundaries.
+
 ### Conclusion
 
 ## Chapter 18 Boundary Anatomy
