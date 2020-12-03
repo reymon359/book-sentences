@@ -1380,6 +1380,17 @@ The architects, by making a premature decision, multiplied the development effor
 There’s nothing intrinsically wrong with a software system that is structured around services. The error at W was the premature adoption and enforcement of a suite of tools that promised SoA—that is, the premature adoption of a massive suite of domain object services. The cost of those errors was sheer person-hours—person-hours in droves—flushed down the SoA vortex.
 
 ### FitNesse
+
+Anything produced should not require people to download more than one file. I called this rule, "Download and Go."
+
+A bare-bones web server is a very simple piece of software to write and it allowed us to postpone any web framework decision until much later.
+
+Early in the development of `FitNesse`, we drew a _boundary line_ between business rules and databases. That line prevented the business rules from knowing anything at all about the database, other than the simple data access methods. That decision allowed us to defer the choice and implementation of the database for well over a year. It allowed us to try the file system option, and it allowed us to change direction when we saw a better solution. Yet it did not prevent, or even impede, moving in the original direction (MySQL) when someone wanted it.
+
+The fact that we did not have a database running for 18 months of development meant that, for 18 months, we did not have schema issues, query issues, database server issues, password issues, connection time issues, and all the other nasty issues that raise their ugly heads when you fire up a database. It also meant that all our tests ran fast, because there was no database to slow them down.
+
+In short, drawing the boundary lines helped us delay and defer decisions, and it ultimately saved us an enormous amount of time and headaches. And that’s what a good architecture should do.
+
 ### Which Lines Do You Draw, and When Do You Draw Them?
 ### What About Input and Output?
 ### Plugin Architecture
