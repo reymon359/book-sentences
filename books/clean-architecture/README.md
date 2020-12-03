@@ -1437,6 +1437,19 @@ Figure 17.4 The boundary between `GUI` and `BusinessRules` components
 The `GUI` could be replaced with any other kind of interface—and the `BusinessRules` would not care.
 
 ### Plugin Architecture
+
+The history of software development technology is the story of how to conveniently create plugins to establish a scalable and maintainable system architecture.
+
+The core business rules are kept separate from, and independent of, those components that are either optional or that can be implemented in many different forms (Figure 17.5).
+
+![Figure 17.5 Plugging in to the business rules](./figure17.5.jpg)
+
+Figure 17.5 Plugging in to the business rules
+
+The database. Since we have chosen to treat it as a plugin, we can replace it with any... ...other kind of database technology we might deem necessary in the future.
+
+By starting with the presumption of a plugin structure, we have at very least made such a change practical.
+
 ### The Plugin Argument
 ### Conclusion
 
