@@ -1506,6 +1506,23 @@ The simplest possible boundary crossing is a function call from a low-level clie
 
 In Figure 18.1, the flow of control crosses the boundary from left to right. The `Client` calls function `f()` on the `Service`. It passes along an instance of `Data`. The `<DS>` marker simply indicates a data structure. The `Data` may be passed as a function argument or by some other more elaborate means. Note that the definition of the `Data` is on the _called_ side of the boundary.
 
+![Figure 18.1 Flow of control crosses the boundary from a lower level to a higher level](./figure18.1.jpg)
+
+Figure 18.1 Flow of control crosses the boundary from a lower level to a higher level
+
+When a high-level client needs to invoke a lower-level service, dynamic polymorphism is used to invert the dependency against the flow of control. The runtime dependency opposes the compile-time dependency. In Figure 18.2, the flow of control crosses the boundary from left to right as before. The high-level `Client` calls the `f()` function of the lower-level `ServiceImpl` through the `Service` interface. Note, however, that all dependencies cross the boundary from right to left _toward the higher-level component._ Note, also, that the definition of the data structure is on the calling side of the boundary.
+
+![Figure 18.2 Crossing the boundary against the flow of control](./figure18.2.jpg)
+
+Figure 18.2 Crossing the boundary against the flow of control
+
+Even in a monolithic, statically linked executable, this kind of disciplined partitioning can greatly aid the job of developing, testing, and deploying the project.
+
+High-level components remain independent of lower-level details.
+
+Communications between components in a monolith are very fast and inexpensive.
+
+Since the deployment of monoliths usually requires compilation and static linking, components in these systems are typically delivered as source code.
 
 ### Deployment Components
 ### Threads
