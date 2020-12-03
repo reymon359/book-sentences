@@ -1485,6 +1485,9 @@ Recognize this as an application of the Dependency Inversion Principle and the S
 The architecture of a system is defined by a set of software components and the boundaries that separate them.
 
 ### Boundary Crossing
+
+At runtime, a boundary crossing is nothing more than a function on one side of the boundary calling a function on the other side and passing along some data. The trick to creating an appropriate boundary crossing is to manage the source code dependencies... ...Because when one source code module changes, other source code modules may have to be changed or recompiled, and then redeployed. Managing and building firewalls against this change is what boundaries are all about.
+
 ### The Dreaded Monolith
 ### Deployment Components
 ### Threads
