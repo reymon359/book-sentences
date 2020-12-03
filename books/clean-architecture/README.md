@@ -1525,6 +1525,15 @@ Communications between components in a monolith are very fast and inexpensive.
 Since the deployment of monoliths usually requires compilation and static linking, components in these systems are typically delivered as source code.
 
 ### Deployment Components
+
+The simplest physical representation of an architectural boundary is a dynamically linked library.
+
+Deployment does not involve compilation. Instead, the components are delivered in binary, or some equivalent deployable form. This is the deployment-level decoupling mode.
+
+Deployment-level components are the same as monoliths. The functions generally all exist in the same processor and address space. The strategies for segregating the components and managing their dependencies are the same.
+
+As with monoliths, communications across deployment component boundaries... ...are very inexpensive.
+
 ### Threads
 ### Local Processes
 ### Services
