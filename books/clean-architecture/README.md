@@ -1476,6 +1476,10 @@ This is simply the Single Responsibility Principle again. The SRP tells us where
 
 ### Conclusion
 
+To draw boundary lines in a software architecture, you first partition the system into components... ...Then you arrange the code in those components such that the arrows between them point in one direction—toward the core business.
+
+Recognize this as an application of the Dependency Inversion Principle and the Stable Abstractions Principle. Dependency arrows are arranged to point from lower-level details to higher-level abstractions.
+
 ## Chapter 18 Boundary Anatomy
 ## Boundary Crossing
 ## The Dreaded Monolith
