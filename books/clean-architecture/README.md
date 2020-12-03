@@ -1374,6 +1374,11 @@ Which kinds of decisions are premature? Decisions that have nothing to do with t
 A good system architecture is one in which decisions like these are rendered ancillary and deferrable... ...does not depend on those decisions...allows those decisions to be made at the latest possible moment, without significant impact.
 
 ### A Couple of Sad Stories
+
+The architects, by making a premature decision, multiplied the development effort enormously.
+
+There’s nothing intrinsically wrong with a software system that is structured around services. The error at W was the premature adoption and enforcement of a suite of tools that promised SoA—that is, the premature adoption of a massive suite of domain object services. The cost of those errors was sheer person-hours—person-hours in droves—flushed down the SoA vortex.
+
 ### FitNesse
 ### Which Lines Do You Draw, and When Do You Draw Them?
 ### What About Input and Output?
