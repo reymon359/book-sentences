@@ -1753,6 +1753,10 @@ Look at each framework with a jaded eye... ...Ask yourself how you should use it
 
 ### Testable Architectures
 
+If your system architecture is all about the use cases, and if you have kept your frameworks at arm’s length, then you should be able to unit-test all those use cases without any of the frameworks in place.
+
+Your Entity objects should be plain old objects that have no dependencies on frameworks or databases or other complications. Your use case objects should coordinate your Entity objects. Finally, all of them together should be testable in situ, without any of the complications of frameworks.
+
 ### Conclusion
 
 ## Chapter 22 The Clean Architecture
