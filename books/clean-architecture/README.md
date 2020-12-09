@@ -1747,7 +1747,9 @@ Your system architecture should be as ignorant as possible about how it will be 
 
 ### Frameworks Are Tools, Not Ways of Life
 
+Frameworks can be very powerful and very useful. Framework authors often believe very deeply in their frameworks... ...Other authors... ...show you the way to use the framework. Often they assume an all-encompassing, all-pervading, let-the-framework-do-everything position. _This is not the position you want to take._
 
+Look at each framework with a jaded eye... ...Ask yourself how you should use it, and how you should protect yourself from it... ...Develop a strategy that prevents the framework from taking over that architecture.
 
 ### Testable Architectures
 
