@@ -1590,6 +1590,27 @@ In a good architecture... ...low-level components are designed so that they depe
 
 ### Level
 
+"Level" is "the distance from the inputs and outputs." The farther a policy is from both the inputs and the outputs of the system, the higher its level.
+
+The policies that manage input and output are the lowest- level policies in the system.
+
+![Figure 19.1 A simple encryption program](./figure19.1.jpg)
+
+Figure 19.1 A simple encryption program
+
+Data flow diagram in Figure 19.1 ... ...encryption program... ...The data flows are shown as curved solid arrows. The properly designed source code dependencies are shown as straight dashed lines. The Translate component is the highest-level component in this system because it is the component that is farthest from the inputs and outputs.
+
+The data flows and the source code dependencies do not always point in the same direction... ...We want source code dependencies to be decoupled from data flow and _coupled to level._
+
+Incorrect architecture by writing the encryption program like this:
+
+```
+function encrypt() {
+  while(true)
+    writeChar(translate(readChar()));
+}
+```
+
 ### Conclusion
 
 ## Chapter 20 Business Rules
