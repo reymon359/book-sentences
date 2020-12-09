@@ -1566,6 +1566,11 @@ Lower-level services should "plug in" to higher-level services.
 
 ### Conclusion
 
+Most systems, other than monoliths, use more than one boundary strategy. A system that makes use of service boundaries may also have some local process boundaries.
+
+A service is often just a facade for a set of interacting local processes.
+
+The boundaries in a system will often be a mixture of local chatty boundaries and boundaries that are more concerned with latency.
 
 ## Chapter 19 Policy and Level
 ## Level
