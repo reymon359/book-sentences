@@ -1727,6 +1727,16 @@ Architectures should not be supplied by frameworks. Frameworks are tools to be u
 
 ### The Purpose of an Architecture
 
+Good architectures are centered on use cases so that architects can safely describe the structures that support those use cases without committing to frameworks, tools, and environments.
+
+The first concern of the architect is to make sure that the house is usable— not to ensure that the house is made of bricks.
+
+A good software architecture allows decisions about frameworks, databases, web servers, and other environmental issues and tools to be deferred and delayed.
+
+_Frameworks are options to be left open._
+
+A good architecture emphasizes the use cases and decouples them from peripheral concerns.
+
 ### But What About the Web?
 
 ### Frameworks Are Tools, Not Ways of Life
