@@ -1712,6 +1712,9 @@ Ideally, the code that represents the business rules should be the heart of the 
 The business rules should be the most independent and reusable code in the system.
 
 ## Chapter 21 Screaming Architecture
+
+What does the architecture of your application scream? When you look at the top-level directory structure, and the source files in the highest-level package, do they scream "Health Care System," or "Accounting System," or "Inventory Management System"? Or do they scream "Rails," or "Spring/ Hibernate," or "ASP"?
+
 ## The Theme of an Architecture
 ## The Purpose of an Architecture
 ## But What About the Web?
