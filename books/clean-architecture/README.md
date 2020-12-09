@@ -1703,6 +1703,14 @@ This lack of dependencies is critical. If the request and response models are no
 
 ### Conclusion
 
+Business rules are the reason a software system exists. They are the core functionality. They carry the code that makes, or saves, money. They are the family jewels.
+
+The business rules should remain pristine, unsullied by baser concerns such as the user interface or database used.
+
+Ideally, the code that represents the business rules should be the heart of the system, with lesser concerns being plugged in to them.
+
+The business rules should be the most independent and reusable code in the system.
+
 ## Chapter 21 Screaming Architecture
 ## The Theme of an Architecture
 ## The Purpose of an Architecture
