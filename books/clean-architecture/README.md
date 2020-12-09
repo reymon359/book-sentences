@@ -1557,6 +1557,13 @@ The architectural goal is for lower-level processes to be plugins to higher-leve
 Communication across local process boundaries... ...moderately expensive. Chattiness should be carefully limited.
 
 ### Services
+
+The strongest boundary is a service. A service is a process, generally started from the command line or through an equivalent system call. Services do not depend on their physical location. Two communicating services may, or may not, operate in the same physical processor or multicore. The services assume that all communications take place over the network.
+
+Communications across service boundaries are very slow compared to function calls.
+
+Lower-level services should "plug in" to higher-level services.
+
 ### Conclusion
 
 
