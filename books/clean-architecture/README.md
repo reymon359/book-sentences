@@ -1649,6 +1649,16 @@ The critical rules and critical data are inextricably bound, so they are a good 
 
 ### Entities
 
+An Entity is an object within our computer system that embodies a small set of critical business rules operating on Critical Business Data. The Entity object either contains the Critical Business Data or has very easy access to that data. The interface of the Entity consists of the functions that implement the Critical Business Rules that operate on that data.
+
+![Figure 20.1 Loan entity as a class in UML](./figure20.1.jpg)
+
+Figure 20.1 Loan entity as a class in UML
+
+When we create this kind of class, we are gathering together the software that implements a concept that is critical to the business, and separating it from every other concern in the automated system we are building. This class stands alone as a representative of the business... ...It could serve the business in any system, irrespective of how that system was presented, or how the data was stored... ...The Entity is pure business and _nothing else._
+
+You don’t need to use an object-oriented language to create an Entity. All that is required is that you bind the Critical Business Data and the Critical Business Rules together in a single and separate software module.
+
 ### Use Cases
 
 ### Request and Response Models
