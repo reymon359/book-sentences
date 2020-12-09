@@ -1661,6 +1661,38 @@ You don’t need to use an object-oriented language to create an Entity. All tha
 
 ### Use Cases
 
+Not all business rules are as pure as Entities.
+
+Some business rules make or save money for the business by defining and constraining the way that an _automated_ system operates. These rules would not be used in a manual environment, because they make sense only as part of an automated system.
+
+A use case is a description of the way that an automated system is used. It specifies the input to be provided by the user, the output to be returned to the user, and the processing steps involved in producing that output. A use case describes _application-specific_ business rules as opposed to the Critical Business Rules within the Entities.
+
+![Figure 20.2 Example use case](./figure20.2.jpg)
+
+Figure 20.2 Example use case
+
+Figure 20.2 shows an example of a use case. Notice that in the last line it mentions the Customer. This is a reference to the Customer entity, which contains the Critical Business Rules that govern the relationship between the bank and its customers.
+
+Use cases contain the rules that specify how and when the Critical Business Rules within the Entities are invoked.
+
+Use cases control the dance of the Entities.
+
+The use case does not describe the user interface other than to informally specify the data coming in from that interface, and the data going back out through that interface. From the use case, it is impossible to tell whether the application is delivered on the web, or on a thick client, or on a console, or is a pure service.
+
+Use cases do not describe how the system appears to the user. Instead, they describe the application-specific rules that govern the interaction between the users and the Entities.
+
+How the data gets in and out of the system is irrelevant to the use cases.
+
+A use case is an object. It has one or more functions that implement the application-specific business rules. It also has data elements that include the input data, the output data, and the references to the appropriate Entities with which it interacts.
+
+Entities have no knowledge of the use cases that control them.
+
+High-level concepts, such as Entities, know nothing of lower-level concepts, such as use cases.
+
+The lower-level use cases know about the higher-level Entities.
+
+Use cases are specific to a single application and, therefore, are closer to the inputs and outputs of that system. Entities are generalizations that can be used in many different applications, so they are farther from the inputs and outputs of the system. Use cases depend on Entities; Entities do not depend on use cases.
+
 ### Request and Response Models
 
 ### Conclusion
