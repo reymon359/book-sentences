@@ -1638,10 +1638,23 @@ The `Encryption` component knows nothing of the `IODevices` component; the `IODe
 This discussion of policies has involved a mixture of the Single Responsibility Principle, the Open-Closed Principle, the Common Closure Principle, the Dependency Inversion Principle, the Stable Dependencies Principle, and the Stable Abstractions Principle.
 
 ## Chapter 20 Business Rules
-## Entities
-## Use Cases
-## Request and Response Models
-## Conclusion
+
+Strictly speaking, business rules are rules or procedures that make or save the business money... ...whether they were implemented on a computer... ...or... ...executed manually.
+
+_Critical Business Rules_... ...critical to the business itself, and would exist even if there were no system to automate them.
+
+Critical Business Rules usually require some data to work with... ..._Critical Business Data_... ...data that would exist even if the system were not automated.
+
+The critical rules and critical data are inextricably bound, so they are a good candidate for an object. We’ll call this kind of object an _Entity._
+
+### Entities
+
+### Use Cases
+
+### Request and Response Models
+
+### Conclusion
+
 ## Chapter 21 Screaming Architecture
 ## The Theme of an Architecture
 ## The Purpose of an Architecture
