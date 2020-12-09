@@ -1635,6 +1635,8 @@ The `Encryption` component knows nothing of the `IODevices` component; the `IODe
 
 ### Conclusion
 
+This discussion of policies has involved a mixture of the Single Responsibility Principle, the Open-Closed Principle, the Common Closure Principle, the Dependency Inversion Principle, the Stable Dependencies Principle, and the Stable Abstractions Principle.
+
 ## Chapter 20 Business Rules
 ## Entities
 ## Use Cases
