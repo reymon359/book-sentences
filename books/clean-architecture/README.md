@@ -1759,6 +1759,10 @@ Your Entity objects should be plain old objects that have no dependencies on fra
 
 ### Conclusion
 
+Your architecture should tell readers about the system, not about the frameworks you used in your system.
+
+New programmers should be able to learn all the use cases of the system, yet still not know how the system is delivered. They may come to you and say: "We see some things that look like models—but where are the views and controllers?" And you should respond: "Oh, those are details that needn’t concern us at the moment. We’ll decide about them later."
+
 ## Chapter 22 The Clean Architecture
 ## The Dependency Rule
 ## A Typical Scenario
