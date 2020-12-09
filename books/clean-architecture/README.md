@@ -1535,6 +1535,9 @@ Deployment-level components are the same as monoliths. The functions generally a
 As with monoliths, communications across deployment component boundaries... ...are very inexpensive.
 
 ### Threads
+
+Both monoliths and deployment components can make use of threads... ...a way to organize the schedule and order of execution. They may be wholly contained within a component, or spread across many components.
+
 ### Local Processes
 ### Services
 ### Conclusion
