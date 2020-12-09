@@ -1715,12 +1715,26 @@ The business rules should be the most independent and reusable code in the syste
 
 What does the architecture of your application scream? When you look at the top-level directory structure, and the source files in the highest-level package, do they scream "Health Care System," or "Accounting System," or "Inventory Management System"? Or do they scream "Rails," or "Spring/ Hibernate," or "ASP"?
 
-## The Theme of an Architecture
-## The Purpose of an Architecture
-## But What About the Web?
-## Frameworks Are Tools, Not Ways of Life
-## Testable Architectures
-## Conclusion
+### The Theme of an Architecture
+
+Software architectures are structures that support the use cases of the system.
+
+Just as the plans for a house or a library scream about the use cases of those buildings, so should the architecture of a software application scream about the use cases of the application.
+
+Architectures are not (or should not be) about frameworks.
+
+Architectures should not be supplied by frameworks. Frameworks are tools to be used, not architectures to be conformed to. If your architecture is based on frameworks, then it cannot be based on your use cases.
+
+### The Purpose of an Architecture
+
+### But What About the Web?
+
+### Frameworks Are Tools, Not Ways of Life
+
+### Testable Architectures
+
+### Conclusion
+
 ## Chapter 22 The Clean Architecture
 ## The Dependency Rule
 ## A Typical Scenario
