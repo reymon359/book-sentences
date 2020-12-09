@@ -1739,7 +1739,15 @@ A good architecture emphasizes the use cases and decouples them from peripheral 
 
 ### But What About the Web?
 
+The web is a delivery mechanism—an IO device—and your application architecture should treat it as such.
+
+The fact that your application is delivered over the web is a detail and should not dominate your system structure.
+
+Your system architecture should be as ignorant as possible about how it will be delivered.
+
 ### Frameworks Are Tools, Not Ways of Life
+
+
 
 ### Testable Architectures
 
