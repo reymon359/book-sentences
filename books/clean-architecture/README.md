@@ -1602,14 +1602,36 @@ Data flow diagram in Figure 19.1 ... ...encryption program... ...The data flows 
 
 The data flows and the source code dependencies do not always point in the same direction... ...We want source code dependencies to be decoupled from data flow and _coupled to level._
 
-Incorrect architecture by writing the encryption program like this:
-
 ```
 function encrypt() {
   while(true)
     writeChar(translate(readChar()));
 }
 ```
+
+Incorrect architecture by writing the encryption program like this... ...because the high-level `encrypt` function depends on the lower-level `readChar` and `writeChar` functions.
+
+![Figure 19.2 Class diagram showing a better architecture for the system](./figure19.2.jpg)
+
+Figure 19.2 Class diagram showing a better architecture for the system
+
+`ConsoleReader` and `ConsoleWriter` are classes. They are low level because they are close to the inputs and outputs.
+
+This structure... ...makes the encryption policy usable in a wide range of contexts... ...changes made to the input and output policies are not likely to affect the encryption policy.
+
+Policies that change for the same reasons and at the same times are grouped together by the SRP and CCP.
+
+Higher-level policies... ...tend to change less frequently, and for more important reasons, than lower-level policies... ...those that are closest to the inputs and outputs—tend to change frequently, and with more urgency, but for less important reasons.
+
+Keeping... ...policies separate, with all source code dependencies pointing in the direction of the higher-level policies, reduces the impact of change.
+
+Trivial... ...hanges at the lowest levels...have little or no impact on the higher.
+
+![Figure 19.3 Lower-level components should plug in to higher-level components](./figure19.3.jpg)
+
+Figure 19.3 Lower-level components should plug in to higher-level components
+
+The `Encryption` component knows nothing of the `IODevices` component; the `IODevices` component depends on the `Encryption` component.
 
 ### Conclusion
 
