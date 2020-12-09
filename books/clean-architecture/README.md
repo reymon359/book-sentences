@@ -1539,6 +1539,23 @@ As with monoliths, communications across deployment component boundaries... ...a
 Both monoliths and deployment components can make use of threads... ...a way to organize the schedule and order of execution. They may be wholly contained within a component, or spread across many components.
 
 ### Local Processes
+
+A local process is typically created from the command line or an equivalent system call. Local processes run in the same processor, or in the same set of processors within a multicore, but run in separate address spaces.
+
+Local processes communicate with each other using sockets... ...mailboxes or message queues.
+
+Each local process may be a statically linked monolith, or it may be composed of dynamically linked deployment components. In the former case, several monolithic processes may have the same components compiled and linked into them. In the latter, they may share the same dynamically linked deployment components.
+
+Local process as a kind of uber-component: The process consists of lower-level components that manage their dependencies through dynamic polymorphism.
+
+Source code dependencies point in the same direction across the boundary, and always toward the higher-level component.
+
+The source code of the higher-level processes must not contain the names, or physical addresses, or registry lookup keys of lower-level processes.
+
+The architectural goal is for lower-level processes to be plugins to higher-level processes.
+
+Communication across local process boundaries... ...moderately expensive. Chattiness should be carefully limited.
+
 ### Services
 ### Conclusion
 
