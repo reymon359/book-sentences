@@ -1573,8 +1573,25 @@ A service is often just a facade for a set of interacting local processes.
 The boundaries in a system will often be a mixture of local chatty boundaries and boundaries that are more concerned with latency.
 
 ## Chapter 19 Policy and Level
-## Level
-## Conclusion
+
+Software systems are statements of policy.
+
+A computer program is a detailed description of the policy by which inputs are transformed into outputs.
+
+Policy can be broken down into many different smaller statements of policy. Some... ...will describe how particular business rules are to be calculated. Others... ...how certain reports are to be formatted. Still others...how input data are to be validated.
+
+Part of the art of developing a software architecture is carefully separating those policies from one another, and regrouping them based on the ways that they change.
+
+Policies that change for the same reasons, and at the same times, are at the same level and belong together in the same component. Policies that change for different reasons, or at different times, are at different levels and should be separated into different components.
+
+The art of architecture involves forming the regrouped components into a directed acyclic graph. The nodes of the graph are the components that contain policies at the same level. The directed edges are the dependencies between those components.
+
+In a good architecture... ...low-level components are designed so that they depend on high-level components.
+
+### Level
+
+### Conclusion
+
 ## Chapter 20 Business Rules
 ## Entities
 ## Use Cases
