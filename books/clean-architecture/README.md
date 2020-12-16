@@ -1804,6 +1804,12 @@ No operational change to any particular application should affect the entity lay
 
 ### A Typical Scenario
 
+The software in the use cases layer contains _application-specific_ business rules. It encapsulates and implements all of the use cases of the system.
+
+Use cases orchestrate the flow of data to and from the entities, and direct those entities to use their Critical Business Rules to achieve the goals of the use case.
+
+We do not expect changes in this layer to affect the entities. We also do not expect this layer to be affected by changes to externalities... ...The use cases layer is isolated from such concerns.
+
 ### Conclusion
 
 ## Chapter 23 Presenters and Humble Objects
