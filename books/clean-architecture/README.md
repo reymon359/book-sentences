@@ -1764,9 +1764,26 @@ Your architecture should tell readers about the system, not about the frameworks
 New programmers should be able to learn all the use cases of the system, yet still not know how the system is delivered. They may come to you and say: "We see some things that look like models—but where are the views and controllers?" And you should respond: "Oh, those are details that needn’t concern us at the moment. We’ll decide about them later."
 
 ## Chapter 22 The Clean Architecture
-## The Dependency Rule
-## A Typical Scenario
-## Conclusion
+
+Over the last several decades... ...ideas regarding the architecture of systems: 
+- Hexagonal Architecture (also known as Ports and Adapters), developed by Alistair Cockburn, and adopted by Steve Freeman and Nat Pryce in their wonderful book _Growing Object Oriented Software with Tests_
+- DCI from James Coplien and Trygve Reenskaug
+- BCE, introduced by Ivar Jacobson 
+They all have the same objective, which is the separation of concerns... ...by dividing the software into layers. Each has at least one layer for business rules, and another layer for user and system interfaces.
+
+Each of these architectures produces systems that have the following characteristics:
+- _Independent of frameworks._ The architecture does not depend on the existence of some library of feature-laden software. This allows you to use such frameworks as tools, rather than forcing you to cram your system into their limited constraints.
+- _Testable._ The business rules can be tested without the UI, database, web server, or any other external element.
+- _Independent of the UI._ The UI can change easily, without changing the rest of the system.
+- _Independent of the database._ Your business rules are not bound to the database.
+- _Independent of any external agency._ In fact, your business rules don’t know anything at all about the interfaces to the outside world.
+
+### The Dependency Rule
+
+### A Typical Scenario
+
+### Conclusion
+
 ## Chapter 23 Presenters and Humble Objects
 ## The Humble Object Pattern
 ## Presenters and Views
