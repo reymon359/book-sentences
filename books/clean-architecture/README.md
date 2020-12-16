@@ -1775,7 +1775,7 @@ Each of these architectures produces systems that have the following characteris
 - _Independent of frameworks._ The architecture does not depend on the existence of some library of feature-laden software. This allows you to use such frameworks as tools, rather than forcing you to cram your system into their limited constraints.
 - _Testable._ The business rules can be tested without the UI, database, web server, or any other external element.
 - _Independent of the UI._ The UI can change easily, without changing the rest of the system.
-- _Independent of the database._ Your business rules are not bound to the database.
+- _Independent of the database_... ...Your business rules are not bound to the database.
 - _Independent of any external agency._ In fact, your business rules don’t know anything at all about the interfaces to the outside world.
 
 ### The Dependency Rule
