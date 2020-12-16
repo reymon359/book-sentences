@@ -1778,6 +1778,10 @@ Each of these architectures produces systems that have the following characteris
 - _Independent of the database_... ...Your business rules are not bound to the database.
 - _Independent of any external agency._ In fact, your business rules don’t know anything at all about the interfaces to the outside world.
 
+![Figure 22.1 The clean architecture](./figure22.1.jpg)
+
+Figure 22.1 The clean architecture
+
 ### The Dependency Rule
 
 ### A Typical Scenario
