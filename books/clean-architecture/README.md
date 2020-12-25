@@ -1853,7 +1853,21 @@ Basic structs or simple data transfer objects... ...Or the data can simply be ar
 When we pass data across a boundary, it is always in the form that is most convenient for the inner circle.
 
 ### A Typical Scenario
+
+![Figure 22.2 A typical scenario for a web-based Java system utilizing a database](./figure22.2.jpg)
+
+Figure 22.2 A typical scenario for a web-based Java system utilizing a database
+
+
+Figure 22.2 shows a typical scenario for a web-based Java system using a database. The web server gathers input data from the user and hands it to the `Controller` on the upper left. The `Controller` packages that data into a plain old Java object and passes this object through the `InputBoundary` to the `UseCaseInteractor`. The `UseCaseInteractor` interprets that data and uses it to control the dance of the `Entities`. It also uses the `DataAccessInterface` to bring the data used by those `Entities` into memory from the `Database`. Upon completion, the `UseCaseInteractor` gathers data from the `Entities` and constructs the `OutputData` as another plain old Java object. The `OutputData` is then passed through the `OutputBoundary` interface to the `Presenter`. The job of the `Presenter` is to repackage the `OutputData` into viewable form as the `ViewModel`, which is yet another plain old Java object. The `ViewModel` contains mostly `Strings` and flags that the `View` uses to display the data. Whereas the `OutputData` may contain `Date` objects, the `Presenter` will load the `ViewModel` with corresponding `Strings` already formatted properly for the user. The same is true of `Currency` objects or any other business-related data. `Button` and `MenuItem` names are placed in the `ViewModel`, as are flags that tell the `View` whether those `Buttons` and `MenuItems` should be gray. This leaves the `View` with almost nothing to do other than to move the data from the `ViewModel` into the `HTML` page.
+
+All dependencies cross the boundary lines pointing inward, following the Dependency Rule.
+
 ### Conclusion
+
+By separating the software into layers and conforming to the Dependency Rule, you will create a system that is intrinsically testable, with all the benefits that implies.
+
+When any of the external parts of the system become obsolete... ...you can replace those obsolete elements with a minimum of fuss.
 
 ## Chapter 23 Presenters and Humble Objects
 ## The Humble Object Pattern
