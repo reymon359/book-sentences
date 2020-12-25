@@ -1802,7 +1802,7 @@ If you don’t have an enterprise and are writing just a single application, the
 
 No operational change to any particular application should affect the entity layer.
 
-### A Typical Scenario
+#### Use Cases
 
 The software in the use cases layer contains _application-specific_ business rules. It encapsulates and implements all of the use cases of the system.
 
@@ -1810,6 +1810,49 @@ Use cases orchestrate the flow of data to and from the entities, and direct thos
 
 We do not expect changes in this layer to affect the entities. We also do not expect this layer to be affected by changes to externalities... ...The use cases layer is isolated from such concerns.
 
+We expect that changes to the operation of the application will affect the use cases and, therefore, the software in this layer. If the details of a use case change, then some code in this layer will certainly be affected.
+
+#### Interface Adapters
+
+The software in the interface adapters layer is a set of adapters that convert data from the format most convenient for the use cases and entities, to the format most convenient for some external agency such as the database or the web.
+
+The models are likely just data structures that are passed from the controllers to the use cases, and then back from the use cases to the presenters and views.
+
+Data is converted, in this layer, from the form most convenient for entities and use cases, to the form most convenient for whatever persistence framework is being used.
+
+No code inward of this circle should know anything at all about the database.
+
+In this layer is any other adapter necessary to convert data from some external form, such as an external service, to the internal form used by the use cases and entities.
+
+#### Frameworks and Drivers
+
+The outermost layer of the model in Figure 22.1 is generally composed of frameworks and tools such as the database and the web framework... ...glue code that communicates to the next circle inward.
+
+The frameworks and drivers layer is where all the details go.
+
+#### Only Four Circles?
+
+There’s no rule that says you must always have just these four. However, the Dependency Rule always applies. Source code dependencies always point inward. As you move inward, the level of abstraction and policy increases. The outermost circle consists of low-level concrete details. As you move inward, the software grows more abstract and encapsulates higher-level policies. The innermost circle is the most general and highest level.
+
+#### Crossing Boundaries
+
+At the lower right of the diagram in Figure 22.1 is an example of how we cross the circle boundaries... ...flow of control: It begins in the controller, moves through the use case, and then winds up executing in the presenter. Note also the source code dependencies: Each points inward toward the use cases.
+
+We usually resolve this apparent contradiction by using the Dependency Inversion Principle... ...we would arrange interfaces and inheritance relationships such that the source code dependencies oppose the flow of control at just the right points across the boundary.
+
+No name in an outer circle can be mentioned by an inner circle. So we have the use case call an interface (shown in Figure 22.1 as "use case output port") in the inner circle, and have the presenter in the outer circle implement it.
+
+We take advantage of dynamic polymorphism to create source code dependencies that oppose the flow of control so that we can conform to the Dependency Rule, no matter which direction the flow of control travels.
+
+#### Which Data Crosses the Boundaries
+
+The data that crosses the boundaries consists of simple data structures.
+
+Basic structs or simple data transfer objects... ...Or the data can simply be arguments in function calls... ...The important thing is that isolated, simple data structures are passed across the boundaries. We don’t want to cheat and pass Entity objects or database rows. We don’t want the data structures to have any kind of dependency that violates the Dependency Rule.
+
+When we pass data across a boundary, it is always in the form that is most convenient for the inner circle.
+
+### A Typical Scenario
 ### Conclusion
 
 ## Chapter 23 Presenters and Humble Objects
