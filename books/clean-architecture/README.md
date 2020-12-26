@@ -1909,6 +1909,14 @@ The interactors... ...are not humble because they encapsulate application-specif
 
 ### Data Mappers
 
+There is no such thing as an object relational mapper (ORM). The reason is simple: Objects are not data structures. At least, they are not data structures from their users’ point of view. The users of an object cannot see the data, since it is all private. Those users see only the public methods of that object. So, from the user’s point of view, an object is simply a set of operations.
+
+A data structure is a set of public data variables that have no implied behavior.
+
+ORMs would be better named "data mappers," because they load data into data structures from relational database tables.
+
+ORM reside In the database layer. ORMs form another kind of _Humble Object_ boundary between the gateway interfaces and the database.
+
 ### Service Listeners
 
 ### Conclusion
