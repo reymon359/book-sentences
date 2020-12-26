@@ -1895,6 +1895,10 @@ Anything and everything that appears on the screen, and that the application has
 
 ### Testing and Architecture
 
+Testability is an attribute of good architectures.
+
+The _Humble Object_ pattern... ...separation of the behaviors into testable and non-testable parts often defines an architectural boundary. The Presenter/View boundary is one of these boundaries.
+
 ### Database Gateways
 
 ### Data Mappers
