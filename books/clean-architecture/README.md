@@ -1901,6 +1901,12 @@ The _Humble Object_ pattern... ...separation of the behaviors into testable and 
 
 ### Database Gateways
 
+Between the use case interactors and the database are the database gateways... ...polymorphic interfaces that contain methods for every create, read, update, or delete operation that can be performed by the application on the database.
+
+We do not allow SQL in the use cases layer; instead, we use gateway interfaces that have appropriate methods. Those gateways are implemented by classes in the database layer. That implementation is the humble object. It simply uses SQL... ...to access the data required by each of the methods.
+
+The interactors... ...are not humble because they encapsulate application-specific business rules... ...are _testable,_ because the gateways can be replaced with appropriate stubs and test-doubles.
+
 ### Data Mappers
 
 ### Service Listeners
