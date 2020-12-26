@@ -1870,13 +1870,23 @@ By separating the software into layers and conforming to the Dependency Rule, yo
 When any of the external parts of the system become obsolete... ...you can replace those obsolete elements with a minimum of fuss.
 
 ## Chapter 23 Presenters and Humble Objects
-## The Humble Object Pattern
-## Presenters and Views
-## Testing and Architecture
-## Database Gateways
-## Data Mappers
-## Service Listeners
-## Conclusion
+
+Presenters are a form of the _Humble Object_ pattern, which helps us identify and protect architectural boundaries.
+
+### The Humble Object Pattern
+
+### Presenters and Views
+
+### Testing and Architecture
+
+### Database Gateways
+
+### Data Mappers
+
+### Service Listeners
+
+### Conclusion
+
 ## Chapter 24 Partial Boundaries
 ## Skip the Last Step
 ## One-Dimensional Boundaries
