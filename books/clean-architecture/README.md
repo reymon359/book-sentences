@@ -1883,6 +1883,16 @@ GUIs are hard to unit test... ...difficult to... ...check... ...elements display
 
 ### Presenters and Views
 
+The View is the humble object that is hard to test. The code in this object is kept as simple as possible. It moves data into the GUI but does not process that data.
+
+The Presenter is the testable object. Its job is to accept data from the application and format it for presentation so that the View can simply move it to the screen.
+
+If the application wants to display money on the screen, it might pass a _Currency_ object to the Presenter. The Presenter will format that object with the appropriate decimal places and currency markers, creating a string that it can place in the View Model.
+
+The names for every radio button, check box, and text field are loaded, by the Presenter, into appropriate strings and booleans in the View model.
+
+Anything and everything that appears on the screen, and that the application has some kind of control over, is represented in the View Model as a string, or a boolean, or an enum. Nothing is left for the View to do other than to load the data from the View Model into the screen. Thus the View is humble.
+
 ### Testing and Architecture
 
 ### Database Gateways
