@@ -1919,7 +1919,11 @@ ORM reside In the database layer. ORMs form another kind of _Humble Object_ boun
 
 ### Service Listeners
 
+If your application must communicate with other services, or if your application provides a set of services... ...The application will load data into simple data structures and then pass those structures across the boundary to modules that properly format the data and send it to external services. On the input side, the service listeners will receive data from the service interface and format it into a simple data structure that can be used by the application. That data structure is then passed across the service boundary.
+
 ### Conclusion
+
+At each architectural boundary, we are likely to find the _Humble Object_ pattern... ...The communication across that boundary... ...involve... ...simple data structure, and the boundary will frequently divide something that is hard to test from something that is easy to test... ...increases the testability of the entire system.
 
 ## Chapter 24 Partial Boundaries
 ## Skip the Last Step
