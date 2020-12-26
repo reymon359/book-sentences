@@ -1875,6 +1875,12 @@ Presenters are a form of the _Humble Object_ pattern, which helps us identify an
 
 ### The Humble Object Pattern
 
+The _Humble Object_ pattern is a design pattern that was originally identified as a way to help unit testers to separate behaviors that are hard to test from behaviors that are easy to test.
+
+Split the behaviors into two modules or classes. One... ...is humble; it contains all the hard-to-test behaviors stripped down to their barest essence. The other module contains all the testable behaviors that were stripped out of the humble object.
+
+GUIs are hard to unit test... ...difficult to... ...check... ...elements displayed. However, most of the behavior of a GUI is, in fact, easy to test. Using the _Humble Object_ pattern, we can separate these two kinds of behaviors into two different classes called the Presenter and the View.
+
 ### Presenters and Views
 
 ### Testing and Architecture
