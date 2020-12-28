@@ -1951,7 +1951,19 @@ The separation can degrade pretty rapidly... ...Without reciprocal interfaces, n
 
 ### Facades
 
+_Facade_ pattern... ...even the dependency inversion is sacrificed. The boundary is simply defined by the Facade class, which lists all the services as methods, and deploys the service calls to classes that the client is not supposed to access.
+
+![Figure 24.2 The Facade pattern](./figure24.2.jpg)
+
+Figure 24.2 The Facade pattern
+
+`Client` has a transitive dependency on all those service classes. In static languages, a change to the source code in one of the `Service` classes will force the `Client` to recompile.
+
 ### Conclusion
+
+Each of these approaches has its own set of costs and benefits. Each is appropriate, in certain contexts, as a placeholder for an eventual full-fledged boundary. Each can also be degraded if that boundary never materializes.
+
+It is one of the functions of an architect to decide where an architectural boundary might one day exist, and whether to fully or partially implement that boundary.
 
 ## Chapter 25 Layers and Boundaries
 ## Hunt the Wumpus
