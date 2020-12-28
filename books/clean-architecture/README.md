@@ -1933,6 +1933,10 @@ A good architect might judge that the expense of such a boundary is too high—b
 
 ### Skip the Last Step
 
+One way to construct a partial boundary is to do all the work necessary to create independently compilable and deployable components, and then simply keep them together in the same component. The reciprocal interfaces are there, the input/output data structures are there, and everything is all set up—but we compile and deploy all of them as a single component.
+
+Partial boundary requires the same amount of code and preparatory design work as a full boundary. However, it does not require the administration of multiple components.
+
 ### One-Dimensional Boundaries
 
 ### Facades
