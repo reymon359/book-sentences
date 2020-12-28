@@ -1926,10 +1926,19 @@ If your application must communicate with other services, or if your application
 At each architectural boundary, we are likely to find the _Humble Object_ pattern... ...The communication across that boundary... ...involve... ...simple data structure, and the boundary will frequently divide something that is hard to test from something that is easy to test... ...increases the testability of the entire system.
 
 ## Chapter 24 Partial Boundaries
-## Skip the Last Step
-## One-Dimensional Boundaries
-## Facades
-## Conclusion
+
+Full-fledged architectural boundaries are expensive. They require reciprocal polymorphic `Boundary` interfaces, `Input` and `Output` data structures, and all of the dependency management necessary to isolate the two sides into independently compilable and deployable components.
+
+A good architect might judge that the expense of such a boundary is too high—but might still want to hold a place for such a boundary in case it is needed later... ...In that case, they may implement a partial boundary.
+
+### Skip the Last Step
+
+### One-Dimensional Boundaries
+
+### Facades
+
+### Conclusion
+
 ## Chapter 25 Layers and Boundaries
 ## Hunt the Wumpus
 ## Clean Architecture?
