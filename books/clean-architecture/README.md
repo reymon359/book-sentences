@@ -1939,6 +1939,16 @@ Partial boundary requires the same amount of code and preparatory design work as
 
 ### One-Dimensional Boundaries
 
+The full-fledged architectural boundary uses reciprocal boundary interfaces to maintain isolation in both directions. Maintaining separation in both directions is expensive both in initial setup and in ongoing maintenance.
+
+![Figure 24.1 The Strategy pattern](./figure24.1.jpg)
+
+Figure 24.1 The Strategy pattern
+
+A simpler structure that serves to hold the place for later extension to a full- fledged boundary... ...Figure 24.1.. ..._Strategy_ pattern. A `ServiceBoundary` interface is used by clients and implemented by `ServiceImpl` classes... ...this sets the stage for a future architectural boundary.
+
+The separation can degrade pretty rapidly... ...Without reciprocal interfaces, nothing prevents this kind of backchannel other than the diligence and discipline of the developers and architects.
+
 ### Facades
 
 ### Conclusion
