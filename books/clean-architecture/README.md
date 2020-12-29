@@ -1966,11 +1966,19 @@ Each of these approaches has its own set of costs and benefits. Each is appropri
 It is one of the functions of an architect to decide where an architectural boundary might one day exist, and whether to fully or partially implement that boundary.
 
 ## Chapter 25 Layers and Boundaries
-## Hunt the Wumpus
-## Clean Architecture?
-## Crossing the Streams
-## Splitting the Streams
-## Conclusion
+
+UI, business rules, and database. For some simple systems, this is sufficient. For most systems, though, the number of components is larger than that.
+
+### Hunt the Wumpus
+
+### Clean Architecture?
+
+### Crossing the Streams
+
+### Splitting the Streams
+
+### Conclusion
+
 ## Chapter 26 The Main Component
 ## The Ultimate Detail
 ## Conclusion
