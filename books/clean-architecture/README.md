@@ -1971,6 +1971,18 @@ UI, business rules, and database. For some simple systems, this is sufficient. F
 
 ### Hunt the Wumpus
 
+In Figure 25.1 any number of UI components can reuse the same game rules. The game rules do not know, nor do they care, which human language is being used.
+
+![Figure 25.1 Any number of UI components can reuse the game rules](./figure25.1.jpg)
+
+Figure 25.1 Any number of UI components can reuse the game rules
+
+We don’t want the game rules to know anything about the different kinds of data storage, so the dependencies have to be properly directed following the Dependency Rule, as shown in Figure 25.2.
+
+![Figure 25.2 Following the Dependency Rule](./figure25.2.jpg)
+
+Figure 25.2 Following the Dependency Rule
+
 ### Clean Architecture?
 
 ### Crossing the Streams
