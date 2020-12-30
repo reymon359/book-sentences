@@ -2009,6 +2009,14 @@ This organization effectively divides the flow of data into two streams. The str
 
 ### Crossing the Streams
 
+To play Hunt the Wumpus on the net with multiple players we would need a network component... ...in Figure 25.5. This organization divides the data flow into three streams, all controlled by the `GameRules`.
+
+![Figure 25.5 Adding a network component](./figure25.5.jpg)
+
+Figure 25.5 Adding a network component
+
+As systems become more complex, the component structure may split into many such streams.
+
 ### Splitting the Streams
 
 ### Conclusion
