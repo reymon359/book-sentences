@@ -2019,6 +2019,20 @@ As systems become more complex, the component structure may split into many such
 
 ### Splitting the Streams
 
+You may be thinking that all the streams eventually meet at the top in a single component. If only life were so simple! The reality, of course, is much more complex.
+
+Another set of policies at an even higher level—policies that know the health of the player, and the cost or benefit of a particular event... ...The lower-level mechanics policy would declare events to this higher-level policy... ...The higher-level policy would then manage the state of the player (as shown in Figure 25.6). Eventually that policy would decide whether the player wins or loses.
+
+![Figure 25.6 The higher-level policy manages the player](./figure25.6.jpg)
+
+Figure 25.6 The higher-level policy manages the player
+
+Is this an architectural boundary? Do we need an API that separates `MoveManagement` from `PlayerManagement`? Well, let’s... ...add micro-services... ...multiplayer version of Hunt the Wumpus... ...Figure 25.7... ...The `Network` elements are a bit more complex than depicted... ...A full-fledged architectural boundary exists between `MoveManagement` and `PlayerManagement` in this case.
+
+![Figure 25.7 Adding a micro-service API](./figure25.7.jpg)
+
+Figure 25.7 Adding a micro-service API
+
 ### Conclusion
 
 ## Chapter 26 The Main Component
