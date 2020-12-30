@@ -1985,6 +1985,28 @@ Figure 25.2 Following the Dependency Rule
 
 ### Clean Architecture?
 
+We could easily apply the clean architecture approach in this context, with all the use cases, boundaries, entities, and corresponding data structures.
+
+We also might want to vary the mechanism by which we communicate the text... ...That means that there is a potential architectural boundary defined by this axis of change. Perhaps we should construct an API that crosses that boundary and isolates the language from the communications mechanism; that idea is illustrated in Figure 25.3.
+
+![Figure 25.3 The revised diagram](./figure25.3.jpg)
+
+Figure 25.3 The revised diagram
+
+In Figure 25.3... ...the dashed outlines indicate abstract components that define an API that is implemented by the components above or below them... ...The API is defined and owned by the user, rather than by the implementer.
+
+Inside `GameRules`, we would find polymorphic `Boundary` interfaces used by the code inside `GameRules` and implemented by the code inside the Language component. We would also find polymorphic Boundary interfaces used by Language and implemented by code inside GameRules.
+
+The variations, such as `English`, `SMS`, and `CloudData`, are provided by polymorphic interfaces defined in the abstract API component, and implemented by the concrete components that serve them. For example, we would expect polymorphic interfaces defined in `Language` to be implemented by `English` and `Spanish`.
+
+We can simplify this diagram by eliminating all the variations and focusing on just the API components. Figure 25.4 shows this diagram... ...This orientation makes sense because GameRules is the component that contains the highest-level policies.
+
+![Figure 25.4 Simplified diagram](./figure25.4.jpg)
+
+Figure 25.4 Simplified diagram
+
+This organization effectively divides the flow of data into two streams. The stream on the left is concerned with communicating with the user, and the stream on the right is concerned with data persistence. Both streams meet at the top3 at `GameRules`, which is the ultimate processor of the data that goes through both streams.
+
 ### Crossing the Streams
 
 ### Splitting the Streams
