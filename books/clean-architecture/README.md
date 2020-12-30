@@ -2035,6 +2035,18 @@ Figure 25.7 Adding a micro-service API
 
 ### Conclusion
 
+Architectural boundaries exist everywhere. Architects, must be careful to recognize when they are needed... ...be aware that such boundaries, when fully implemented, are expensive.
+
+When boundaries are ignored, they are very expensive to add in later—even in the presence of comprehensive test-suites and refactoring discipline.
+
+So what do we do, we architects? The answer is dissatisfying. On the one hand, some very smart people have told us, over the years, that we should not anticipate the need for abstraction. This is the philosophy of YAGNI: "You aren’t going to need it." There is wisdom in this message, since over-engineering is often much worse than under-engineering. On the other hand, when you discover that you truly do need an architectural boundary where none exists, the costs and risks can be very high to add such a boundary. So there you have it. O Software Architect, you must see the future. You must guess—intelligently. You must weigh the costs and determine where the architectural boundaries lie, and which should be fully implemented, and which should be partially implemented, and which should be ignored.
+
+You don’t simply decide at the start of a project which boundaries to implement and which to ignore. Rather, you _watch._ You pay attention as the system evolves.
+
+You note where boundaries may be required, and then carefully watch for the first inkling of friction because those boundaries don’t exist. At that point, you weigh the costs of implementing those boundaries versus the cost of ignoring them.
+
+Your goal is to implement the boundaries right at the inflection point where the cost of implementing becomes less than the cost of ignoring. It takes a watchful eye.
+
 ## Chapter 26 The Main Component
 ## The Ultimate Detail
 ## Conclusion
