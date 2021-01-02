@@ -2196,6 +2196,12 @@ The point is that `Main` is a dirty low-level module in the outermost circle of 
 
 ### Conclusion
 
+Think of `Main` as a plugin to the application that sets up the initial conditions and configurations, gathers all the outside resources, and then hands control over to the high-level policy of the application.
+
+Since it is a plugin, it is possible to have many `Main` components, one for each configuration of your application... ...you could have a `Main` plugin for _Dev,_ another for _Test,_ and yet another for _Production_... ...also... ...for each country you deploy to, or each jurisdiction, or each customer.
+
+When you think about `Main` as a plugin component, sitting behind an architectural boundary, the problem of configuration becomes a lot easier to solve.
+
 ## Chapter 27 Services: Great and Small
 ## Service Architecture?
 ## Service Benefits?
