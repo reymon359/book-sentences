@@ -2048,8 +2048,14 @@ You note where boundaries may be required, and then carefully watch for the firs
 Your goal is to implement the boundaries right at the inflection point where the cost of implementing becomes less than the cost of ignoring. It takes a watchful eye.
 
 ## Chapter 26 The Main Component
-## The Ultimate Detail
-## Conclusion
+
+In every system, there is at least one component that creates, coordinates, and oversees the others. I call this component `Main`.
+
+### The Ultimate Detail
+
+
+### Conclusion
+
 ## Chapter 27 Services: Great and Small
 ## Service Architecture?
 ## Service Benefits?
