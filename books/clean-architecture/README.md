@@ -2203,13 +2203,33 @@ Since it is a plugin, it is possible to have many `Main` components, one for eac
 When you think about `Main` as a plugin component, sitting behind an architectural boundary, the problem of configuration becomes a lot easier to solve.
 
 ## Chapter 27 Services: Great and Small
-## Service Architecture?
-## Service Benefits?
-## The Kitty Problem
-## Objects to the Rescue
-## Component-Based Services
-## Cross-Cutting Concerns
-## Conclusion
+
+Service-oriented “architectures” and micro-service “architectures”... ...popularity include the following:
+- Services seem to be strongly decoupled from each other... ...this is only partially true.
+- Services appear to support independence of development and deployment... ...this is only partially true.
+
+### Service Architecture?
+
+The notion that using services, by their nature, is an architecture. This is patently untrue. The architecture of a system is defined by boundaries that separate high-level policy from low-level detail and follow the Dependency Rule. Services that simply separate application behaviors are little more than expensive function calls, and are not necessarily architecturally significant.
+
+Not all services _should_ be architecturally significant. There are... ...benefits creating services that separate functionality across processes and platforms—whether they obey the Dependency Rule or not. It’s just that services, in and of themselves, do not define an architecture.
+
+The architecture of a monolithic or component-based system is defined by certain function calls that cross architectural boundaries and follow the Dependency Rule. Many other functions in those systems, however, simply separate one behavior from another and are not architecturally significant.
+
+Services are, after all, just function calls across process and/or platform boundaries. Some of those services are architecturally significant, and some aren’t.
+
+### Service Benefits?
+
+### The Kitty Problem
+
+### Objects to the Rescue
+
+### Component-Based Services
+
+### Cross-Cutting Concerns
+
+### Conclusion
+
 ## Chapter 28 The Test Boundary
 ## Tests as System Components
 ## Design for Testability
