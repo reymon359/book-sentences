@@ -2265,6 +2265,16 @@ Figure 27.2 Using an object-oriented approach to deal with cross-cutting concern
 
 ### Component-Based Services
 
+Services do not need to be little monoliths. Services can, instead, be designed using the SOLID principles, and given a component structure so that new components can be added to them without changing the existing components within the service.
+
+Each new feature... ...as another jar file that contains classes that extend the abstract classes in the first jar files. Deploying a new feature then becomes not a matter of redeploying the services, but... ...simply _adding_ the new jar files to the load paths of those services... ...adding new features conforms to the Open-Closed Principle.
+
+Figure 27.3 shows the structure. The services still exist as before, but each has its own internal component design, allowing new features to be added as new derivative classes. Those derivative classes live within their own components.
+
+![Figure 27.3 Each service has its own internal component design, enabling new features to be added as new derivative classes](./figure27.3.jpg)
+
+Figure 27.3 Each service has its own internal component design, enabling new features to be added as new derivative classes
+
 ### Cross-Cutting Concerns
 
 ### Conclusion
