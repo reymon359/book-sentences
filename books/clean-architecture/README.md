@@ -2237,6 +2237,12 @@ Second, the decoupling fallacy means that services cannot always be independentl
 
 ### The Kitty Problem
 
+Taxi aggregator system... ...build it out of lots of little micro-services... ...The diagram in Figure 27.1 shows how our fictitious architects arranged services to implement this application. The `TaxiUI` service deals with the customers, who use mobile devices to order taxis. The `TaxiFinder` service examines the inventories of the various `TaxiSuppliers` and determines which taxies are possible candidates for the user. It deposits these into a short-term data record attached to that user. The `TaxiSelector` service takes the user’s criteria of cost, time, luxury, and so forth, and chooses an appropriate taxi from among the candidates. It hands that taxi off to the `TaxiDispatcher` service, which orders the appropriate taxi.
+
+![Figure 27.1 Services arranged to implement the taxi aggregator system](./figure27.1.jpg)
+
+Figure 27.1 Services arranged to implement the taxi aggregator system
+
 ### Objects to the Rescue
 
 ### Component-Based Services
