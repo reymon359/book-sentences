@@ -2277,7 +2277,25 @@ Figure 27.3 Each service has its own internal component design, enabling new fea
 
 ### Cross-Cutting Concerns
 
+Architectural boundaries do not fall _between_ services. Rather, those boundaries run _through_ the services, dividing them into components.
+
+To deal with the cross-cutting concerns that all significant systems face, services must be designed with internal component architectures that follow the Dependency Rule.
+
+Services do not define the architectural boundaries of the system; instead, the components within the services do.
+
+![Figure 27.4 Services must be designed with internal component architectures that follow the Dependency Rule](./figure27.4.jpg)
+
+Figure 27.4 Services must be designed with internal component architectures that follow the Dependency Rule
+
 ### Conclusion
+
+As useful as services are to the scalability and develop-ability of a system, they are not, in and of themselves, architecturally significant elements.
+
+The architecture of a system is defined by the boundaries drawn within that system, and by the dependencies that cross those boundaries.
+
+Architecture is not defined by the physical mechanisms by which elements communicate and execute.
+
+A service might be a single component, completely surrounded by an architectural boundary. Alternatively, a service might be composed of several components separated by architectural boundaries. In rare2 cases, clients and services may be so coupled as to have no architectural significance whatever.
 
 ## Chapter 28 The Test Boundary
 ## Tests as System Components
