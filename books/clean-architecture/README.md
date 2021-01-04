@@ -2243,7 +2243,25 @@ Taxi aggregator system... ...build it out of lots of little micro-services... ..
 
 Figure 27.1 Services arranged to implement the taxi aggregator system
 
+Marketing department... ...announce their plans to offer a kitten delivery service to the city... ...When a kitten order is placed, a nearby taxi will be selected to collect a kitten from one of those collection points, and then deliver it to the appropriate address... ...Of course, some drivers may be allergic to cats, so those drivers should never be selected for this service. Also, some customers will undoubtedly have similar allergies, so a vehicle that has been used to deliver kittens within the last 3 days should not be selected for customers who declare such allergies... ...How many of those services will have to change to implement this feature? _All of them_... ...In other words, the services are all coupled, and cannot be independently developed, deployed, and maintained. This is the problem with cross-cutting concerns. Every software system must face this problem, whether service oriented or not.
+
+Functional decompositions, of the kind depicted in the service diagram in Figure 27.1, are very vulnerable to new features that cut across all those functional behaviors.
+
 ### Objects to the Rescue
+
+This problem in a component-based architecture?... ...SOLID design principles... ...create a set of classes that could be polymorphically extended to handle new features.
+
+Figure 27.2 shows the strategy. The classes in this diagram roughly correspond to the services shown in Figure 27.1. However, note the boundaries. Note also that the dependencies follow the Dependency Rule.
+
+Much of the logic... ...preserved within the base classes of the object model. However... ...logic specific to _rides_ has been extracted into a `Rides` component. The new feature for kittens has been placed into a `Kittens` component. These two components override the abstract base classes in the original components using a pattern such as _Template Method or Strategy._
+
+New components, `Rides` and `Kittens`, follow the Dependency Rule... ...classes that implement those features are created by factories under the control of the UI.
+
+When the Kitty feature is implemented, the `TaxiUI` must change. But nothing else needs to be changed... ...Thus the Kitty feature is decoupled, and independently developable and deployable.
+
+![Figure 27.2 Using an object-oriented approach to deal with cross-cutting concerns](./figure27.2.jpg)
+
+Figure 27.2 Using an object-oriented approach to deal with cross-cutting concerns
 
 ### Component-Based Services
 
