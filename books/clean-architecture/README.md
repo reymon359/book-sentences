@@ -2220,6 +2220,18 @@ Services are, after all, just function calls across process and/or platform boun
 
 ### Service Benefits?
 
+One of the big supposed benefits... ...is that services are strongly decoupled from each other... ...each service runs in a different process... ...therefore those services do not have access to each other’s variables. What’s more, the interface of each service must be well defined... ...certainly... ...but not very much truth. Yes, services are decoupled at the level of individual variables. However, they can still be coupled by shared resources within a processor, or on the network. What’s more, they are strongly coupled by the data they share.
+
+Services are strongly coupled by the data they share.
+
+If a new field is added to a data record that is passed between services, then every service that operates on the new field must be changed... ...Thus those services are strongly coupled to the data record and, therefore, indirectly coupled to each other.
+
+Service interfaces are no more formal, no more rigorous, and no better defined than function interfaces. Clearly, then, this benefit is something of an illusion.
+
+#### The Decoupling Fallacy
+
+One of the supposed benefits
+
 ### The Kitty Problem
 
 ### Objects to the Rescue
