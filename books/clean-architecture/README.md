@@ -2303,6 +2303,18 @@ _The tests are part of the system,_ and they participate in the architecture jus
 
 ### Tests as System Components
 
+From an architectural point of view, all tests are the same. Whether they are the tiny little tests created by TDD, or large... ...tests, they are architecturally equivalent.
+
+Tests, by their very nature, follow the Dependency Rule; they are very detailed and concrete; and they always depend inward toward the code being tested.
+
+Tests as the outermost circle in the architecture. Nothing within the system depends on the tests, and the tests always depend inward on the components of the system.
+
+Tests are also independently deployable. In fact, most of the time they are deployed in test systems, rather than in production systems. So, even in systems where independent deployment is not otherwise necessary, the tests will still be independently deployed.
+
+Tests are the most isolated system component. They are not necessary for system operation. No user depends on them. Their role is to support development, not operation.
+
+They are no less a system component than any other. In fact, in many ways they represent the model that all other system components should follow.
+
 ### Design for Testability
 
 ### The Testing API
