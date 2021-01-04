@@ -2298,50 +2298,99 @@ Architecture is not defined by the physical mechanisms by which elements communi
 A service might be a single component, completely surrounded by an architectural boundary. Alternatively, a service might be composed of several components separated by architectural boundaries. In rare2 cases, clients and services may be so coupled as to have no architectural significance whatever.
 
 ## Chapter 28 The Test Boundary
-## Tests as System Components
-## Design for Testability
-## The Testing API
-## Conclusion
+
+_The tests are part of the system,_ and they participate in the architecture just like every other part of the system does.
+
+### Tests as System Components
+
+### Design for Testability
+
+### The Testing API
+
+### Conclusion
+
 ## Chapter 29 Clean Embedded Architecture
+
 ## App-titude Test
-## The Target-Hardware Bottleneck
-## Conclusion
+
+### The Target-Hardware Bottleneck
+
+### Conclusion
+
 ## PART VI Details
+
 ## Chapter 30 The Database Is a Detail
-## Relational Databases
-## Why Are Database Systems So Prevalent?
-## What If There Were No Disk?
-## Details
-## But What about Performance?
-## Anecdote
-## Conclusion
+
+### Relational Databases
+
+### Why Are Database Systems So Prevalent?
+
+### What If There Were No Disk?
+
+### Details
+
+### But What about Performance?
+
+### Anecdote
+
+### Conclusion
+
 ## Chapter 31 The Web Is a Detail
-## The Endless Pendulum
-## The Upshot
-## Conclusion
+
+### The Endless Pendulum
+
+### The Upshot
+
+### Conclusion
+
 ## Chapter 32 Frameworks Are Details
-## Framework Authors
-## Asymmetric Marriage
-## The Risks
-## The Solution
-## I Now Pronounce You …
-## Conclusion
+
+### Framework Authors
+
+### Asymmetric Marriage
+
+### The Risks
+
+### The Solution
+
+### I Now Pronounce You …
+
+### Conclusion
+
 ## Chapter 33 Case Study: Video Sales
-## The Product
-## Use Case Analysis
-## Component Architecture
-## Dependency Management
-## Conclusion
+
+### The Product
+
+### Use Case Analysis
+
+### Component Architecture
+
+### Dependency Management
+
+### Conclusion
+
 ## Chapter 34 The Missing Chapter
-## Package by Layer
-## Package by Feature
-## Ports and Adapters
-## Package by Component
-## The Devil Is in the Implementation Details
-## Organization versus Encapsulation
-## Other Decoupling Modes
-## Conclusion: The Missing Advice
+
+### Package by Layer
+
+### Package by Feature
+
+### Ports and Adapters
+
+### Package by Component
+
+### The Devil Is in the Implementation Details
+
+### Organization versus Encapsulation
+
+### Other Decoupling Modes
+
+### Conclusion: The Missing Advice
+
 ## Afterword
+
 ## PART VII Appendix
+
 ## Appendix A Architecture Archaeology
+
 ## Index
