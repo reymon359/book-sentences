@@ -2220,6 +2220,8 @@ Services are, after all, just function calls across process and/or platform boun
 
 ### Service Benefits?
 
+#### The Decoupling Fallacy
+
 One of the big supposed benefits... ...is that services are strongly decoupled from each other... ...each service runs in a different process... ...therefore those services do not have access to each other’s variables. What’s more, the interface of each service must be well defined... ...certainly... ...but not very much truth. Yes, services are decoupled at the level of individual variables. However, they can still be coupled by shared resources within a processor, or on the network. What’s more, they are strongly coupled by the data they share.
 
 Services are strongly coupled by the data they share.
@@ -2228,9 +2230,10 @@ If a new field is added to a data record that is passed between services, then e
 
 Service interfaces are no more formal, no more rigorous, and no better defined than function interfaces. Clearly, then, this benefit is something of an illusion.
 
-#### The Decoupling Fallacy
+#### The Fallacy of Independent Development and Deployment
 
-One of the supposed benefits
+Another of the supposed benefits of services is that can be owned and operated by a dedicated team... ...responsible for writing, maintaining, and operating the service as part of a dev-ops strategy... ...presumed to be _scalable_... ...There is some truth to this belief. First... ...large enterprise systems can be built from monoliths and component- based systems as well as service-based systems. Thus services are not the only option for building scalable systems.
+Second, the decoupling fallacy means that services cannot always be independently developed, deployed, and operated. To the extent that they are coupled by data or behavior, the development, deployment, and operation must be coordinated.
 
 ### The Kitty Problem
 
