@@ -2317,7 +2317,25 @@ They are no less a system component than any other. In fact, in many ways they r
 
 ### Design for Testability
 
+The extreme isolation of the tests, combined with the fact that they are not usually deployed, often causes developers to think that tests fall outside of the design of the system. This is a catastrophic point of view.
+
+Tests that are not well integrated into the design of the system tend to be fragile, and they make the system rigid and difficult to change.
+
+The issue... ...is coupling. Tests that are strongly coupled to the system must change along with the system.
+
+Changes to common system components can cause hundreds, or even thousands, of tests to break. This is known as the _Fragile Tests Problem._
+
+Fragile tests often have the perverse effect of making the system rigid. When developers realize that simple changes to the system can cause massive test failures, they may resist making those changes.
+
+The solution is to design for testability. The first rule of software design— whether for testability or for any other reason—is always the same: _Don’t depend on volatile things._
+
+GUIs are volatile. Test suites that operate the system through the GUI _must be fragile._ Therefore design the system, and the tests, so that business rules can be tested without using the GUI.
+
 ### The Testing API
+
+Create a specific API that the tests can use to verify all the business rules. This API should... ...allow the tests to avoid security constraints... ...and force the system into particular testable states... ...will be a superset of the suite of _interactors_ and _interface adapters_ that are used by the user interface.
+
+The purpose of the testing API is to decouple the tests from the application... ...The goal is to decouple the _structure_ of the tests from the _structure_ of the application.
 
 ### Conclusion
 
