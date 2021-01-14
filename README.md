@@ -19,6 +19,7 @@ Here is the list of the books I picked up sentences from
 
 | Year I read it | Cover | Name | Author/s | Publication Year |
 |----------------|-------|------|----------|------------------|
+| 2021 | <img width="100" src="./books/james-and-the-giant-peach/james-and-the-giant-peach.jpg" /> | [James and the Giant Peach.](./books/james-and-the-giant-peach/README.md) | Roald Dahl | 1961 |
 | 2020 | <img width="100" src="./books/clean-architecture/clean-architecture.png" /> | [Clean Architecture. A Craftsman's Guide to Software Structure and Design.](./books/clean-architecture/README.md) | Robert C. Martin | 2017 |
 | 2020 | <img width="100" src="./books/mans-search-for-meaning/mans-search-for-meaning.png" /> | [Man's Search For Meaning](./books/mans-search-for-meaning/README.md) | Viktor Frankl | 1946 |
 | 2020 | <img width="100" src="./books/the-clean-coder/the-clean-coder.png" /> | [The Clean Coder. A code of conduct for professional programmers.](./books/the-clean-coder/README.md) |Robert C. Martin | 2011 |
