@@ -2519,7 +2519,19 @@ The database is a utility that provides access to the data... ...it’s a low-le
 
 ### Relational Databases
 
+Edgar Codd defined the principles of relational databases in 1970.
+
+There is nothing architecturally significant about arranging data into rows within tables. The use cases of your application should neither know nor care about such matters.
+
+Knowledge of the tabular structure of the data should be restricted to the lowest-level utility functions in the outer circles of the architecture.
+
+Many data access frameworks allow database rows and tables to be passed around the system as objects. Allowing this is an architectural error. It couples the use cases, business rules, and in some cases even the UI to the relational structure of the data.
+
 ### Why Are Database Systems So Prevalent?
+
+The rotating magnetic disk was the mainstay of data storage for five decades... ...On a disk, data is stored within circular tracks. Those tracks are divided into sectors that hold a convenient number of bytes, often 4K. Each platter may have hundreds of tracks, and there can be a dozen or so platters. If you want to read a particular byte off the disk, you have to move the head to the proper track, wait for the disk to rotate to the proper sector, read all 4K of that sector into RAM, and then index into that RAM buffer to get the byte you want. And all that takes milliseconds.
+
+To mitigate the time delay imposed by disks... ...you need a data access and management system... ...two distinct kinds: file systems and relational database management systems (RDBMS). File systems are document based. They provide a natural and convenient way to store whole documents. They work well when you need to save and retrieve a set of documents by name, but they don’t offer a lot of help when you’re searching the content of those documents... ...Database systems are content based. They provide a natural and convenient way to find records based on their content. They are very good at associating multiple records based on some bit of content that they all share. Unfortunately, they are rather poor at storing and retrieving opaque documents.
 
 ### What If There Were No Disk?
 
