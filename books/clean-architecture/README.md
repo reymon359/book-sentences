@@ -2463,7 +2463,49 @@ A clean embedded architecture would use device access registers directly in very
 
 If you use a micro-controller... ...your firmware could isolate these low- level functions with some form of a _processor abstraction layer_ (PAL). Firmware above the PAL could be tested off-target, making it a little less firm.
 
+##### The Operating System Is a Detail
+
+To give your embedded code a good chance at a long life, you have to treat the operating system as a detail and protect against OS dependencies.
+
+The software accesses the services of the operating environment through the OS. The OS is a layer separating the software from firmware (Figure 29.5). Using an OS directly can cause problems.
+
+![Figure 29.5 Adding in an operating system](./figure29.5.jpg)
+
+Figure 29.5 Adding in an operating system
+
+A clean embedded architecture isolates software from the operating system, through an _operating system abstraction layer_ (OSAL) (Figure 29.6).
+
+![Figure 29.6 The operating system abstraction layer](./figure29.6.jpg)
+
+Figure 29.6 The operating system abstraction layer
+
+If your software depended on an OSAL instead of the OS directly, you would largely be writing a new OSAL that is compatible with the old OSAL. Which would you rather do: modify a bunch of complex existing code, or write new code to a defined interface and behavior? This is not a trick question. I choose the latter.
+
+The layer becomes the place where much of the duplication around using an OS is isolated. This duplication does not have to impose a big overhead. If you define an OSAL, you can also encourage your applications to have a common structure. You might provide message passing mechanisms, rather than having every thread handcraft its concurrency model.
+
+A clean embedded architecture’s software is testable off the target operating system.
+
+OSAL provides that seam or set of substitution points that facilitate off-target testing.
+
+#### Programming to Interfaces and Substitutability
+
+The idea of a layered architecture is built on the idea of programming to interfaces.
+
+When one module interacts with another though an interface, you can substitute one service provider for another.
+
+Don’t clutter the interface header files with data structures, constants, and typedefs that are needed by only the implementation... ...That clutter will lead to unwanted dependencies.
+
+Limit the visibility of the implementation details... ...The fewer places where code knows the details, the fewer places where code will have to be tracked down and modified.
+
+A clean embedded architecture is testable within the layers because modules interact through interfaces. Each interface provides that seam or substitution point that facilitates off-target testing.
+
+#### DRY Conditional Compilation Directives
+
+There is a tendency to use conditional compilation to turn on and off segments of code... ...This repetition of code violates the Don’t Repeat Yourself (DRY) principle.
+
 ### Conclusion
+
+Letting all code become firmware... ...Being able to test only in the target hardware is not good for your product’s long-term health. A clean embedded architecture is good for your product’s long-term health.
 
 ## PART VI Details
 
