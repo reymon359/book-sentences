@@ -2405,6 +2405,24 @@ Application works: The engineer passed the App-titude test. But the application 
 
 ### The Target-Hardware Bottleneck
 
+Most of the time the hardware is concurrently developed with the software and firmware. As an engineer developing code for this kind of system, you may have no place to run the code.
+
+Yes, embedded is special. Embedded engineers are special. But embedded development is not _so_ special that the principles in this book are not applicable to embedded systems.
+
+_The target-hardware bottleneck._ When embedded code is structured without applying clean architecture principles and practices, you will often face the scenario in which you can test your code only on the target. If the target is the only place where testing is possible, the target-hardware bottleneck will slow you down.
+
+#### A Clean Embedded Architecture Is a Testable Embedded Architecture
+
+Apply some of the architectural principles to embedded software and firmware to help you eliminate the target-hardware bottleneck.
+
+##### Layers
+
+![Figure 29.1 Three layers](./figure29.1.jpg)
+
+Figure 29.1 Three layers
+
+
+
 ### Conclusion
 
 ## PART VI Details
