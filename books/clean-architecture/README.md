@@ -2421,7 +2421,47 @@ Apply some of the architectural principles to embedded software and firmware to 
 
 Figure 29.1 Three layers
 
+If you are not careful about where you put things and what one module is allowed to know about another module, the code will be very hard to change... ...not just... ...when the hardware changes, but when the user asks for a change, or when a bug needs to be fixed.
 
+![Figure 29.2 Hardware must be separated from the rest of the system](./figure29.2.jpg)
+
+Figure 29.2 Hardware must be separated from the rest of the system
+
+Software and firmware intermingling is an anti-pattern. Code... ...will resist changes. In addition, changes will be dangerous, often leading to unintended consequences. Full regression tests of the whole system will be needed for minor changes.
+
+The line between software and firmware is typically not so well defined as the line between code and hardware.
+
+![Figure 29.3 The line between software and firmware is a bit fuzzier than the line between code and hardware](./figure29.3.jpg)
+
+Figure 29.3 The line between software and firmware is a bit fuzzier than the line between code and hardware
+
+As an embedded software developer... ...firm up that line. The name of the boundary between the software and the firmware is the hardware abstraction layer (HAL) (Figure 29.4)
+
+![Figure 29.4 The hardware abstraction layer](./figure29.4.jpg)
+
+Figure 29.4 The hardware abstraction layer
+
+The HAL exists for the software that sits on top of it, and its API should be tailored to that software’s needs.
+
+The HAL expressing services needed by the application.
+
+Layers may contain layers. It is more of a repeating fractal pattern than a limited set of predefined layers.
+
+#### Don’t Reveal Hardware Details to the User of the HAL
+
+A clean embedded architecture’s software is testable _off_ the target hardware.
+
+A successful HAL provides that seam or set of substitution points that facilitate off-target testing.
+
+##### The Processor Is a Detail
+
+When your embedded application uses a specialized tool chain, it will often provide header files to `<i>`help you`</i>`. These compilers often take liberties with the C language, adding new keywords to access their processor features. The code will look like C, but it is no longer C... ...it’s up to you to use that help in a way that does not hurt in the future. You will have to limit which files are allowed to know about the C extensions.
+
+All of the _software_ should be processor independent, but not all of the _firmware_ can be.
+
+A clean embedded architecture would use device access registers directly in very few places and confine them totally to the _firmware._ Anything that knows about these registers becomes _firmware_ and is consequently bound to the silicon.
+
+If you use a micro-controller... ...your firmware could isolate these low- level functions with some form of a _processor abstraction layer_ (PAL). Firmware above the PAL could be tested off-target, making it a little less firm.
 
 ### Conclusion
 
