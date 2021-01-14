@@ -2386,6 +2386,23 @@ Stop writing so much firmware and give your code a chance at a long useful life.
 
 ## App-titude Test
 
+Most of the emphasis is on getting the embedded code to work, and not so much emphasis is placed on structuring it for a long useful life.
+
+Kent Beck describes... ...building software (the quoted text is Kent’s words and the italics are my commentary):
+1. “First make it work.” _You are out of business if it doesn’t work._ 
+2. “Then make it right.” _Refactor the code so that you and others can understand it and evolve it as needs change or are better understood._ 
+3. “Then make it fast.” _Refactor the code for “needed” performance._
+
+In _The Mythical Man-Month,_ Fred Brooks suggests we “plan to throw one away.” Kent and Fred are giving virtually the same advice: Learn what works, then make a better solution.
+
+Most non-embedded apps are built just to work, with little regard to making the code right for a long useful life.
+
+Getting an app to work is what I call the _App-titude_ test for a programmer.
+
+Programmers... ...who just concern themselves with getting their app to work are doing their products and employers a disservice. There is much more to programming than just getting an app to work.
+
+Application works: The engineer passed the App-titude test. But the application can’t be said to have a clean embedded architecture.
+
 ### The Target-Hardware Bottleneck
 
 ### Conclusion
