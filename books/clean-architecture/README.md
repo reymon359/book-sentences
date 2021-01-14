@@ -2337,9 +2337,33 @@ Create a specific API that the tests can use to verify all the business rules. T
 
 The purpose of the testing API is to decouple the tests from the application... ...The goal is to decouple the _structure_ of the tests from the _structure_ of the application.
 
+#### Structural Coupling
+
+Structural coupling is one of the strongest, and most insidious, forms of test coupling.
+
+A test suite that has a test class for every production class, and a set of test methods for every production method... ...When one of those production methods or classes changes, a large number of tests must change as well... ...they make the production code rigid.
+
+The role of the testing API is to hide the structure of the application from the tests.
+
+Production code to be refactored and evolved in ways that don’t affect the tests. It also allows the tests to be refactored and evolved in ways that don’t affect the production code.
+
+This separation of evolution is necessary because as time passes, the tests tend to become increasingly more concrete and specific. In contrast, the production code tends to become increasingly more abstract and general.
+
+Strong structural coupling prevents—or at least impedes—this necessary evolution, and prevents the production code from being as general, and flexible, as it could be.
+
+#### Security
+
+The superpowers of the testing API could be dangerous if they were deployed in production systems... ...then the testing API, and the dangerous parts of its implementation, should be kept in a separate, independently deployable component.
+
 ### Conclusion
 
+Tests are not outside the system; rather, they are parts of the system that must be well designed if they are to provide the desired benefits of stability and regression.
+
+Tests that are not designed as part of the system tend to be fragile and difficult to maintain.
+
 ## Chapter 29 Clean Embedded Architecture
+
+
 
 ## App-titude Test
 
