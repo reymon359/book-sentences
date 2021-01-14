@@ -2511,6 +2511,12 @@ Letting all code become firmware... ...Being able to test only in the target har
 
 ## Chapter 30 The Database Is a Detail
 
+From an architectural point of view, the database is a non-entity—it is a detail that does not rise to the level of an architectural element.
+
+The structure you give to the data within your application is highly significant to the architecture of your system. But the database is not the data model.
+
+The database is a utility that provides access to the data... ...it’s a low-level detail—a mechanism. And a good architect does not allow low-level mechanisms to pollute the system architecture.
+
 ### Relational Databases
 
 ### Why Are Database Systems So Prevalent?
