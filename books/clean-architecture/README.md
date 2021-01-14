@@ -2363,7 +2363,26 @@ Tests that are not designed as part of the system tend to be fragile and difficu
 
 ## Chapter 29 Clean Embedded Architecture
 
+> Although software does not wear out, firmware and hardware become obsolete, thereby requiring software modifications.
+> — Doug Schmidt.
 
+_Software_ is this thing that can have a long useful life, but _firmware_ will become obsolete as hardware evolves.
+
+I’d like to add to Doug’s statement:
+
+> Although software does not wear out, it can be destroyed from within by unman- aged dependencies on firmware and hardware.
+
+It is not uncommon for embedded software to be denied a potentially long life due to being infected with dependencies on hardware.
+
+Firmware does not mean code lives in ROM. It’s not firmware because of where it is stored; rather, it is firmware because of what it depends on and how hard it is to change as hardware evolves.
+
+Hardware does evolve... ...so we should structure our embedded code with that reality in mind.
+
+What we really need is less firmware and more software.
+
+Non-embedded engineers also write firmware!... ...whenever you bury SQL in your code or when you spread platform dependencies throughout your code.
+
+Stop writing so much firmware and give your code a chance at a long useful life.
 
 ## App-titude Test
 
