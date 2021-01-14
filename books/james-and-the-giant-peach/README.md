@@ -18,6 +18,8 @@ All at once, he pushed the white paper bag into James’s hands, and said,
 
 ‘Here! You take it! It’s yours!’
 
+![James approaching the peach](james-approaching-the-peach.jpg)
+
 Spanish: —¡Alegra esa cara, chico, alegra esa cara! —dijo el Ciempiés—. Oye, quieres acercarte y ayudarme a quitarme las botas. Yo solo tardo horas en quitármelas.
 
 English: ‘So cheer up, my boy, cheer up!’ the Centipede said. ‘And meanwhile I wish you’d come over here and give me a hand with these boots. It takes me _hours_ to get them all oll by myself.’
@@ -52,7 +54,7 @@ English: Just then, the Centipede stuck his grinning face through a hole in the 
 
 ‘There is no knowing what we shall see!’ cried the Centipede.
 
-![Peach flying over the clift](./peach-flying-over-the-clift.jpg)
+![Peach flying over the cliff](./peach-flying-over-the-cliff.jpg)
 
 Spanish: —¡Pero por el amor de Dios! ¿Es que estás ciego? —dijo James.
 
@@ -86,4 +88,106 @@ James took a deep, slow breath. 'Can’t you _real ize,_' he said patiently, ‘
 
 ‘Why, the peach of course! Our whole ship is made of food!’ ‘Jumping Jehoshophat!’ they cried. ‘We never thought of that!’
 
+Spanish: ¿Por qué estás tan mustio, Gusano? —preguntó el Ciempiés—. ¿Qué es lo que te preocupa?
 
+—Me preocupa... —dijo el Gusano—, me preocupa..., bueno, me preocupa no tener preocupaciones.
+
+Todos se echaron a reír.
+
+—¡Anímate, Gusano! —le dijeron—. ¡Vamos a comer!
+
+English: ‘What are you looking so worried about, Earthworm?’ the Centipede asked. ‘What’s the problem?’
+
+‘The problem is...’ the Earthworm said, ‘the problem is...well, the problem is that there is no problem!’
+
+Everyone burst out laughing. 
+
+‘Cheer up, Earthworm!’ they said. ‘Come and eat!’ 
+
+![Sharks and the peach](sharks-and-the-peach.jpg)
+
+![The peach takes flight](the-peach-takes-flight.jpg)
+
+Spanish: —Mi querido joven —dijo amablemente el Viejo Saltamontes Verde—. Hay montones de cosas en este mundo nuestro de las que todavía no tienes ni la menor idea. Por ejemplo, ¿dónde crees que tengo los oídos?
+
+—¿Los oídos? Pues supongo que en la cabeza, claro.
+
+Todos se echaron a reír.
+
+—¿Quieres decir que ni tan siquiera sabes eso? —preguntó, sorprendido, el Ciempiés.
+
+—Prueba de nuevo —dijo el Viejo Saltamontes Verde, sonriendo. 
+
+—No puedes tenerlos en otro sitio —dijo James.
+
+—¿No?
+
+—Entonces me rindo. ¿Dónde los tienes?
+
+—Justo aquí —dijo el Viejo Saltamontes Verde—. Uno a cada lado de la barriga.
+
+—¡Eso no es cierto!
+
+—Claro que es cierto. ¿Qué es lo que tiene eso de extraño? Tenías que saber dónde los tienen mis parientes los grillos y los saltamontes americanos. 
+
+—¿Dónde los tienen?
+
+—En las patas. Justo debajo de las rodillas de las patas delanteras.
+
+—Me estás tomando el pelo —dijo James—. No hay nadie que pueda tener los oídos en las patas.
+
+—¿Por qué no?
+
+—Porque... pues porque es ridículo, por eso.
+
+—¿Sabes lo que me parece ridículo a mí? —dijo el Ciempiés, sonriendo sardónicamente, como de costumbre—. Y no te lo digo por mal, pero me parece totalmente ridículo el tener los oídos en la cabeza. Dan un aspecto de lo más cómico. Mírate un día al espejo y compruébalo.
+
+English: ‘My dear young fellow,’ the Old-Green-Grasshopper said gently, ‘there are a whole lot of things in this world of ours that you haven’t started wondering about yet. Where, for example, do you think that I keep my ears?’
+
+‘Your ears? Why, in your head, of course.'
+
+Everyone burst out laughing.
+
+‘You mean you don’t even know that?' cried the Centipede.
+
+‘Try again,’ said the Old-Green-Grasshopper, smiling at James.
+
+‘You can’t possibly keep them anywhere else?’
+
+‘Oh, can’t I?’
+
+‘Well – I give up. Where do you keep them?’
+
+‘Right here,’ the Old-Green-Grasshopper said. ‘One on each side of my tummy.’
+
+‘It’s not true!’
+
+‘Of course it’s true. What’s so peculiar about that? You ought to see where my cousins the crickets and the katydids keep theirs.’
+
+‘Where do they keep them?’
+
+‘In their legs. One in each front leg, just below the knee.’
+
+‘You mean you didn’t know that either?’ the Centipede said scornfully.
+
+‘You’re joking,’ James said. ‘Nobody could possibly have his ears in his legs.’
+
+‘Why not?’
+
+‘Because... because it’s ridiculous, that’s why.’
+
+‘You know what I think is ridiculous?’ the Centipede said, grinning away as usual. ‘I don’t mean to be rude, but I think it is ridiculous to have ears on the sides of one’s head. It certainly looks ridiculous. You ought to take a peek in the mirror some day and see for yourself.’
+
+![Peach parade](peach-parade.jpg)
+
+Spanish: Y como había montones de ellos que siempre le estaban pidiendo que les contara la historia de su aventura en el melocotón, se le ocurrió que quizás fuera interesante sentarse un día a escribirla, para hacer un libro.
+
+Y así lo hizo.
+
+Y es precisamente éste que acabas de leer ahora mismo.
+
+English: And because so many of them were always begging hhn to tell and tell again the story of his adventures on the peach, he thought it would be nice if one day he sat down and wrote it as a book.
+
+So he did.
+
+And _that_ is what you have just finished reading
