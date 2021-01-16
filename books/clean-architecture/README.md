@@ -2601,17 +2601,57 @@ This kind of abstraction is not easy,... ...But it is possible... ...But it is p
 
 ## Chapter 32 Frameworks Are Details
 
+Frameworks are not architectures—though some try to be.
+
 ### Framework Authors
+
+Framework authors know their own problems, and the problems of their coworkers and friends. And they write their frameworks to solve _those_ problems—not yours.
+
+Your problems will likely overlap with those other problems quite a bit. If this were not the case, frameworks would not be so popular. To the extent that such overlap exists, frameworks can be very useful indeed.
 
 ### Asymmetric Marriage
 
+The relationship between you and the framework author is extraordinarily asymmetric. You must make a huge commitment to the framework, but the framework author makes no commitment to you whatsoever.
+
+When you use a framework,... ...Typically, this means wrapping your architecture around that framework... ...The author urges you to _couple_ your application to the framework as tightly as possible.
+
+The author wants you to couple to the framework, because once coupled in this way, it is very hard to break away.
+
+The author is asking you to marry the framework—to make a huge, long-term commitment to that framework. And yet, under no circumstances will the author make a corresponding commitment to you. It’s a one- directional marriage. You take on all the risk and burden; the framework author takes on nothing at all.
+
 ### The Risks
+
+The architecture of the framework is often not very clean. Frameworks tend to violate he Dependency Rule.
+
+The framework may help you with some early features... ...However, as your product matures,... ...you’ll find the framework fighting you more and more.
+
+The framework may evolve in a direction that you don’t find helpful... ...upgrading to new versions that don’t help you.
+
+A new and better framework may come along that you wish you could switch to.
 
 ### The Solution
 
+_Don’t marry the framework!_
+
+You can _use_ the framework—just don’t couple to it.
+
+If the framework wants you to derive your business objects from its base classes, say no! Derive proxies instead, and keep those proxies in components that are _plugins_ to your business rules.
+
+Integrate them into components that plug in to your core code, following the Dependency Rule.
+
 ### I Now Pronounce You …
 
+There are some frameworks that you simply must marry... ...That’s normal—but it should still be a _decision._
+
+When you marry a framework to your application, you will be stuck with that framework for the rest of the life cycle of that application.
+
 ### Conclusion
+
+When faced with a framework, try not to marry it right away. See if there aren’t ways to date it for a while before you take the plunge.
+
+Keep the framework behind an architectural boundary if at all possible, for as long as possible.
+
+Find a way to get the milk without buying the cow.
 
 ## Chapter 33 Case Study: Video Sales
 
