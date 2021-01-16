@@ -2715,6 +2715,10 @@ Once you have structured the code this way, you can mix and match how you want t
 
 ## Chapter 34 The Missing Chapter
 
+The devil is in the implementation details, and it’s really easy to fall at the last hurdle if you don’t give that some thought.
+
+Imagine... ...an online book store,... ...customers being able to view the status of their orders... ...Let’s put the Clean Architecture to one side for a moment and look at a number of approaches to design and code organization.
+
 ### Package by Layer
 
 ### Package by Feature
