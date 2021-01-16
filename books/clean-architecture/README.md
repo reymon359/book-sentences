@@ -2655,15 +2655,63 @@ Find a way to get the milk without buying the cow.
 
 ## Chapter 33 Case Study: Video Sales
 
+Put these rules and thoughts about architecture together into a case study... ...short and simple... ...the process a good architect uses and the decisions that such an architect makes.
+
 ### The Product
+
+For this case study,... ...the software for a website that sells videos... ...on the web, to both individuals and businesses. Individuals can pay one price to stream the videos, and another, higher price to download those videos and own them permanently. Business licenses are streaming only, and are purchased in batches that allow quantity discounts.
+
+Individuals typically act as both the viewers and the purchasers. Businesses, in contrast, often have people who buy the videos that other people will watch. Video authors need to supply their video files,... ...and other materials. Administrators need to add new video series, add and delete videos to and from the series, and establish prices for various licenses.
 
 ### Use Case Analysis
 
+![Figure 33.1 A typical use-case analysis](./figure33.1.jpg)
+
+Figure 33.1 A typical use-case analysis
+
+According to the Single Responsibility Principle, these four actors will be the four primary sources of change for the system. Every time some new feature is added, or... ...changed, that step will be taken to serve one of these actors. Therefore we want to partition the system such that a change to one actor does not affect any of the other actors.
+
+In Figure 33.1... ...you won’t find log-in or log-out use cases... ...to manage the size of the problem in this book. If I were to include all the different use cases, then this chapter would have to turn into a book in its own right.
+
+The dashed use cases... ... are _abstract_ use cases......that sets a general policy that another use case will flesh out. As you can see, the _View Catalog as Viewer_ and _View Catalog as Purchaser_ use cases both inherit from the _View Catalog_ abstract use case.
+
+It was not strictly necessary... ...to create that abstraction. I could have left the abstract use case out... ...without compromising any of the features... ...On the other hand, these two use cases are _so similar_ that I thought it wise to recognize the similarity and find a way to unify it early in the analysis.
+
 ### Component Architecture
+
+Now that we know the actors and use cases, we can create a preliminary component architecture (Figure 33.2).
+
+The double lines... ...represent architectural boundaries... ...You can see the typical partitioning of views, presenters, interactors, and controllers. You can also see that I’ve broken each of those categories up by their corresponding actors.
+
+Each of those components will contain the views, presenters, interactors, and controllers that have been allocated to it.
+
+Note the special components for the `Catalog View` and the `Catalog Presenter`. This is how I dealt with the abstract _View Catalog_ use case... ...those views and presenters will be coded into abstract classes within those components, and the inheriting components will contain view and presenter classes that will inherit from those abstract classes.
+
+![Figure 33.2 A preliminary component architecture](./figure33.2.jpg)
+
+Figure 33.2 A preliminary component architecture
+
+Would I really break the system up into all these components, and deliver them as `.jar` or `.dll` files? Yes and no. I would certainly break the compile and build environment up this way, so that I _could_ build independent deliverables like that. I would also reserve the right to combine all those deliverables into a smaller number of deliverables if necessary. 
+
+Given the partitioning in Figure 33.2, it would be easy to combine them into five `.jar` files—one for views, presenters, interactors, controllers, and utilities, respectively. I could then independently deploy the components that are most likely to change independently of each other.
+
+Another possible grouping... ...views and presenters together into the same `.jar` file, and... ...interactors, controllers, and utilities in their own `.jar` file. Still another... ...more primitive... ...two `.jar` files, with views and presenters in one file, and everything else in the other.
+
+Keeping these options open will allow us to adapt the way we deploy the system based on how the system changes over time.
 
 ### Dependency Management
 
+The flow of control in Figure 33.2 proceeds from right to left. Input occurs at the controllers, and that input is processed into a result by the interactors. The presenters then format the results, and the views display those presentations.
+
+The arrows do not all flow from the right to the left... ...most of them point from left to right. This is because the architecture is following the _Dependency Rule._ All dependencies cross the boundary lines in one direction, and they always point toward the components containing the higher-level policy.
+
+The _using_ relationships (open arrows) point _with_ the flow of control, and that the _inheritance_ relationships (closed arrows) point _against_ the flow of control. This depicts our use of the Open–Closed Principle to make sure that the dependencies flow in the right direction, and that changes to low-level details do not ripple upward to affect high-level policies.
+
 ### Conclusion
+
+The architecture diagram in Figure 33.2 includes two dimensions of separation. The first is the separation of actors based on the Single Responsibility Principle; the second is the Dependency Rule. The goal of both is to separate components that change for different reasons, and at different rates. The different reasons correspond to the actors; the different rates correspond to the different levels of policy.
+
+Once you have structured the code this way, you can mix and match how you want to actually deploy the system. You can group the components into deployable deliverables in any way that makes sense, and easily change that grouping when conditions change.
 
 ## Chapter 34 The Missing Chapter
 
