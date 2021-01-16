@@ -2561,11 +2561,43 @@ The data is significant. The database is a detail.
 
 ## Chapter 31 The Web Is a Detail
 
+The...series of oscillations that our industry has gone through since the 1960s... ...move back and forth between putting all the computer power in central servers and putting all computer power out at the terminals.
+
+Oscillations... ...since the web became prominent. At first we thought all the computer power would be in server farms, and the browsers would be stupid. Then we started putting applets in the browsers. But we didn’t like that, so we moved dynamic content back to the servers. But then we didn’t like that, so we invented Web 2.0 and moved lots of processing back into the browser with Ajax and JavaScript. We went so far as to create whole huge applications written to execute in the browsers. And now we’re all excited about pulling that JavaScript back into the server with Node. (Sigh.)
+
 ### The Endless Pendulum
+
+We can’t seem to figure out where we want the computer power. We go back and forth between centralizing it and distributing it. And, I imagine, those oscillations will continue for some time to come.
+
+The web was simply one of many oscillations in a struggle that began before most of us were born and will continue well after most of us have retired.
+
+As architects, though, we have to look at the long term. Those oscillations are just short-term issues that we want to push away from the central core of our business rules.
+
+I certainly would have lobbied very hard to isolate the business rules from the GUI, because you never know what the marketing geniuses will do next.
+
+I do hope the architects at A, and the architects of the apps, keep their UI and business rules isolated from each other, because there are always marketing geniuses out there just waiting to pounce on the next little bit of coupling you create.
 
 ### The Upshot
 
+The GUI is a detail. The web is a GUI. So the web is a detail.
+
+Put details... ...behind boundaries that keep them separate from your core business logic.
+
+_The WEB is an IO device._ In the 1960s, we learned the value of writing applications that were device independent... ...The web is not an exception to that rule. Or is it? The argument can be made that a GUI, like the web, is so unique and rich that it is absurd to pursue a device-independent architecture. When you think about the intricacies of JavaScript... ...or any of the plethora of widgets and gadgets you can put on a web page, it’s easy to argue that device independence is impractical. To some extent, this is true. The interaction between the application and the GUI is “chatty” in ways that are quite specific to the kind of GUI you have.
+
+The interaction between the application and the GUI is “chatty” in ways that are quite specific to the kind of GUI you have.
+
+The dance between a browser and a web application is different from the dance between a desktop GUI and its application.
+
+Each use case can be described based on the input data, the processing preformed, and the output data.
+
+At some point in the dance between the UI and the application, the input data can be said to be complete, allowing the use case to be executed. Upon completion, the resultant data can be fed back into the dance between the UI and the application.
+
+The complete input data and the resultant output data can be placed into data structures and used as the input values and output values for a process that executes the use case. With this approach, we can consider each use case to be operating the IO device of the UI in a device-independent manner.
+
 ### Conclusion
+
+This kind of abstraction is not easy,... ...But it is possible... ...But it is possible. And since the world is full of marketing geniuses, it’s not hard to make the case that it’s often very necessary.
 
 ## Chapter 32 Frameworks Are Details
 
