@@ -2535,13 +2535,29 @@ To mitigate the time delay imposed by disks... ...you need a data access and man
 
 ### What If There Were No Disk?
 
+Disks... ...are being replaced by RAM... ...how will you organize that data?... ...into linked lists, trees, hash tables, stacks, queues, or any of the other myriad data structures, and you’ll access it using pointers or references—because _that’s what programmers do._
+
 ### Details
+
+The database is a detail. It’s just a mechanism we use to move the data back and forth between the surface of the disk and RAM.
+
+From an architectural viewpoint, we should not care about the form that the data takes while it is on the... ...disk. Indeed, we should not acknowledge that the disk exists at all.
 
 ### But What about Performance?
 
+Isn’t performance an architectural concern?... ...when it comes to data storage, it’s a concern that can be entirely encapsulated and separated from the business rules.
+
 ### Anecdote
 
+The database vendors at the time... ...had managed to convince high-level executives that their corporate “data assets” needed protection, and that the database systems they offered were the ideal means of providing that protection.
+
+The word “enterprise” and the notion of “Service-Oriented Architecture” have much more to do with marketing than with reality.
+
 ### Conclusion
+
+The organizational structure of data, the data model, is architecturally significant. The technologies and systems that move data on and off a rotating magnetic surface are not.
+
+The data is significant. The database is a detail.
 
 ## Chapter 31 The Web Is a Detail
 
