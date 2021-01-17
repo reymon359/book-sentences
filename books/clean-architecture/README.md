@@ -2877,13 +2877,34 @@ You could create an `Orders` module where all of the types are marked as `public
 Another option is to decouple your dependencies at the source code level, by splitting code across _different source code trees._
 
 Ports and adapters example,... ...three source code trees:
-- The source code for the business and domain (i.e., everything that is independent of technology and framework choices): OrdersService, OrdersServiceImpl, and Orders
-- The source code for the web: OrdersController
-- The source code for the data persistence: JdbcOrdersRepository
+- The source code for the business and domain (i.e., everything that is independent of technology and framework choices): `OrdersService`, `OrdersServiceImpl`, and `Orders`
+- The source code for the web: `OrdersController`
+- The source code for the data persistence: `JdbcOrdersRepository`
 
+The latter two source code trees have a compile-time dependency on the business and domain code, which itself doesn’t know anything about the web or the data persistence code. From an implementation perspective, you can do this by configuring separate modules or projects in your build tool.
 
+This is very much an idealistic solution, though, because there are real-world performance, complexity, and maintenance issues associated with breaking up your source code in this way.
+
+A simpler approach... ...for ports and adapters code is to have just two source code trees:
+- Domain code (the “inside”)
+- Infrastructure code (the “outside”)
+This maps on nicely to the diagram (Figure 34.9) that many people use to summarize the ports and adapters architecture, and there is a compile-time dependency from the infrastructure to the domain.
+
+![Figure 34.9 Domain and infrastructure code](./figure34.9.jpg)
+
+Figure 34.9 Domain and infrastructure code
+
+The “Périphérique anti-pattern of ports and adapters.”... ...Having all of your infrastructure code in a single source code tree means that it’s potentially possible for infrastructure code in one area of your application (e.g., a web controller) to directly call code in another area of your application (e.g., a database repository), without navigating through the domain. This is especially true if you’ve forgotten to apply appropriate access modifiers to that code.
 
 ### Conclusion: The Missing Advice
+
+Your best design intentions can be destroyed in a flash if you don’t consider the intricacies of the implementation strategy.
+
+Think about how to map your desired design on to code structures, how to organize that code, and which decoupling modes to apply during runtime and compile-time. 
+
+Leave options open where applicable, but be pragmatic, and take into consideration the size of your team, their skill level, and the complexity of the solution in conjunction with your time and budgetary constraints.
+
+The devil is in the implementation details.
 
 ## Afterword
 
