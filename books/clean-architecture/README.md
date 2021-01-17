@@ -2870,7 +2870,18 @@ To be absolutely clear, what I’ve described here relates to a monolithic appli
 
 ### Other Decoupling Modes
 
-Other ways that you can decouple your source code dependencies... ...
+Other ways that you can decouple your source code dependencies... ...module frameworks like OSGi and the new Java 9 module system... ...you can make a distinction between types that are `public` and types that are _published._
+
+You could create an `Orders` module where all of the types are marked as `public`, but publish only a small subset of those types for external consumption.
+
+Another option is to decouple your dependencies at the source code level, by splitting code across _different source code trees._
+
+Ports and adapters example,... ...three source code trees:
+- The source code for the business and domain (i.e., everything that is independent of technology and framework choices): OrdersService, OrdersServiceImpl, and Orders
+- The source code for the web: OrdersController
+- The source code for the data persistence: JdbcOrdersRepository
+
+
 
 ### Conclusion: The Missing Advice
 
