@@ -2,7 +2,7 @@
 
 <h1 align="center">Clean Architecture. A Craftsman's Guide to Software Structure and Design.</h1>
 
-<h3 align="center">Robert Martin - 2017</h3> 
+<h3 align="center">Robert C. Martin - 2017</h3> 
 
 ## Table of Contents
 
@@ -2721,17 +2721,156 @@ Imagine... ...an online book store,... ...customers being able to view the statu
 
 ### Package by Layer
 
+Traditional horizontal layered architecture, where we separate our code based on what it does from a technical perspective.
+
+Typical layered architecture,... ...one layer for the web code, one layer for our “business logic,” and one layer for persistence.
+
+In Figure 34.1, all of the dependencies between layers (packages) point downward.
+
+- `OrdersController`: A web controller,
+- `OrdersService`: An interface that defines the “business logic” related to orders.
+- `OrdersServiceImpl`: The implementation of the orders service.
+- `OrdersRepository`: An interface that defines how we get access to persistent order information.
+- `dbcOrdersRepository`: An implementation of the repository interface.
+
+![Figure 34.1 Package by layer](./figure34.1.jpg)
+
+Figure 34.1 Package by layer
+
+In “Presentation Domain Data Layering,” Martin Fowler says that adopting such a layered architecture is a good way to get started. He’s not alone.
+
+The problem, as Martin points out, is that once your software grows in scale and complexity, you will quickly find that having three large buckets of code isn’t sufficient, and you will need to think about modularizing further.
+
+Another problem is that, as Uncle Bob has already said, a layered architecture doesn’t scream anything about the business domain.
+
 ### Package by Feature
+
+Vertical slicing, based on related features, domain concepts, or aggregate roots.
+
+With this approach, as shown in Figure 34.2, we have the same interfaces and classes as before, but they are all placed into a single Java package rather than being split among three packages.
+
+This is a very simple refactoring from the “package by layer” style, but the top-level organization of the code now screams something about the business domain. We can now see that this code base has something to do with orders rather than the web, services, and repositories.
+
+Another benefit is that it’s potentially easier to find all of the code that you need to modify... ...It’s all sitting in a single package rather than being spread out.
+
+![Figure 34.2 Package by feature](./figure34.2.jpg)
+
+Figure 34.2 Package by feature
 
 ### Ports and Adapters
 
+Approaches such as “ports and adapters,” the “hexagonal architecture,” “boundaries, controllers, entities,” and so on aim to create architectures where business/domain-focused code is independent and separate from the technical implementation details such as frameworks and databases.
+
+Such code bases being composed of an “inside” (domain) and an “outside” (infrastructure), as suggested in Figure 34.3.
+
+![Figure 34.3 A code base with an inside and an outside](./figure34.3.jpg)
+
+Figure 34.3 A code base with an inside and an outside
+
+The “inside” region contains all of the domain concepts, whereas the “outside” region contains the interactions with the outside world.
+
+The “outside” depends on the “inside”—never the other way around.
+
+Figure 34.4... ...how the “view orders” use case might be implemented. The `com.mycompany.myapp.domain` package here is the “inside,” and the other packages are the “outside.”... ...the dependencies flow toward the “inside.”.
+
+The `OrdersRepository` from previous diagrams has been renamed to simply be `Orders`. This comes from the world of domain-driven design, where the advice is that the naming of everything on the “inside” should be stated in terms of the “ubiquitous domain language.”... ...we talk about “orders” when we’re having a discussion about the domain, not the “orders repository.”
+
+![Figure 34.4 View orders use case](./figure34.4.jpg)
+
+Figure 34.4 View orders use case
+
 ### Package by Component
+
+Although I agree wholeheartedly with the discussions about SOLID, REP, CCP, and CRP and most of the advice in this book, I come to a slightly different conclusion about how to organize code. So I’m going to present another option here, which I call “package by component.”... ...I’ve spent most of my career building enterprise software,... ...Although the technologies differed, the common theme was that the architecture for most of these software systems was based on a traditional layered architecture... ...to separate code that has the same sort of function. Web stuff is separated from business logic, which is in turn separated from data access... ...From a code accessibility perspective, for the `OrdersController` to be able to have a dependency on the `OrdersService` interface, the `OrdersService` interface needs to be marked as `public`, because they are in different packages. Likewise, the `OrdersRepository` interface needs to be marked as `public` so that it can be seen outside of the repository package, by the `OrdersServiceImpl` class.
+
+ In a strict layered architecture, the dependency arrows should always point downward, with layers depending only on the next adjacent lower layer... ...creating a nice, clean, acyclic dependency graph, which is achieved by introducing some rules about how elements in a code base should depend on each other. The big problem here is that we can cheat by introducing some undesirable dependencies, yet still create a nice, acyclic dependency graph.
+
+Figure 34.5. The dependency arrows still point downward, but the `OrdersController` is now additionally bypassing the `OrdersService` for some use cases. This organization is often called a _relaxed layered architecture,_ as layers are allowed to skip around their adjacent neighbor(s). 
+
+In some situations, this is the intended outcome—if you’re trying to follow the CQRS pattern, for example.
+
+In many other cases, bypassing the business logic layer is undesirable, especially if that business logic is responsible for ensuring authorized access to individual records, for example.
+
+![Figure 34.5 Relaxed layered architecture](./figure34.5.jpg)
+
+Figure 34.5 Relaxed layered architecture
+
+We need here a guideline—an architectural principle—that says something like, “Web controllers should never access repositories directly.”
+
+Many teams I’ve met... ...enforce this principle through good discipline and code reviews,... ...but we all know what happens when budgets and deadlines start looming ever closer.
+
+If left unchecked, this practice can turn a code base into a “big ball of mud.”
+
+Use the compiler to enforce my architecture if at all possible.
+
+The “package by component” It’s a hybrid approach to everything we’ve seen so far, with the goal of bundling all of the responsibilities related to a single coarse-grained component into a single Java package.
+
+Taking a service-centric view of a software system, which is something we’re seeing with micro-service architectures as well. In the same way that ports and adapters treat the web as just another delivery mechanism, “package by component” keeps the user interface separate from these coarse- grained components.
+
+This approach bundles up the “business logic” and persistence code into a single thing, which I’m calling a “component.”
+
+> Components are the units of deployment. They are the smallest entities that can be deployed as part of a system. In Java, they are jar files.
+> — Robert C. Martin
+
+![Figure 34.6 View orders use case](./figure34.6.jpg)
+
+Figure 34.6 View orders use case
+
+My definition of a component is slightly different: “A grouping of related functionality behind a nice clean interface, which resides inside an execution environment like an application.”
+
+“C4 software architecture model,"... ...a simple hierarchical way to think about the static structures of a software system in terms of containers, components, and classes (or code).
+
+A key benefit of the “package by component” approach is that if you’re writing code that needs to do something with `orders`, there’s just one place to go—the `OrdersComponent`. Inside the component, the separation of concerns is still maintained, so the business logic is separate from data persistence, but that’s a component implementation detail that consumers don’t need to know about.
+
+You can think of well-defined components in a monolithic application as being a stepping stone to a micro- services architecture.
 
 ### The Devil Is in the Implementation Details
 
+The four approaches... ...look like different ways to organize code and could be considered different architectural styles. This perception starts to unravel very quickly if you get the implementation details wrong.
+
+Something I see on a regular basis is an overly liberal use of the `public` access modifier in languages such as Java... ...developers, instinctively use the `public` keyword without thinking... ...regardless of which architectural style a code base is aiming to adopt.
+
+Marking all of your types as `public` means you’re not taking advantage of the facilities that your programming language provides with regard to encapsulation.
+
 ### Organization versus Encapsulation
 
+If you make all types in your Java application `public`, the packages are simply an organization mechanism (a grouping, like folders), rather than being used for encapsulation... ...the Java packages become an irrelevant detail if all of the types are marked as `public`... ...all four architectural approaches presented earlier in this chapter are exactly the same when we overuse this designation (Figure 34.7).
+
+The arrows between each of the types in Figure 34.7:... ...identical regardless of which architectural approach you’re trying to adopt.
+
+When you make all of the types `public`, what you really have are just four ways to describe a traditional horizontally layered architecture.
+
+Nobody would ever make all of their Java types `public`. Except when they do. And I’ve seen it.
+
+The access modifiers in Java are not perfect, but ignoring them is just asking for trouble. The way Java types are placed into packages can actually make a huge difference to how accessible (or inaccessible) those types can be when Java’s access modifiers are applied appropriately.
+
+If I bring the packages back and mark... ...those types where the access modifier can be made more restrictive,... ...(Figure 34.8).
+
+![Figure 34.7 All four architectural approaches are the same](./figure34.7.jpg)
+
+Figure 34.7 All four architectural approaches are the same
+
+In the “package by layer” approach, the `OrdersService` and `OrdersRepository` interfaces need to be `public`, because they have inbound dependencies from classes outside of their defining package. In contrast, the implementation classes (`OrdersServiceImpl` and `JdbcOrdersRepository`) can be made more restrictive (package protected). Nobody needs to know about them; they are an implementation detail.
+
+In the “package by feature” approach, the `OrdersController` provides the sole entry point into the package, so everything else can be made package protected.
+
+Nothing else in the code base,... ...can access information related to orders unless they go through the controller. This may or may not be desirable.
+
+In the ports and adapters approach, the `OrdersService` and `Orders` interfaces have inbound dependencies from other packages, so they need to be made `public`.
+
+![Figure 34.8 Grayed-out types are where the access modifier can be made more restrictive](./figure34.8.jpg)
+
+Figure 34.8 Grayed-out types are where the access modifier can be made more restrictive
+
+In the “package by component” approach, the `OrdersComponent` interface has an inbound dependency from the controller, but everything else can be made package protected.
+
+The fewer `public` types you have, the smaller the number of potential dependencies.
+
+To be absolutely clear, what I’ve described here relates to a monolithic application, where all of the code resides in a single source code tree. If you are building such an application... ...I would certainly encourage you to lean on the compiler to enforce your architectural principles, rather than relying on self-discipline and post-compilation tooling.
+
 ### Other Decoupling Modes
+
+Other ways that you can decouple your source code dependencies... ...
 
 ### Conclusion: The Missing Advice
 
