@@ -2908,6 +2908,48 @@ The devil is in the implementation details.
 
 ## Afterword
 
+My professional career as a software developer began in the 1990s,... ...To get ahead, you had to learn about objects and components, about design patterns, and about the Unified Modeling Language (and its precursors).
+
+Projects... ...started with long design phases, where detailed blueprints for our systems were laid out by “senior” programmers for more “junior” programmers to follow. Which, of course, they didn’t. Ever.
+
+Every line of code contains at least one design decision, and therefore anyone who writes code has a much greater impact on the quality of the software than a PowerPoint jockey like me ever could.
+
+I’m a programmer. I like programming. And the best way I’ve found to have a positive impact on code is to write it.
+
+The dinosaurs of Big Architecture... ...were wiped out by the asteroid of Extreme Programming... ...and small, nimble Just-Enough-Design-Up-Front-with-Plenty-of-Refactoring mammals replaced us. Software architecture became responsive. Well, that was the theory, anyway.
+
+The problem with leaving architecture to programmers is that programmers have to be able to think like architects.
+
+The way that software is structured can have a profound impact on our ability to keep adapting and evolving it, even in the short term.
+
+Every design decision needs to leave the door open for future changes.
+
+Like playing pool, each shot isn’t just about sinking that ball; it’s also about lining up the next shot.
+
+Writing working code that doesn’t block future code is a non-trivial skillset. It takes years to master.
+
+New era of Fragile Architecture: designs that grew quickly to deliver value sooner, but that made sustaining that pace of innovation very difficult.
+
+It’s all very well talking about “embracing change,” but if it costs $500 to change a line of code, change ain’t happening.
+
+You’ve seen how it’s possible to write code that delivers value today without blocking future value tomorrow; the onus is on you to put in the practice so you can apply these principles to your own code.
+
+To get the best from a book like this, you need to get practical.
+
+Analyze your code and look for the kinds of problems Bob highlights, then practice refactoring the code to fix these problems.
+
+Incorporate design principles and Clean Architecture into your development processes, so that new code is less likely to cause pain.
+
+If you’re doing TDD, make a point of having a little design review after passing each test, and clean up as you go. (It’s way cheaper than fixing bad designs later.)
+
+Talk about Clean Architecture... ...with your team... ...with the wider developer community. Quality is everybody’s business, and it’s important to reach a consensus about the difference between good and bad architecture.
+
+Be mindful that most software developers are not very architecture-aware,... ...Once you’ve wrapped your head around Clean Architecture, take the time to wrap someone else’s head around it. Pay it forward.
+
+While the technology landscape for developers evolves continuously, foundational principles like the ones described here rarely change.
+
+The real journey starts here.
+
 ## PART VII Appendix
 
 ## Appendix A Architecture Archaeology
