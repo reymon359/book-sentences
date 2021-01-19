@@ -2954,4 +2954,67 @@ The real journey starts here.
 
 ## Appendix A Architecture Archaeology
 
-## Index
+45-year journey through some of the projects I have worked on since 1970. Some... ...are interesting from an architectural point of view. Others... ...because of the lessons learned and because of how they fed into subsequent projects.
+
+### Union Accounting System
+
+These computers did not come with operating systems. They didn’t even come with file systems. What you got was an assembler. If you needed to store data on the disk, you stored data on the disk. Not in a file. Not in a directory. You figured out which track, platter, and sector to put the data into, and then you operated the disk to put the data there. Yes, that means we wrote our own disk driver.
+
+We created an overlay system. Applications would be loaded from disk into a block of memory dedicated to overlays... ...Of course, when your UI runs at 30 characters per second, your programs spend a lot of time waiting. We had plenty of time to swap the programs in and off the disk to keep all of the terminals running as fast as they could go... ...We wrote a preemptive supervisor that managed the interrupts and IO. We wrote the applications; we wrote the disk drivers, the terminal drivers, the tape drivers, and everything else in that system. There was not a single bit in that system that we did not write. Though it was a struggle involving far too many 80-hour weeks, we got the beast up and running in a matter of 8 or 9 months.
+
+### Laser Trim
+
+Our product was a system that used relatively high-powered lasers to trim electronic components to very fine tolerances... ...The system would measure the resistance of the resistors, and then use a laser to burn off parts of the resistor, making it thinner and thinner until it reached the desired resistance value within a tenth of a percent or so.
+
+The computer was an M365. This was in the days when many companies built their own computers: Teradyne built the M365 and supplied it to all its divisions. The M365 was an enhanced version of a PDP-8—a popular minicomputer of the day.
+
+The operating system would prompt the user for the name of a program to run. Those programs were stored on the tape, just after the operating system.
+
+The console was an ASCII CRT with green phosphors, 72 characters wide5 by 24 lines. The characters were all uppercase.
+
+To edit a program, you would load the ED-402 Editor, and then insert the tape that held your source code. You would read one tape block of that source code into memory, and it would be displayed on the screen. The tape block might hold 50 lines of code. You would make your edits by moving the cursor around on the screen and typing in a manner similar to `vi`. When you were done, you would write that block onto a different tape, and read the next block from the source tape. You kept on doing this until you were done.
+
+We printed our programs out on paper, marked all the edits by hand in red ink, and then edited our programs block by block by consulting our markups on the listing.
+
+Our program was approximately 20,000 lines of code, and took nearly 30 minutes to compile.
+
+The architecture of the program was typical for those days. There was a Master Operating Program, appropriately called “the MOP." Its job was to manage basic IO functions and provide the rudiments of a console "shell."
+
+A special-purpose utility layer controlled the measurement hardware... ...The boundary between this layer and the MOP was muddled at best... ...To us, it was just some code that we added to the MOP in a highly coupled way.
+
+Next came the isolation layer. This layer provided a virtual machine interface for the application programs, which were written in a completely different domain-specific data-driven language (DSL)... ...Our customers would write their laser trimming application programs in this language, and the isolation layer would execute them.
+
+The boundaries in this application were soft at best... ...There were couplings everywhere. But that was typical of software in the early 1970s.
+
+### Aluminum Die-Cast Monitoring
+
+I began working at Outboard Marine Corporation (OMC)... ...OMC maintained a huge facility in Waukegan, Illinois, for creating die-cast aluminum parts for all of the company’s motors and products... ...OMC had purchased an IBM System/7—which was IBM’s answer to the minicomputer. They tied this computer to all the die-cast machines on the floor, so that we could count, and time, the cycles of each machine. Our role was to gather all that information and present it on 3270 green-screen displays.
+
+The language was assembler. And, again, every bit of code that executed in this computer was code that we wrote. There was no operating system, no subroutine libraries, and no framework. It was just raw code.
+
+From an architectural point of view, there’s not a lot to learn here except for one thing. The System/7 had a very interesting instruction called _set program interrupt_ (`SPI`). This allowed you to trigger an interrupt of the processor, allowing it to handle any other queued lower-priority interrupts. Nowadays, in Java we call this `Thread.yield()`.
+
+### 4-TEL
+
+In October 1976, having been fired from OMC, I returned to a different division of Teradyne—a division I would stay with for 12 years. The product I worked on was named 4-TEL. Its purpose was to test every telephone line in a telephone service area, every night, and produce a report of all lines requiring repair.
+
+At first, the COLT computers did everything, including all the console communication, menus, and reports. The SAC was just a simple multiplexor that took the output from the COLTs and put it on a screen. The problem with this setup was that 30 cps is really slow. The testers didn’t like watching the characters trickle across the screen, especially since they were only interested in a few key bits of data. Also, in those days, the core memory in the M365 was expensive, and the program was big. The solution was to separate the part of the software that dialed and measured lines from the part that analyzed the results and printed the reports. The latter would be moved into the SAC, and the former would remain behind in the COLTs. This would allow the COLT to be a smaller machine, with much less memory, and would greatly speed up the response at the terminal, since the reports would be generated in the SAC.
+
+So we embarked upon a project to replace the M365 with a microcomputer based on an 8085 μprocessor... ...My buddy CK and I translated the M365 assembly language program for the COLT into 8085 assembly language. This translation was done by hand and took us about 6 months. The end result was approximately 30K of 8085 code.
+
+The 30K program was a single binary, 30K long. To burn the chips, we simply divided that binary image into 30 different 1K segments, and burned each segment onto the appropriately labeled chip. This worked very well, and we began to mass-produce the hardware and deploy the system into the field. But software is soft. Features needed to be added. Bugs needed to be fixed. And as the installed base grew, the logistics of updating the software by burning 30 chips per installation, and having field service people replace all 30 chips at each site became a nightmare.
+
+We needed a way to make a change to the firmware without replacing all 30 chips every time. We brainstormed this issue for a while, and then embarked upon the “Vectorization” project. It took me three months. The idea was beautifully simple. We divided the 30K program into 32 independently compilable source files, each less than 1K. At the beginning of each source file, we told the compiler in which address to load the resulting program... ...Also at the beginning of each source file, we created a simple, fixed-size data structure that contained all the addresses of all the subroutines on that chip... ...Next, we created a special area in RAM known as the vectors. It contained 32 tables of 40 bytes—exactly enough RAM to hold the pointers at the start of each chip. Finally, we changed every call to every subroutine on every chip into an indirect call through the appropriate RAM vector. When our processor booted, it would scan each chip and load the vector table at the start of each chip into the RAM vectors. Then it would jump into the main program. This worked very well. Now, when we fixed a bug, or added a feature, we could simply recompile one or two chips, and send just those chips to the field service engineers. We had made the chips _independently deployable._ We had invented polymorphic dispatch. We had invented objects. This was a plugin architecture, quite literally. We plugged those chips in.
+
+One unexpected side benefit of the approach was that we could patch the firmware over a dial-up connection... ...This was a great boon to our field service operation, and to our customers. If they had a problem, they didn’t need us to ship new chips and schedule an urgent field service call. The system could be patched, and a new chip could be installed at the next regularly scheduled maintenance visit.
+
+### The Service Area Computer
+
+#### Dispatch Determination
+
+One of the economic foundations for this system was based on the correct allocation of repair craftsmen. When a customer complained about a problem, our system could diagnose that problem and determine which kind of craftsman to dispatch. This saved the phone companies lots of money because incorrect dispatches meant delays for the customer and wasted trips for the craftsmen.
+
+
+
+
+
