@@ -3042,4 +3042,41 @@ Many of the hard lessons of my software life were learned while immersed in the 
 
 Our lead _hardware_ engineer convinced our CEO that we needed a _real_ computer... ...When the manuals arrived, many months before the delivery of the machine, I took them home and devoured them... ...I helped to write the purchase order... ...When the machine arrived, I spent several days setting it up, wiring all the terminals, and getting everything to work. It was a joy—a labor of love... ...We built a cross- compilation system that allowed us to download compiled binaries from the PDP-11 to our 8085 development environments, and ROM burners. And—Bob’s your Uncle—it all worked like a champ.
 
+#### C
+
+The problem of still using 8085 assembler... ...I had heard that there was this “new” language that was heavily used at Bell Labs. They called it “C.” So I purchased a copy of _The C Programming Language_ by Kernighan and Ritchie... ...I _inhaled_ this book... ...It sacrificed none of the power of assembly language, and provided access to that power with a much more convenient syntax. I was sold... ...Now the only problem was convincing a group of embedded assembly language programmers that they should be using C.
+
+### BOSS
+
+we needed a simple task switcher for the 8085. So I conceived of BOSS: Basic Operating System and Scheduler. The vast majority of BOSS was written in C. It provided the ability to create concurrent tasks.
+
+It was a simple, nonpreemptive task switcher. This software became the basis for a vast number of projects over the following years.
+
+### pCCU
+
+The late 1970s and early 1980s were a tumultuous time for telephone companies. One of the sources of that tumult was the digital revolution... ...the phone companies embarked upon the process of replacing their old analog central switching equipment with modern digital switches... ...We promised the phone companies that we would have this new architecture working in time for their transition. We knew they were months, if not years away, so we did not feel rushed.
+
+#### The Schedule Trap
+
+As time went on, we found that there were always urgent matters that required us to postpone development of the CCU/CMU architecture. We felt safe about this decision because the phone companies were consistently delaying the deployment of digital switches... ...Then came the day that my boss called me into his office and said: _“One of our customers is deploying a digital switch next month. We have to have a working CCU/CMU by then.”_... ...as my boss explained to me, we did not actually need a CCU/CMU. What we needed was a simple computer at the central office connected by modem lines to two standard COLTs at the distribution points... ...Thus was born the pCCU. This was the first product written in C and using BOSS that was deployed to a customer. It took me about a week to develop. There is no deep architectural significance to this tale, but it makes a nice preface to the next project.
+
+### DLU/DRU
+
+We had remote terminal capability, but it was based on modems, and in the early 1980s modems were generally limited to 300 bits per second. Our customers were not happy with that slow speed. High-speed modems were available, but they were very expensive... ...Our customers demanded a solution. Our response was DLU/DRU. DLU/DRU stood for “Display Local Unit” and “Display Remote Unit.” The DLU was a computer board that plugged into the SAC computer chassis and pretended to be a terminal manager board... ...We even had to invent our own communications protocol because, in those days, standard communications protocols were not open source shareware. Indeed, this was long before we had any kind of Internet connection.
+
+#### Architecture
+
+The architecture of this system was very simple, but there are some interesting quirks I want to highlight. First, both units used our 8085 technology, and both were written in C and used BOSS. But that’s where the similarity ended... ...The architecture of the DLU was based on a dataflow model. Each task did a small and focused job, and then passed its output to the next task in line, using a queue. Think of a pipes and filters model in UNIX. The architecture was intricate. One task might feed a queue that many others would service. Other tasks would feed a queue that just one task would service. Think of an assembly line. Each position on the assembly line has a single, simple, highly focused job to perform. Then the product moves to the next position in line. Sometimes the assembly line splits into many lines. Sometimes those lines merge back into a single line. That was the DLU... ...DRU used a remarkably different scheme. He created one task per terminal, and simply did the entire job for that terminal in that task. No queues. No data flow. Just many identical large tasks, each managing its own terminal.This is the opposite of an assembly line. In this case the analogy is many expert builders, each of whom builds an entire product... ...In the end, of course, both worked quite well. And I was left with the realization that software architectures can be wildly different, yet equally effective.
+
+### VRS
+
+As the 1980s progressed, newer and newer technologies appeared. One of those technologies was the computer control of _voice._ One of the features of the 4-Tel system was the ability of the craftsman to locate a fault in a cable. The procedure was as follows:
+- The tester, in the central office, would use our system to determine the approximate distance, in feet, to the fault.
+- The cable repair craftsman, upon arrival, would call the tester and ask to begin the fault location process.
+- The tester would tell the craftsman which operations the system wanted, and the craftsman would tell the tester when the operation was complete.
+- After two or three such interactions, the system would calculate a new distance to the fault. The cable craftsman would then drive to that location and begin the process again.
+Imagine how much better that would be if the cable craftsmen, up on the pole or standing at a pedestal, could operate the system themselves. And that is exactly what the new voice technologies allowed us to do. The cable craftsmen could call directly into our system, direct the system with touch tones, and listen to the results being read back to them in a pleasant voice.
+
+
+
 
