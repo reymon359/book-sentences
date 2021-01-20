@@ -3012,9 +3012,34 @@ One unexpected side benefit of the approach was that we could patch the firmware
 
 #### Dispatch Determination
 
-One of the economic foundations for this system was based on the correct allocation of repair craftsmen. When a customer complained about a problem, our system could diagnose that problem and determine which kind of craftsman to dispatch. This saved the phone companies lots of money because incorrect dispatches meant delays for the customer and wasted trips for the craftsmen.
+One of the economic foundations for this system was based on the correct allocation of repair craftsmen... ...When a customer complained about a problem, our system could diagnose that problem and determine which kind of craftsman to dispatch. This saved the phone companies lots of money because incorrect dispatches meant delays for the customer and wasted trips for the craftsmen.
 
+The code that made this dispatch determination was designed and written by someone who was very bright, but a terrible communicator. The process of writing the code has been described as “Three weeks of staring at the ceiling and two days of code pouring out of every orifice of his body—after which he quit."
 
+In the end, our management simply told us to lock that code down and never modify it. That code became _officially rigid._ This experience impressed upon me the value of good, clean code.
 
+#### Architecture
+
+There was no isolation of device control logic, or UI logic, from the business rules of the system. For example, modem control code could be found smeared throughout the bulk of the business rules and UI code. There was no attempt to gather it into a module or abstract the interface. The modems were controlled, at the bit level, by code that was scattered everywhere around the system. The same was true for the terminal UI. Messages and formatting control code were not isolated. They ranged far and wide throughout the 60,000-line code base.
+
+When we got the new modem, the control structured was entirely different... ...we were mixing old and new modems in our systems. The software needed to be able to handle both kinds of modems at the same time. Were we doomed to surround every place in the code that manipulated the modems with flags and special cases? There were hundreds of such places! In the end, we opted for an even worse solution. One particular subroutine wrote data to the serial communication bus that was used to control all our devices, including our modems. We modified that subroutine to recognize the bit patterns that were specific to the old modem, and translate them into the bit patterns needed by the new modem.
+
+It was because of this fiasco that I learned the value of isolating hardware from business rules, and of abstracting interfaces.
+
+#### The Grand Redesign in the Sky
+
+The goal was the total and complete redesign of the SAC in C and UNIX on our own,... ...It took years, then more years, and then even more years... ...I believe I had left the company by then (1988). Indeed, I’m not at all sure it ever was deployed... ...it is very difficult for a redesign team to catch up with a large staff of programmers who are actively maintaining the old system.
+
+#### Europe
+
+At about the same time that the SAC was being redesigned in C, the company started to expand sales into Europe. They could not wait for the redesigned software to be finished, so of course, they deployed the old M365 systems into Europe... ...So one of our best programmers was sent to the United Kingdom to lead a team of U.K. developers to modify the SAC software to deal with all these European issues... ...These U.K. developers simply forked the U.S.-based code and modified it as needed... ...Bugs were found on both sides of the Atlantic that needed repair on the other side. But the modules had changed significantly, so it was very difficult to determine whether the fix made in the United States would work in the United Kingdom... ...a serious attempt was made to integrate these two forks back together again, making the differences a matter of configuration. This effort failed... ...The two code bases, though remarkably similar, were still too different to reintegrate—especially in the rapidly changing market environment that existed at that time.
+
+#### SAC Conclusion
+
+Many of the hard lessons of my software life were learned while immersed in the horrible assembler code of the SAC.
+
+### C Language
+
+Our lead _hardware_ engineer convinced our CEO that we needed a _real_ computer... ...When the manuals arrived, many months before the delivery of the machine, I took them home and devoured them... ...I helped to write the purchase order... ...When the machine arrived, I spent several days setting it up, wiring all the terminals, and getting everything to work. It was a joy—a labor of love... ...We built a cross- compilation system that allowed us to download compiled binaries from the PDP-11 to our 8085 development environments, and ROM burners. And—Bob’s your Uncle—it all worked like a champ.
 
 
