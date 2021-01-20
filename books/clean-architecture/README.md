@@ -3077,6 +3077,40 @@ As the 1980s progressed, newer and newer technologies appeared. One of those tec
 - After two or three such interactions, the system would calculate a new distance to the fault. The cable craftsman would then drive to that location and begin the process again.
 Imagine how much better that would be if the cable craftsmen, up on the pole or standing at a pedestal, could operate the system themselves. And that is exactly what the new voice technologies allowed us to do. The cable craftsmen could call directly into our system, direct the system with touch tones, and listen to the results being read back to them in a pleasant voice.
 
+#### The Name
 
+The company held a little contest to select a name for the new system. One of the most creative of the names suggested was SAM CARP... ...“Still Another Manifestation of Capitalist Avarice Repressing the Proletariat.”... ...Another was the Teradyne Interactive Test System... ...Still another was Service Area Test Access Network... ...The winner, in the end, was VRS: Voice Response System.
 
+#### Architecture
 
+These were the heady days of microcomputers, UNIX operating systems, C, and SQL databases. We were determined to use them all. From the many database vendors out there, we eventually chose UNIFY... ...supported a new technology called _Embedded SQL._ This technology allowed us to embed SQL commands, as strings, right into our C code. And so we did—everywhere.
+
+In those days SQL was hardly a solid standard... ...So the special SQL and special UNIFY API calls were also smeared throughout the code. This worked great! The system was a success. The craftsmen used it, and the telephone companies loved it. Life was all smiles. Then the UNIFY product we were using was cancelled. Oh. Oh. So we decided to switch... ...we had to search through all that C code, find all the embedded SQL and special API calls, and replace them with corresponding gestures for the new vendor. After three months of effort or so, we gave up. We couldn’t make it work. We were so coupled to UNIFY that there was no serious hope of restructuring the code at any practical expense. So, we hired a third party to maintain UNIFY for us, based on a maintenance contract. And, of course, the maintenance rates went up year after year after year.
+
+#### VRS Conclusion
+
+Databases are details that should be isolated from the overall business purpose of the system.
+
+I don’t like strongly coupling to third-party software systems.
+
+### The Electronic Receptionist
+
+When you called a company, ER would answer and ask you who you wanted to speak with. You would use touch tones to spell the name of that person, and ER would then connect you. The users of ER could dial in and, by using simple touch-tone commands, tell it which phone number the desired person could be reached at, anywhere in the world. In fact, the system could list several alternate numbers.
+
+When you called ER and dialed RMART (my code), ER would call the first number on my list. If I failed to answer and identify myself, it would call the next number, and the next. If I still wasn’t reached, ER would record a message from the caller. ER would then, periodically, try to find me to deliver that message, and any other message left for me by anyone else. This was the first voice mail system ever, and we held the patent to it. We built all the hardware for this system—the computer board, the memory board, the voice/telecom boards, everything. The main computer board was _Deep Thought,_ the Intel 80286 processor that I mentioned earlier.
+
+The architecture of this system would today be called _service oriented._ Each telephone line was monitored by a listener process running under MP/M. When a call came in, an initial handler process was started and the call was passed to it. As the call proceeded from state to state, the appropriate handler process would be started and take control. Messages were passed between these services through disk files. The currently running service would determine what the next service should be; would write the necessary state information into a disk file; would issue the command line to start that service; and then would exit.
+
+This was the first time I had built a system like this... ...Everything having to do with software was mine—and it worked like a champ... ...The services were independently deployable, and lived within their own domain of responsibility. There were high-level processes and low-level processes, and many of the dependencies ran in the right direction.
+
+#### ER Demise
+
+Unfortunately, the marketing of this product did not go very well. Teradyne was a company that sold test equipment. We did not understand how to break into the office equipment market. After repeated attempts over two years, our CEO gave up.
+
+### Craft Dispatch System
+
+ER had failed as a product, but we still had all this hardware and software that we could use to enhance our existing product lines... ...we should offer a voice response system for interacting with telephone craftsmen that did not depend on our test systems. Thus was born CDS, the Craft Dispatch System... ...When a problem was discovered in a phone line, a trouble ticket was created in the service center. Trouble tickets were kept in an automated system. When a repairman in the field finished a job, he would call the service center for the next assignment. The service center operator would pull up the next trouble ticket and read it off to the repairman. We set about to automate that process. Our goal was for the repairman in the field to call into CDS and ask for the next assignment. CDS would consult the trouble ticket system, and read off the results. CDS would keep track of which repairman was assigned to which trouble ticket, and would inform the trouble ticket system of the status of the repair.
+
+I set about to create what would now be called a _micro-service architecture._ Every state transition of any call, no matter how insignificant, caused the system to start up a new service. Indeed, the state machine was externalized into a text file that the system read. Each event coming into the system from a phone line turned into a transition in that finite state machine. The existing process would start a new process dictated by the state machine to handle that event; then the existing process would either exit or wait on a queue. This externalized state machine allowed us to change the flow of the application without changing any code (the Open-Closed Principle). We could easily add a new service, independently of any of the others, and wire it into the flow by modifying the text file that contained the state machine. We could even do this while the system was running. In other words we had _hot-swapping_ and an effective BPEL (Business Process Execution Language).
+
+On an airplane, flying between customer visits, I invented a scheme that I called FLD: _Field Labeled Data._ Nowadays we would call this XML or JSON. The format was different, but the idea was the same. FLDs were binary trees that associated names with data in a recursive hierarchy. FLDs could be queried by a simple API, and could be translated to and from a convenient string format... ...So, micro-services communicating through shared memory analog of sockets using an XML analog—in 1985. There is nothing new under the Sun.
