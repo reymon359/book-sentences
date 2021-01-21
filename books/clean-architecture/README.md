@@ -3168,3 +3168,23 @@ That database was probably our biggest practical mistake. We wanted the magic, b
 
 Great architectures sometimes lead to great failures. Architecture must be flexible enough to adapt to the size of the problem. Architecting for the enterprise, when all you really need is a cute little desktop tool, is a recipe for failure.
 
+### Architects Registry Exam
+
+In the early 1990s, I became a true consultant... ...My consulting was focused strongly on the design and architecture of object-oriented systems.
+One of my first consulting clients was Educational Testing Service (ETS)... ...to conduct the registration exams for new architect candidates... ...The candidate might be given a set of requirements for a public library, or a restaurant, or a church, and then asked to draw the appropriate architectural diagrams. The results would be collected and saved until such time as a group of senior architects could be gathered together as jurors, to score the submissions. These gatherings were big, expensive events and were the source of much ambiguity and delay.
+
+ETS had broken the problem down into 18 individual test vignettes. Each would require a CAD-like GUI application that the candidate would use to express his or her solution. A separate scoring application would take in the solutions and produce scores.
+
+My partner, Jim Newkirk, and I realized that these 36 applications had vast amounts of similarity... ...were determined to develop a reusable framework... ...Indeed, we sold this idea to ETS by saying that we’d spend a long time working on the first application, but then the rest would just pop out every few weeks. At this point you should be face-palming or banging your head on this book. Those of you who are old enough may remember the “reuse” promise of OO. We were all convinced, back then, that if you just wrote good clean object-oriented C++ code, you would just naturally produce lots and lots of reusable code.
+
+The first application... ...was called Vignette Grande... ...It took us a year... ...We delivered this product to ETS, and they contracted with us to write the other 17 applications post-haste... ...But something went wrong. We found that the reusable framework we had created was not particularly reusable. It did not fit well into the new applications being written... ...We went to ETS and told them that there would be a delay... ...So we began again. We set the old framework aside and began writing four new vignettes simultaneously. We would borrow ideas and code from the old framework but rework them so that they fit into all four without modification. This effort took another year. It produced another 45,000-line framework, plus four vignettes that were on the order of 3000 to 6000 lines each.
+
+The relationship between the GUI applications and the framework followed the Dependency Rule. The vignettes were plugins to the framework. All the high-level GUI policy was in the framework. The vignette code was just glue. The relationship between the scoring applications and the framework was a bit more complex. The high-level scoring policy was in the vignette. The scoring framework plugged into the scoring vignette.
+
+We met our dates and our commitments. Our customer was happy. We were happy. Life was good. But we learned a good lesson: You can’t make a reusable framework until you first make a usable framework. Reusable frameworks require that you build them in concert with _several_ reusing applications.
+
+You can’t make a reusable framework until you first make a usable framework. Reusable frameworks require that you build them in concert with _several_ reusing applications.
+
+### Conclusion
+
+this appendix is somewhat autobiographical... ...I mentioned a few episodes that were not exactly relevant to the technical content of this book, but were significant nonetheless. Of course, this was a partial history. There were many other projects that I worked on over the decades... ...My hope is that you enjoyed this little trip down my memory lane; and that you were able to learn some things along the way.
