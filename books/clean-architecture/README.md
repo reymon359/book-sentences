@@ -3114,3 +3114,32 @@ ER had failed as a product, but we still had all this hardware and software that
 I set about to create what would now be called a _micro-service architecture._ Every state transition of any call, no matter how insignificant, caused the system to start up a new service. Indeed, the state machine was externalized into a text file that the system read. Each event coming into the system from a phone line turned into a transition in that finite state machine. The existing process would start a new process dictated by the state machine to handle that event; then the existing process would either exit or wait on a queue. This externalized state machine allowed us to change the flow of the application without changing any code (the Open-Closed Principle). We could easily add a new service, independently of any of the others, and wire it into the flow by modifying the text file that contained the state machine. We could even do this while the system was running. In other words we had _hot-swapping_ and an effective BPEL (Business Process Execution Language).
 
 On an airplane, flying between customer visits, I invented a scheme that I called FLD: _Field Labeled Data._ Nowadays we would call this XML or JSON. The format was different, but the idea was the same. FLDs were binary trees that associated names with data in a recursive hierarchy. FLDs could be queried by a simple API, and could be translated to and from a convenient string format... ...So, micro-services communicating through shared memory analog of sockets using an XML analog—in 1985. There is nothing new under the Sun.
+
+### Clear Communications
+
+In 1988... ...Our mission was to build the software for a system that would monitor the communications quality of T1 lines—the digital lines that carried long- distance communications across the country. The vision was a huge monitor with a map of the United States crisscrossed by T1 lines flashing red if they were degrading.
+
+Graphical user interfaces were brand new in 1988. The Apple Macintosh was only five years old. Windows was a joke back then. But Sun Microsystems was building Sparcstations that had credible X-Windows GUIs. So we went with Sun—and therefore with C and UNIX.
+
+This was a startup. We worked 70 to 80 hours per week. We had the vision. We had the motivation. We had the will. We had the energy. We had the expertise. We had equity. We had dreams of being millionaires. We were full of shit.
+
+Architecture? Are you joking? This was a startup. We didn’t have time for _architecture._ Just code, dammit! _Code for your very lives!_ So we coded. And we coded. And we coded. But, after three years, what we failed to do was sell. Oh, we had an installation or two. But the market was not particularly interested in our grand vision, and our venture capital financiers were getting pretty fed up. I hated my life at this point.
+
+#### The Setup
+
+Sun released a C++ compiler... ...I left the 3000-line C functions behind, and started to write C++ code at Clear. And I learned ... I read books... ...But perhaps most significantly of all, I read Object Oriented Design with Applications by Grady Booch... ...As I learned, I also began debating on Netnews, the way people now debate on Facebook. My debates were about C++ and OO... ...It was in one of those debates that the foundations of the SOLID principles were laid.
+And all that debating, and perhaps even some of the sense, got me noticed ...
+
+#### Uncle Bob
+
+One of the engineers at Clear... ...gave nicknames to everyone. He called me Uncle Bob... ...he was making an offhand reference to [J. R. “Bob” Dobbs](https://en.wikipedia.org/wiki/J._R._%22Bob%22_Dobbs)
+
+#### The Phone Call
+
+It was a recruiter. He had gotten my name as someone who knew C++ and object-oriented design... ...He said he had an opportunity in Silicon Valley, at a company named Rational. They were looking for help building a CASE tool... ...This was _Grady Booch’s_ company. I saw before me the opportunity to join forces with _Grady Booch!_
+
+### ROSE
+
+
+
+
