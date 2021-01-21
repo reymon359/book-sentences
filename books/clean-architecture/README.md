@@ -3140,6 +3140,31 @@ It was a recruiter. He had gotten my name as someone who knew C++ and object-ori
 
 ### ROSE
 
+A tool that allowed programmers to draw Booch diagrams—the diagrams that Grady had written about in _Object-Oriented Analysis and Design with Applications_ (Figure A.9 shows an example).
 
+![Figure A.9 A Booch diagram](./figureA.9.jpg)
 
+Figure A.9 A Booch diagram
+
+The Booch notation was very powerful. It presaged notations like UML.
+
+We also fell for one of the most unfortunate fads of the day—we used a so-called object-oriented database.
+
+This was one of the most intellectually stimulating experiences of my professional life.
+
+#### The Debates Continued
+
+With Grady’s help, I started working on my first book: _Designing Object-Oriented C++ Applications Using the Booch Method._
+
+No one was calling me “Uncle Bob.”... ...So I made the mistake of putting “Uncle Bob” in my email and Netnews signatures. And the name stuck. Eventually I realized that it was a pretty good brand.
+
+#### ... By Any Other Name
+
+ROSE... ...enforced dependency rule... ...is not the rule that I have described in this book. We did _not_ point our dependencies toward high-level policies. Rather, we pointed our dependencies in the more traditional direction of flow control. The GUI pointed at the representation, which pointed at the manipulation rules, which pointed at the database. In the end, it was this failure to direct our dependencies toward policy that aided the eventual demise of the product.
+
+Object-oriented databases were a relatively new idea, and the OO world was all abuzz with the implications. Every object-oriented programmer wanted to have an object-oriented database in his or her system. The idea was relatively simple, and deeply idealistic. The database stores objects, not tables.
+
+That database was probably our biggest practical mistake. We wanted the magic, but what we got was a big, slow, intrusive, expensive third-party framework that made our lives hell by impeding our progress on just about every level.
+
+Great architectures sometimes lead to great failures. Architecture must be flexible enough to adapt to the size of the problem. Architecting for the enterprise, when all you really need is a cute little desktop tool, is a recipe for failure.
 
