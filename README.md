@@ -9,9 +9,11 @@
 
 ## Description
 
-This project is a collection of my favorite sentences from the books I read. These are not to be taken as summaries from the books, just some random sentences from here and there. 
+This project is a collection of my favorite sentences from the books I read. These are not to be taken as summaries from the books, just some random sentences from here and there. Sometimes more than a few.
 
-It all started some years ago with a Google Keep note and when I reached the characters limit I moved to a Google Doc. Then, while reading the Pragmatic Programmer I thought this project could be a better way to keep and share them. I have read other (not as many as I would have liked) books before these, but I just collected sentences from them. Furthermore, the way I am collecting them is getting more and more detailed as time goes by.
+It all started some years ago with a Google Keep note and when I reached the characters limit I moved to a Google Doc. Then, while reading the Pragmatic Programmer I thought this project could be a better way to keep and share them with people that can find them useful or interesting. I have read other books before these (not as many as I would have liked), however, I just collected sentences from the ones here. 
+
+I refactor and update the way I am collecting them as time goes by to be more detailed or simply adapt to new needs.
 
 ## List of Books
 
