@@ -124,7 +124,37 @@ If you don’t begin taking these steps, you can anticipate living your entire l
 
 It’s your life; do with it what _you_ want.
 
-###
+### Happiness and Your Own I.Q.
+
+Taking charge of yourself involves putting to rest some very prevalent myths.
+
+Intelligence is measured by your ability to solve complex problems... ...This vision of intelligence... ...encourages a kind of intellectual snobbery that has brought with it some demoralizing results.
+
+A truer barometer of intelligence is an effective, happy life lived each day and each present moment of every day.
+
+If you are happy, if you live each moment for everything it’s worth, then you are an intelligent person.
+
+Problem solving is a useful adjunct to your happiness, but if you know that given your inability to resolve a particular concern you can still choose happiness for yourself, or at a minimum refuse to choose unhappiness, then you are intelligent.
+
+You are intelligent because you have the ultimate weapon against the big N.B.D. Yep—_N_ervous _B_reak _D_own.
+
+“Intelligent” people do not have N.B.D.’s because they are in charge of themselves. They know how to choose happiness over depression, because they know how to deal with the _problems_ of their lives.
+
+I didn’t say _solve_ the problems. Rather than measuring their intelligence on their ability to _solve_ the problem, they measure it on their capacity for maintaining themselves as happy and worthy, whether the problem gets solved or not.
+
+You can begin to think of yourself as truly intelligent on the basis of how you choose to feel in the face of trying circumstances.
+
+The life struggles are pretty much the same for each of us... ...Disagreements, conflicts and compromises are a part of what it means to be human.
+
+Some people are able to... ...avoid immobilizing dejection and unhappiness... ...while others collapse.
+
+Those who recognize problems as a human condition and don’t measure happiness by an absence of problems are the most intelligent kind of humans we know; also, the most rare.
+
+Learning to take total charge of yourself will involve a whole new thinking process... ...difficult because too many forces in our society conspire against individual responsibility.
+
+You must trust in your own ability to feel emotionally whatever you choose to feel at any time in your life.
+
+You’ve grown up believing that you can’t control your own emotions; that anger, fear and hate, as well as love, ecstasy and joy are things that happen to you. An individual doesn’t control these things, he accepts them... ...and hope that some happy events will come along so that you can feel good very soon.
 
 ## 2 First Love
 
