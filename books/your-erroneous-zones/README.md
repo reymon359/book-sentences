@@ -112,6 +112,19 @@ This book will help you to eliminate any “worms”... ...that may be keeping y
 
 ## 1 Taking Charge of Yourself
 
+The essence of greatness is the ability to choose personal fulfillment in circumstances where others choose madness.
+
+A constant companion... ...call him _Your-Own-Death._ You can fear this visitor or use him for your personal gain. The choice is up to you.
+
+“Should I avoid doing the things I really want to do?” “Should I live my life as others want me to?” “Are things important to accumulate?” “Is putting it off the way to live?”... ...answers can be summed up in a few words: Live...Be You...Enjoy...Love.
+
+The next time you are contemplating a decision in which you are debating whether or not to... ...make your own choice, ask yourself an important question, “How long am I going to be dead?”... ...make your own choice and leave the worrying... ...to those who are going to be alive forever.
+
+If you don’t begin taking these steps, you can anticipate living your entire life the way others say you must.
+
+It’s your life; do with it what _you_ want.
+
+###
 
 ## 2 First Love
 
