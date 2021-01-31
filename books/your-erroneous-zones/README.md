@@ -37,6 +37,79 @@ Behaviors that fall into this erroneous zone are detailed... ...that may seem pe
 
 After a look at the behaviors... ...examination of the _reasons_ for hanging onto behavior which does not make you happy... ...look at the psychological support system that you have erected to maintain self- defeating behavior, rather than giving it up.
 
+Answer the questions, “What do I get out of my behavior?” and “Why does it persist if it is injurious to me?”
+
+The reasons for keeping neurotic behavior are fairly consistent across all of the erroneous zones.
+
+It is safer to hang onto a learned response, even if it is self-destructive. Moreover, you can eliminate having to change and take responsibility if you keep the erroneous zones intact.
+
+Your psychological maintenance system functions to keep blame off you and the opportunity for change at bay.
+
+The fact that you maintain many self-defeating behaviors for the same reason only makes total growth more approachable. Eliminate these reasons and you’ll eradicate your erroneous zones.
+
+Each chapter concludes with some straightforward strategies for eliminating self-nullifying behavior.
+
+Counseling session is all about... ...exploration of the... ...self-defeating behavior,... ...the “Why” of the behavior and concrete strategies for eliminating the troublesome area.
+
+Effective thinking—thinking which can alter self-destructive behavior— does not occur just because something is said. An insight must be repeated, and repeated, and repeated again. Only then, when it is fully accepted and understood, do you begin to alter behavior.
+
+Two central themes... ...The first involves your ability to make choices about your own emotions.
+
+Begin to examine your life in the light of choices you have made or failed to make. This puts all responsibility for what you are and how you feel on you.
+
+Becoming happier and more effective will mean becoming more aware of the choices that are available to you.
+
+YOU ARE THE SUM TOTAL OF YOUR CHOICES.
+
+With an appropriate amount of motivation and effort you can be anything you choose.
+
+The second theme... ...taking charge of your present moments.
+
+There is only one moment in which you can experience anything, and that is now, yet a great deal of time is thrown away by dwelling on past or future experiences.
+
+Turning your now into total fulfillment is the touchstone of effective living, and virtually all self-defeating behaviors (erroneous zones) are efforts at living in a moment other than the current one.
+
+Choice and present-moment living will be stressed on almost every page of this book.
+
+You’ll soon begin to ask yourself... ...“Why am I choosing to feel upset right now?” and “How can I make more effective use of my present moments?”... ...moving away from erroneous zones toward self- reliance and happiness.
+
+Twenty-five questions designed to measure your capacity to choose happiness and fulfillment... ...assess yourself and how you live your present moments. “Yes” responses indicate personal mastery and effective choice-making.
+
+1. Doyoubelievethatyourmindisyourown?(ChapterI)
+2. Areyoucapableofcontrollingyourownfeelings?(ChapterI)
+3. Are you motivated from within rather than from without? (Chapter VII)
+4. Areyoufreefromtheneedforapproval?(ChapterIII)
+5. Doyousetupyourownrulesofconductforyourself?(ChapterVII)
+6. Areyoufreefromthedesireforjusticeandfairness?(ChapterVIII)
+7. Canyouacceptyourselfandavoidcomplaining?(ChapterII)
+8. Areyoufreefromheroworship?(ChapterVIII)
+9. Areyouadoerratherthanacritic?(ChapterIX)
+10. Doyouwelcomethemysteriousandtheunknown?(ChapterVI)
+11. Canyouavoiddescribingyourselfinabsoluteterms?(ChapterIV)
+12. Canyouloveyourselfatalltimes?(ChapterII)
+13. Canyougrowyourownroots?(ChapterX)
+14. Haveyoueliminatedalldependencyrelationships?(ChapterX)
+15. Have you eliminated all blame and fault-finding in your life? (Chapter VII)
+16. Areyoufreefromeverfeelingguilty?(ChapterV)
+17. Areyouabletoavoidworryingaboutthefuture?(ChapterV)
+18. Canyougiveandreceivelove?(ChapterII)
+19. Canyouavoidimmobilizingangerinyourlife?(ChapterXI)
+20. Haveyoueliminatedprocrastinationasalife-style?(ChapterIX)
+21. Haveyoulearnedtofaileffectively?(ChapterVI)
+22. Canyouenjoyspontaneouslywithouthavingaplan?(ChapterVI)
+23. Canyouappreciateandcreatehumor?(ChapterXI)
+24. Areyoutreatedbyothersthewayyouwanttobe?(ChapterX)
+25. Are you motivated by your potential for growth, rather than a need to repair your deficiencies? (Chapter I)
+
+At any given moment of your life, you can choose to say yes to all of the questions above if you are willing to repeal many “shoulds” and “oughts” that you have learned throughout your life.
+
+The real choice is whether you decide to be personally free or remain chained to the expectations that others have of you.
+
+> I want to travel as far as I can go, I want to reach the joy that’s in my soul, And change the limitations that I know, And feel my mind and spirit grow; I want to live, exist, “to be,” And hear the truths inside of me.
+> —Doris Warshay. New Directions poem
+
+This book will help you to eliminate any “worms”... ...that may be keeping you from beautiful new experiences and to discover and choose your own new directions.
+
 ## 1 Taking Charge of Yourself
 
 
