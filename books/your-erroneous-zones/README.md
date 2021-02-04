@@ -156,6 +156,22 @@ You must trust in your own ability to feel emotionally whatever you choose to fe
 
 You’ve grown up believing that you can’t control your own emotions; that anger, fear and hate, as well as love, ecstasy and joy are things that happen to you. An individual doesn’t control these things, he accepts them... ...and hope that some happy events will come along so that you can feel good very soon.
 
+### Choosing How You’ll Feel
+
+Feelings are not just emotions that happen to you. Feelings are reactions you choose to have.
+
+If you are in charge of your own emotions, you don’t have to choose self-defeating reactions.
+
+You can feel what you choose to feel.
+
+The road to “intelligence”... ...will be new because you’ll see a given emotion as a choice rather than as a condition of life. This is the very heart and soul of personal freedom.
+
+Attack the myth of not being in charge of your emotions through logic.
+
+Syllogism (a formulation in logic, in which you have a major premise, a minor premise and a conclusion based upon the agreement between the two premises).
+
+
+
 ## 2 First Love
 
 
