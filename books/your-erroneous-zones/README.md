@@ -170,6 +170,71 @@ Attack the myth of not being in charge of your emotions through logic.
 
 Syllogism (a formulation in logic, in which you have a major premise, a minor premise and a conclusion based upon the agreement between the two premises).
 
+Logic—Syllogism
+MAJOR PREMISE: Aristotle is a Man. MINOR PREMISE: All men have facial hair. CONCLUSION: ARISTOTLE HAS FACIAL HAIR.
+
+Illogic—Syllogism 
+MAJOR PREMISE: Aristotle has facial hair. MINOR PREMISE: All men have facial hair. CONCLUSION: ARISTOTLE IS A MAN.
+
+In the second illustration, Aristotle could be an ape or a mole.
+
+logical exercise that can forever put to rest the notion that you cannot take charge of your own emotional world. MAJOR PREMISE: I can control my thoughts. MINOR PREMISE: My feelings come from my thoughts. CONCLUSION: I can control my feelings.
+
+I can say to you, “Think of a pink antelope,” and you can turn it green, or make it an aardvark, or simply think of something else if you so choose.
+
+You alone control what enters your head as a thought.
+
+No one else can get inside your head and have your own thoughts as you experience them. You do indeed control your thoughts, and your brain is your own to use as you so determine.
+
+You cannot have a feeling (emotion) without first having experienced a thought. Take away your brain and your ability to “feel” is wiped out.
+
+A feeling is a physical reaction to a thought.
+
+Every feeling that you have was preceded by a thought, and without a brain you can have no feelings.
+
+If you control your thoughts, and your feelings come from your thoughts, then you are capable of controlling your own feelings. And you control your feelings by working on the thoughts that preceded them.
+
+You make yourself unhappy because of the thoughts that you have about the people or things in your life.
+
+Becoming a free and healthy person involves learning to _think_ differently.
+
+Once you can change your thoughts, your new feelings will begin to emerge, and you will have taken the first step on the road to your personal freedom.
+
+Cal, a young executive who spends most of his time agonizing over the fact that his boss thinks he is stupid... ...Cal makes himself unhappy by convincing himself that what someone else thinks is more important than what he thinks.
+
+Someone’s death does not make you unhappy; you cannot be unhappy until you learn of the death, so it’s not the death but what you tell yourself about the event.
+
+Ask yourself, “Why should I choose depression? Will it help me to be more effective in dealing with it?”
+
+You have grown up in a culture which has taught you that you are not responsible for your feelings even though the syllogistic truth is that you always were. You’ve learned a host of sayings to defend yourself against the fact that you do control your feelings.
+
+- "You hurt my feelings."
+- "You make me feel bad."
+- "I can’t help the way I feel."
+- "I just feel angry, don’t ask me to explain it." 
+- "He makes me sick."
+- "Heights scare me."
+- "You’re embarrassing me."
+- "She really turns me on."
+- "You made a fool of me in public."
+
+Rewrite the list so it is accurate, so it reflects the fact that you are in charge of how you feel and that your feelings come from the thoughts you have about anything.
+
+- "I hurt my feelings because of the things I told myself about your reaction to me."
+- "I made myself feel bad."
+- "I can help the way I feel, but I’ve chosen to be upset."
+- "I’ve decided to be angry, because I can usually manipulate others with my   anger, since they think I control them." 
+- "I make myself sick."
+- "I scare myself at high places."
+- "I’m embarrassing myself."
+- "I turn myself on whenever I’m near her."
+- "I made myself feel foolish by taking your opinions of me more seriously than my own, and believing that others would do the same."
+
+Why the statements in List 2 did not evolve into clichés. The answer lies in our culture, which teaches the thinking of List 1, and discourages the logic of List 2.
+
+You feel what you think, and you can learn to think differently about anything—if you decide to do so.
+
+Ask yourself if there is a sufficient payoff in being unhappy, down, or hurt. Then begin to examine, in depth, the kind of thoughts that are leading you to these debilitating feelings.
 
 
 ## 2 First Love
