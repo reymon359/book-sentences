@@ -260,7 +260,15 @@ A thought becomes a belief when you’ve worked on it repeatedly, not when you s
 
 Taking charge of yourself involves more than simply trying on new thoughts for size. It requires a determination to be happy and to challenge and destroy each and every thought that creates a self-immobilizing unhappiness in you.
 
-If you still believe that you don’t choose to be unhappy, try to imagine this course of events. Each time you become unhappy you are subjected to some treatment you find unpleasant... ...
+### Choice—Your Ultimate Freedom
+
+If you still believe that you don’t choose to be unhappy, try to imagine this course of events. Each time you become unhappy you are subjected to some treatment you find unpleasant... ...How long do you think you would continue to hold on to them? Chances are you would take control rather quickly.
+
+The issue is not whether you can take control of your feelings, but whether you will.
+
+What must you endure before you’ll make such a choice? Some people choose to go insane rather than take control. Others merely give up and succumb to a life of misery because the dividend of pity received is greater than the reward of being happy.
+
+
 ## 2 First Love
 
 
