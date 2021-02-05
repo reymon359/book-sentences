@@ -236,7 +236,31 @@ You feel what you think, and you can learn to think differently about anything�
 
 Ask yourself if there is a sufficient payoff in being unhappy, down, or hurt. Then begin to examine, in depth, the kind of thoughts that are leading you to these debilitating feelings.
 
+### Learning Not To Be Unhappy: A Tough Assignment
 
+It is not easy to think in new ways. You are accustomed to a certain set of thoughts and the debilitating thoughts that follow.
+
+Happiness is easy, but learning not to be unhappy can be difficult.
+
+Happiness is a natural condition of being a person. The evidence is plainly visible when you look at young children.
+
+Taking charge of yourself begins with awareness.
+
+Catch yourself when you say things like, “He hurt my feelings.”... ...New thinking requires awareness of the old thinking.
+
+You have become habituated in mental patterns that identify the causes of your feelings as outside of yourself... ...you’ll need to balance the scale with thousands of hours of new... ...thinking that assumes responsibility for your own feelings. It is tough, damn tough; but so what? That certainly is no reason to avoid doing it.
+
+_Awareness,_ and then after thousands of trials, mistakes, new efforts.
+
+You’ve learned the habits you now have by reinforcing them all of your life.
+
+You have accepted your behavior and never worked at challenging it. But you can learn to not be unhappy, angry, hurt, or frustrated just as you learned to be all those self-defeating things.
+
+A thought becomes a belief when you’ve worked on it repeatedly, not when you simply try it once and use your initial inability as the rationale for giving up.
+
+Taking charge of yourself involves more than simply trying on new thoughts for size. It requires a determination to be happy and to challenge and destroy each and every thought that creates a self-immobilizing unhappiness in you.
+
+If you still believe that you don’t choose to be unhappy, try to imagine this course of events. Each time you become unhappy you are subjected to some treatment you find unpleasant... ...
 ## 2 First Love
 
 
