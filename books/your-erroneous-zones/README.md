@@ -268,6 +268,23 @@ The issue is not whether you can take control of your feelings, but whether you 
 
 What must you endure before you’ll make such a choice? Some people choose to go insane rather than take control. Others merely give up and succumb to a life of misery because the dividend of pity received is greater than the reward of being happy.
 
+The issue here is your own ability to choose happiness or at least not to choose unhappiness.
+
+To discard it is to give up on yourself.
+
+Just as you are free to choose happiness over unhappiness... ...you are free to choose self-fulfilling behavior over self- defeating behavior.
+
+Substitute in slow progressive steps healthy new feelings and habits for old self- defeating emotions.
+
+You can choose to make any experience enjoyable and challenging. Dull parties and committee meetings are fertile territory for choosing new feelings.
+
+When you find yourself bored, you can make your mind work in exciting ways, by changing the subject with a key observation, or writing the first chapter of your novel, or working on new plans which will help you to avoid these settings in the future.
+
+Using your mind actively means assessing the people and events which give you the greatest difficulty and then deciding on new mental efforts to make them work for you.
+
+Think first of why you should not choose to be upset because someone or something is not going the way you would like it to go.
+
+Don’t just get perturbed. Use your brain to work for you, and eventually you’ll have the terrific habit of not being upset when things go wrong.
 
 ## 2 First Love
 
