@@ -397,6 +397,37 @@ You can choose, and your present moments are yours for the enjoying—if you dec
 
 ## 2 First Love
 
+Self-worth cannot be verified by others. You are worthy because you say it is so. If you depend on others for your value it is other-worth.
+
+You may have a social disease... ...You are quite possibly infected with the sepsis of low-esteem, and the only known cure is a massive dose of self-love.
+
+Perhaps... ...you’ve grown up with the idea that loving yourself is wrong... ...society tells us. Love thy neighbor... ...What nobody seems to remember is love thyself, and yet that is precisely what you’re going to have to learn to do if you are to achieve present-moment happiness.
+
+You learned as a child that loving yourself, which was a natural thing for you then, was akin to being selfish or conceited. You learned to put others ahead of you, to think of others first because that showed you were a “good” person.
+
+You learned... ...“share your things with your cousins.” It didn’t matter that they were your treasures... ...or that mommy or daddy might not be sharing their big- people toys with others.
+
+By adolescence society’s messages have taken root. Self-doubt is in full bloom. And the reinforcements continue as the years pass. After all, you’re not supposed to go around loving yourself. What will others think of you!
+
+The hints are subtle and not malicious in intent, but they do keep the individual in line.
+
+Kids never acted that way with each other, except to please older folks. Always say please and thank you, curtsy, stand up when an adult enters, ask permission to leave the table... ...The message was clear: adults are important; kids don’t count.
+
+Others are significant; you are insignificant.
+
+By adolescence society’s messages have taken root. Self-doubt is in full bloom. And the reinforcements continue as the years pass. After all, you’re not supposed to go around loving yourself. What will others think of you!
+
+The hints are subtle and not malicious in intent, but they do keep the individual in line.
+
+Kids never acted that way with each other, except to please older folks. Always say please and thank you, curtsy, stand up when an adult enters, ask permission to leave the table... ...The message was clear: adults are important; kids don’t count.
+
+Others are significant; you are insignificant.
+
+Don’t trust your own judgment was corollary number one, and there was a full cargo of reinforcers that came under the subheading of “politeness.” These rules, disguised under the word _manners,_ helped you to internalize the judgments of others at the expense of your own values.
+
+How do these self-doubts get in the way? In the important area of loving others you may be having a difficult time.
+
+Giving love to others is directly related to how much love you have for yourself.
 
 ## 3 You Don’t Need Their Approval
 
