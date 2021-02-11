@@ -498,7 +498,17 @@ You may not like your behavior in a given instance, but that has nothing to do w
 
 You can choose to be worthy to yourself forever, and then get on with the task of working on your self-images.
 
+### Loving Your Body
 
+It all begins with the physical you. Do you like your body? If you answered no, try breaking it down into its component parts... ...You’ve got to make a very long list to check yourself out thoroughly. You don’t _have_ a nice body; you are your body; and disliking it means not accepting yourself as a human being.
+
+If they are parts of your body which can be changed, make changing them one of your goals... ...you can see them as choices you made in an earlier present moment, and make new present-moment decisions about them.
+
+Nothing is _too_ anything... ...What you have done is bought contemporary society’s definition of beauty. Don’t let others dictate what will be attractive to you. Decide to like the physical you and declare it as worthy and attractive to you, thereby rejecting the comparisons and opinions of others.
+
+You can decide what is pleasing and make nonacceptance of yourself a thing of the past.
+
+You are a human being... ...But society and industry send out certain messages about the human physical condition... ...Learn masking behavior... ...Don’t accept yourself; hide the real you.
 
 ## 3 You Don’t Need Their Approval
 
