@@ -304,6 +304,27 @@ We are helpless prisoners who must have someone or something else do things for 
 
 It is up to you to take control of your own mind, and then practice feeling and behaving in the ways that you choose.
 
+### Avoiding Immobilization
+
+Keep in mind the word _immobilization_ as the indicator of negative emotions in your life.
+
+You might believe that anger, hostility, shyness and other similar feelings are worth having at times, and so you want to hang onto them.
+
+Immobilization can range from total inaction to mild indecision and hesitancy. Does your anger keep you from saying, feeling, or doing something? If so, then you are immobilized.
+
+_Immobilization:_ A state, however mild or serious, in which you are not functioning at the level that you would like to. If feelings lead to such a state, you need to look no further for a reason to get rid of them.
+
+_You are immobilized when_...
+You can’t talk lovingly to your spouse and children though you want to. You can’t work on a project that interests you.
+You don’t make love and would like to.
+You sit in the house all day and brood.
+You don’t play golf, tennis, or other enjoyable activities, because of a leftover gnawing feeling.
+You can’t introduce yourself to someone who appeals to you.
+
+All negative emotions result in some degree of self-immobility, and this alone is a solid reason for eliminating them entirely from your life.
+
+If you yell at others not to make a point, but because you are internally upset, then you’ve immobilized yourself, and it’s time to begin working at new choices that will help you to reach your goal... ...without experiencing feelings that are hurtful to you.
+
 ## 2 First Love
 
 
