@@ -286,6 +286,24 @@ Think first of why you should not choose to be upset because someone or somethin
 
 Don’t just get perturbed. Use your brain to work for you, and eventually you’ll have the terrific habit of not being upset when things go wrong.
 
+### Choosing Health Over Illness
+
+You can also choose to eliminate some physical sufferings which are not rooted in a known organic dysfunction.
+
+There is a burgeoning amount of evidence to support the notion that people even choose things like tumors... ...and many other infirmities, including cancer, which have always been considered something that just happens to people.
+
+Helping the patient not to want the disease... ...may be a means of ameliorating the internal killer.
+
+The human brain can store an amount of information equivalent to one hundred trillion words, and all of us use but a tiny fraction of this storage space.
+
+It’s not uncommon for individuals to become mysteriously sick when confronted with some kind of difficult circumstance, or to avoid illness when being sick is simply “impossible” at that time, and so postponed the effects, perhaps the fever, until the big event is over, and then collapse.
+
+Listen to the advertisements we see and hear on television. “I’m a stockbroker.... So you can imagine the tension and headaches I must have. I take this pill to make it go away.” Message: You can’t control how you feel if you work in certain kinds of jobs (teachers, executives, parents) so rely on something else to do it for you. We are bombarded with messages like this every day.
+
+We are helpless prisoners who must have someone or something else do things for us. NONSENSE. Only you can improve your lot or make yourself happy.
+
+It is up to you to take control of your own mind, and then practice feeling and behaving in the ways that you choose.
+
 ## 2 First Love
 
 
