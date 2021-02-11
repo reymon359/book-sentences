@@ -364,6 +364,37 @@ Value your present moments. Using them up in any self-defeating ways means you�
 
 The people who know how to grab that present moment and maximize it are the people who have chosen a free, effective and fulfilling life. It is a choice each of us can make.
 
+### Growth vs. Imperfection as Motivators
+
+In your quest to become as happy and fulfilled in your life as you choose to be, you can be motivated by two types of need. The more common form of motivation is called imperfection or deficiency motivation, while the healthier variety is labeled growth motivation.
+
+How do you distinguish between a flower that is alive and one that is dead? The one that is growing is alive. The only evidence of life is growth!
+
+If you are growing, you are alive. If you are not growing then you might as well be dead.
+
+You can be motivated out of a desire to grow rather than a need to repair your deficiencies. If you recognize that you can always grow, improve, become more and greater, that is enough.
+
+When you decide to be immobilized or to experience hurtful emotions, you’ve made a nongrowth decision.
+
+Growth motivation means using your life energy for greater happiness, rather than having to improve yourself because you’ve sinned or because you are in some way incomplete.
+
+A corollary of choosing growth as motivation is personal mastery in every present moment of your life.
+
+Mastery means you are the decider of your fate... ...you choose what your world will be for you.
+
+> People are always blaming their circumstances for what they are. I don’t believe in circumstances. The people who get on in this world are the people who get up and look for the circumstances they want, and if they can’t find them, make them.
+> —George Bernard, Mrs. Warren’s Profession
+
+Changing the way you think, or feel, or live is possible but never easy.
+
+If you were told, at point of gun, that within one year you would have to complete a difficult task... ...You would practice, practice, practice, never yielding to the temptation to quit or slack off. And you would deliver, and consequently save your life.
+
+No one expects to train his body overnight and yet too many of us expect our minds to respond with just such alacrity.
+
+If you really want to be neurosis-free, self-fulfilled and in control of your own choices, if you really want to achieve present-moment happiness, you will need to apply the same kind of rigid application to the task of unlearning the self-defeating thinking you have learned up until now that you would give to the learning of any difficult enterprise... ...you’ll need to repeat endlessly that your mind really is your own and that you are capable of controlling your own feelings.
+
+You can choose, and your present moments are yours for the enjoying—if you decide to be in charge of you.
+
 ## 2 First Love
 
 
