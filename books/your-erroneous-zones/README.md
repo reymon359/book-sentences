@@ -480,6 +480,26 @@ With mental practice you can make some self-loving choices that will amaze you.
 
 Getting good at giving and receiving love starts at home, with you, with a vow to end any low self-esteem behaviors that have become a way of life.
 
+### Tuning into Self-Acceptance
+
+First you must destroy the myth that you have one single self-concept, and that it is either positive or negative all of the time. You have many self-images, and they vary from moment to moment.
+
+If you were asked, “Do you like yourself?” you might be inclined to lump all of your negative self-thoughts together into a collective “No.” Breaking down the areas of dislike into specifics will give you definite goals to work on.
+
+Your self-portraits are as numerous as your activities, and through all of these behaviors there is always YOU, the person that you either accept or reject.
+
+Your self-worth... ...must be unrelated to your self-assessments. You exist. You are human. That is all you need.
+
+Your worth is determined by you, and with no need for an explanation to anyone.
+
+Your worthiness, a given, has nothing to do with your behavior and feelings.
+
+You may not like your behavior in a given instance, but that has nothing to do with your self-worth.
+
+You can choose to be worthy to yourself forever, and then get on with the task of working on your self-images.
+
+
+
 ## 3 You Don’t Need Their Approval
 
 
