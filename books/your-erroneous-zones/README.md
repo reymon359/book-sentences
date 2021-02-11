@@ -429,6 +429,57 @@ How do these self-doubts get in the way? In the important area of loving others 
 
 Giving love to others is directly related to how much love you have for yourself.
 
+### Love: A Suggested Definition
+
+Love is a word that has as many definitions as there are people to define.
+
+_The ability and willingness to allow those that you care for to be what they choose for themselves, without any insistence that they satisfy you._
+
+How can you reach the point of being able to let others be what they choose without insisting they meet your expectations? Very simple. By loving yourself. By feeling that you are important, worthy and beautiful.
+
+Once you recognize just how good you are, you won’t have to have others reinforce your value or values by making their behavior conform to your dictates.
+
+If you’re secure in yourself, you neither want nor need others to be like you. For one thing, you’re unique. For another, that would rob them of their own uniqueness, and what you love in them are just those traits that make them special and separate.
+
+You get good at loving yourself, and suddenly you’re able to love others, to give to others, and do for others by giving and doing for yourself first.
+
+You’re not doing it for the thanks or the payoffs but because of the genuine pleasure you get from being a helper or a lover.
+
+If the you is someone unworthy, or unloved by you, then giving becomes impossible.
+
+if you can’t give love, neither can you receive it.
+
+Being in love... ...starts with a self that is totally loved.
+
+If... ...Noah could start with the premise that he was lovable, he would experience no difficulty in the “I love you.” If he didn’t get the desired, “I love you, too, Noah,” then he would see that as having nothing to do with his own self-worth, since that was intact before he ever started. Whether or not he was loved in return would be... ...whomever Noah was loving at the moment. He might want the other person’s love, but it would not be essential to his self-worth.
+
+At no time, under no circumstance is self-hate healthier than self-love.
+
+If you have behaved in a way that you dislike, loathing yourself will only lead to immobilization and damage... ...Learn from the error, and resolve not to repeat it but don’t associate it with your self-worth.
+
+Never confuse your self-worth (which is a given) with your behavior, or the behavior of others toward you.
+
+The messages of society are overpowering. “You’re a bad boy,” rather than “You’ve behaved badly.” “Mommy doesn’t like you when you behave that way” as opposed to “Mommy doesn’t like the way you behave.” The conclusions that you may have adopted from these messages are, “She doesn’t like me, I must be a nerd” instead of, “She doesn’t like me. That’s her decision, and while I don’t like it, I’m still important.”
+
+> My mother loves me.
+I feel good.
+I feel good because she loves me.
+My mother does not love me.
+I feel bad.
+I feel bad because she does not love me. I am bad because I feel bad.
+I feel bad because I am bad.
+I am bad because she does not love me.
+She does not love me because I am bad.
+> —R. D. Laing, Knots
+
+The habits of thought of childhood are not easily outgrown.
+
+It is tough to shed those old shackles and wipe clean those unhealed scars, but hanging onto them is even tougher when you consider the consequences.
+
+With mental practice you can make some self-loving choices that will amaze you.
+
+Getting good at giving and receiving love starts at home, with you, with a vow to end any low self-esteem behaviors that have become a way of life.
+
 ## 3 You Don’t Need Their Approval
 
 
