@@ -325,6 +325,45 @@ All negative emotions result in some degree of self-immobility, and this alone i
 
 If you yell at others not to make a point, but because you are internally upset, then you’ve immobilized yourself, and it’s time to begin working at new choices that will help you to reach your goal... ...without experiencing feelings that are hurtful to you.
 
+### The Importance of Living in the Present Moment
+
+One way to combat immobilization... ...is to learn to live in the present moment.
+
+Getting in touch with your “now,” is at the heart of effective living.
+
+Now is all there is, and the future is just another present moment to live when it arrives... ...you cannot live it until it does appear.
+
+We live in a culture which deemphasizes the now. Save for the future! Consider the consequences. Don’t be a hedonist. Think of tomorrow. Plan for your retirement.
+
+We are continually being conditioned to sacrifice the present for the future.
+
+Carried to its logical conclusion, this attitude is... ...an evasion of happiness forever. When the future does arrive it becomes the present and we must use it to prepare for the future. Happiness is something for the morrow and therefore ever elusive.
+
+The present moment, that elusive time which is always with you, can be most beautifully experienced if you allow yourself to get lost in it.
+
+Drink in all of every moment and tune out that past which is over and the future which will arrive in time.
+
+Wishing, hoping and regretting are the most common and dangerous tactics for evading the present.
+
+Frequently avoidance of the present leads to idealization of the future.
+
+At some miraculous moment in the future life will change, everything will fall into place, and you will find happiness.
+
+When you achieve that special event... ...then life will begin in earnest. More often than not when the event arrives it will be disappointing. It will never live up to what you had imagined.
+
+When an event doesn’t live up to your expectations you can get out of the depression by idealizing again. Don’t let this vicious circle become your life-style. Interrupt it now with some strategic present-moment fulfillment.
+
+> “Live all you can; it’s a mistake not to. It doesn’t so much matter what you do in particular, so long as you have your life. If you haven’t had that what have you had?...What one loses one loses, make no mistake about that.... The right time is any time that one is still so lucky as to have.... Live!”
+> —Henry James, The Ambassadors 1903
+
+As you look back on your life... ...you seldom experience regret for anything that you’ve done. It is what you haven’t done that will torment you.
+
+Seize every second of your life and savor it.
+
+Value your present moments. Using them up in any self-defeating ways means you’ve lost them forever.
+
+The people who know how to grab that present moment and maximize it are the people who have chosen a free, effective and fulfilling life. It is a choice each of us can make.
+
 ## 2 First Love
 
 
