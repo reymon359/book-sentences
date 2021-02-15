@@ -682,8 +682,7 @@ These are the issues that you can work on. Setting personal goals to be in love 
 
 ## 3 You Don’t Need Their Approval
 
-
-
+Needing approval is tantamount to saying, “Your view of me is more important than my own opinion of myself.”
 
 ## 4 Breaking Free From the Past
 
