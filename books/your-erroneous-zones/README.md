@@ -528,7 +528,65 @@ advertisers would encourage you to do this is understandable in light of profits
 
 Being honest with yourself in this realm is not easy, and it takes time to learn to distinguish what pleases us from what the advertising business says should please us.
 
+### Choosing More Positive Self-Images
+
+You can choose to think of yourself as intelligent by applying your very own standards to yourself.
+
+The happier you make yourself, the more intelligent you are.
+
+If you are deficient in any areas... ...it is simply the natural result of choices you have been making up until now.
+
+If you underestimate yourself, it is because you have bought that notion, and you compare yourself to others on certain school-related variables.
+
+You can choose to be as bright as you desire.
+
+Aptitude is really a function of time, rather than some inborn quality.
+
+Studies show that although most students eventually reach mastery on each learning task, some students achieve mastery much sooner than do others.
+
+> Aptitude is the amount of time required by the learner to attain mastery of a learning task. Implicit in this formulation is the assumption that, given enough time, all students can conceivably attain mastery of a learning task.
+> —John Carroll, A Model for School Learning.
+
+With enough time and effort you could, if you so chose, master almost any skill.
+
+Intelligence is not something that you inherited or had otherwise bestowed upon you. You are as smart as you choose to be. Not liking how smart you’ve chosen to be is mere self-contempt, which can lead only to injurious consequences in your own life.
+
+The logic of being able to choose your self-pictures applies to all of the photographs of you that are lodged in your brain.
+
+If you dislike the way you behave socially, you can work at changing the behavior and not confusing it with your own self-worth.
+
+Your artistic, mechanical, athletic, musical and other abilities are largely the result of choices and should not be confused with your worthiness.
+
+In the same light... ...your _emotional_ life being the product of your own choices.
+
+Self-acceptance based upon what you believe to be appropriate for you is something you can make a decision about now.
+
+There’s no reason to choose to feel unworthy, just because there are things about yourself that you’re going to improve.
+
+List of some typically recurring behavior that falls into this category of the self-veto.
+- Rejecting compliments directed at you.
+- Making up excuses for why you look nice.
+- Giving credit to others when it rightfully belongs to you.
+- Using other-directed references when speaking.
+- Having your opinions verified by others.
+- Refusing to order something you want, not because you can’t afford it (although this may be your stated reason) but because you don’t feel that you’re worth it.
+- Not having orgasms.
+- Not buying yourself something because you think you have to buy it for someone else, although sacrificing is not necessary; or not treating yourself to the things you would like to own, because you’re not worth it.
+- In a crowded room, someone yells out, “Hey, Stupid,” and you turn around.
+- Using pet names for yourself (and having others use them as well) that are really put-downs.
+- A girlfriend accepts a date and you feel that she is going along just to be charitable.
+
+I once worked with a young woman who was quite attractive and obviously... ...Shirley was always searching for a sentence that would repudiate her worth... ...she didn’t believe that she was worth being loved in the first place, and so the interminable cycle of renunciation was her way of reinforcing her notions of her lack of worth.
+
+Many of the items in the list above may appear to be petty, they nevertheless are tiny indicators of self-rejection. If you sacrifice or refuse to be extravagant with yourself... ...it is because you don’t feel you’re worth the better cut... ...These are the lessons you’ve learned and the self-denying behavior is now second nature.
+
+Each time you engage in any kind of a self-put-down, you reinforce that old bugaboo that others have laid on you and reduce your own opportunities for any kind of love in your life
+
+You are too worthy to go around putting yourself down.
+
 ## 3 You Don’t Need Their Approval
+
+
 
 
 ## 4 Breaking Free From the Past
