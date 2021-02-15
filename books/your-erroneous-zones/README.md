@@ -614,7 +614,11 @@ Being able to accept yourself without complaint involves an understanding of bot
 
 If you genuinely love you, then complaining to others who can do nothing for you becomes absurdly impossible to defend. And if you notice things in yourself (and others) that you dislike, rather than complaining you can actively set about taking the necessary corrective steps.
 
+### Self-Love vs. Conceit
 
+Self-love has nothing to do with the sort of behavior characterized by telling everyone how wonderful you are.
+
+Self-love means you love yourself; it doesn’t demand the love of others. There is no need to convince others. An internal acceptance is sufficient.
 
 ## 3 You Don’t Need Their Approval
 
