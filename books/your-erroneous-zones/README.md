@@ -647,6 +647,39 @@ The only evidence for life is growth, and so to refuse to grow into a self-lovin
 
 The practice of self-love begins with your mind. You must learn to control your thinking.
 
+Requires a lot of present-moment awareness at the times when you are behaving in self-condemnatory kinds of ways.
+
+If you can catch yourself as you are doing it, you can then begin to challenge the thought in back of your behavior.
+
+One small step toward self-love, the step being a recognition of your present-moment put-down and a decision to act differently.
+
+Before you had a habit; now you have an awareness of wanting to be different, and you have made a choice to make it happen.
+
+Eventually you’ll have a new habit which will not require constant awareness.
+
+List of such behaviors to which you can add as you achieve a sense of self-esteem based upon your own worth.
+- Select new responses to others’ attempts to reach you with love or acceptance. Rather than instantly being skeptical of a loving gesture, accept them with a “thank-you” or “I’m happy that you feel that way.”
+- If there is someone that you feel genuine love toward, say it right out front “I love you” and while you check out the reactions you receive in return, pat yourself on the back for taking the risk.
+- In a restaurant, order something you really enjoy no matter what it costs.
+Give yourself a treat because you are worth it. Begin to select items that you would prefer in all situations, including the grocery store. Indulge yourself with a favorite product because you are worth it. Outlaw self-denial unless it is absolutely necessary—and it rarely is.
+- After a tiring day and a large meal take a brief nap or a jog in the park even if you have too many things to do. It will help you to feel one hundred percent better.
+- Join an organization, or sign up for an activity that you will enjoy. Perhaps you’ve been putting this off because you have so many responsibilities that you just don’t have the time. By choosing to love yourself, and partaking of the slices of life that you want, those others that you serve will begin to learn some self- reliance of their own. And you will find yourself with an absence of resentment toward them. You will be serving them out of _choice,_ rather than obligation.
+- Eliminate jealousy by recognizing it is a put-down of yourself. By comparing yourself to some other person and imagining you are loved less, you make others more important than you. You are measuring your own merit in comparison to another. Remind yourself that (1) Someone can always choose another without having it be a reflection on you, and (2) whether or not you are chosen by any significant other is not the way you validate your own self-worth. If you make it that way, you are doomed to eternal self-doubt, because of the uncertainty of how a particular someone out there is going to feel at any precise moment of any given day. Should he/she choose another, that choice reflects only the other, not you. With practice at self-love, any circumstances in which you’ve previously found yourself to be jealous will be reversed. You’ll believe so much in you that you won’t need the love or approval of others to give you value.
+- Your self-love activity might also include new ways of treating your body, such as selecting good nutritional foods, eliminating excess weight (which can be a health risk as well as an indication of self-rejection), taking regular walks or bicycle rides, choosing plenty of healthy exercise, getting outdoors to enjoy fresh air because it feels good, and in general keeping your body healthy and attractive. Provided you want to be healthy. Why? Because you are important and are going to treat yourself that way. Any total day spent cooped up or inactive in boring routine activities is a vote for self-enmity. Unless you actually prefer being cooped-up, in which case you make that choice.
+- Sexually, you can practice greater self-love. You can stand naked in front of a mirror and tell yourself how attractive you are. You can get in touch with your body... ...With others, you can also choose sexual fulfillment for you, rather than making your partner’s pleasure more important than your own. Only by choosing gratification for yourself can you give pleasure. If you aren’t happy, generally your partner is disappointed. Moreover, when you choose yourself, others are more able to choose happiness for themselves. You can slow down the whole process of sex, teaching your lover what you like with words and actions. You can choose orgasm for yourself. You can make yourself achieve the ultimate physical experience by believing that you are worth it, and then getting lost in the excitement of verifying it for you. Why? Because you are worth it!
+- You can stop equating your performance in anything with your own self- worth. You may lose your job, or fail a given project. You may not like the way you performed this or that task. But that doesn’t mean that you are without worth. You must know for yourself, that you are worth something regardless of your achievements. Without this knowledge, you will be persistently confusing yourself with your external activities. It is just as absurd to make your self-value depend upon some outside accomplishment as it is to tie it in with some external person’s opinion of you. Once you eliminate this confusion, you will be able to set about all kinds of undertakings, and your final score—while it may be interesting to you—will in no way determine how valuable you are as a person.
+
+Outlaw self-denial unless it is absolutely necessary—and it rarely is.
+
+When you choose yourself, others are more able to choose happiness for themselves.
+
+These... ...are the actions of those who love themselves. They... ...challenge the lessons that you’ve learned as you’ve grown- down. At one time, you were the epitome of self-love. As a child, you knew instinctively that you were worthy.
+
+- Can you accept yourself without complaint? 
+- Can you love yourself at all times?
+- Can you give and receive love?
+These are the issues that you can work on. Setting personal goals to be in love with the most beautiful, exciting, worthy person ever—you.
+
 ## 3 You Don’t Need Their Approval
 
 
