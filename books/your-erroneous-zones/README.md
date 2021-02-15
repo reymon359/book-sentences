@@ -643,6 +643,10 @@ They are the reasons you choose to hang on to the old thinking and behavior. It 
 
 The only evidence for life is growth, and so to refuse to grow into a self-loving person is a deathlike choice.
 
+### Some Easy-to-Master Self-Love Exercises
+
+The practice of self-love begins with your mind. You must learn to control your thinking.
+
 ## 3 You Don’t Need Their Approval
 
 
