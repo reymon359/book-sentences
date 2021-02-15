@@ -510,6 +510,24 @@ You can decide what is pleasing and make nonacceptance of yourself a thing of th
 
 You are a human being... ...But society and industry send out certain messages about the human physical condition... ...Learn masking behavior... ...Don’t accept yourself; hide the real you.
 
+As if the way you are is unnatural and you should go around sending out cosmetic odors in order to like yourself better. So you deodorize each orifice with the right smelling stuff, because you don’t accept a part of yourself that exists in all human beings.
+
+A thirty-two-year-old man... ...has learned to reject all of his bodily functions labeling them as disgusting and unmentionable. Frank is compulsively clean about his body to the point of being uncomfortable whenever he sweats... ...has learned to reject his natural body functions and odors... ...if him were to be totally honest about himself, and wiped out the learned messages of self-rejection, he might even be able to admit to enjoying his own body... ...While he might not wish to share those odors with others, he would at least be able to accept them in himself, tell himself that he, in fact, likes them, and experience no shame around others.
+
+Self-acceptance means liking the entire physical you, and eliminating those cultural impositions to be proper or to merely tolerate your body when it behaves other than in a cosmetic fashion.
+
+You can learn to take private pleasure in being you.
+
+Many women have accepted the cultural dispatches and behave in ways that they are supposed to when it comes to their own bodies.... ...The implication is that there is something unpleasant about the natural you, the essentially human you, and only by becoming artificial can you become attractive.
+
+That’s the saddest part, that the end product is a fraudulent you that takes the place of the natural self you carry around with you for most of your life.
+
+You are being encouraged to reject that beautiful you.
+
+advertisers would encourage you to do this is understandable in light of profits to be made, but that you would buy the products is less easy to understand in view of the fact that you’re choosing to throw away the real you.
+
+Being honest with yourself in this realm is not easy, and it takes time to learn to distinguish what pleases us from what the advertising business says should please us.
+
 ## 3 You Don’t Need Their Approval
 
 
