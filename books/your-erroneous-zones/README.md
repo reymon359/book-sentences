@@ -620,6 +620,29 @@ Self-love has nothing to do with the sort of behavior characterized by telling e
 
 Self-love means you love yourself; it doesn’t demand the love of others. There is no need to convince others. An internal acceptance is sufficient.
 
+### The Rewards for Not Loving Yourself
+
+The core of learning to be an effective person— understanding why you behave in self-defeating ways.
+
+All behavior is caused, and the road to eliminating any self-destructive behavior is strewn with the potholes of misunderstanding your own motives. Once you comprehend the _why_ of your self-malice and the maintenance system for retaining it, you can begin to attack the behaviors.
+
+Without the understanding of self, the old actions will continue to recur.
+
+If you choose to not love yourself and treat yourself as unimportant by placing other heads higher than your own, you will...
+- Have a built-in excuse for why you can’t get any love in your life, that is, you simply are not worth being loved back. The excuse is the neurotic payoff.
+- Be able to avoid any and all risks that go with establishing love relationships with others, and thereby eliminate any possibility of ever being rejected or disapproved.
+- Find that it is easier to stay the way you are. As long as you’re not worthy there is just no point in trying to grow or to be better and happier, and your payoff is remaining the same.
+- Gain a lot of pity, attention and even approval from others, which substitutes nicely for the risky business of getting involved in a love relationship. Thus the pity and attention are your self-defeating rewards.
+- Have many convenient scapegoats to blame for your own misery. You can complain and thus you won’t have to do anything about it yourself.
+- Be able to use up your present moments with mini-depressions, and avoid behavior that would help you to be different. Your self-pity will serve as your escape route.
+- Regress to being a good little boy or girl, calling upon the leftover responses of a child and therefore pleasing those “big-people” that you learned to regard as superior to you. Your regression is safer than risk.
+- Be able to reinforce your leaning-on-others behavior by making them more significant than you make yourself. A leaning post is a dividend even though you’re hurt by it.
+- Be unable to take charge of your own life and live it the way you choose, simply because you won’t feel that you are worth the happiness you covet.
+
+They are the reasons you choose to hang on to the old thinking and behavior. It is just plain easier, that is, less risky, to put yourself down than to try to get up.
+
+The only evidence for life is growth, and so to refuse to grow into a self-loving person is a deathlike choice.
+
 ## 3 You Don’t Need Their Approval
 
 
