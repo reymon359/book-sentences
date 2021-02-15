@@ -580,9 +580,41 @@ I once worked with a young woman who was quite attractive and obviously... ...Sh
 
 Many of the items in the list above may appear to be petty, they nevertheless are tiny indicators of self-rejection. If you sacrifice or refuse to be extravagant with yourself... ...it is because you don’t feel you’re worth the better cut... ...These are the lessons you’ve learned and the self-denying behavior is now second nature.
 
-Each time you engage in any kind of a self-put-down, you reinforce that old bugaboo that others have laid on you and reduce your own opportunities for any kind of love in your life
+Each time you engage in any kind of a self-put-down, you reinforce that old bugaboo that others have laid on you and reduce your own opportunities for any kind of love in your life.
 
 You are too worthy to go around putting yourself down.
+
+### Accepting Yourself Without Complaint
+
+Self-love means accepting yourself as a worthy person because you choose to do so. Acceptance also means an absence of complaint.
+
+Fully functioning people never complain.
+
+Happiness means no complaining about the things over which you can do nothing.
+
+Complaining is the refuge of those who have no self-reliance.
+
+Permitting others to abuse you... ...helps no one. A simple question to ask will generally end this useless and unpleasant behavior. “Why are you telling me this?” or “Is there anything I can do to help you with this?”
+
+Your complaining behavior... ...is time spent in a wasteful manner, time which might be put to better use in practicing self-loving kinds of activities... ...or helping someone else to achieve fulfillment.
+
+Two occasions when complaining is least appreciated... ...(1) Whenever you tell someone else that you are tired. (2) Whenever you tell someone else that you don’t feel well.
+
+If you are tired... ...complaining... ...is abusing that person. And it won’t make you less tired. The same kind of logic applies to your “not feeling well.”
+
+Nothing is being said here about informing others of how you feel when they can help you in any small way. What is being challenged is complaining to others who can do nothing but endure the grumbling.
+
+If you are truly working on self-love... ...you will want to work on this yourself, rather than choosing someone to lean on.
+
+Complaining about yourself is a useless activity, and one which keeps you from effectively living your life. It encourages self-pity and immobilizes you in your efforts at giving and receiving love.
+
+While it may get you attention, the noticing will be done in a light that will clearly cast shadows on your own happiness.
+
+Being able to accept yourself without complaint involves an understanding of both self-love and the complaining process, which are mutually exclusive terms.
+
+If you genuinely love you, then complaining to others who can do nothing for you becomes absurdly impossible to defend. And if you notice things in yourself (and others) that you dislike, rather than complaining you can actively set about taking the necessary corrective steps.
+
+
 
 ## 3 You Don’t Need Their Approval
 
