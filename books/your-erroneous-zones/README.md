@@ -771,7 +771,31 @@ Approval... ...should be given to a child freely, not bestowed as a reward for p
 
 A child should never be encouraged to confuse his own self- esteem with anyone else’s approval.
 
+### Approval-Seeking Messages from School
 
+School... ...is designed expressly to instill approval-seeking thinking and behavior. Ask permission to do everything. Never bank on your own judgment. Ask the teacher to go to the bathroom. Sit in a particular seat... ...Everything was geared toward other-control. Instead of learning to think you were being taught not to think for yourself.
+
+If you should incur the teacher’s, or worse yet, the principal’s wrath, you were expected to feel guilty for months.
+
+Your report card was a message to your parents telling them how much approval you had won.
+
+Students who are independent, full of self-love, not susceptible to guilt and worry, are systematically labeled troublemakers.
+
+Schools are not good at dealing with kids who show signs of independent thinking. In too many schools approval-seeking is the way to success.
+
+If you gain the acclamation of the staff, behave in the ways that they dictate, study the curriculum that is laid out in front of you, you’ll emerge successful. Albeit with a strong _need_ for approval, since self-reliance has been discouraged at virtually every turn.
+
+By the time a student reaches intermediate school he has usually learned the approval lesson... ...In the classroom he’ll learn not to question what he is told.
+
+If he doesn’t learn these things he’ll be punished with low grades—and the teacher’s disapproval.
+
+He covets approval, and learns that gaining the sanction of others is tantamount to being successful and happy.
+
+At college the same pattern of indoctrination continues... ...Conform, please your professors and you’ll make it.
+
+When a student finally gets into a seminar where the professor says: “This semester you can study whatever you want in your field of interest... ...Panic sets in. “But how many papers do we have to do?”, “When are they due?”... ...“Do I have to come to class every day?” These are the questions of an approval-seeker and it’s not the least bit surprising in view of the educational methods we’ve examined.
+
+The student... ...queries are the end product of a system that demands approval-seeking for survival. He is terrified of thinking for himself.
 
 ## 4 Breaking Free From the Past
 
