@@ -753,7 +753,7 @@ At the grocery store a cashier asks the child, “Would you like a piece of cand
 Rather than helping children to think for themselves, solve their own problems and develop trust in themselves, parents tend to treat children as possessions.
 
 > Your children are not your children. They are the sons and daughters of Life’s longing for itself. They come through you but not from you, And though they are with you yet they belong not to you.
-> Kahlil Gibran, The Prophet.
+> -Kahlil Gibran, The Prophet.
 
 Don’t trust yourself to resolve your difficulties. Mommy or Daddy will do it for you. Don’t rely on yourself to make the decisions you are capable of, check it out with someone else first.
 
@@ -847,7 +847,7 @@ Advertisements are filled with psychological messages that you must have approva
 It is hardly surprising that... ...You’ve been conditioned... ...throughout your life.
 
 > “Habit is habit, and not to be flung out of the window by any man, but coaxed downstairs a step at a time.”
-> Mark Twain, Puddinhead Wilson’s Calendar
+> -Mark Twain, Puddinhead Wilson’s Calendar
 
 ## 4 Breaking Free From the Past
 
