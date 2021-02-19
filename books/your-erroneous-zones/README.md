@@ -797,6 +797,58 @@ When a student finally gets into a seminar where the professor says: “This sem
 
 The student... ...queries are the end product of a system that demands approval-seeking for survival. He is terrified of thinking for himself.
 
+### Approval-Seeking Messages from other Institutions
+
+We acquire approval-seeking symptoms from other sources... ...the church... ...please Jehovah, or Jesus... ...using fear of retribution as a weapon... ...a man behaves morally not because he believes it to be appropriate for him, but because God wants him to behave that way.
+
+Behave because someone has told you to and because you will be punished if you don’t, not because you know it to be the right behavior for you.
+
+It may produce the same behavior that you would have chosen, but you haven’t chosen it freely.
+
+Using yourself as a guide and not needing the approval of an outside force is the most religious experience you can have.
+
+It is a veritable religion of the self in which an individual determines his own behavior based upon his own conscience and the laws of his culture that work for him, rather than because someone has dictated how he _should_ behave.
+
+The government... ...“Don’t trust yourself. You haven’t got the skills and wherewithal to function alone. We’ll take care of you.
+
+"You don’t have to think for yourself, we’ll regulate your life for you."
+
+There are more rules on the books than there are people to disobey them.
+
+If someone decided to enforce every rule that exists, you would find yourself in violation of the law hundreds of times a day.
+
+There are rules against everything, including what you can wear at a given time in a given place, how you can enjoy sex, what you can say, and where you can walk.
+
+The songs that we hear each day are filled with lyrical messages of approval-seeking... ...Here is a brief list...
+• “I can’t live, if living is without you.”
+• “You make me so very happy.”
+• “You make me feel like a natural woman.”
+• “You’re nobody till somebody cares.”
+• “It all depends on you.”
+• “You make me feel brand new.”
+• “No one else can make me feel the colors that you bring.” 
+• “Without you, I’m nothing.”
+
+Next time... ...Check for those lyrics... ...Rewrite the songs...
+• I make myself feel like a natural woman; it has nothing to do with you.
+• I chose to love you. I must have wanted to do it then, but now I’ve changed my mind.
+• People who _need_ people are the unluckiest people in the world. But people who _want love_ and _enjoy_ people are making themselves happy.
+• I make myself so very happy because of the things I tell myself about you. • I am the sunshine of my life, and having you in it makes it even brighter.
+• I can stop loving you, but at this point I choose not to.
+
+“Without me I’m nothing, but having you makes this present moment very nice.”
+
+Television commercials... ...are efforts by the manufacturer to manipulate you into buying their products, by reinforcing the notion that other peoples’ beliefs are more important than your own.
+
+A woman shrinks in fear as she contemplates how her friends will view her if she has baggy pantyhose. “I just couldn’t stand it if they thought something bad about me. I must have their approval, so I’ll buy this brand over that one.”
+
+Advertisements are filled with psychological messages that you must have approval... ...Because they work! They sell.
+
+It is hardly surprising that... ...You’ve been conditioned... ...throughout your life.
+
+> “Habit is habit, and not to be flung out of the window by any man, but coaxed downstairs a step at a time.”
+> Mark Twain, Puddinhead Wilson’s Calendar
+
 ## 4 Breaking Free From the Past
 
 
