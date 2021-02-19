@@ -684,6 +684,42 @@ These are the issues that you can work on. Setting personal goals to be in love 
 
 Needing approval is tantamount to saying, “Your view of me is more important than my own opinion of myself.”
 
+You may be spending far too many of your present moments in efforts to win the approval of others, or in being concerned with some disapproval that you have encountered.
+
+If approval has become a _need_ in your life, then you have some work to do.
+
+Approval-seeking is a desire rather than a necessity. 
+
+Approval in itself is not unhealthy; in fact, adulation is deliciously pleasurable. Approval-seeking is an erroneous zone only when it becomes a need rather than a want.
+
+If you want the approval, you are simply happy to have the endorsement of other people. But, if you need it, you are going to collapse if you don’t get it.
+
+You feel good inside only if they decide to administer some praise to you.
+
+The need for approval of another person is bad enough, but the real trouble comes with the need for the approval of everyone for every act.
+
+The _need_ for approval must go! No question marks here. It must be eradicated from your life if you are to gain personal fulfillment. 
+
+It is impossible to go through life without incurring a great deal of disapproval. It is the way of humanity, the dues you pay for your “aliveness,” something that simply cannot be avoided.
+
+Ozzie travels in his social circles with no mind of his own, and his need for commendation is so strong that he constantly shifts his position in order to be liked. There is no Ozzie, only the happenstance reactions of others which determine not only how Ozzie feels, but also what he thinks and says as well. Ozzie is whatever others want him to be.
+
+When approval-seeking is a need, the possibilities for truth are all but wiped away.
+
+If you must be lauded, and you send out those kinds of signals, then no one can deal with you straight. Nor can you state with confidence what it is that you think and feel at any present moment of your life.
+
+There can be no truth when the speaker is shifty and moves around the issues with a skillful kind of manuevering that is designed to please everyone. Behavior like this is easy to spot in politicians, but more difficult to see in ourselves.
+
+It is tough to handle rebuking and easier to adopt behavior that will bring approval.
+
+When you take this easy way, you’re making others’ opinions of you more important than your own self-assessments.
+
+In order to escape... ...of approval-seeking,.. ...it is important to examine the factors that foster the approval-seeking need.
+
+
+
+
+
 ## 4 Breaking Free From the Past
 
 
