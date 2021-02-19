@@ -716,7 +716,60 @@ When you take this easy way, you’re making others’ opinions of you more impo
 
 In order to escape... ...of approval-seeking,.. ...it is important to examine the factors that foster the approval-seeking need.
 
+### Historical Antecedents of the Need for Approval
 
+The need for approval is based on a single assumption. “Don’t trust yourself —check it out with someone else first.”
+
+Our culture... ...reinforces approval-seeking behavior as a standard of life.
+
+“Don’t swear by yourself” is the essence of the need for tribute —and the backbone of our culture.
+
+Make someone else’s opinion more important than your own, then if you don’t get their approval, you have every reason to feel depressed, unworthy, or guilty, since they are more important than you.
+
+The bestowal of approval can be a great manipulator. Your worth is lodged in others and if they refuse to dole out their approval, you’ve got nothing. You are without worth. And so it goes, the more flattery you need, the more you can be manipulated by others.
+
+Any steps in the direction of self-approval and independence of the good opinion of others are movements away from their control. As a result such healthy moves get labeled as selfish, uncaring, inconsiderate and the like, in an effort to keep you dependent.
+
+### Early Family Approval-Seeking Messages
+
+Young children truly do need acceptance from significant adults (parents) in their formative years.
+
+Approval should not be contingent upon being proper, nor should a child have to get a parent’s sanction for everything he says, thinks, feels, or does. Self-reliance can be taught in the crib, and approval-seeking ought not be confused with love- seeking as you read this section.
+
+In order to encourage freedom from the need for approval in an adult, it is helpful to give the child an abundance of approval from the very beginning.
+
+Our culture teaches a child to rely on others rather than trusting his own judgment.
+
+“You can wear anything you like.”
+“How do you like this, Mommy?”
+“No, no honey! Stripes and polka dots don’t go together! Go back and change either the blouse or the slacks so that they match.”
+One week later...
+“What should I wear, Mommy?”
+“I’ve told you, wear whatever you like. Why do you always ask me?” 
+Why indeed...
+
+At the grocery store a cashier asks the child, “Would you like a piece of candy?” The child looks at her mom. “Would I like a piece of candy?” she asks. She has learned to check out everything with her parents, including whether she wants something or not.
+
+Rather than helping children to think for themselves, solve their own problems and develop trust in themselves, parents tend to treat children as possessions.
+
+> Your children are not your children. They are the sons and daughters of Life’s longing for itself. They come through you but not from you, And though they are with you yet they belong not to you.
+> Kahlil Gibran, The Prophet.
+
+Don’t trust yourself to resolve your difficulties. Mommy or Daddy will do it for you. Don’t rely on yourself to make the decisions you are capable of, check it out with someone else first.
+
+Children resist being molded into approval-seekers.
+
+As a child you wanted to think for yourself, to rely on yourself. If your Dad was helping you put on your coat when you were small, you said, “I can do it myself.” But too often the message in return was “I’ll do it for you. We don’t have time to wait,” or “You’re too little.”
+
+If you don’t, we’ll disapprove and when we disapprove of you, you must disapprove of yourself.
+
+The family unit nurtures, in the form of good intentions, dependence and the need for approval... ...Parents who don’t want any harm to come to their children resolve to protect them from danger. The result, however, is the opposite of that intended, for without the ammunition of knowing how to rely on the self in times of strife... ...it is impossible to build an arsenal of independent behavior for a lifetime.
+
+While many of the check-it-out-with-Mommy-or-Daddy messages were important for your own safety and health, others were sent to teach you a critical concept—proper behavior, behavior that will win approval. That approval, which should have been a given, became contingent upon your pleasing someone else.
+
+Approval... ...should be given to a child freely, not bestowed as a reward for proper conduct.
+
+A child should never be encouraged to confuse his own self- esteem with anyone else’s approval.
 
 
 
