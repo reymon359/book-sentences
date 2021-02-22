@@ -985,6 +985,39 @@ It will require a great deal of practice, but it is worth every bit of effort yo
 
 ## 4 Breaking Free From the Past
 
+Only a ghost wallows around in his past, explaining himself with self- descriptors based on a life lived through. You are what you choose today, not what you’ve chosen before.
+
+Who are you? How do you describe yourself? To answer these two questions, you will very likely have to refer to your own history, to a past that has been lived through, but to which you are undoubtedly tied, and from which you find it difficult to escape.
+
+Self-descriptors are not in themselves inappropriate, but they can be used in harmful ways. The very act of labeling might be a specific deterrent to growth. It’s easy to use the label as justification for remaining the same.
+
+Sören Kierkegaard wrote, “Once you label me, you negate me.”
+
+> “Once you label me, you negate me.”
+> —Sören Kierkegaard
+
+You could be negating yourself by identifying with your trademarks, rather than your own potential for growth.
+
+All self-labels come out of an individual’s history. But the past, as Carl Sandburg said in _Prairie,_ “is a bucket of ashes.”
+
+All self-defeating “I’ms” are the result of the use of these four neurotic sentences:
+(1)“That’s me.”
+(2) “I’ve always been that way.” 
+(3) “I can’t help it.”
+(4)“That’s my nature.”
+
+“Oh, I’ve always been that way.” Why? Because “That’s just the way I am.”... ...rationale... ...which comes from a past of always having behaved in that manner.
+
+You might ask someone why he always gets upset when the subject of accidents arises and he is likely to respond, “Oh, that’s just me, I’ve always been that way. I really can’t help it, it’s just my nature.” Whew! All four at once, and each being used as an explanation for why he will never be different and never even consider changing.
+
+Every time you use one of these four sentences you are really saying, “And I intend to continue being the way I’ve always been.”
+
+Here is a typical list of “I’ms” that may be included in your own self-portrait: I’m Shy, I’m a Lousy Cook, I’m Fat, I’m Lazy, I’m a Poor Speller, I’m Not Musical, I’m Not Athletic.
+
+The point is not which labels you choose, but that you choose to label yourself at all.
+
+
+
 
 ## 5 The Useless Emotions — Guilt and Worry
 
