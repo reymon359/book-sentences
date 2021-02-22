@@ -871,6 +871,34 @@ You can never escape disapproval, no matter how much you may want it to go away.
 would make no difference.
 > —Abraham Lincoln, a conversation at the White House reported by Francis B. Carpenter.
 
+### Some Examples of Typical Approval-Seeking Behavior
+
+Like self-rejection, approval-seeking encompasses a large category of self- defeating behaviors.
+
+• Changing a position, or altering what you believe because someone shows signs of disapproval.
+• Sugar-coating a statement to avoid the reaction of displeasure.
+• Apple-polishing in order to make someone like you.
+• Feeling depressed or anxious when someone disagrees with you.
+• Feeling insulted or put-down when someone states a contrary sentiment to
+your own.
+• Labeling someone a snob, or “stuck-up,” which is just another way of
+saying “Pay more attention to me.”
+• Being excessively agreeable and head nodding, even when you don’t agree
+at all with what is being said.
+• Eating a steak in a restaurant that is not cooked the way you ordered it,
+because the waiter won’t like you if you send it back.
+• Apologizing for yourself at every turn—the excessive “I’m sorry’s” that
+are designed to have others forgive you, and approve of you all of the time.
+• Behaving in _nonconforming_ ways for the purpose of gaining attention, which is the same neurosis as conforming for the sake of external approval. Thus, wearing tennis shoes with your tuxedo, or eating a handful of mashed potatoes and wanting to be noticed is still approval-seeking.
+• Being pathologically late for all occasions. Here you can’t help but be seen and it is an approval-seeking device which gets everyone to pay attention. You may be doing it out of a need to be distinguished, and hence you are controlled by those doing the noticing.
+• Trying to impress others with your knowledge of something that you know nothing about by “faking it.”
+• Begging for compliments by setting yourself up for approval, and then feeling bad when they don’t come.
+• Being unhappy about someone you respect having a contrary point of view, and expressing it to you.
+
+Approval-seeking... ...is only distasteful when it becomes a need, which, of course, is tantamount to giving up the self, and placing responsibility for how you feel in the hands of others whose approbation is being sought.
+
+
+
 ## 4 Breaking Free From the Past
 
 
