@@ -897,7 +897,30 @@ are designed to have others forgive you, and approve of you all of the time.
 
 Approval-seeking... ...is only distasteful when it becomes a need, which, of course, is tantamount to giving up the self, and placing responsibility for how you feel in the hands of others whose approbation is being sought.
 
+### The Dividends for Approval-Seeking
 
+A look at the why of this self-defeating behavior will be useful in coming up with some strategies for eliminating approval-seeking needs.
+
+Payoffs for approval-seeking as a need include:
+• Placing RESPONSIBILITY for your feelings on others. If you feel the way you do (lousy, hurt, depressed, etc.) because someone else didn’t approve of you, then THEY, not you, are responsible for how you feel.
+• If they are responsible for how you feel because of with-holding their approval, then any CHANGE in you is also impossible, since it is their fault that you feel the way you do. Then they are also responsible for keeping you from being different. Thus approval-seeking helps you to avoid changing.
+• As long as they are responsible and you can’t change, you don’t have to take any risks. Consequently, hanging onto approval-seeking as a way of life will help you to conveniently avoid any risk-taking activities in your life.
+• Reinforcing a poor self-image and therefore encouraging self-pity and do- nothingism. If you are immune from the need for approval, you are immune
+from self-pity when you don’t get it.
+• Reinforcing the idea that others must take care of you, and therefore you
+can revert to the child in you and be coddled, protected—and manipulated.
+• Blaming others for what you are feeling, thereby creating a scapegoating
+effect for everything you don’t like in your life.
+• Deluding yourself that you are liked by those others you’ve made more
+important than yourself and thus feeling outwardly comfortable even though there is a cauldron of discontent seething inside of you. As long as the others are more significant, then the outward appearance is more important.
+• Taking solace in the fact that others notice you, which gives you something to boast about to other approval-seeking friends.
+• Fitting into the culture which applauds such behavior and winning you the favor of the many.
+
+Approval-seeking helps you to avoid changing.
+
+The theme of avoiding responsibility, change and risk is at the heart of all the self-destructive thinking and behavior.
+
+It is just plain easier, more familiar and less risky to hang onto neurotic behaviors. Approval-seeking as a need is obviously no exception.
 
 ## 4 Breaking Free From the Past
 
