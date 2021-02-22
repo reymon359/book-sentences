@@ -922,6 +922,67 @@ The theme of avoiding responsibility, change and risk is at the heart of all the
 
 It is just plain easier, more familiar and less risky to hang onto neurotic behaviors. Approval-seeking as a need is obviously no exception.
 
+### A Look at the Supreme Irony of Approval-Seeking Behavior
+
+For a moment... ...Assume that you really wanted approval from everyone and that it was possible to obtain it... ...with this in mind... ...What is this individual like? How does he behave? What is it about him that attracts everyone? You probably have someone in mind who is candid, direct and straightforward, independent of other people’s opinions, and fulfilled. He probably has little or no time for approval-seeking. This is very likely a person who will tell it like it is, despite the consequences. Perhaps he finds tact and diplomacy less important than honesty. He is not a hurtful person, just an individual who has little time for the game-playing that goes with speaking delicately and being careful to say it just right to avoid hurting feelings. Isn’t that ironic! The people who seem to get the most approval in life are those who never seek it out, who have no desire for it, and who are not preoccupied with achieving it.
+
+Happiness is an absence of approval-seeking as a need.
+
+> A big cat saw a little cat chasing its tail and asked, “Why are you chasing your tail so?” Said the kitten, “I have learned that the best thing for a cat is happiness, and that happiness is my tail. Therefore, I am chasing it: and when I catch it, I shall have happiness.”
+Said the old cat, “My son, I, too, have paid attention to the problems of the universe. I, too, have judged that happiness is in my tail. But, I have noticed that whenever I chase after it, it keeps running away from me, and when I
+go about my business, it just seems to come after me wherever I go.”
+> —C. L. James, “On Happiness,” in To See a World in a Grain of Sand, by Caesar Johnson (Norwalk, Conn.: The C. R. Gibson Co., 1972).
+ 
+If you want all of that approval, it is ironic that the most effective way to get it is to not want it and to avoid chasing after it and to not demand it from everyone.
+
+By being in touch with yourself and using your positive self-image as a consultant, much more approval will come to you.
+
+Of course you will never get approval from everyone for everything that you do, but when you see yourself as worthy you’ll never be depressed when approval is withheld.
+
+Disapproval... ...natural consequence of living on this planet where people are individual in their perceptions.
+
+### Some Specific Strategies for Eliminating Approval-Seeking as a Need
+
+To cut down on your own approval-seeking behavior, you will need to come in touch with your own neurotic rewards for the continuation of the behavior.
+
+Beyond just thinking new self-enhancing thoughts when you contact disapproval... ...here are some specific things you can work on to get yourself out of the approval-seeking bind.
+• Label disapproval with new responses that begin with the word _you._ For example, you note that your father is not agreeing with you and is even getting angry. Rather than shifting or defending yourself, simply respond with, “You’re getting upset, and you feel that I shouldn’t think the way I do.” This will keep you in touch with the fact that disapproval belongs to him, not you. The you strategy can be employed any time, and with amazing results if you master the technique. You’ll have to fight your temptation to start with “I,” thereby putting yourself in the position of defending or modifying what you just said in order to gain acceptance.
+• If you think someone else is trying to manipulate you by withholding approval, say so. Instead of turning wishy-washy for the purpose of reaping some approval benefits, you can say out loud, “Generally I would shift my position now in order to get you to like me, but I really believe in what I said, and you’ll have to deal with your own feelings about it.” Or, “I guess you’d like me to change what I just said.” The act of labeling it will be helpful in keeping in touch with your own thinking and behavior.
+• You can thank someone for providing you with data that will be helpful in your growth, even though it was something you didn’t like. The act of thanking puts an end to any approval-seeking.
+• You can actively seek disapproval and work on yourself to not be upset. Select someone who is bound to disagree and, flying in the face of the disapproval, maintain your position calmly...  ...By going after disapproval, rather than avoiding it, you’ll build up your repertoire of behavior for dealing effectively with it.
+• You can practice ignoring disapproval and not paying any attention to those who attempt to manipulate you with their denunciation... ...By ignoring the abuse, he proved that he wasn’t going to evaluate himself on the basis of what someone else felt.
+• You can break the connecting chain between what others think, say and do, and your own self-worth. Talk to yourself when you encounter disapproval.
+“This is her stuff. I expect her to behave that way. It has nothing to do with me.” This approach will eliminate the self-hurt that you inflict when you connect someone else’s feeling with your own thoughts.
+• Ask yourself this important question when you acquire disapproval. If they agreed with me, would I be better off? The answer is obviously no. Whatever they think can have no effect on you unless you let it. Moreover, you’ll most likely find that you are better liked by those important folks like a boss, or loved one when you can disagree with them without worry.
+• Accept the simple fact that many won’t ever understand you, and that it is okay. Conversely, you won’t understand many people who are very close to you. You don’t have to. It’s all right for them to be different and the most fundamental understanding you can have is that you don’t understand.
+• You can refuse to argue or try to convince anyone of the rightness of your stance, and simply believe it.
+• Trust yourself when buying clothes or other personal items without first checking it out with someone whose opinion you value more than your own.
+• Stop verifying your facts by having them substantiated by someone else
+• Correct yourself out loud whenever you’ve behaved in an approval-seeking way, thereby becoming aware of this tendency and practicing new behaviors.
+• Work at eliminating the numerous apologies that you make even when you aren’t really sorry for what you’ve just said. All apologies are pleas for forgiveness, and requests for forgiveness are approval-seeking... ...While you can resolve not to behave in certain ways again, and see some of your behavior as unfortunate, apologizing behavior is a sickness that invests control of one’s feelings in another.
+• In a conversation, you can clock the amount of time that you speak and compare it with the amount spoken by your partner and acquaintances. You can work at not being the one who speaks infrequently and only when asked to participate.
+• You can observe at your next get-together how many more times you are interrupted, and whether you always condescend when you speak simultaneously with another member of the group. Your approval-seeking may be taking the form of timidity. You can devise strategies for speaking without being interrupted by labeling the behavior as it crops up in your social milieu.
+• Chronicle how many declarative versus interrogative sentences you make. Do you ask questions, seek permission and approval, as opposed to making a statement? For example, the question, “Nice day, isn’t it?” puts the other person into the problem-solving role, and you into the approval-seeking position. A simple, “Nice day” is a declaration, rather than an attempt to seek an answer. If you are always asking questions of others you are into approval-seeking in what may seem a petty area, but which is reflective of your lack of confidence in your own ability to take charge.
+
+The act of thanking puts an end to any approval-seeking.
+
+You’ll most likely find that you are better liked by those important folks like a boss, or loved one when you can disagree with them without worry.
+
+>....If people who do not understand each other at least understand that they do not understand each other, then they understand each other better than when, not understanding each other, they do not even understand that they do not understand each other.
+> —Gustav Ischheiser, Appearances and Realities.
+
+Work at not being the one who speaks infrequently and only when asked to participate.
+
+While you are not striving to wipe out all approval, you are working toward not being immobilized in any small way because you don’t get the blandishments you covet.
+
+Just as the dieter does not test his mettle for losing weight on a full stomach, or the individual who is quitting smoking doesn’t measure his resolve after just putting out a cigarette, you won’t really test yourself in the absence of disapproval.
+
+Until you are faced with the circumstances of contention you won’t know how you are doing.
+
+If you can eliminate this troublesome erroneous zone from your life, the rest will seem easy, because you have been conditioned to need approval from your first breath on this earth.
+
+It will require a great deal of practice, but it is worth every bit of effort you put into it. Immunity from despair in the face of disapproval is the ticket to a lifetime of delectable personal present-moment freedom.
+
 ## 4 Breaking Free From the Past
 
 
