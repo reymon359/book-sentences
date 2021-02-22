@@ -848,6 +848,28 @@ It is hardly surprising that... ...You’ve been conditioned... ...throughout yo
 
 > “Habit is habit, and not to be flung out of the window by any man, but coaxed downstairs a step at a time.”
 > -Mark Twain, Puddinhead Wilson’s Calendar
+ 
+### Coaxing Approval-Seeking Downstairs, A Step at a Time
+
+Take a look at the way the world works... ...you can never please everyone.
+
+If you please fifty percent of the people you are doing quite well. This is no secret.
+
+At least half of the people in your world are going to disagree with at least half the things you say.
+ 
+You will always have about a 50-50 chance of getting some disapproval whenever you express an opinion.
+
+Begin to look at disapproval in a new light. When someone disapproves of something you say, instead of being hurt, or instantly shifting your opinion to gain praise, you can remind yourself that you’ve just run into one of those folks in the fifty percent who don’t agree with you.
+
+Knowing that you’ll always get some disapproval for everything you feel, think, say or do is the way out of the tunnel of despair.
+
+Once you expect it... ...you’ll stop equating the repudiation of an idea or a feeling with the repudiation of you.
+
+You can never escape disapproval, no matter how much you may want it to go away. For every opinion you have, there is a counterpart out there with exactly the opposite view.
+
+> ...If I were to read, much less to answer all the attacks made on me, this shop might as well be closed for any other business. I do the very best I know how—the very best I can; and I mean to keep doing so until the end. If the end brings me out alright, what is said against me won’t amount to anything. If the end brings me out wrong, ten angels swearing I was right
+would make no difference.
+> —Abraham Lincoln, a conversation at the White House reported by Francis B. Carpenter.
 
 ## 4 Breaking Free From the Past
 
