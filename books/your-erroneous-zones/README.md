@@ -1016,6 +1016,29 @@ Here is a typical list of “I’ms” that may be included in your own self-por
 
 The point is not which labels you choose, but that you choose to label yourself at all.
 
+### How Those “I’ms” Got Started
+
+The antecedents to your I’ms fall into two categories. The first kind of labels come from other people. They were pinned on you as a child and you carry them around with you to this day. The other labels are the result of a choice you made to keep from having to do uncomfortable or difficult chores.
+
+Most I’ms are leftovers, hangers-on from a time when you heard such sentences as: “He’s kind of clumsy; his brother is good at athletics, but he’s the studious one.”... ...Or, “Billy was always the shy one.” Or, “She’s just like her father; he couldn’t carry a tune with a wheelbarrow.”
+
+I’ms that never get challenged. They are simply accepted as a condition of life.
+
+Have a conversation with the people in your life who you feel are most responsible for many of your I’ms... ...Ask them how they think you got to be the way you are and if you’ve always been that way. Tell them you are determined to change... ...You’ll be surprised at their own interpretations and how they feel you can’t be any different, since “You’ve always been that way.”
+
+The second category of I’ms originates in those convenient tags that you’ve learned to place on yourself in order to avoid distasteful activities.
+
+He avoids having to fix the doorbell, or the radio, or any unpleasant handyman activity by simply reminding his wife, “Now you know, dear, I’m just not mechanical.”
+
+These kinds of I’ms are adaptive behaviors, but they are nevertheless delusional excuses.
+
+In these cases, the individuals are saying something about themselves. They are stating, “I am a finished product in this area, and I am never going to be any different.”
+
+If you are a finished product, all tied up and put away, you have stopped growing, and while you may very well want to hang onto some I’ms you may find that others are simply limiting and self-destructive.
+
+To stay exactly the way you are in any area is to make one of those deathlike decisions described in Chapter I.
+
+This is not a discussion of the things that you just plain don’t enjoy, but rather a look at behavior that keeps you from activities from which you might choose a great deal of pleasure and excitement.
 
 
 
