@@ -1040,6 +1040,13 @@ To stay exactly the way you are in any area is to make one of those deathlike de
 
 This is not a discussion of the things that you just plain don’t enjoy, but rather a look at behavior that keeps you from activities from which you might choose a great deal of pleasure and excitement.
 
+### Ten Typical “I’m” Categories and Their Neurotic Dividends
+
+1. _I’m poor at math, spelling, reading, languages, etc._ This I’m guarantees that you won’t put in the effort required to change... ...As long as you label yourself inept, you have a built-in reason to avoid tackling it.
+2. _I’m lousy at some skill areas such as cooking, sports, crocheting, drawing, acting, etc._ This I’m assures that you won’t have to do any of these things in the future and justifies any poor performance in the past... ...it helps you to hang onto the absurd notion that you shouldn’t do anything if you don’t do it really well. Thus, unless you’re the world champion, avoidance is better than doing.
+3. _I’m shy, reserved, temperamental, nervous, afraid, etc._
+The call is to genetics for these I’ms. Rather than challenging them and the self-destructive thinking which supports them, you simply accept them as a confirmation of the way you’ve always been... ...You choose this behavior as a way to avoid being assertive in situations which have always been troublesome for you... ...These are the personality I’ms. These self-definitions help you to avoid the tough business of being different from what you’ve always been... ...You simply define your personality with a convenient I’m and you can now excuse all kinds of self-forfeiting behaviors as out of your control.
+4.
 
 
 ## 5 The Useless Emotions — Guilt and Worry
