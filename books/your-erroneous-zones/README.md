@@ -1118,6 +1118,48 @@ Throughout life, the two most futile emotions are guilt for what has been done a
 
 As you examine these two erroneous zones, you will begin to see how connected they are; in fact they can be viewed as opposite ends of the same zone.
 
+![Guilt and worry in time](./guilt-and-worry-in-time.jpg)
+
+_Guilt_ means that you use up your present moments being immobilized as a result of _past_ behavior, while _worry_ is the contrivance that keeps you immobilized in the now about something in the _future_
+
+if you try to think of yourself as feeling guilty about an event that has yet to occur, or to worry about something that has happened. Although one response is to the future and the other to the past, they both serve the identical purpose of keeping you upset or immobile in your present moment.
+
+> It isn’t the experience of today that drives men mad. It is the remorse for something that happened yesterday, and the dread of what tomorrow may disclose.
+> -Robert Jones Burdette, Golden Day
+
+The world is populated with folks who are either feeling horrible about something that they shouldn’t have done or dismayed about things that might or might not happen. You are probably no exception.
+
+Guilt and worry are perhaps the most common forms of distress in our culture.
+
+With guilt you focus on a past event... ...and use up your present moments being occupied with feelings over the past behavior.
+
+With worry, you use up those valuable nows, obsessing about a future event.
+
+Whether you’re looking backward or forward, the result is the same. You’re throwing away the present moment.
+
+> There are two days in the week about which and upon which I never worry. Two carefree days, kept sacredly free from fear and apprehension. One of these days is yesterday...and the other day I do not worry about is tomorrow.
+> -Robert Jones Burdette, Golden Day
+
+### A Closer Look at Guilt
+
+Many of us have been subjected to a conspiracy of guilt in our lifetimes... ...to turn us into veritable guilt machines. The machine works like this. Someone sends out a message designed to remind you that you’ve been a bad person because of something you said or didn’t say, felt or didn’t feel, did or didn’t do. You respond by feeling bad in your present moment. You are the guilt machine... ...that responds with guilt whenever the appropriate fuel is poured into you. And you are well oiled if you’ve had a total immersion into our guilt-producing culture.
+
+It is considered “bad” if you don’t feel guilty, and “inhuman” not to worry. It all has to do with CARING. If you really care about anyone, or anything, then you show this concern by feeling guilty about the terrible things you’ve done, or by giving some visible evidence that you are concerned about their future.
+
+You have to demonstrate your neurosis in order to be labeled a caring person.
+
+Guilt is the most useless of all erroneous zone behaviors. It is by far the greatest waste of emotional energy... ...you are feeling immobilized in the present over something that has _already_ taken place, and no amount of guilt can ever change history.
+
+#### Distinguishing Guilt from Learning From your Past
+
+Guilt is not merely a concern with the past; it is a present-moment immobilization about a past event. And the degree of immobilization can run from mild upset to severe depression.
+
+If you are simply learning from your past, and vowing to avoid the repetition of some specific behavior, this is not guilt.
+
+Learning from your mistakes is healthy and a necessary part of growth.
+
+No amount of guilt can ever undo anything.
+
 ## 6 Exploring the Unknown
 
 
