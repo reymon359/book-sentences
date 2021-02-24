@@ -1208,6 +1208,33 @@ Reaching adulthood does not put an end to parental manipulation by guilt.
 
 Parental-and family-associated guilt is the most common strategy for keeping a rebellious person in tow... ...helping a son/daughter to choose guilt (present-moment immobility over a past event) as the price of genealogy.
 
+### Lover- and Spouse-Related Guilt
+
+The “If you loved me” guilt is one way to manipulate a lover.
+
+Whenever one person doesn’t measure up, guilt can be used to get him back into the fold. He must feel guilty for not having loved the other.
+
+Grudges, long silences and hurtful looks are useful methods of engendering guilt... ...This is a commonly employed tactic in the case of straying behavior on the part of one partner.
+
+Often, years after an incident, an action is recalled to help the other person to choose present-moment guilt.
+
+Guilt is useful in making a love partner conform to the other’s demands and standards of behavior.
+
+The goal? Getting one partner to do what the other wants him to. The method? Guilt.
+
+### Children-Inspired Guilt
+
+The parental guilt game can be reversed. Guilt can be a two-way street and children are just as apt to use it in manipulating their parents as the reverse.
+
+If a child realizes that his parent cannot cope with his being unhappy and will feel guilty for being a bad parent, the child will often try to use that guilt to manipulate the parent.
+
+“You don’t love me. If you did you wouldn’t treat me this way.” And the ultimate, “I must be adopted. My real parents wouldn’t treat me like this.” All these statements carry the same message. You as a parent ought to feel guilty for treating me, your child, in this way.
+
+Children learn this guilt-producing behavior by watching the adults in their world use them to get the things that they want.
+
+Guilt is not a natural behavior. It is a learned emotional response that can only be used if the victim teaches the exploiter that he is vulnerable.
+
+If your children use these tactics, they picked them up somewhere. Very likely, from you.
 
 
 
