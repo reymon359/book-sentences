@@ -1062,6 +1062,21 @@ After you use these labels enough, you begin to believe them yourself, and at th
 
 Labels enable you to avoid the hard work and the risk of trying to change. They perpetuate the behavior which has given rise to them.
 
+![The I'm circle](./the-im-circle.jpg)
+
+Whatever the reasons for his fear he has decided not to go to work on his social-wariness, but to explain it away with a simple I’m. His fear of failing is strong enough to prevent him from trying.
+
+Were he to believe in the present moment and his ability to make a choice, his sentence would change from, “I’m shy,” to “Up until now, I’ve behaved in a shy manner.”
+
+![The I'm circle updated](./the-im-circle-updated.jpg)
+
+Those infernal I’ms are the things that you call upon to exonerate yourself and to explain to others why you persist in a self-defeating pattern.
+
+The number one payoff for hanging onto your past and resting on your I’ms is avoidance of change.
+
+Every time you use an I’m to explain a behavior that you don’t like, think of yourself in that gaily decorated box, all wrapped up as a finished package.
+
+A neat little payoff indeed, and one that provides you with a warranty against any risk-taking. If it’s the “culture’s” fault that you have this I’m, you can’t do anything about it.
 
 ## 5 The Useless Emotions — Guilt and Worry
 
