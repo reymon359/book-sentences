@@ -1101,6 +1101,14 @@ Strategies for eliminating those I’ms include:
 
 All of your I’ms are learned avoidance patterns, and you can learn to be almost anything if you make the choice to do so.
 
+### Some Final Thoughts
+
+There is no such thing as human nature. The phrase itself is designed to pigeonhole people and to create excuses.
+
+You are the sum product of your choices, and every I’m you treasure could be relabeled, “I’ve chosen to be.”
+
+> “The best thing for being sad,” replied Merlin, beginning to puff and blow, “is to learn something. That is the only thing that never fails. You may grow old and trembling in your anatomies, you may lie awake at night listening to the disorder of your veins, you may miss your only love, you may see the world about you devastated by evil lunatics, or know your honor trampled in the sewers of baser minds. There is only one thing for it then—to learn. Learn why the world wags and what wags it. That is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting. Learning is the thing for you. Look at what a lot of things there are to learn—pure science, the only purity there is. You can learn astronomy in a lifetime, natural history in three, literature in six. And then, after you have exhausted a million lifetimes in biology and medicine and theocriticism and geography and history and economics, why, you can start to make a cartwheel out of the appropriate wood, or spend fifty years learning to begin to learn to beat your adversary at fencing. After that you can start again on mathematics until it is time to learn to plough.”
+> -Merlin character in Terence H. White, The Once and Future King  
 
 ## 5 The Useless Emotions — Guilt and Worry
 
