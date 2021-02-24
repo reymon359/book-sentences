@@ -1294,6 +1294,25 @@ from yourself to others. It is easy to get infuriated at how you are being manip
 
 Guilt, like all self-nullifying emotions, is a choice, something that you exercise control over.
 
+### Some Strategies for Eliminating Guilt
+
+• Begin to view the past as something that can never be changed, despite how you feel about it... ...Emblazon this sentence on your consciousness. “My feeling guilty will not change the past, nor will it make me a better person.” This sort of thinking will help you to differentiate guilt from learning as a result of your past.
+• Ask yourself what you are avoiding in the present with guilt about the past. By going to work on that particular thing, you will eliminate the need for guilt.
+• Begin to accept certain things about yourself that you’ve chosen but which others may dislike... ...Remember what was said earlier about approval seeking. It is necessary that you approve of yourself; the approval of others is pleasant but beside the point. Once you no longer need approval, the guilt for behavior which does not bring approval will disappear.
+• Keep a _Guilt Journal_ and write down any guilty moments, noting precisely when, why, and with whom it occurs, and what you are avoiding in the present with this agonizing over the past. The journal should provide some helpful insights into your particular guilt zone.
+• Reconsider your value system. Which values do you believe in and which do you only pretend to accept? List all of these phony values and resolve to live up to a code of ethics that is self-determined, not one that has been imposed by others.
+• Make a list of all the bad things you’ve ever done. Give yourself guilt points for each of them on a scale of one to ten. Add up your score and see if it makes any difference in the present whether it’s one hundred or one million. The present-moment is still the same and all of your guilt is merely wasteful activity.
+• Assess the real consequences of your behavior... ...determine whether the results of your actions are pleasing and productive for you.
+• Teach those in your life who attempt to manipulate you with guilt that you are perfectly capable of handling their disappointment in you... ...It will take some time, but their behavior will begin to change once they see they cannot force you to choose guilt. Once you de-fuse the guilt, the emotional control over you and the possibility of manipulation are eliminated forever.
+• Do something which you know is bound to result in feelings of guilt... ...These kinds of behavior will help you to tackle that omnipresent guilt that so many sectors of the environment are adept at helping you to choose.
+
+By saying “You feel,” rather than “I feel,” the potential for guilt is tactfully minimized.
+
+Such is guilt in our culture—a convenient tool for manipulating others and a futile waste of time.
+
+Worry... ...is diagnostically identical to guilt, but focuses exclusively on the future and all of the terrible things that _might_ happen.
+
+###
 
 ## 6 Exploring the Unknown
 
