@@ -1280,7 +1280,19 @@ If I had to locate a guilt center in the body, I would place it in the crotch.
 
 Keep in mind that whatever the dividend, it is bound to be self-defeating, and remember that the next time you opt for guilt over freedom.
 
+### The Psychological Payoffs for Choosing Guilt
 
+Basic reasons for choosing to waste your present feeling guilty about things that you’ve done or failed to do in the past:
+• By absorbing your present moments feeling guilty about something that has already taken place, you don’t have to use that now moment in any kind of effective, self-enhancing way... ...like so many self-defeating behaviors, guilt is an avoidance technique for working on yourself in the present. Thus you shift responsibility for what you are or are not now to what you were or were not in the past.
+• By shifting responsibility backward you not only avoid the hard work of changing yourself now but the attendant risks that go with change as well. It is easier to immobilize yourself with guilt about the past than to take the hazardous path of growing in the present.
+• There is a tendency to believe that if you feel guilty enough, you will eventually be exonerated for having been naughty. This being forgiven payoff is the basis of the prison mentality described above, in which the inmate pays for sins by feeling terrible for a long period of time. The greater the transgression, the longer the period of remorse necessary for pardon.
+• Guilt can be a means of returning to the safety of childhood, a secure period when others made decisions for you and took care of you. Rather than taking yourself in hand in the present, you rely on the values of others from your past. And once again the payoff is in being protected from having to take charge of your own life.
+• Guilt is a useful method for transferring responsibility for your behavior
+from yourself to others. It is easy to get infuriated at how you are being manipulated and to shift the focus for your guilt off yourself, and onto those infernal others, who are so powerful that they can make you feel anything they want, including guilt.
+• Often you can win the approval of others even when those others don’t approve of your behavior by feeling guilt for that behavior. You may have done something out of line, but by feeling guilty you are showing that you know the proper way to behave, and are making an attempt to fit in.
+• Guilt is a superb way to win pity from others. No matter that the desire for the pity is a clear indication of low self-esteem. In this case you’d rather have others feel sorry for you, than like and respect yourself.
+
+Guilt, like all self-nullifying emotions, is a choice, something that you exercise control over.
 
 
 ## 6 Exploring the Unknown
