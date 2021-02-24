@@ -1112,6 +1112,11 @@ You are the sum product of your choices, and every I’m you treasure could be r
 
 ## 5 The Useless Emotions — Guilt and Worry
 
+If you believe that feeling bad or worrying long enough will change a past or future event, then you are residing on another planet with a different reality system.
+
+Throughout life, the two most futile emotions are guilt for what has been done and worry about what might be done.
+
+As you examine these two erroneous zones, you will begin to see how connected they are; in fact they can be viewed as opposite ends of the same zone.
 
 ## 6 Exploring the Unknown
 
