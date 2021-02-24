@@ -1236,6 +1236,51 @@ Guilt is not a natural behavior. It is a learned emotional response that can onl
 
 If your children use these tactics, they picked them up somewhere. Very likely, from you.
 
+### School-Inspired Guilt
+
+Teachers are superlative guilt originators, and children... ...are excellent subjects for manipulation.
+
+“Your mother is really going to be disappointed in you.”
+“You should be ashamed of yourself for getting a C—a smart boy like you.”
+
+Guilt is often used in schools to make children learn certain things or behave in certain ways. 
+
+As an adult you are a product of those schools.
+
+### Church-Related Guilt
+
+Religion is often used to produce guilt and therefore manipulate behavior. Here God is generally the one you have let down. In some cases the message is that you will be kept out of heaven for having behaved badly.
+
+“If you loved God, you wouldn’t behave that way.”
+“You won’t get into heaven unless you repent for your sins.”
+
+### Other Institutional Guilt Producers
+
+Most prisons operate on the guilt theory. That is, if a person sits long enough thinking how bad he’s been, he will be better for the guilt.
+
+Sit in a jail and feel bad for what you’ve done. This policy is so expensive and useless that it defies logical explanation. The illogical explanation, of course, is that _guilt_ is such an integral part of our culture, that it is the backbone of our criminal justice system.
+
+Rather than have civil law breakers help society or repay their debts, they are reformed through guilt-producing incarceration that has no benefit to anyone, least of all the offender.
+
+No amount of guilt, however large, will change past behavior.
+
+In our society tipping is a practice that has come to reflect not superior service but the guilt of the person served. Effective waiters and waitresses, cab drivers, bell boys, and other serving employees have learned that most people cannot handle guilt for not behaving in the correct way and will tip the standard percentage regardless of the quality of service received.
+
+Littering, smoking and other unacceptable behavior may be things that you can be made to feel guilty about... ...Instead of feeling guilty about something you have already done, why not simply resolve not to behave in an antisocial manner again.
+
+Dieting is an area that is loaded with guilt... ...If you are striving to lose weight and give in to counterproductive behavior, you can learn from it and work at being more effective in your present moment.
+
+To feel guilty and full of self-reproach is a waste of time, for, if you feel that way for very long, you are likely to repeat... ...as your own neurotic way out of your dilemma.
+
+### Sexual Expression Guilt
+
+Perhaps the area where guilt flourishes best in our society is in the realm of sex. We have already seen how parents engender guilt in children for sexual acts or thoughts... ...Some people can’t admit to enjoying oral sex and often feel guilty for even thinking about it.
+
+If I had to locate a guilt center in the body, I would place it in the crotch.
+
+Keep in mind that whatever the dividend, it is bound to be self-defeating, and remember that the next time you opt for guilt over freedom.
+
+
 
 
 ## 6 Exploring the Unknown
