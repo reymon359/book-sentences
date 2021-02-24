@@ -1078,6 +1078,30 @@ Every time you use an I’m to explain a behavior that you don’t like, think o
 
 A neat little payoff indeed, and one that provides you with a warranty against any risk-taking. If it’s the “culture’s” fault that you have this I’m, you can’t do anything about it.
 
+### Some Strategies for Freeing Yourself from the Past and Eliminating Your Vexing I’ms
+
+Leaving the past behind involves taking risks.
+
+You have become accustomed to your self-definitions.
+
+Strategies for eliminating those I’ms include:
+- Eliminating I’m wherever you can. Substitute with such sentences as, “Until today I’ve chose to be that way,” or “I used to label myself...”
+- Announce to those close to you that you are going to work at eliminating some of your I’ms... ...ask them to remind you whenever you haul them out.
+- Set behavioral goals to act differently than you’ve ever done before. For example, if you consider yourself shy, introduce yourself to one person who you might otherwise have avoided.
+- Talk with a trusted confidant who will help you combat the powers of the past. Ask him to signal you silently with a tug to his ear each time he notices you falling back into your I’m.
+- Keep a journal on your self-destructive I’m behavior, and record your action as well as how you were feeling about yourself while you were behaving that way. For one week record in a notebook the exact time, date and occasion when you used any of the self-destructive I’ms, and work at diminishing the entries. Use the list provided earlier in this chapter as a guide to your journal- keeping.
+- Watch out for the four neurotic sentences and whenever you fall into using them, correct yourself out loud in the following way. Change: 
+“That’s me.”...to...“That was me.”
+“I can’t help it.”...to...“I can change that if I work on it.”
+“I’ve always been that way.”...to...“I’m going to be different.”
+“That’s my nature.”...to...“That’s what I used to believe was my nature.”
+- Try to work each day on eliminating one I’m just for that day.
+- You can interrupt your own “I’m-Circle” between point 3 and 4, and resolve to toss out those ancient excuses for avoidance.
+- Find something you’ve never done and set aside an afternoon for that activity. After your three-hour immersion in a totally new activity, one that you’ve always avoided in the past, see if you can still use the same I’m that you applied that morning.
+
+All of your I’ms are learned avoidance patterns, and you can learn to be almost anything if you make the choice to do so.
+
+
 ## 5 The Useless Emotions — Guilt and Worry
 
 
