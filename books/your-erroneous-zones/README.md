@@ -1312,7 +1312,44 @@ Such is guilt in our culture—a convenient tool for manipulating others and a f
 
 Worry... ...is diagnostically identical to guilt, but focuses exclusively on the future and all of the terrible things that _might_ happen.
 
-###
+### A Closer Look at Worry
+
+There is nothing to worry about! Absolutely nothing. You can spend the rest of your life, beginning right now, worrying about the future, and no amount of your worry will change a thing.
+
+Worry is... ...being immobilized in the present as a result of things that are going or not going to happen in the future.
+
+You must be careful not to confuse worrying with planning for the future. If you are planning, and the present-moment activity will contribute to a more effective future, then this is not worry. It is worry only when you are in any way immobilized now about a future happening.
+
+Society... ...encourages worry... ...it all begins with equating worrying with caring. If you care about someone... ...then you are bound to worry about the person.
+
+“I can’t help worrying, it’s because I love you.” Thus, you prove your love by doing an appropriate amount of worrying at the correct time.
+
+Worry is endemic to our culture. Almost everyone spends an inordinate amount of present moments worrying about the future. And all of it is for naught.
+
+Not one moment of worry will make things any better. In fact, worry will very likely help you to be less effective in dealing with the present.
+
+Love predicates a relationship in which each person has the right to be what he chooses without any necessary conditions imposed by the other.
+
+Think of yourself as being alive in 1860, at the beginning of the Civil War... ...there are approximately thirty-two million people in the United States. Each of those thirty-two million folks has hundreds of things to worry about... ...some years later, all of those worriers are dead and all their combined worrying did not change a moment of what is now history.
+
+When the earth is populated by an entirely new crew, will any of your worry moments have made a difference? No.
+
+Do any of your worry times make a difference today, in terms of changing the things you worry about? No, again.
+
+You are just wasting those precious present moments on behavior that has absolutely no positive payoff for you.
+
+Much of your worry concerns things over which you have no control.
+
+You can worry all you want about war... ...but worry won’t bring peace.
+
+> What a list! Something old and something new, something cosmic yet something trivial too, for the creative worrier must forever blend the pedestrian with the immemorial. If the sun burns out, will the Mets be able to play their entire schedule at night? If cryogenically frozen human beings are ever revived, will they have to re-register to vote? And if the little toe disappears, will field goals play a smaller part in the National Football
+League?
+> -The New Yorker, “Look for the Rusty Lining,” Ralph Schoenstein
+
+You may be in the professional worrier classification, creating unnecessary stress and anxiety in your life as a result of the choices you are making to worry about every conceivable kind of activity. Or you may be a minor league worrier concerned only about your own personal problems. The following list represents the most common responses to the question, “What do you worry about?”
+
+
+
 
 ## 6 Exploring the Unknown
 
