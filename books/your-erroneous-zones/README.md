@@ -1348,8 +1348,79 @@ League?
 
 You may be in the professional worrier classification, creating unnecessary stress and anxiety in your life as a result of the choices you are making to worry about every conceivable kind of activity. Or you may be a minor league worrier concerned only about your own personal problems. The following list represents the most common responses to the question, “What do you worry about?”
 
+### Typical Worry Behaviors in our Culture
 
+I gathered the following data from some two hundred adults at a lecture one evening. I call this your worry sheet... ...They are not listed in any particular sequence of frequency or importance... ...YOUR WORRY SHEET
+I worry about...
+1. My children (“Everyone worries about their children, I wouldn’t be a very good parent if I didn’t, now would I?”)
+2. My health (“If you don’t worry about your health, you could die at anytime!”)
+3. Dying (“No one wants to die. Everyone worries about death.”)
+4. My job (“If you don’t worry about it, you might lose it.”)
+5. The economy (“Someone ought to worry about it, the President doesn’t seem to care.”)
+6. Having a heart attack (“Everyone does, don’t they?” “Your heart could go at any minute.”)
+7. Security (“If you don’t worry about security, you’ll find yourself in the poorhouse, or on welfare.”)
+8. My wife’s/husband’s happiness (“God knows I spend a lot of time worrying about him/her being happy, and they still don’t appreciate it.”)
+9. Am I doing the right thing? (“I always worry about doing things right, that way I know I’m okay.”)
+10. Having a healthy child if you’re pregnant (“Every mother-to-be worries about that.”)
+11. Prices (“Somebody ought to worry about them before they skyrocket out of sight.”)
+12. Accidents (“I always worry that my spouse or the children will have an accident. It’s only natural, isn’t it?”)
+13. What others will think (“I worry about my friends not liking me.”)
+14. My weight (“No one wants to be fat, so naturally I worry about not gaining back any of the weight I lost.”)
+15. Money (“We never seem to have enough, and I worry that someday we’ll be broke and have to go on welfare.”)
+16. My car breaking down (“It’s an old clunker and I drive it on the expressway, so of course I worry about it and what might happen if it did.”) 
+17. 17. My bills (“Everyone worries about paying their bills. You wouldn’t be human if you didn’t worry about bills.”)
+18. My parents dying (“I don’t know what I’d do if they died, it worries me sick. I worry about being alone, I don’t think I could handle it.”)
+19. Getting into heaven or what if there is no God (“I can’t stand the idea of there being nothing.”)
+20. The weather (“I plan things like a picnic and maybe it’ll rain. I worry about having snow for skiing.”)
+21. Getting old (“No one wants to get old, and you can’t kid me, everyone worries about that one.” “I don’t know what I’ll do when I retire and I really worry about that.”)
+22. Flying (“You hear about all those plane crashes.”)
+23. My daughter’s virginity (“Every father who loves his daughter worries that she’ll be hurt, or get into trouble.”)
+24. Talking in front of groups (“I get petrified in front of a crowd and I worry like crazy before I do it.”)
+25. When my spouse doesn’t call (“It seems normal to me to worry when you don’t know where some one you love is, or if they’re in trouble.”)
+26. Going into the city (“Who knows what’ll happen in the jungle. I worry every time I go in.” “I always worry about whether I’ll get a parking space.”)
 
+And perhaps the most neurotic of all...
+27. Having nothing to worry about (“I can’t just sit still when everything
+seems all right, I worry about not knowing what will happen next.”)
+
+> West Islip—Two officials of the Nassau-Suffolk Hospital Council warned yesterday that those _worrying_ about the problems that the malpractice insurance crisis could create—if doctors cease treating patients entirely or treat only emergency cases—have not _worried_ quite enough.
+> —Newsday (May 3, 1975) on hospital malpractice insurance.
+ 
+The cultural pressure is to worry, rather than to do.
+
+If worry is a large part of your life, you can bet that it has many historical antecedents.
+
+Worry and guilt are self-nullifying behaviors, that vary only in a temporal sense. Guilt focuses on the past; worry on the future.
+
+### The Psychological Payoffs for Choosing Worry
+
+- Worry is a present-moment activity. Thus, by using your current life being immobilized over a future time in your life, you are able to escape the now and whatever it is in the now that threatens you... ...While I love writing, I also find it an intensely lonely, difficult chore which requires a great deal of self-discipline... ...As long as I could use up my present moments worrying I didn’t have to struggle with the difficulty of writing. A terrific payoff indeed.
+- You can avoid having to take risks by using your worry as the reason for immobility... ...“I can’t do a thing, I’m just too worried about———” This is a common lament, and one with a payoff that keeps you standing still and avoiding the risk of action.
+- You can label yourself as a _caring person_ by worrying... ...A handsome dividend, although lacking in logical healthy thinking.
+- Worry is a handy justification for certain self-defeating behavior... ...If you’re overweight, you undoubtedly eat more when you worry, hence you have a sensational reason for hanging on to the worry behavior... ...The worry helps you to avoid changing. It is easier to worry... ...than to take the risk of finding out the truth.
+- Your worry keeps you from living... ...A worrier sits around and thinks about things, while a doer must be up and about.
+- Worry can bring ulcers, hypertension, cramps, tension headaches, backaches and the like. While these may not seem to be payoffs, they do result in considerable attention from others and justify much self-pity as well... ...some people would rather be pitied than fulfilled.
+
+### Some Strategies for Eliminating worry
+
+- View your present moments as times to live, rather than to obsess about the future... ...When you catch yourself worrying, ask yourself, “What am I avoiding now by using up this moment with worry?” Then begin to attack whatever it is you’re avoiding... ...The best antidote to worry is action.
+- Recognize the preposterousness of worrry... ...Ask yourself over and over, “Is there anything that will ever change as a result of my worrying about it?”
+- Give yourself shorter and shorter periods of “worry-time.”... ...Use these periods to fret about every potential disaster you can get into the time slot. Then, using your ability to control your own thoughts, postpone any further worry until your next designated “worry-time.” You’ll soon see the folly of using any time in this wasteful fashion, and will eventually eliminate your worry zone completely.
+- Make a worry list of everything you worried about yesterday, last week and even last year. See if any of your worry did anything productive for you... ...Worry is really a doubly wasteful activity. It does nothing to alter the future. And the projected catastrophe often turns out to be minor, or even a blessing when it arrives.
+- _Just Worry!_ See if it is something that you can demonstrate when you are tempted to worry. That is, stop and turn to someone and say, “Watch me—I’m about to worry.” They’ll be confounded since you probably won’t even know how to demonstrate the thing you do so well, so often.
+- Ask yourself... ...“What’s the worst thing that could happen to me (or them) and what is the likelihood of it occurring?” You’ll discover the absurdity of worry in this way.
+- Deliberately choose to act in some manner that is in direct conflict with your usual areas of worry... ...If you compulsively save for the future... ...begin to use your money today. Be like the rich uncle who put in his will, “Being of sound mind, I spent all my money while I was alive.”
+- Begin to face the fears you possess with productive thought and behavior... ...an effective challenge to a fear or worry is the most productive way to eradicate it from your life.
+- The most effective weapon you have for wiping out worry is your own determination to banish this neurotic behavior from your life.
+
+### Final Thoughts on Worry and Guilt
+
+The present moment is the key to understanding your guilt and worry activities. Learn to live now and not waste your current moments in immobilizing thoughts about the past or future.
+
+There is no other moment to live but now, and all of your futile guilt and worry are done in the elusive now.
+
+> “The rule is, jam tomorrow, and jam yesterday...but never jam today.” “It must come sometimes to ‘jam-today,’ ” Alice objected.
+> -Lewis Carroll, Alice Through the Looking Glass
 
 ## 6 Exploring the Unknown
 
