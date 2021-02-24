@@ -1188,6 +1188,25 @@ The guilt... ...not only keeps you immobilized, but it actually intensifies the 
 
 As long as you retain the potential payoff of absolving yourself with guilt, you’ll be able to keep yourself in that vicious treadmill that leads to nothing but present-moment unhappiness.
 
+### Typical Guilt-Producing Categories and Reactions
+
+Parental guilt on children of all ages. Manipulating the child to complete a task through guilt.
+
+A parent can recall all of the hard times in which he gave up his happiness so that you might have something.
+
+Guilt is an effective method for parental manipulation of a child’s actions.
+
+Parental illness is a super guilt manufacturer. “You’ve made my blood pressure go up.” References to “killing me” or “giving me a heart attack” are effective guilt prodders, as well as blaming you for virtually all of the normal ailments associated with growing older.
+
+You need big shoulders to carry this guilt around, since it can literally last a lifetime, and if you are particularly vulnerable, you can even carry the guilt of a parent’s death.
+
+Sexual guilt imposed by parents is quite common. All sexual thought or behavior is fertile soil for the cultivation of guilt.
+
+A child can be helped to learn socially acceptable behavior without the accompanying guilt. A simple reminder which follows an explanation of why the behavior is undesirable is much more effective.
+
+Reaching adulthood does not put an end to parental manipulation by guilt.
+
+Parental-and family-associated guilt is the most common strategy for keeping a rebellious person in tow... ...helping a son/daughter to choose guilt (present-moment immobility over a past event) as the price of genealogy.
 
 
 
