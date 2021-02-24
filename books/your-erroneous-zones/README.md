@@ -1160,6 +1160,38 @@ Learning from your mistakes is healthy and a necessary part of growth.
 
 No amount of guilt can ever undo anything.
 
+### The Origins of Guilt
+
+Two basic ways in which guilt becomes a part of the emotional makeup of an individual. In the first, guilt is learned at a very early age and remains with a grown-up as a leftover childish response. In the second case, guilt is self-imposed by an adult for an infraction of a code to which he professes to subscribe.
+
+1. _Leftover Guilt._ This guilt is the emotional reaction which is carried around from childhood memories. There are scores of these guilt producers, and while they work in that they produce results in children, people still tote around these sentences as adults.
+
+As an adult... ...these... ...can still produce hurt if a person disappoints... ...others whom he has made into parents. The persistent attempt to win their support is there, and so is the guilt when the efforts are unsuccessful.
+
+These guilt reactions are present as a result of learning to be manipulated by adults in childhood, but they can still operate when the child has grown up.
+
+2. _Self-imposed Guilt._ This second category of guilt reactions is a much more troublesome area. Here the individual is being immobilized by things he has done recently, but which are not necessarily tied to being a child. This is the guilt imposed on the self when an adult rule or moral code is broken.
+
+The individual may feel bad for a long time even though the hurting can do nothing to change what has happened.
+
+You can look at all of your guilt either as reactions to leftover imposed standards in which you are still trying to please an absent authority figure, or as the result of trying to live up to self-imposed standards which you really don’t buy, but for some reason pay lip service to. In either case, it is stupid, and, more important, useless behavior.
+
+Your guilt is an attempt to change history, to wish that it weren’t so. But history is so and you can’t do anything about it.
+
+While the restraining messages are omnipresent in our culture, guilt about enjoying yourself is purely self-inflicted.
+
+You can learn to savor pleasure without a sense of guilt. You can learn to see yourself as someone who is capable of doing anything that fits into your own value system and does not harm others—and doing it without guilt.
+
+If you do something... ...and you don’t like it or yourself after having done it, you can vow to eliminate such behavior for yourself in the future.
+
+The guilt... ...not only keeps you immobilized, but it actually intensifies the chances that you’ll repeat the unwanted behavior.
+
+As long as you retain the potential payoff of absolving yourself with guilt, you’ll be able to keep yourself in that vicious treadmill that leads to nothing but present-moment unhappiness.
+
+
+
+
+
 ## 6 Exploring the Unknown
 
 
