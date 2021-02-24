@@ -1054,8 +1054,13 @@ The call is to genetics for these I’ms. Rather than challenging them and the s
 9. _I’m bossy, pushy, authoritarian, etc._ Here your I’m can allow you to continue hostile acts, rather than work at developing self-discipline.
 10. _I’m old, middle-aged, tired, etc._ With this I’m you can use your age as a reason for not participating in what might be risky or threatening activities... ...The implication of an “age-I’m” is that you are absolutely finished in this area, and since you will always get older, you are finished growing and experiencing anything new.
 
+### The “I’m” Circle
 
+The rewards for hanging onto your past by trotting out your I’ms can be neatly summed up in the one word: avoidance.
 
+After you use these labels enough, you begin to believe them yourself, and at that present moment you are a finished product destined to remain as you are for the rest of your days.
+
+Labels enable you to avoid the hard work and the risk of trying to change. They perpetuate the behavior which has given rise to them.
 
 
 ## 5 The Useless Emotions — Guilt and Worry
