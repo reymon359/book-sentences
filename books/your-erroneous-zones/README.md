@@ -1485,6 +1485,17 @@ You can do whatever you want because you want to and for no other reason.
 
 ### Rigidity vs. Spontaneity
 
+Spontaneity means being able to try anything, at the spur of the second, just because it is something you’d enjoy.
+
+You may even discover that it’s something you don’t enjoy doing but you did enjoy attempting it.
+
+You will be condemned as irresponsible or incautious, but what does the judgment of others matter when you’re having such a marvelous time discovering the unknown.
+
+Independent thinking is discouraged, and there are official guidelines for how one should think and speak.
+
+The rigid never grow. They tend to do things the same way they’ve always done them.
+
+Have you really lived 10,000 or more days or have you lived one day, 10,000 or more times?
 
 ## 7 Breaking the Barrier of Convention 
 
