@@ -1601,6 +1601,36 @@ We tend to shun all experiences which might bring about failure.
 
 Fearing failure means fearing both the unknown and the disapproval that accompanies not doing your best.
 
+### Some Typical “Fear of the Unknown” Behavior In Our Culture
+
+Typical behavior engendered by fear of the unknown. Resisting new experiences, rigidity, prejudice, slavish adherence to plans, the need for external security, fear of failure and perfectionism are all subheadings in this large self-limiting zone. 
+
+Listing of the most common specific examples:
+- Eating the same kinds of foods for a lifetime. Avoiding exotic, new taste treats in favor of the more traditional.
+- Wearing the same kinds of clothes forever. Never trying out a new style, or wearing something different.
+- Reading the same newspapers and magazines which support the same editorial position day after day and never admitting a contrary viewpoint.
+- Seeing the same movies (with different titles) for a lifetime. Refusing to view anything that might support a different philosophical or political belief, because the unknown is disconcerting and must be shut out.
+- Living in the same neighborhood, city or state, simply because your parents and their parents happened to have chosen that location. Being afraid of a new place because the people, climate, politics, language, customs, or whatever, are different.
+- Refusing to listen to ideas which you do not share. Instead of considering the other speaker’s viewpoint—“Hmm, I’ve never thought of that”—you immediately insist he’s crazy or uninformed
+- Being afraid to try a new activity because you can’t do it well.
+- Compulsive achievement in school or on the job. Grades are more important than anything else. The fitness report matters more than the pleasure of work well done.
+- Avoiding anyone whom you label deviant... ...Rather than trying to learn about these people, you label them with a slanderous epithet and talk about them rather than to them.
+- Staying with the same job even though you dislike it, not because you have to, but out of apprehension about entering that vast unknown of new work.
+- Staying in a marriage that obviously is not working, out of a fear of the unknown, single life.
+- Taking vacations in the same place, at the same hotel, during the same season each year.
+- Using performance rather than enjoyment as a criteria for everything that you do. That is, doing only those things you do well and avoiding those where you might fail or perform poorly.
+- Measuring things in monetary terms. If it costs more, it is worth more, and therefore an indication of your personal success.
+- Striving for the important title, the fancy automobiles, the right labels on your clothes and other status symbols, even though you may not even like the possessions and the life-style that they represent.
+- An inability to alter a plan when an interesting alternative arises.
+- Being preoccupied with time, and allowing clocks to run your life. Living by a schedule which keeps you from trying new and unknown quantities of life.
+- Dismissing certain kinds of activities which you’ve never tried... ...or anything that you don’t know about.
+- Viewing sex without imagination. Always doing the same thing in the same position.
+- Hiding behind the same clique of friends and never branching out with different people who represent new and unknown worlds.
+- Hanging back because of a fear of what might happen if you ventured into a conversation with strange people on strange topics.
+- Condemning yourself if you don’t succeed in all your endeavors.
+
+
+
 ## 7 Breaking the Barrier of Convention 
 
 
