@@ -1515,6 +1515,61 @@ You may have a plan... ...and then you simply consult... ...to see where you oug
 
 Don’t let the plan become bigger than you.
 
+### Security: Internal and External Varieties
+
+You learned how to write a high school theme or essay... ...you may have applied the same logic to your life... ...The introduction was your childhood... ...The body is your adult life... ...preparation for your conclusion, which is the retirement and happy ending. All of this organized thinking keeps you from living your present moments.
+
+Living according to this plan implies a guarantee that everything will be okay forever. Security, the final plan, is for cadavers.
+
+Security means knowing what is going to happen. Security means no excitement, no risks, no challenge.
+
+Security means no growth and no growth means death.
+
+Certainty eliminates excitement—and growth.
+
+The word security as used here refers to external guarantees, possessions such as money, a house and a car, to bulwarks such as a job or a position in the community. But there is a different kind of security that is worth pursuing, and this is the internal security of trusting yourself to handle anything that may come down the pike. This is the only lasting security, the only real security.
+
+Things can break down, a depression can wipe out your money, your house can be repossessed, but you, you can be a rock of self-esteem.
+
+You can believe so much in you and your internal strength that things or others will be seen as mere pleasant but superfluous adjuncts to your life.
+
+Security can be redefined as the knowledge that you can handle anything, including having no external security.
+
+External security robs you of your ability to live and grow and fulfill yourself.
+
+People without external security... ...are way ahead of the game... ...they can try new things and avoid the trap of always having to stay with the safe.
+
+> Someday I’ll walk away And be free 
+And leave the sterile ones Their secure sterility.
+I’ll leave without a forwarding address And walk across some barren wilderness
+To drop the world there. Then wander free of care
+Like an unemployed Atlas
+> -James Kavanaugh in Will You Be My Friend?. Little poem called Some Day.
+
+### Achievement as Security
+
+“Walking away” to “be free,” as Kavanaugh puts it, is difficult as long as you carry around the conviction that you must achieve.
+
+Fear of failure is a powerful fear in our society, one inculcated in childhood and often carried throughout life.
+
+Failure does not exist. Failure is simply someone else’s opinion of how a certain act should have been completed.
+
+Once you believe that no act must be performed in any specific other-directed way, then failing becomes impossible.
+
+There may, however, be occasions when you will fail in some given task according to your own standards. The important thing here is not to equate the act with your own self-worth. Not to succeed in a particular endeavor is not to fail as a person. It is simply not being successful with that particular trial at that particular present moment.
+
+Try to imagine using failure as a description of an animal’s behavior. Consider a dog barking... ...and someone saying, “He really isn’t very good at barking... ...It is impossible for an animal to fail because there is no provision for evaluating natural behavior.
+
+Spiders construct webs, not successful or unsuccessful webs. Cats hunt mice; if they aren’t successful in one attempt, they simply go after another. They don’t lie there and whine, complaining about the one that got away, or have a nervous breakdown because they failed.
+
+Natural behavior simply is!... ...apply the same logic to your own behavior and rid yourself of the fear of failure.
+
+The push to achieve comes from three of the most self-destructive words in our culture... ...Do your best! This is the cornerstone of the achievement neurosis... ...What’s wrong with taking a mediocre bicycle ride, or going for an average walk in the park? Why not have some activities in your life which you just do, rather than do to the best of your ability?
+
+The do-your-best neurosis can keep you from trying new activities and enjoying old ones.
+
+
+
 ## 7 Breaking the Barrier of Convention 
 
 
