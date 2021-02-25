@@ -1497,6 +1497,24 @@ The rigid never grow. They tend to do things the same way they’ve always done 
 
 Have you really lived 10,000 or more days or have you lived one day, 10,000 or more times?
 
+### Prejudice and Rigidity
+
+Rigidity is the basis of all prejudice, which means to _prejudge_... ...is based... ...on the fact that it’s easier and safer to stay with the known.
+
+Being spontaneous means eliminating your prejudgments and allowing yourself to meet and deal with new people and ideas.
+
+If you don’t trust anyone you can’t get a “handle on”; it really means you don’t trust yourself on unfamiliar grounds.
+
+### The “Always Having a Plan” Trap
+
+There is no such thing as planned spontaneity. It is a contradiction in terms.
+
+A plan is not necessarily unhealthy, but falling in love with the plan is the real neurosis.
+
+You may have a plan... ...and then you simply consult... ...to see where you ought to be, rather than making a new decision each day and having a strong enough belief in yourself to be able to alter the plan.
+
+Don’t let the plan become bigger than you.
+
 ## 7 Breaking the Barrier of Convention 
 
 
