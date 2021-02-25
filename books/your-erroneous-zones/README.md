@@ -1568,7 +1568,38 @@ The push to achieve comes from three of the most self-destructive words in our c
 
 The do-your-best neurosis can keep you from trying new activities and enjoying old ones.
 
+### Perfectionism
 
+Why should you have to do everything well?
+
+Winston Churchill’s famous lines about perfectionism... ...The maxim “nothing avails but perfection” may be spelled PARALYSIS.
+
+Having to do your best, or even to do well, is an obstacle to doing.
+
+Don’t let perfectionism keep you on the sidelines avoiding potentially pleasurable activities. Try changing “Do your best” to simply “Do.”
+
+Perfection means immobility.
+
+If you have perfect standards for yourself, then you’ll never try anything and you won’t do much because perfect is not a concept that applies to human beings.
+
+If you have children, don’t... ...insisting they do their best. Instead, talk with them about the things they seem to enjoy the most, and give some encouragement to try hard in those areas.
+
+No one should be taught to be competitive, to try, or even to do well. Instead, try to teach the lessons of self-esteem and pride and pleasure in the activities deemed important by the individual.
+
+A child is easily taught the ugly message of equating his own self-worth with his failures. Consequently he will begin to shun activities in which he does not excel. Even more dangerous, he may develop habits of low self-esteem, approval-seeking, guilt and all of the erroneous zone behaviors that go with self- rejection.
+
+If you equate your worth with your failures and successes, you’ll be doomed to feelings of worthlessness.
+
+Failure can be instructive. It can be an incentive to work and exploration. It can even be thought as success if it points the way to new discoveries.
+
+> I have revised some folk wisdom lately; one of my edited proverbs is _Nothing fails like success_ because you do not learn anything from it. The only thing we ever learn from is failure. Success only confirms our superstitions.
+> -Kenneth Boulding
+ 
+Without failure we can learn nothing, and yet we have learned to treasure success as the only acceptable standard.
+
+We tend to shun all experiences which might bring about failure.
+
+Fearing failure means fearing both the unknown and the disapproval that accompanies not doing your best.
 
 ## 7 Breaking the Barrier of Convention 
 
