@@ -1629,7 +1629,46 @@ Listing of the most common specific examples:
 - Hanging back because of a fear of what might happen if you ventured into a conversation with strange people on strange topics.
 - Condemning yourself if you don’t succeed in all your endeavors.
 
+### The Psychological Support System for Retaining These Behaviors
 
+Payoffs that keep you from roaming around in that delicious unknown:
+- By staying the same you never have to think on your feet. If you have a good plan, you simply consult your script, rather than your wits.
+- Staving off the unknown has its own built-in reward system. The fear of the obscure is strong, and as long as you stay with the familiar, you are keeping that fear at bay, regardless of how costly it is to you in growth and fulfillment... ...The unknown is a challenge and challenges can be threats.
+- You can say that you are postponing your gratification, which you’ve heard labeled “mature-behavior,” and thus stay with the familiar and justify it with such a stance.
+- You can feel important by having done it right. You’ve been a good boy/girl. As long as you see it in failure/success terms, you can equate your self- worth with your good performance and feel good. But the right thing in this sense is only someone else’s editorial opinion.
+
+### Some Strategies for Coming to Grips with the Mysterious and the Unknown
+- Make selective efforts to try new things even if you are tempted to stay with the familiar.
+- Invite a collection of people to your home who represent widely divergent points of view.
+- Give up having to have a reason for everything you do. When someone asks you why, remember that you don’t have to come up with a reasonable answer that will satisfy them. You can do what you decide just because you want to.
+- Begin to take some risks that will get you out of your routine.
+- Interview for a new job, or talk with someone that you’ve been avoiding because you were afraid of not knowing what might happen. Take a new route to work, or have dinner at midnight. Why? Just because it’s different and you want to do it.
+- Entertain yourself with a fantasy in which you allow yourself to have anything you want. No holds barred. You have all of the money to do anything you want for a two-week period. You’ll find that almost all of your mental meanderings are indeed attainable for you, that you don’t want the moon or the unreachable, but simply things that you can achieve if you eliminate the fear of the unknown and go after them.
+- Take a risk that might involve some personal upheaval, but which would be intensely rewarding to you.
+- Whenever you find yourself avoiding the unknown, ask yourself, “What’s the worst thing that could happen to me?” You’ll probably see that the fears of the unknown are out of proportion to the reality of the consequences.
+- Try out some of the things that you’ve always avoided because you “Mustn’t ever do such things.” Open your own personal horizons to new experiences that you’ve previously avoided because they were silly or inane.
+- Remind yourself that the fear of failure is very often the fear of someone else’s disapproval or ridicule. If you let them have their own opinions, which have nothing to do with you, you can begin to evaluate your behavior in your own, rather than their terms. You’ll come to see your abilities not as better or worse, but as simply different from others.
+- Make an attempt to do some things that you’ve always avoided, with the sentence “I’m just not good at that.”
+- Remember that the opposites of growth are sameness and death. Thus, you can resolve to live each day in a new way, being spontaneous and alive, or you can fear the unknown and remain the same—psychologically dead.
+- Have a talk with those people in your life who you feel are most responsible for your fear of the unknown. State in no uncertain terms that you intend to do new things, and check out their reactions. You may find that their incredulity is one of the things that you’ve always worried about in the past, and as a result you chose immobilization over those disapproving looks. Now that you can handle the looks, state your Declaration of Independence from their control.
+- Instead of “Do your best in everything” as a credo for you and your children, try “Select the things that are important to you, and work hard at them, and in the rest of your life, just do.” It’s O.K. not to do your best! In fact, the whole “Do your Best,” syndrome is a myth. You never do your absolute best, nor does anyone else. There is always room for improvement, since perfection is not a human attribute.
+- Don’t let your convictions keep you stagnant. Believing something out of past experience and hanging onto that belief is an avoidance of reality. There is only what is now, and the truth of the present may not be the truth of the past. Assess your behavior not on what you believe, but in terms of what is and what you experience in the present. By allowing yourself to experience, rather than coloring your reality with beliefs, you’ll find the unknown a fantastic place to be.
+- Remember, nothing human is alien to you. You can be anything you choose. Imprint this on your mind and remind yourself of it when you fall into your typically safe evasive behavior.
+- Become aware of avoiding the unknown as you are doing it. At that moment begin a dialogue with yourself. Tell yourself it’s okay if you don’t know where you are going at every moment of your life. Awareness of routine is the first step in changing it.
+- Deliberately fail at something.
+- Have a conversation with a member of a group that you’ve avoided in the past... ...If you prejudge anyone, you prevent yourself from dealing with them honestly since your viewpoint has already been established... ...The more different kinds of people you encounter, the more likely you are to remark to yourself how much you’ve been missing, and how foolish your fears have been.
+
+Awareness of routine is the first step in changing it.
+
+### Some Final Thoughts on Fearing the Unknown
+
+Fighting fear of the unknown... ...process begins with new insights into your avoidance behavior, followed by actively challenging the old behavior and moving in new directions.
+
+> Two roads diverged in a wood, and I— I took the one less traveled by,
+And that has made all the difference.
+> -Robert Frost, The Road Not Taken.
+
+You don’t have to know where you’re going—as long as you’re on your way.
 
 ## 7 Breaking the Barrier of Convention 
 
