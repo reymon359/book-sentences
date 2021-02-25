@@ -1448,6 +1448,44 @@ We hear the cultural messages of certainty throughout life... ...The child learn
 
 Get rid of the idea that you can’t try out new and doubtful behavior. You can if you choose to.
 
+### Openness to New Experiences
+
+If you believe in yourself fully, no activity is beyond your potential.
+
+The entire gamut of human experience is yours to enjoy, once you decide to venture into territory where you don’t have guarantees.
+
+People who are regarded as geniuses... ...They weren’t people who could do only one thing well. They weren’t individuals who avoided the unknown... ...were pioneers, adventurers into new, unreliable areas.
+
+> “Nothing human is alien to me.”
+> -Albert Schweitzer, another Renaissance Man
+
+Look at yourself with new eyes, and open yourself up to experiences that you’ve never even considered as a part of your own human potential.
+
+Opening yourself up to new experiences means surrendering the notion that it is better to tolerate something familiar than to work at changing it because change is fraught with uncertainty.
+
+You stand a much better chance of avoiding psychological collapse if you eliminate some of the routine and sameness in your life.
+
+Boredom is debilitating and psychologically unhealthy.
+
+The “if it’s unusual I must stay away from it” mentality inhibits your openness to new experiences.
+
+There are uncountable activities and people who are considered taboo merely because they are unknown.
+
+You may also believe that you must have a reason for doing something; otherwise what’s the point of doing it? Balderdash! You can do anything you want just because you want to, and for no other reason.
+
+You don’t need a reason for anything that you do.
+
+Looking for a reason for everything is the kind of thinking that keeps you from new and exciting experiences.
+
+As a child you could play... ...for an hour, for no reason but that you liked it... ...Why? Because you wanted to. But as an adult, you have to come up with a good reason for things.
+
+Passion for reasons keeps you from opening up and growing.
+
+You can do whatever you want because you want to and for no other reason.
+
+### Rigidity vs. Spontaneity
+
+
 ## 7 Breaking the Barrier of Convention 
 
 
