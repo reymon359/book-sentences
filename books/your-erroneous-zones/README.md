@@ -1424,6 +1424,29 @@ There is no other moment to live but now, and all of your futile guilt and worry
 
 ## 6 Exploring the Unknown
 
+Only the insecure strive for security.
+
+Early training in our society tends to encourage caution at the expense of curiosity, safety at the expense of adventure.
+
+Avoid the questionable, stay in areas that you know, never wander into the unknown. These early messages can become a psychological barrier that prevents your own personal fulfillment and present-moment happiness in countless ways.
+
+> The most beautiful thing we can experience is the mysterious. It is the true source of all art and science.
+> -Albert Einstein, “What I Believe” in Forum (October 1930),
+
+> The most beautiful thing we can experience is the mysterious. It is the true source of all art and science. it is the source of all growth and excitement as well.
+> -Wayne W. Dyer
+
+Too many people equate the unknown with danger.
+
+As a young scout you were told to _Be Prepared._ But how can you prepare for the unknown? Obviously, you cannot! Therefore avoid it and you’ll never end up with egg on your face. Be safe, don’t take risks, follow the road maps—even if it is dull.
+
+You can’t grow if you already know the answers before the questions have even been asked.
+
+The times you most remember are those in which you were spontaneously alive, doing whatever you wanted, and delightfully anticipating the mysterious.
+
+We hear the cultural messages of certainty throughout life... ...The child learns to avoid experimentation and is encouraged to avoid the unknown.
+
+Get rid of the idea that you can’t try out new and doubtful behavior. You can if you choose to.
 
 ## 7 Breaking the Barrier of Convention 
 
