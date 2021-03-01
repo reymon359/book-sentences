@@ -1848,7 +1848,31 @@ Being a social rebel... ...would be a form of approval-seeking through nonconfor
 
 Being true to yourself means being devoid of the need for an external support system.
 
+### Blind Obedience to Rules and Laws
 
+Some of the most despicable human behavior ever recorded was done under the guise of following orders.
+
+> Those who are too lazy and comfortable to think for themselves and be their own judges obey the laws. Others sense their own laws within them; things are forbidden to them that every honorable man will do any day in the year and other things are allowed to them that are generally despised.
+Each person must stand on his own feet.
+> -Hermann Hesse, Demian
+ 
+If you must comply with all the rules all the time, you are destined to a life of emotional servitude. But our culture teaches that it is naughty to disobey, that you shouldn’t do anything that is against the rules.
+
+The important thing is to determine for yourself which rules work, and are necessary to preserve order in our culture and which can be broken without harm to yourself or others.
+
+There is no percentage in rebelling just for the sake of rebelling, but there are great rewards in being your own person and living your life according to your own standards.
+
+### Resisting Enculturation and Traditions When They Affect You Negatively
+
+Progress depends on individuals who are innovators, who reject convention and fashion their own worlds.
+
+You may be viewed by some as insubordinate, which is the price you’ll pay for thinking for yourself.
+
+
+ 
+
+
+Hermann Hesse said in Demian,
 
 
 ## 8 The Justice Trap
