@@ -1670,8 +1670,30 @@ And that has made all the difference.
 
 You don’t have to know where you’re going—as long as you’re on your way.
 
-## 7 Breaking the Barrier of Convention 
+## 7 Breaking the Barrier of Convention
 
+There are no rules, laws or traditions that apply universally...including this one.
+
+The world is full of “shoulds” that people apply to their behavior without evaluation.
+
+You may be guided by a set of rules and principles to which you don’t even subscribe, and yet you are unable to break away and decide for yourself what works and doesn’t work for you.
+
+Nothing is absolute.
+
+There are no rules or laws which always make sense or provide the greatest amount of good for all occasions.
+
+Flexibility is a far greater virtue, and yet you may find it difficult, indeed impossible, to break an unserviceable law or violate absurd tradition.
+
+Laws are necessary, and order is an important part of civilized society.
+
+Blind adherence to convention... ...may be far more destructive to the individual than violation of the rules.
+
+Often rules are foolish, and traditions no longer make any sense... ...and you are unable to function effectively... ...that is the time to reconsider the rules and your behavior.
+
+> I never had a policy that I could always apply. I’ve simply attempted to do what made the greatest amount of sense at the moment.
+> -Abraham Lincoln
+
+If you find yourself doing annoying or otherwise counterproductive things which are the result of a should, you have renounced your freedom of choice and are allowing yourself to be controlled by some external force.
 
 ## 8 The Justice Trap
 
