@@ -1880,11 +1880,27 @@ Resisting enculturation means making decisions for yourself and carrying them ou
  
 The foolish rules, traditions and policies will never go away, but you don’t have to be a part of them. Just shrug as others go through their sheep motions. If they want to behave that way, fine for them but that’s not for you.
 
-You’ll find scores of everyday occurrences where it is easier to circumvent the rules quietly than to start a protest movement. You can decide to be the person you want to be, or the one others want you to be. It’s up to you.
+You’ll find scores of everyday occurrences where it is easier to circumvent the rules quietly than to start a protest movement. 
+
+You can decide to be the person you want to be, or the one others want you to be. It’s up to you.
 
 Virtually all new ideas which have resulted in change in our society were at one time scorned, and many of them were illegal as well.
 
 All progress involves flying in the face of old rules that no longer apply.
+
+### Some Typical Should Behaviors
+
+• Believing that there is a place for everything and everything must be in its place.
+• Asking “What should I wear” on a regular basis, as if there were only one acceptable mode of dressing and it is determined by other people.
+• Assuming that certain drinks must go with certain food. White wine must accompany fish and fowl. Red wine goes only with beef.
+• Shifting blame for your actions to others.
+• You must go to a wedding or send a gift, even if you don’t like them... ...because that’s the way things are supposed to be done.
+• Giving titles to those who serve you, which elevates them by implication to a position higher than you... ...If he is paid to serve you, why is it that he gets a title and you get called by your name?
+• Going to bed when it gets to be bedtime, rather than when you’re tired. 
+• Having sex only one or two ways because those are the only acceptable ways, or only participating in sexual activities when all conditions are met, such as, the kids are asleep, you are not tired, it’s dark in the room, you’re in your own bed, and on and on. 
+• Selecting roles in daily living because the culture demands it. Women do the dishes, men take out the garbage.
+• Obedience to silly household rules and traditions that don’t work for your family.
+
 
 
 ## 8 The Justice Trap
