@@ -1719,6 +1719,43 @@ You make yourself responsible for everything that you experience emotionally.
 
 You can take a sterner look at the “rules” and begin to exercise some internal control over your own thinking, feeling and behavior.
 
+#### Blaming and Hero Worship: Opposite Ends of the same Externally Directed Behavior
+
+Blame is a neat little device that you can use whenever you don’t want to take responsibility for something in your life.
+
+All blame is a waste of time.
+
+No matter how much fault you find with another, and regardless of how much you blame him, it will not change you.
+
+The only thing blame does is keep the focus off you when you are looking for external reasons to explain your unhappiness or frustration.
+
+If blame has some effect, it will not be on you. You may succeed in making another feel guilty for something by blaming him, but you won’t succeed in changing whatever it is about you that is making you unhappy.
+
+You may succeed in not thinking about it; but you won’t succeed in changing it.
+
+The tendency to focus on others can go to the opposite extreme where it surfaces as hero worship... ...you may find yourself looking to others to determine your values. If so-and-so does it, then I should do it too.
+
+Hero worship is a form of self-repudiation. It makes others more important than you, and relates your own fulfillment to something outside of yourself.
+
+While there is nothing self-defeating about appreciating others and their accomplishments, it becomes an erroneous zone when you model your own behavior on their standards.
+
+All of your heroes are people. They are all human. They do the same things that you do every day.
+
+The only good hero is a ham and cheese or possibly an eggplant par-migiana.
+
+All the great heroes of your life have taught you nothing. And they are no better than you, in any way... ...just skillful at what they do—nothing more.
+
+If you make them your heroes and elevate them to positions above yourself, then you are into that external bag of giving others the responsibility for your good feelings.
+
+If you blame at one end or hero worship at the other, you are someplace on this Focusing On Others Line.
+
+![The Focusing On Others Line](the-focusing-on-others-line.jpg)
+
+You are behaving as a fool if you look outside of you for an explanation of how you should feel or what you should do.
+
+Taking credit as well as responsibility for yourself is the first step to eliminating this erroneous zone.
+
+Be your own hero.
 
 ## 8 The Justice Trap
 
