@@ -1695,6 +1695,31 @@ Often rules are foolish, and traditions no longer make any sense... ...and you a
 
 If you find yourself doing annoying or otherwise counterproductive things which are the result of a should, you have renounced your freedom of choice and are allowing yourself to be controlled by some external force.
 
+### Internal vs. External Locus of Control
+
+Seventy-five percent of the people in our culture are more external than internal in their personality orientation.
+
+To be “external” in your locus of control?... ...you are external if you assign responsibility for your emotional state in your present moments to someone or something external to yourself.
+
+The internal locus of control person puts the responsibility for how he feels squarely on his own shoulders, and this person is indeed rare in our culture.
+
+“I’m in charge of me, and this is where I choose to be.”
+
+Virtually all shoulds and traditions are imposed by external sources. That is, they come from someone or something outside of yourself.
+
+If you are loaded with shoulds and unable to break conventions which are prescribed by others, then you are in the external bag.
+
+Barbara... ...obesity problem... ...Instead of recognizing that she had chosen to overeat in the past and she would have to learn to make new choices if she wanted to lose weight, Barbara turned to other people and things—society’s accepted conventions for weight loss... ...Finally Barbara realized that therapy had nothing to do with anything outside herself.
+
+Fatalists, determinists and people who believe in luck are in the external slot. If you believe that your life is mapped out for you in advance, and you need only follow the appropriate roads, then you are very likely loaded with all of the shoulds that will keep you on your road map.
+
+Being effective does not mean eliminating all of the problems in your life. It does mean moving your locus of control from the external to the internal.
+
+You make yourself responsible for everything that you experience emotionally.
+
+You can take a sterner look at the “rules” and begin to exercise some internal control over your own thinking, feeling and behavior.
+
+
 ## 8 The Justice Trap
 
 
