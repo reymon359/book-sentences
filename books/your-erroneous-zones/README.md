@@ -1781,6 +1781,74 @@ There is no right and wrong here. People are different and they see things from 
 
 All rights and wrongs of every description represent shoulds of one kind or another.
 
+### Indecisiveness As a Spin-Off of Right vs. Wrong Thinking
+
+Have difficulty with decision-making, even with small things is a direct outgrowth of the inclination to divide things into right and wrong categories.
+
+The indecision comes from wanting to be right, and the postponement of a choice keeps you from dealing with the anxiety that you choose for yourself whenever you feel you’ve been wrong.
+
+Once you take away the rightness and wrongness of every decision (because right implies a guarantee), then decision-making will become a snap.
+
+Neither is right, one is simply different than the other, and you’ll have no guarantees regardless of the choice.
+
+You can ease your indecision-neurosis by viewing all potential outcomes as being neither right nor wrong... ...Simply different.
+
+Once you give up... ...rights and wrongs, you’ll find decision-making a simple matter of weighing which consequences you’d prefer at a given present- moment.
+
+If you begin to choose regret over the decision, rather than deciding that regret is a waste of your time (because it keeps you living in the past) you’ll simply resolve to make a different decision in your next present moment, one that will bring consequences that the earlier decision failed to bring.
+
+Nothing is more important than anything else. The child collecting seashells is not doing something more right or wrong than the President of General Motors making a major corporate decision. They are different. Nothing more!
+
+Who decides the rightness? That is the question that can never be answered satisfactorily. The law doesn’t decide if it’s wrong, only if it’s legal.
+
+> We can never be sure that the opinion we are endeavoring to stifle is false opinion, and if we were sure, stifling it would be an evil still.
+> -John Stuart Mill, On Liberty
+
+Your effectiveness is not measured by your ability to make a right choice.
+
+How you handle yourself emotionally after any choice is a far greater barometer of your personal present-moment togetherness, since a right choice represents those shoulds that you are working at eliminating.
+
+New thinking will be helpful on two counts—one, you’ll banish those senseless shoulds and become more internal, and two, you’ll find decision-making less troublesome without those erroneous right and wrong categories.
+
+### The Folly of Shoulds, Musts and Oughts
+
+> “Musterbation” Tendency to incorporate shoulds into your life.
+> -Albert Ellis
+
+You are “musterbating” whenever you find yourself behaving in ways that you feel you must, even though you might prefer some other form of behavior.
+
+> The shoulds always produce a feeling of strain, which is all the greater the more a person tries to actualize his shoulds in his behavior.... Furthermore, because of externalizations, the shoulds always contribute to disturbance in human relations in one way or another
+> -Karen Horney, Neurosis and Human Growth, “The Tyranny of the Should.”
+ 
+Do shoulds determine much of your life?... ...if... ...you fail in one of these shoulds do you berate yourself.. ..perhaps these are not your shoulds. If, in fact, they belong to others and you have merely borrowed them, then you are musterbating.
+
+There are just as many should-nots as there are shoulds.
+
+You don’t have to musterbate. Ever. It’s all right to be lacking in composure, or to not understand.
+
+No one is keeping score on you, or going to punish you for not being something that someone else said you must be.
+
+You can never be anything that you don’t want to be all of the time. It’s just not possible.
+
+The strain does not result from your undignified, nonsupportive, indiscreet or whatever behavior, but from the imposition of the should.
+
+### Etiquette as a Should
+
+Etiquette is a beautiful example of useless and unhealthy enculturation.
+
+While good manners are certainly appropriate—they simply entail consideration for other people—about ninety percent of all the etiquette guidelines are meaningless rules that were composed arbitrarily at one time.
+
+There is no proper way for you; there is only what you decide is right for you— as long as you don’t make it hard for others to get along.
+
+You can choose... ...what you’ll wear, how you’ll speak, where you’ll sit, how you’ll eat, and so on, strictly on the basis of what you want.
+
+Anytime you fall into the trap of “What _should_ I wear,” or “How _should_ I do it,” you’re giving up a chunk of yourself.
+
+Being a social rebel... ...would be a form of approval-seeking through nonconformity, but rather this is a plea for being self-rather than other-directed in the everyday running of your life.
+
+Being true to yourself means being devoid of the need for an external support system.
+
+
 
 
 ## 8 The Justice Trap
