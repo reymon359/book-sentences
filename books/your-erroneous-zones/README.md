@@ -1757,6 +1757,32 @@ Taking credit as well as responsibility for yourself is the first step to elimin
 
 Be your own hero.
 
+### The Right vs. Wrong Trap
+
+The question of right vs. wrong as it applies here has nothing to do with religious, philosophical or moral issues of _a priori_ rightness or wrongness. That is a discussion for another place. Here the subject is you, and how your notions of right and wrong get in the way of your own happiness.
+
+Your rights and wrongs are your universal shoulds.
+
+You may have adopted some unhealthy stances which include right means good or just, while wrong is equated with bad or unjust. This is nonsense. Rights and wrongs in this sense do not exist.
+
+The word right implies a guarantee that if you do something a certain way, you’ll have sure-fire results. But there are no guarantees.
+
+Think... ...of any decision... ...the moment it becomes a question of right vs. wrong, you are trapped into the “I’ve always got to be right and when things or people are not right, then I’m going to be unhappy” trap.
+
+Perhaps some of your need to find the right answer has to do with the search for certainty.
+
+Tendency to dichotomize... ...to divide the world neatly into extremes such as black/white, yes/no, good/bad and right/wrong.
+
+Most intelligent folks roam around in those gray areas, rarely coming to rest on either black or white.
+
+In... ...adult relationships. Discussions inevitably become a contest which results in one partner being right, and the other wrong.
+
+There is no right and wrong here. People are different and they see things from different perspectives. If one must be right, then a breakdown in communication is the only predictable outcome.
+
+All rights and wrongs of every description represent shoulds of one kind or another.
+
+
+
 ## 8 The Justice Trap
 
 
