@@ -1868,11 +1868,23 @@ Progress depends on individuals who are innovators, who reject convention and fa
 
 You may be viewed by some as insubordinate, which is the price you’ll pay for thinking for yourself.
 
+No one wants to destroy society, but many of us would like to give the individual more freedom within it.
 
+What we are striving for is choice, that is, the ability to be free from the servant mentality of constant adherence to the shoulds. You do not have to be always as your culture expects you to be.
+
+Leading your own life involves flexibility and repeated personal assessments of how well the rule works at a particular present moment.
+
+If you’re going to learn to resist enculturation, you’ll have to become a shrugger. Others will still choose to obey even if it hurts them, and you will have to learn to allow them their choice. No anger, only your own convictions.
+
+Resisting enculturation means making decisions for yourself and carrying them out as efficiently and quietly as possible.
  
+The foolish rules, traditions and policies will never go away, but you don’t have to be a part of them. Just shrug as others go through their sheep motions. If they want to behave that way, fine for them but that’s not for you.
 
+You’ll find scores of everyday occurrences where it is easier to circumvent the rules quietly than to start a protest movement. You can decide to be the person you want to be, or the one others want you to be. It’s up to you.
 
-Hermann Hesse said in Demian,
+Virtually all new ideas which have resulted in change in our society were at one time scorned, and many of them were illegal as well.
+
+All progress involves flying in the face of old rules that no longer apply.
 
 
 ## 8 The Justice Trap
