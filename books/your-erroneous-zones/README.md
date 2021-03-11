@@ -947,6 +947,7 @@ Disapproval... ...natural consequence of living on this planet where people are 
 To cut down on your own approval-seeking behavior, you will need to come in touch with your own neurotic rewards for the continuation of the behavior.
 
 Beyond just thinking new self-enhancing thoughts when you contact disapproval... ...here are some specific things you can work on to get yourself out of the approval-seeking bind.
+
 • Label disapproval with new responses that begin with the word _you._ For example, you note that your father is not agreeing with you and is even getting angry. Rather than shifting or defending yourself, simply respond with, “You’re getting upset, and you feel that I shouldn’t think the way I do.” This will keep you in touch with the fact that disapproval belongs to him, not you. The you strategy can be employed any time, and with amazing results if you master the technique. You’ll have to fight your temptation to start with “I,” thereby putting yourself in the position of defending or modifying what you just said in order to gain acceptance.
 • If you think someone else is trying to manipulate you by withholding approval, say so. Instead of turning wishy-washy for the purpose of reaping some approval benefits, you can say out loud, “Generally I would shift my position now in order to get you to like me, but I really believe in what I said, and you’ll have to deal with your own feelings about it.” Or, “I guess you’d like me to change what I just said.” The act of labeling it will be helpful in keeping in touch with your own thinking and behavior.
 • You can thank someone for providing you with data that will be helpful in your growth, even though it was something you didn’t like. The act of thanking puts an end to any approval-seeking.
@@ -1889,7 +1890,7 @@ Virtually all new ideas which have resulted in change in our society were at one
 
 All progress involves flying in the face of old rules that no longer apply.
 
-### Some Typical Should Behaviors
+### Some Typical should Behaviors
 
 • Believing that there is a place for everything and everything must be in its place.
 • Asking “What should I wear” on a regular basis, as if there were only one acceptable mode of dressing and it is determined by other people.
@@ -1901,8 +1902,62 @@ All progress involves flying in the face of old rules that no longer apply.
 • Having sex only one or two ways because those are the only acceptable ways, or only participating in sexual activities when all conditions are met, such as, the kids are asleep, you are not tired, it’s dark in the room, you’re in your own bed, and on and on. 
 • Selecting roles in daily living because the culture demands it. Women do the dishes, men take out the garbage.
 • Obedience to silly household rules and traditions that don’t work for your family.
+• Following the dictates of all signs whether they make sense or not... ...Never challenging a sign, or even assuming that it doesn’t belong there in the first place. People make signs and people also make mistakes.
+• When reading a book, always starting at page one and reading every word to the end, even if half of it doesn’t apply. Finishing a book you don’t like because you’re halfway through it, and, if you’ve read half, you must read it all.
+• Women never asking men for dates. After all, that’s the male’s role.
+• Striving for grades in school or forcing your children to do so.
+• Going everywhere with your partner because it is expected, even though you both would prefer to be in different places at that particular time.
+• Consulting a “how-to” book for everything, because every job must be done a certain way. Not being able to differentiate between manuals that impart useful information and those that merely tell you how things ought to be.
+• Being anxious over the search for the right item and as a result being in that indecision and doubt bag.
+• Making rewards, plaques, titles, honors and all merit badges more important than your own evaluation of your achievements.
+• Applauding in an audience when you didn’t like the performance. 
+• Tipping for poor service.
 
+### A Look at the Common Payoffs of Musterbation
 
+Some of the reasons you have for hanging onto your shoulds are... ...Some of the reasons you have for hanging onto your shoulds are.
+
+• You can take solace in being a “good boy” or a “good girl” by following all of your shoulds.
+• Your obedience to the external should allows you to assign the responsibility for your standing still to the should rather than to yourself. As long as the should is the rationale for what you are (or aren’t), you can avoid the risks involved in trusting yourself to change. Thus your shoulds keep you from growing.
+• Your musts make it possible for you to maneuver others. By telling someone this is the way it should be done, you can make him do it the way you want it to be done. 
+• It is easier to haul out a should when you lack confidence in yourself. As your self-image wanes, the should becomes your bulwark. 
+• You can remain self-righteous about your behavior and retain your hostility when others don’t fit into the shoulds that you have for yourself and the rest of the world.
+• You can win approval by conforming.
+• As long as you focus on others, and live through their successes and failures, you don’t have to work on yourself. Having heroes can reinforce your own low opinion of yourself and allow you to escape from having to work on yourself. As long as the heroes can be the cause of your good feelings, or responsible for your bad feelings, there is no reason for you to take on that responsibility.
+
+### Some Strategies for Removing Some of Your Shoulds
+
+Doing! Resolving to be different than the way you’ve been taught is proper when that way doesn’t work for you.
+
+• Begin with insight into your own behavior. Study the neurotic dividends spelled out above. Then ask yourself why are you burdening yourself with so many shoulds. Ask yourself if you really believe in them, or if you’ve just become accustomed to behaving that way. 
+• List all of the rules you abide by, which just don’t seem to apply.
+• Start your own traditions.
+• Have a consultation with your relatives and friends about the many rules of conduct you all follow which you find distasteful. Perhaps you’ll be able to bring about some new rules which appear to be more reasonable to everyone. You’ll discover that the old rules are still in effect only because no one ever seriously thought to challenge them in the past.
+• See how many rules you impose on others. Ask them if they really need those directives, or if they would behave in the identical fashion without them.
+• Take a risk on challenging a rule or policy that you’d like to eliminate. But be prepared to deal without hostility with the consequences of your behavior.
+• Think of decisions as having different consequences, rather than as being right or wrong... ...Trust yourself to make the decision rather than relying on some external kind of guarantee.
+• Try to live in your present moments and make your rules and shoulds apply only for that time.
+• Refuse to share your rule-breaking behavior with anyone. It is only for you, and you don’t want to get into an approval-seeking posture, in which the reason for resisting enculturation is to win attention and therefore adulation. 
+• Get rid of the roles that you (and others) are assuming in your life. Be whatever you want to be, rather than what you think you are supposed to be because you are a man, woman, middle-aged, or whatever. 
+• Refuse for a given segment of a conversation to focus on others. Practice in ever-increasing time periods not projecting blame, or talking about another person, event, or idea in a complaining or fault-finding manner. 
+• Stop waiting for others to change. Ask yourself why others should be different simply because you would like it better if they were. Recognize that every person has a right to be whatever they choose, even if you irritate yourself about it.
+• Announce out loud that you just blamed and that you are working on eliminating this behavior. By stating it as a goal, you’ll be mindful of your proclivities in this direction. 
+• Decide that any and all unhappiness that you choose will never be the result of someone else, but rather that it will be the result of you and your own behavior... ...any externally caused unhappiness reinforces your own slavery, since it assumes that you have no control over yourself or them, but they have control over you. 
+• When someone is blaming, politely ask them, “Would you like to know if I want to hear what you are telling me right now?”... ...teach others not to use you as a blame receptacle and begin to label other people’s blaming and fault-finding so that you get in touch with recognizing it in yourself.
+• Begin to trust yourself and give less credence to those external musts. • Remind yourself that what other people do is not what bothers you, it’s your reaction to it. Instead of saying “They shouldn’t do that,” say, “I wonder why I bother myself with what they are doing.”
+
+Whether you blame or don’t, you stay as you are unless you _do_ something constructive to correct your dislikes.
+
+### Some Final Thoughts on Should Behavior
+
+> Men grind and grind in the mill of a truism, and nothing comes out but what was put in. But the moment they desert the tradition for a spontaneous thought, then poetry, wit, hope, virtue, learning anecdote, all flock to their aid.
+> -Ralph Waldo Emerson, Literary Ethics in 1838.
+
+Stay with tradition and you ensure that you’ll always be the same, but toss it aside, and the world is yours to use as creatively as you choose.
+
+Become your own judge of your conduct and learn to rely on yourself to make present-moment decisions.
+
+Sing your own song of happiness in any way that you choose, oblivious to how it is supposed to be.
 
 ## 8 The Justice Trap
 
