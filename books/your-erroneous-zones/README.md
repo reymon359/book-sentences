@@ -875,25 +875,25 @@ would make no difference.
 
 Like self-rejection, approval-seeking encompasses a large category of self- defeating behaviors.
 
-• Changing a position, or altering what you believe because someone shows signs of disapproval.
-• Sugar-coating a statement to avoid the reaction of displeasure.
-• Apple-polishing in order to make someone like you.
-• Feeling depressed or anxious when someone disagrees with you.
-• Feeling insulted or put-down when someone states a contrary sentiment to
+- Changing a position, or altering what you believe because someone shows signs of disapproval.
+- Sugar-coating a statement to avoid the reaction of displeasure.
+- Apple-polishing in order to make someone like you.
+- Feeling depressed or anxious when someone disagrees with you.
+- Feeling insulted or put-down when someone states a contrary sentiment to
 your own.
-• Labeling someone a snob, or “stuck-up,” which is just another way of
+- Labeling someone a snob, or “stuck-up,” which is just another way of
 saying “Pay more attention to me.”
-• Being excessively agreeable and head nodding, even when you don’t agree
+- Being excessively agreeable and head nodding, even when you don’t agree
 at all with what is being said.
-• Eating a steak in a restaurant that is not cooked the way you ordered it,
-because the waiter won’t like you if you send it back.
-• Apologizing for yourself at every turn—the excessive “I’m sorry’s” that
+- Eating a steak in a restaurant that is not cooked the way you ordered it,
+  because the waiter won’t like you if you send it back.
+- Apologizing for yourself at every turn—the excessive “I’m sorry’s” that
 are designed to have others forgive you, and approve of you all of the time.
-• Behaving in _nonconforming_ ways for the purpose of gaining attention, which is the same neurosis as conforming for the sake of external approval. Thus, wearing tennis shoes with your tuxedo, or eating a handful of mashed potatoes and wanting to be noticed is still approval-seeking.
-• Being pathologically late for all occasions. Here you can’t help but be seen and it is an approval-seeking device which gets everyone to pay attention. You may be doing it out of a need to be distinguished, and hence you are controlled by those doing the noticing.
-• Trying to impress others with your knowledge of something that you know nothing about by “faking it.”
-• Begging for compliments by setting yourself up for approval, and then feeling bad when they don’t come.
-• Being unhappy about someone you respect having a contrary point of view, and expressing it to you.
+- Behaving in _nonconforming_ ways for the purpose of gaining attention, which is the same neurosis as conforming for the sake of external approval. Thus, wearing tennis shoes with your tuxedo, or eating a handful of mashed potatoes and wanting to be noticed is still approval-seeking.
+- Being pathologically late for all occasions. Here you can’t help but be seen and it is an approval-seeking device which gets everyone to pay attention. You may be doing it out of a need to be distinguished, and hence you are controlled by those doing the noticing.
+- Trying to impress others with your knowledge of something that you know nothing about by “faking it.”
+- Begging for compliments by setting yourself up for approval, and then feeling bad when they don’t come.
+- Being unhappy about someone you respect having a contrary point of view, and expressing it to you.
 
 Approval-seeking... ...is only distasteful when it becomes a need, which, of course, is tantamount to giving up the self, and placing responsibility for how you feel in the hands of others whose approbation is being sought.
 
@@ -902,19 +902,20 @@ Approval-seeking... ...is only distasteful when it becomes a need, which, of cou
 A look at the why of this self-defeating behavior will be useful in coming up with some strategies for eliminating approval-seeking needs.
 
 Payoffs for approval-seeking as a need include:
-• Placing RESPONSIBILITY for your feelings on others. If you feel the way you do (lousy, hurt, depressed, etc.) because someone else didn’t approve of you, then THEY, not you, are responsible for how you feel.
-• If they are responsible for how you feel because of with-holding their approval, then any CHANGE in you is also impossible, since it is their fault that you feel the way you do. Then they are also responsible for keeping you from being different. Thus approval-seeking helps you to avoid changing.
-• As long as they are responsible and you can’t change, you don’t have to take any risks. Consequently, hanging onto approval-seeking as a way of life will help you to conveniently avoid any risk-taking activities in your life.
-• Reinforcing a poor self-image and therefore encouraging self-pity and do- nothingism. If you are immune from the need for approval, you are immune
+
+- Placing RESPONSIBILITY for your feelings on others. If you feel the way you do (lousy, hurt, depressed, etc.) because someone else didn’t approve of you, then THEY, not you, are responsible for how you feel.
+- If they are responsible for how you feel because of with-holding their approval, then any CHANGE in you is also impossible, since it is their fault that you feel the way you do. Then they are also responsible for keeping you from being different. Thus approval-seeking helps you to avoid changing.
+- As long as they are responsible and you can’t change, you don’t have to take any risks. Consequently, hanging onto approval-seeking as a way of life will help you to conveniently avoid any risk-taking activities in your life.
+- Reinforcing a poor self-image and therefore encouraging self-pity and do- nothingism. If you are immune from the need for approval, you are immune
 from self-pity when you don’t get it.
-• Reinforcing the idea that others must take care of you, and therefore you
+- Reinforcing the idea that others must take care of you, and therefore you
 can revert to the child in you and be coddled, protected—and manipulated.
-• Blaming others for what you are feeling, thereby creating a scapegoating
+- Blaming others for what you are feeling, thereby creating a scapegoating
 effect for everything you don’t like in your life.
-• Deluding yourself that you are liked by those others you’ve made more
+- Deluding yourself that you are liked by those others you’ve made more
 important than yourself and thus feeling outwardly comfortable even though there is a cauldron of discontent seething inside of you. As long as the others are more significant, then the outward appearance is more important.
-• Taking solace in the fact that others notice you, which gives you something to boast about to other approval-seeking friends.
-• Fitting into the culture which applauds such behavior and winning you the favor of the many.
+- Taking solace in the fact that others notice you, which gives you something to boast about to other approval-seeking friends.
+- Fitting into the culture which applauds such behavior and winning you the favor of the many.
 
 Approval-seeking helps you to avoid changing.
 
