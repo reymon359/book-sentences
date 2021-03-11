@@ -1961,6 +1961,107 @@ Sing your own song of happiness in any way that you choose, oblivious to how it 
 
 ## 8 The Justice Trap
 
+If the world were so organized that everything had to be fair, no living creature could survive for a day. The birds would be forbidden to eat worms, and everyone’s self-interest would have to be served.
+
+We are conditioned to look for justice in life and when it doesn’t appear, we tend to feel anger, anxiety or frustration.
+
+Justice does not exist. It never has, and it never will.
+
+Look at nature to realize there is no justice in the world. Tornadoes, floods, tidal waves, draughts are all unfair... ...The world and the people in it go on being unfair every day. You can choose to be happy or unhappy, but it has nothing to do with the lack of justice you see around you.
+
+Justice is simply a concept that has almost no applicability, particularly as it pertains to your own choices about fulfillment and happiness. But too many of us tend to demand that fairness be an inherent part of our relations with others.
+
+“It isn’t fair.” “You have no right to do that if I can’t” and “Would _I_ do that to you?”... ...We seek justice and use the lack of it as a justification for unhappiness.
+
+The self-defeating behavior is not the demand for justice, but the immobilization that may result from no-justice-reality.
+
+Our culture promises justice... ...Yet day after day, nay, century after century, the lack of justice continues... ...And if the history of humanity can be used as a guide they will continue.
+
+Injustice is a constant, but you... ...can decide to fight that injustice and refuse to be seduced into being emotionally immobilized over it.
+
+The legal system promises justice... ...But it generally doesn’t. Those with money are not convicted. Judges and policemen are often bought by the powerful. A President and Vice-President of the United States are pardoned or wrist-slapped for obvious felonies. The poor fill the jails, and have next to no chance of beating the system. It’s not fair. But it’s true.
+
+Where is the justice? Nowhere! Your deciding to fight it may be admirable indeed, but your choosing to be upset by it is as neurotic as guilt, approval-seeking or any other of the self-flagellating behavior that constitutes your erroneous zones.
+
+### “It’s Not Fair!” The Slogan of Ineffective Relationships
+
+The demand for justice may infiltrate your personal relationships and prevent you from communicating effectively with others.
+
+The “It’s not fair” slogan is one of the more common—and destructive—laments made by one person against another. In order for you to consider something unfair you must compare yourself to another individual or group of individuals... ...you’re determining what is good for you on the basis of someone else’s conduct. They, not you, are in charge of your emotions. If you are upset because of not being able to do something that someone else has done, then you’ve given them control over you. Whenever you compare yourself to anyone else, you are playing the “It’s not fair” game, and shifting from self-reliance to other-directed external thinking.
+
+Fairness is an external concept—a way of avoiding the taking charge of your own life.’ Instead of thinking of anything as being unfair, you can decide what you really want, and then set about devising strategies for attaining it, independent of what anyone else in the world wants or does.
+
+Everyone is different, and no amount of your bitching about others having it better than you will bring about any positive self-changes.
+
+If you focus on yourself rather than compare yourself to others, then you will have no opportunity to upset yourself with the lack of equality you observe.
+
+The backdrop for virtually all neurosis is making others’ behavior more significant than your own. If you carry around the “If he can do it, so should I” sentences, you’ll be running your life on the basis of someone else and never create your own life.
+
+### Jealousy: A “Demand for Justice” Sideshow
+
+John Dryden called jealousy “the jaundice of the soul.”
+
+Jealousy is really a demand that someone love you in a certain way, and you saying “It isn’t fair” when they don’t. It comes from a lack of self-confidence.
+
+People who really like themselves don’t choose jealousy or allow themselves to be distraught when someone else doesn’t play fair.
+
+You can never predict how someone you love will react to another human being, but if they choose to be affectionate or loving you can only experience the immobility of jealousy if you see their decisions as having anything to do with you. That is your choice.
+
+### Some Typical “Demand for Justice” Behaviors
+
+“Searching-for-equity” behavior is obvious in virtually all areas of life. If you are the least bit perceptive you’ll see them cropping up over and over in yourself and others.
+
+• Complaining that others make more money for doing the same work.
+• Being upset that others get away with infractions, while you always get caught.
+• All of the “Would I treat you that way?” sentences in which the assumption is that everyone should be exactly like you. 
+• Always reciprocating when someone does a favor for you. If you invite me for dinner, then I owe you one or at least a bottle of wine. This sort of behavior is often justified as good manners or politeness, but in reality it is simply a means of keeping the scales of justice in balance. 
+• Kissing someone back or saying “I love you, too” instead of accepting it and expressing your own feelings whenever you choose.
+• Having sex with someone out of obligation, even though you don’t want to, because it really isn’t fair not to be cooperative.
+• Always insisting on things being consistent.
+
+> A foolish consistency is the hobgoblin of little minds.
+> -Emerson’s often misquoted line
+
+If you always want things to be the “right” way, you are in this “little-minds” category.
+
+• In arguments, insisting on a clear-cut decision which calls for the winners to be right and the losers to admit that they were wrong. 
+• Using the fair argument in order to get your own way... ...” And then being upset because of the lack of fairness.
+• Instead of blaming the entire mess on the lack of fairness, try looking hard at your own inability to decide for yourself what is most appropriate for you.
+• The “If he can do it, so can I” game in which you justify something by someone else’s behavior. This can be the neurotic rationale for cheating, stealing, flirting, lying, being late, or anything that you’d rather not admit into your own value system.... ...This is the “He hit me, so I hit him” routine that is largely employed by children who have seen this behavior thousands of times in their own parents. It is the cause of war when extended to its ridiculous extreme.
+• Spending the same amount of money on a gift that someone else spent on one for you. Paying back every favor with a favor of equal value. Keeping the tally sheet equal, rather than doing what you would like in such matters. After all, “It has to be fair.”
+
+### Some of the Psychological Payoffs for Hanging Onto Your “Demands for Justice”
+
+The rewards for this kind of behavior are generally self-defeating in that they keep the focus off reality and on some kind of a dream world that will never exist.
+
+• You can feel smug with yourself for being honorable. It’s one way to make yourself feel superior and better.
+• You can give up responsibility for yourself and justify being immobilized by shifting the responsibility to those people and events that are not fair... ...In this way, you can avoid risks, and the hard work of change. As long as injustice is the cause of your problems you can never change until the injustice goes away, which, of course, it never will.
+• Injustice can win you attention, pity and self-pity. The world has been unjust to you and now you and everyone around you must feel sorry for you. This is another great technique for avoiding change.
+• You can justify all kinds of immoral, illegal and inappropriate behavior by making your action someone else’s responsibility. If he can do it, so can I.
+• It gives you a sensational self-excuse for being ineffective. “If they aren’t going to do anything, then neither am I.”
+• It gives you a conversation topic and helps you to avoid talking about yourself to the people around you. Complain about all the injustices in the world and nothing gets done, but at least you killed those moments and maybe escaped dealing more honestly and personally with each other.
+• As long as you have a concept of justice, you can always make the just decision. 
+• You can manipulate others, particularly your children, by reminding them that they are being unfair to you if they aren’t exactly the same as you, and don’t keep a precise tally of all give-and-take in the relationship.
+• You can justify vindictive behavior because everything must be fair. This is a ploy for getting away with all kinds of manipulative and unsavory activities. Vengeance is justifiable because everything must be fair and even. Just as you must repay a favor, so you must repay a meanness.
+
+### Some Strategies for Giving Up the Futile Insistence on Justice
+
+• Make a list of everything in your world that you think is unfair... ...Ask yourself this important question. “Will the inequities go away if I am upset?” Obviously not.
+• When you find yourself saying, “Would I do that to you?” or any similar sentence, change it to, “You are different from me, although I find that hard to accept right now.” This will open, rather than close communication between you and the other person.
+• Begin to view your emotional life as independent of whatever anyone else does. This will free you from the chains of being hurt when others behave differently from the way you want them to. 
+• Try to view each decision not as a monumental life-changing event, but in perspective.
+
+> A man of knowledge is one who lives by acting, not by thinking about acting, nor by thinking about what he will think when he has finished acting…He knows that his life will be over altogether too soon; he knows, because he sees, that nothing is more important than anything else…. Thus a man of knowledge sweats and puffs and if one looks at him he is just like any ordinary man, except that the folly of his life is under control. Nothing being more important than anything else, a man of knowledge chooses any act, and acts it out as if it mattered to him. His controlled folly makes him say that what he does matters and makes him act as if it did, and yet he knows that it doesn’t; so when he fulfills his acts he retreats in peace, and whether his acts were good or bad, or worked or didn’t, is in no way any part of his concern.
+> -Carlos Castaneda
+
+• Replace the sentence “It isn’t fair” with “It’s unfortunate,” or “I’d prefer…” Thus, instead of insisting that the world be other than it is, you begin to accept reality—but not necessarily to approve of it.
+• Eliminate external references of comparison. Have your own goals... ...Set out to be what you want, without references to what others have or don’t have.
+• Rather than paying someone off, by bringing wine or a gift in exchange for dinner or a party, wait until you feel like it and then send a bottle of wine with a note saying, “Just because I think you’re a great person.” There’s no need to balance the books with reciprocal trades; just do something nice because you, rather than a special occasion, call for it. 
+• Spend the amount of money you want to on any gift, and don’t be swayed by what was spent for you. Eliminate invitations based on obligation and fairness. Decide whom you’ll see on an internal rather than external standard.
+• Be a doer, not a complainer about injustice. For every injustice you suffer, there is a resolution that does not require you to be immobilized in any way.
+• Remember that revenge is just another way of being controlled by others. Do what you, not they, decide is for you.
+
+It’s not the injustice that counts, it’s what you do about it.
 
 ## 9 Putting An End to Procrastination — Now 
 
