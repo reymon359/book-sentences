@@ -2065,6 +2065,93 @@ It’s not the injustice that counts, it’s what you do about it.
 
 ## 9 Putting An End to Procrastination — Now 
 
+It takes not one drop of sweat to put off doing anything.
+
+You may find yourself postponing many tasks that you want to accomplish, and yet for some reason you just keep suspending action.
+
+Procrastination... ...is a mighty tiresome facet of life.
+
+“I know I should be doing it, but I’ll get around to it later.” Your “putting it off” erroneous zone is difficult to blame on outside forces. It’s all yours—both the putting off and the discomfort you endure as a result of it.
+
+Putting it off, in fact, doesn’t even exist. You simply do, and those things you don’t do, in reality, are just undone, rather than postponed. 
+
+It is only the accompanying emotional reaction and immobilization that represent neurotic behavior. If you feel that you put things off, and like it, with no attending guilt, anxiety or upset, then by all means hang onto it,
+
+For most people procrastination is really an escape from living present moments as fully as possible.
+
+### Hoping, Wishing and Maybe
+
+Three neurotic phrases of the procrastinator: “I hope things will work out.” “I wish things were better.” “Maybe it’ll be okay.”
+
+There you have the deferrer’s delight. As long as you say maybe, or hope, or wish, you can use these as a rationale for not doing anything now.
+
+All wishing and hoping are a waste of time—the folly of fairyland residents.
+
+You can do anything that you set your mind to accomplish. You are strong, capable and not the least bit brittle. But by putting things off for a future moment, you are giving into escapism, self-doubt, and most significantly, self-delusion.
+
+Your putting it off zone is a movement away from being strong in your now, and toward the direction of hoping that things will improve in the future.
+
+### Inertia as a Strategy for Living
+
+Here is a sentence that can keep you inert, in your present moments: “I’ll wait, and it’ll get better.” For some this becomes a way of life—they are always putting it off for a day that can never arrive.
+
+Things never work themselves out. They remain precisely as they are. At best, things change, but they don’t get better. Things themselves (circumstances, situations, events, people) will not improve alone. If your life is better, it is because you have done something constructive to make it better.
+
+### How Procrastination Works
+
+Donald Marquis called procrastination “the art of keeping up with yesterday.” To this I would add, “and avoiding today.”
+
+Resolving to do something in the future which you could do now is an acceptable substitute for doing it, and permits you to delude yourself that you are really not compromising yourself by not doing what you have set out to do.
+
+“I know I must do that, but I’m really afraid that I might not do it well, or I won’t like doing it. So, I’ll tell myself that I’ll do it in the future, then I don’t have to admit to myself that I’m not going to do it. And it is easier to accept myself this way.” This is the sort of convenient if fallacious reasoning that can be brought into play when you are faced with having to do something which is unpleasant or difficult.
+
+If you are a person who lives one way and says you are going to live another way in the future, those proclamations are empty. You are simply a person who is always adjourning and never getting things done.
+
+If you allow yourself an absolute minimum amount of time to get your work done, then you can justify sloppy results or less than top-notch performance by saying to yourself, “I just didn’t have enough time.” But you have plenty of time.
+
+If you spend your time complaining about how much you have to do (procrastination), then you’ll have no present-moment time for doing it.
+
+You are not necessarily what you say. Behavior is a much better barometer of what you are than words. What you do in your present moments is the only indicator of what you are as a person.
+
+> Do not say things. What you are stands over you the while, and thunders so that I cannot hear what you say to the contrary.
+> -Emerson
+
+### Critics and Doers
+
+A non-doer is very often a critic, that is, someone who sits back and watches doers, and then waxes philosophically about how the doers are doing.
+
+It is easy to be a critic, but being a doer requires effort, risk and change.
+
+#### THE CRITIC
+
+Our culture is full of critics. We even pay to hear them.... ...Why? Because it is just plain easier to talk about how someone else has performed than to be the performer.
+
+The real doers of the world have no time for criticizing others. They’re too busy doing. They work. They help others who are not as talented, rather than serve as their critics.
+
+Constructive criticism can be useful. But if you’ve chosen the role of an observer rather than a doer, you are not growing.
+
+You may be using your criticism to absolve yourself of the responsibility for your own ineffectiveness by projecting it onto those who are really making an effort.
+
+Your first strategy will be to recognize these same behaviors in yourself, and resolve to eliminate them entirely, so that you can be a doer rather than a procrastinating critic.
+
+### Boredom: A Spin-Off of Procrastination
+
+Life is never boring but some people choose to be bored. 
+
+The concept of boredom entails an inability to use up present moments in a personally fulfilling way.
+
+When you procrastinate, you use your present moments doing nothing, as an alternative to doing anything. 
+
+Doing nothing leads to boredom. The tendency is to blame boredom on the environment... ...and you can eliminate it by doing something else with your mind or energy at that moment.
+
+> “The man who lets himself be bored is even more contemptible than the bore.” 
+> -Samuel Butler
+
+By doing what you choose, now, or using your mind in creative new ways now, you can insure that you’ll never again choose boredom for yourself. 
+
+The choice, as always, is yours.
+
+### Some Typical Procrastinating Behavior
 
 ## 10 Declare Your Independence
 
