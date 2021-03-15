@@ -2153,6 +2153,66 @@ The choice, as always, is yours.
 
 ### Some Typical Procrastinating Behavior
 
+• Staying in a job in which you find yourself stuck and unable to grow. 
+• Hanging onto a relationship that has gone sour.
+• Refusing to work on relationship difficulties... ...Simply waiting for them to improve, instead of trying to do something constructive about them... ...• Not tackling addictions... ...Saying, “I’ll quit when I’m ready,” but knowing that you are putting it off because you doubt that you can.
+• Putting off... ...menial tasks such as cleaning, repairing... ...and the like—providing you really care about whether or not they get done. If you wait long enough, maybe it will get done by itself.
+• Avoiding a confrontation with others... ...By waiting, you end up not having to do it, although the confrontation might have improved the relationship or the service.
+• Being afraid to change locations geographically. You stay in the same place for a lifetime... ...not going out for an evening to dinner, or to the theater or a sports event with your loved ones and using your “I’m busy” line to postpone it forever.
+• Deciding to start your diet tomorrow or next week.
+• Using sleep or tiredness as a reason for putting it off. Did you ever notice how tired you get when you are close to actually doing something uncomfortable or difficult? A little fatigue is a terrific deferring device.
+• Getting sick when you are faced with a disquieting or troublesome task.
+• The “I don’t have time to do it” ruse, in which you justify not doing something because of your busy schedule, which always has room for those things that you really want to do. 
+• Constantly looking forward to a vacation or that dream-trip.
+• Being a critic and using your criticism of others to camouflage your own refusal to do. 
+• Refusing to get a physical checkup when you suspect some dysfunction. By putting it off you don’t have to deal with the reality of possible illness. 
+• Being afraid to make a move toward someone you’re fond of.
+• Being bored at any time in your life. This is merely a way of putting off something and using the boring event as a reason for not doing something more exciting.
+• Planning but never putting in action a regular exercise program.
+• Living your entire life for your children and always putting off your own happiness.
+
+### Reasons for Continuing to Put It Off
+
+The rationale for putting it off is composed of one part self-delusion and two parts escape.
+
+• Most obviously, putting it off allows you to escape from unpleasant activities. There may be things you’re afraid to do or things part of you wants to do and part of you doesn’t. Remember, nothing is black or white. 
+• You can feel comfortable with your self-delusional system.
+• You can stay exactly as you are forever, as long as you keep putting it off. Thus you eliminate change and all the risks that go with it. 
+• By being bored you have someone or something else to blame for your unhappy state, thus you shift responsibility away from yourself and onto the boring activity. 
+• By being a critic you can feel important at the expense of others. It is a way of using others’ performance as stepping-stones for elevating yourself in your own mind. More self-delusion. 
+• By waiting for things to get better you can blame the world for your unhappiness—things just never seem to break for you.
+• You can avoid ever having to fail by avoiding all activities which involve some risk.
+• You can win sympathy from others and feel sorry for yourself for the anxiety that you live with as a result of not doing what you’d like to have done. 
+• You are able to justify a sloppy or less than acceptable performance on anything if you put it off long enough, and then just allow a minimal time segment for getting it done. “But I just didn’t have time.” 
+• By putting it off, you might be able to get someone else to do it for you. Thus, procrastination becomes a means of manipulating others. 
+• Putting it off enables you to delude yourself into believing that you are something other than what you really are. 
+• By avoiding a task you can escape success. If you don’t succeed you avoid having to feel good about yourself and accepting all of the continuing responsibility that goes with success.
+
+### Some Techniques for Ousting This Postponing Behavior
+
+• Make a decision to live five minutes at a time. Instead of thinking of tasks in long-range terms, think about now and try to use up a five-minute period doing what you want, refusing to put off anything that would bring about satisfaction. 
+• Sit down and get started on something you’ve been postponing... ...you’ll very likely find the job enjoyable, once you give up the procrastination.
+• Ask yourself, “What is the worst thing that could happen to me if I did what I’m putting off right now?”... ...Assess your fear and you’ll have no reason to hang onto it.
+• Give yourself a designated time slot... ...which you will devote exclusively to the task you’ve been putting off.
+• Think of yourself as too significant to live with anxiety about the things you have to do.
+• Look carefully at your now. Decide what you are avoiding in your current moments and begin to tackle the fear of living effectively. Procrastination is substituting the now with anxiety about a future event. If the event becomes the now, the anxiety, by definition, must go.
+• Tackle problems…with action now! Do it! The only thing holding you back is you, and the neurotic choices you’ve made
+• Start using your mind creatively in what were previously boring circumstances.
+• When someone begins to criticize you, ask this question, “Do you think I need a critic now?” Or when you find yourself being a critic, ask the person in your company if he wants to hear your citicism, and if so, why? This will help you to move from the critic to the doer column. 
+• Look hard at your life. Are you doing what you’d choose to be doing if you knew you had six months to live? If not, you’d better begin doing it... ...Your total lifetime is a mere speck. Delaying anything makes no sense.
+• Be courageous about undertaking an activity that you’ve been avoiding. One act of courage can eliminate all that fear. Stop telling yourself that you must perform well. Remind yourself that doing it is far more important. 
+• Decide not to be tired until the moment before you get into bed. Don’t allow yourself to use fatigue or illness as an escape or to put off doing anything... ...when you take away the reason for the illness or exhaustion—that is, avoidance of a task—physical problems “magically” disappear. 
+• Eliminate the words “hope,” “wish” and “maybe” from your vocabulary. They are the tools of putting it off... ...“I hope things will work out” to “I will make it happen.” “I wish things were better” to “I am going to do the following things to ensure that I feel better.” “Maybe it will be okay” to “I will make it okay.”
+• If you are putting something off which involves others... ...have a conference with all involved and ask their opinions... ...By enlisting the aid of a confidant to help you with your procrastination, you’ll have made it a joint effort. Soon you’ll dissipate much of the anxiousness that goes along with procrastination by sharing that as well.
+• Write a contract with your loved ones in which you will deliver the goods you want to but which you may have been postponing. Have each party keep a copy of the contract, and build in penalties for defaulting... ...you’ll find this strategy helpful and personally rewarding, since you’ll be participating in events that you also find enjoyable.
+
+If you want the world to change, don’t complain about it. Do something.
+
+Rather than using up your present moments with all kinds of immobilizing anxiety over what you are putting off, take charge... ...and live now! 
+
+Be a doer, not a wisher, hoper or critic.
+
+
 ## 10 Declare Your Independence
 
 
