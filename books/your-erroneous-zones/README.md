@@ -1892,59 +1892,59 @@ All progress involves flying in the face of old rules that no longer apply.
 
 ### Some Typical should Behaviors
 
-• Believing that there is a place for everything and everything must be in its place.
-• Asking “What should I wear” on a regular basis, as if there were only one acceptable mode of dressing and it is determined by other people.
-• Assuming that certain drinks must go with certain food. White wine must accompany fish and fowl. Red wine goes only with beef.
-• Shifting blame for your actions to others.
-• You must go to a wedding or send a gift, even if you don’t like them... ...because that’s the way things are supposed to be done.
-• Giving titles to those who serve you, which elevates them by implication to a position higher than you... ...If he is paid to serve you, why is it that he gets a title and you get called by your name?
-• Going to bed when it gets to be bedtime, rather than when you’re tired. 
-• Having sex only one or two ways because those are the only acceptable ways, or only participating in sexual activities when all conditions are met, such as, the kids are asleep, you are not tired, it’s dark in the room, you’re in your own bed, and on and on. 
-• Selecting roles in daily living because the culture demands it. Women do the dishes, men take out the garbage.
-• Obedience to silly household rules and traditions that don’t work for your family.
-• Following the dictates of all signs whether they make sense or not... ...Never challenging a sign, or even assuming that it doesn’t belong there in the first place. People make signs and people also make mistakes.
-• When reading a book, always starting at page one and reading every word to the end, even if half of it doesn’t apply. Finishing a book you don’t like because you’re halfway through it, and, if you’ve read half, you must read it all.
-• Women never asking men for dates. After all, that’s the male’s role.
-• Striving for grades in school or forcing your children to do so.
-• Going everywhere with your partner because it is expected, even though you both would prefer to be in different places at that particular time.
-• Consulting a “how-to” book for everything, because every job must be done a certain way. Not being able to differentiate between manuals that impart useful information and those that merely tell you how things ought to be.
-• Being anxious over the search for the right item and as a result being in that indecision and doubt bag.
-• Making rewards, plaques, titles, honors and all merit badges more important than your own evaluation of your achievements.
-• Applauding in an audience when you didn’t like the performance. 
-• Tipping for poor service.
+- Believing that there is a place for everything and everything must be in its place.
+- Asking “What should I wear” on a regular basis, as if there were only one acceptable mode of dressing and it is determined by other people.
+- Assuming that certain drinks must go with certain food. White wine must accompany fish and fowl. Red wine goes only with beef.
+- Shifting blame for your actions to others.
+- You must go to a wedding or send a gift, even if you don’t like them... ...because that’s the way things are supposed to be done.
+- Giving titles to those who serve you, which elevates them by implication to a position higher than you... ...If he is paid to serve you, why is it that he gets a title and you get called by your name?
+- Going to bed when it gets to be bedtime, rather than when you’re tired.
+- Having sex only one or two ways because those are the only acceptable ways, or only participating in sexual activities when all conditions are met, such as, the kids are asleep, you are not tired, it’s dark in the room, you’re in your own bed, and on and on.
+- Selecting roles in daily living because the culture demands it. Women do the dishes, men take out the garbage.
+- Obedience to silly household rules and traditions that don’t work for your family.
+- Following the dictates of all signs whether they make sense or not... ...Never challenging a sign, or even assuming that it doesn’t belong there in the first place. People make signs and people also make mistakes.
+- When reading a book, always starting at page one and reading every word to the end, even if half of it doesn’t apply. Finishing a book you don’t like because you’re halfway through it, and, if you’ve read half, you must read it all.
+- Women never asking men for dates. After all, that’s the male’s role.
+- Striving for grades in school or forcing your children to do so.
+- Going everywhere with your partner because it is expected, even though you both would prefer to be in different places at that particular time.
+- Consulting a “how-to” book for everything, because every job must be done a certain way. Not being able to differentiate between manuals that impart useful information and those that merely tell you how things ought to be.
+- Being anxious over the search for the right item and as a result being in that indecision and doubt bag.
+- Making rewards, plaques, titles, honors and all merit badges more important than your own evaluation of your achievements.
+- Applauding in an audience when you didn’t like the performance.
+- Tipping for poor service.
 
 ### A Look at the Common Payoffs of Musterbation
 
 Some of the reasons you have for hanging onto your shoulds are... ...Some of the reasons you have for hanging onto your shoulds are.
 
-• You can take solace in being a “good boy” or a “good girl” by following all of your shoulds.
-• Your obedience to the external should allows you to assign the responsibility for your standing still to the should rather than to yourself. As long as the should is the rationale for what you are (or aren’t), you can avoid the risks involved in trusting yourself to change. Thus your shoulds keep you from growing.
-• Your musts make it possible for you to maneuver others. By telling someone this is the way it should be done, you can make him do it the way you want it to be done. 
-• It is easier to haul out a should when you lack confidence in yourself. As your self-image wanes, the should becomes your bulwark. 
-• You can remain self-righteous about your behavior and retain your hostility when others don’t fit into the shoulds that you have for yourself and the rest of the world.
-• You can win approval by conforming.
-• As long as you focus on others, and live through their successes and failures, you don’t have to work on yourself. Having heroes can reinforce your own low opinion of yourself and allow you to escape from having to work on yourself. As long as the heroes can be the cause of your good feelings, or responsible for your bad feelings, there is no reason for you to take on that responsibility.
+- You can take solace in being a “good boy” or a “good girl” by following all of your shoulds.
+- Your obedience to the external should allows you to assign the responsibility for your standing still to the should rather than to yourself. As long as the should is the rationale for what you are (or aren’t), you can avoid the risks involved in trusting yourself to change. Thus your shoulds keep you from growing.
+- Your musts make it possible for you to maneuver others. By telling someone this is the way it should be done, you can make him do it the way you want it to be done.
+- It is easier to haul out a should when you lack confidence in yourself. As your self-image wanes, the should becomes your bulwark.
+- You can remain self-righteous about your behavior and retain your hostility when others don’t fit into the shoulds that you have for yourself and the rest of the world.
+- You can win approval by conforming.
+- As long as you focus on others, and live through their successes and failures, you don’t have to work on yourself. Having heroes can reinforce your own low opinion of yourself and allow you to escape from having to work on yourself. As long as the heroes can be the cause of your good feelings, or responsible for your bad feelings, there is no reason for you to take on that responsibility.
 
 ### Some Strategies for Removing Some of Your Shoulds
 
 Doing! Resolving to be different than the way you’ve been taught is proper when that way doesn’t work for you.
 
-• Begin with insight into your own behavior. Study the neurotic dividends spelled out above. Then ask yourself why are you burdening yourself with so many shoulds. Ask yourself if you really believe in them, or if you’ve just become accustomed to behaving that way. 
-• List all of the rules you abide by, which just don’t seem to apply.
-• Start your own traditions.
-• Have a consultation with your relatives and friends about the many rules of conduct you all follow which you find distasteful. Perhaps you’ll be able to bring about some new rules which appear to be more reasonable to everyone. You’ll discover that the old rules are still in effect only because no one ever seriously thought to challenge them in the past.
-• See how many rules you impose on others. Ask them if they really need those directives, or if they would behave in the identical fashion without them.
-• Take a risk on challenging a rule or policy that you’d like to eliminate. But be prepared to deal without hostility with the consequences of your behavior.
-• Think of decisions as having different consequences, rather than as being right or wrong... ...Trust yourself to make the decision rather than relying on some external kind of guarantee.
-• Try to live in your present moments and make your rules and shoulds apply only for that time.
-• Refuse to share your rule-breaking behavior with anyone. It is only for you, and you don’t want to get into an approval-seeking posture, in which the reason for resisting enculturation is to win attention and therefore adulation. 
-• Get rid of the roles that you (and others) are assuming in your life. Be whatever you want to be, rather than what you think you are supposed to be because you are a man, woman, middle-aged, or whatever. 
-• Refuse for a given segment of a conversation to focus on others. Practice in ever-increasing time periods not projecting blame, or talking about another person, event, or idea in a complaining or fault-finding manner. 
-• Stop waiting for others to change. Ask yourself why others should be different simply because you would like it better if they were. Recognize that every person has a right to be whatever they choose, even if you irritate yourself about it.
-• Announce out loud that you just blamed and that you are working on eliminating this behavior. By stating it as a goal, you’ll be mindful of your proclivities in this direction. 
-• Decide that any and all unhappiness that you choose will never be the result of someone else, but rather that it will be the result of you and your own behavior... ...any externally caused unhappiness reinforces your own slavery, since it assumes that you have no control over yourself or them, but they have control over you. 
-• When someone is blaming, politely ask them, “Would you like to know if I want to hear what you are telling me right now?”... ...teach others not to use you as a blame receptacle and begin to label other people’s blaming and fault-finding so that you get in touch with recognizing it in yourself.
-• Begin to trust yourself and give less credence to those external musts. • Remind yourself that what other people do is not what bothers you, it’s your reaction to it. Instead of saying “They shouldn’t do that,” say, “I wonder why I bother myself with what they are doing.”
+- Begin with insight into your own behavior. Study the neurotic dividends spelled out above. Then ask yourself why are you burdening yourself with so many shoulds. Ask yourself if you really believe in them, or if you’ve just become accustomed to behaving that way.
+- List all of the rules you abide by, which just don’t seem to apply.
+- Start your own traditions.
+- Have a consultation with your relatives and friends about the many rules of conduct you all follow which you find distasteful. Perhaps you’ll be able to bring about some new rules which appear to be more reasonable to everyone. You’ll discover that the old rules are still in effect only because no one ever seriously thought to challenge them in the past.
+- See how many rules you impose on others. Ask them if they really need those directives, or if they would behave in the identical fashion without them.
+- Take a risk on challenging a rule or policy that you’d like to eliminate. But be prepared to deal without hostility with the consequences of your behavior.
+- Think of decisions as having different consequences, rather than as being right or wrong... ...Trust yourself to make the decision rather than relying on some external kind of guarantee.
+- Try to live in your present moments and make your rules and shoulds apply only for that time.
+- Refuse to share your rule-breaking behavior with anyone. It is only for you, and you don’t want to get into an approval-seeking posture, in which the reason for resisting enculturation is to win attention and therefore adulation.
+- Get rid of the roles that you (and others) are assuming in your life. Be whatever you want to be, rather than what you think you are supposed to be because you are a man, woman, middle-aged, or whatever.
+- Refuse for a given segment of a conversation to focus on others. Practice in ever-increasing time periods not projecting blame, or talking about another person, event, or idea in a complaining or fault-finding manner.
+- Stop waiting for others to change. Ask yourself why others should be different simply because you would like it better if they were. Recognize that every person has a right to be whatever they choose, even if you irritate yourself about it.
+- Announce out loud that you just blamed and that you are working on eliminating this behavior. By stating it as a goal, you’ll be mindful of your proclivities in this direction.
+- Decide that any and all unhappiness that you choose will never be the result of someone else, but rather that it will be the result of you and your own behavior... ...any externally caused unhappiness reinforces your own slavery, since it assumes that you have no control over yourself or them, but they have control over you.
+- When someone is blaming, politely ask them, “Would you like to know if I want to hear what you are telling me right now?”... ...teach others not to use you as a blame receptacle and begin to label other people’s blaming and fault-finding so that you get in touch with recognizing it in yourself.
+- Begin to trust yourself and give less credence to those external musts. - Remind yourself that what other people do is not what bothers you, it’s your reaction to it. Instead of saying “They shouldn’t do that,” say, “I wonder why I bother myself with what they are doing.”
 
 Whether you blame or don’t, you stay as you are unless you _do_ something constructive to correct your dislikes.
 
@@ -2011,59 +2011,59 @@ You can never predict how someone you love will react to another human being, bu
 
 “Searching-for-equity” behavior is obvious in virtually all areas of life. If you are the least bit perceptive you’ll see them cropping up over and over in yourself and others.
 
-• Complaining that others make more money for doing the same work.
-• Being upset that others get away with infractions, while you always get caught.
-• All of the “Would I treat you that way?” sentences in which the assumption is that everyone should be exactly like you. 
-• Always reciprocating when someone does a favor for you. If you invite me for dinner, then I owe you one or at least a bottle of wine. This sort of behavior is often justified as good manners or politeness, but in reality it is simply a means of keeping the scales of justice in balance. 
-• Kissing someone back or saying “I love you, too” instead of accepting it and expressing your own feelings whenever you choose.
-• Having sex with someone out of obligation, even though you don’t want to, because it really isn’t fair not to be cooperative.
-• Always insisting on things being consistent.
+- Complaining that others make more money for doing the same work.
+- Being upset that others get away with infractions, while you always get caught.
+- All of the “Would I treat you that way?” sentences in which the assumption is that everyone should be exactly like you.
+- Always reciprocating when someone does a favor for you. If you invite me for dinner, then I owe you one or at least a bottle of wine. This sort of behavior is often justified as good manners or politeness, but in reality it is simply a means of keeping the scales of justice in balance.
+- Kissing someone back or saying “I love you, too” instead of accepting it and expressing your own feelings whenever you choose.
+- Having sex with someone out of obligation, even though you don’t want to, because it really isn’t fair not to be cooperative.
+- Always insisting on things being consistent.
 
 > A foolish consistency is the hobgoblin of little minds.
 > -Emerson’s often misquoted line
 
 If you always want things to be the “right” way, you are in this “little-minds” category.
 
-• In arguments, insisting on a clear-cut decision which calls for the winners to be right and the losers to admit that they were wrong. 
-• Using the fair argument in order to get your own way... ...” And then being upset because of the lack of fairness.
-• Instead of blaming the entire mess on the lack of fairness, try looking hard at your own inability to decide for yourself what is most appropriate for you.
-• The “If he can do it, so can I” game in which you justify something by someone else’s behavior. This can be the neurotic rationale for cheating, stealing, flirting, lying, being late, or anything that you’d rather not admit into your own value system.... ...This is the “He hit me, so I hit him” routine that is largely employed by children who have seen this behavior thousands of times in their own parents. It is the cause of war when extended to its ridiculous extreme.
-• Spending the same amount of money on a gift that someone else spent on one for you. Paying back every favor with a favor of equal value. Keeping the tally sheet equal, rather than doing what you would like in such matters. After all, “It has to be fair.”
+- In arguments, insisting on a clear-cut decision which calls for the winners to be right and the losers to admit that they were wrong.
+- Using the fair argument in order to get your own way... ...” And then being upset because of the lack of fairness.
+- Instead of blaming the entire mess on the lack of fairness, try looking hard at your own inability to decide for yourself what is most appropriate for you.
+- The “If he can do it, so can I” game in which you justify something by someone else’s behavior. This can be the neurotic rationale for cheating, stealing, flirting, lying, being late, or anything that you’d rather not admit into your own value system.... ...This is the “He hit me, so I hit him” routine that is largely employed by children who have seen this behavior thousands of times in their own parents. It is the cause of war when extended to its ridiculous extreme.
+- Spending the same amount of money on a gift that someone else spent on one for you. Paying back every favor with a favor of equal value. Keeping the tally sheet equal, rather than doing what you would like in such matters. After all, “It has to be fair.”
 
 ### Some of the Psychological Payoffs for Hanging Onto Your “Demands for Justice”
 
 The rewards for this kind of behavior are generally self-defeating in that they keep the focus off reality and on some kind of a dream world that will never exist.
 
-• You can feel smug with yourself for being honorable. It’s one way to make yourself feel superior and better.
-• You can give up responsibility for yourself and justify being immobilized by shifting the responsibility to those people and events that are not fair... ...In this way, you can avoid risks, and the hard work of change. As long as injustice is the cause of your problems you can never change until the injustice goes away, which, of course, it never will.
-• Injustice can win you attention, pity and self-pity. The world has been unjust to you and now you and everyone around you must feel sorry for you. This is another great technique for avoiding change.
-• You can justify all kinds of immoral, illegal and inappropriate behavior by making your action someone else’s responsibility. If he can do it, so can I.
-• It gives you a sensational self-excuse for being ineffective. “If they aren’t going to do anything, then neither am I.”
-• It gives you a conversation topic and helps you to avoid talking about yourself to the people around you. Complain about all the injustices in the world and nothing gets done, but at least you killed those moments and maybe escaped dealing more honestly and personally with each other.
-• As long as you have a concept of justice, you can always make the just decision. 
-• You can manipulate others, particularly your children, by reminding them that they are being unfair to you if they aren’t exactly the same as you, and don’t keep a precise tally of all give-and-take in the relationship.
-• You can justify vindictive behavior because everything must be fair. This is a ploy for getting away with all kinds of manipulative and unsavory activities. Vengeance is justifiable because everything must be fair and even. Just as you must repay a favor, so you must repay a meanness.
+- You can feel smug with yourself for being honorable. It’s one way to make yourself feel superior and better.
+- You can give up responsibility for yourself and justify being immobilized by shifting the responsibility to those people and events that are not fair... ...In this way, you can avoid risks, and the hard work of change. As long as injustice is the cause of your problems you can never change until the injustice goes away, which, of course, it never will.
+- Injustice can win you attention, pity and self-pity. The world has been unjust to you and now you and everyone around you must feel sorry for you. This is another great technique for avoiding change.
+- You can justify all kinds of immoral, illegal and inappropriate behavior by making your action someone else’s responsibility. If he can do it, so can I.
+- It gives you a sensational self-excuse for being ineffective. “If they aren’t going to do anything, then neither am I.”
+- It gives you a conversation topic and helps you to avoid talking about yourself to the people around you. Complain about all the injustices in the world and nothing gets done, but at least you killed those moments and maybe escaped dealing more honestly and personally with each other.
+- As long as you have a concept of justice, you can always make the just decision.
+- You can manipulate others, particularly your children, by reminding them that they are being unfair to you if they aren’t exactly the same as you, and don’t keep a precise tally of all give-and-take in the relationship.
+- You can justify vindictive behavior because everything must be fair. This is a ploy for getting away with all kinds of manipulative and unsavory activities. Vengeance is justifiable because everything must be fair and even. Just as you must repay a favor, so you must repay a meanness.
 
 ### Some Strategies for Giving Up the Futile Insistence on Justice
 
-• Make a list of everything in your world that you think is unfair... ...Ask yourself this important question. “Will the inequities go away if I am upset?” Obviously not.
-• When you find yourself saying, “Would I do that to you?” or any similar sentence, change it to, “You are different from me, although I find that hard to accept right now.” This will open, rather than close communication between you and the other person.
-• Begin to view your emotional life as independent of whatever anyone else does. This will free you from the chains of being hurt when others behave differently from the way you want them to. 
-• Try to view each decision not as a monumental life-changing event, but in perspective.
+- Make a list of everything in your world that you think is unfair... ...Ask yourself this important question. “Will the inequities go away if I am upset?” Obviously not.
+- When you find yourself saying, “Would I do that to you?” or any similar sentence, change it to, “You are different from me, although I find that hard to accept right now.” This will open, rather than close communication between you and the other person.
+- Begin to view your emotional life as independent of whatever anyone else does. This will free you from the chains of being hurt when others behave differently from the way you want them to.
+- Try to view each decision not as a monumental life-changing event, but in perspective.
 
 > A man of knowledge is one who lives by acting, not by thinking about acting, nor by thinking about what he will think when he has finished acting…He knows that his life will be over altogether too soon; he knows, because he sees, that nothing is more important than anything else…. Thus a man of knowledge sweats and puffs and if one looks at him he is just like any ordinary man, except that the folly of his life is under control. Nothing being more important than anything else, a man of knowledge chooses any act, and acts it out as if it mattered to him. His controlled folly makes him say that what he does matters and makes him act as if it did, and yet he knows that it doesn’t; so when he fulfills his acts he retreats in peace, and whether his acts were good or bad, or worked or didn’t, is in no way any part of his concern.
 > -Carlos Castaneda
 
-• Replace the sentence “It isn’t fair” with “It’s unfortunate,” or “I’d prefer…” Thus, instead of insisting that the world be other than it is, you begin to accept reality—but not necessarily to approve of it.
-• Eliminate external references of comparison. Have your own goals... ...Set out to be what you want, without references to what others have or don’t have.
-• Rather than paying someone off, by bringing wine or a gift in exchange for dinner or a party, wait until you feel like it and then send a bottle of wine with a note saying, “Just because I think you’re a great person.” There’s no need to balance the books with reciprocal trades; just do something nice because you, rather than a special occasion, call for it. 
-• Spend the amount of money you want to on any gift, and don’t be swayed by what was spent for you. Eliminate invitations based on obligation and fairness. Decide whom you’ll see on an internal rather than external standard.
-• Be a doer, not a complainer about injustice. For every injustice you suffer, there is a resolution that does not require you to be immobilized in any way.
-• Remember that revenge is just another way of being controlled by others. Do what you, not they, decide is for you.
+- Replace the sentence “It isn’t fair” with “It’s unfortunate,” or “I’d prefer…” Thus, instead of insisting that the world be other than it is, you begin to accept reality—but not necessarily to approve of it.
+- Eliminate external references of comparison. Have your own goals... ...Set out to be what you want, without references to what others have or don’t have.
+- Rather than paying someone off, by bringing wine or a gift in exchange for dinner or a party, wait until you feel like it and then send a bottle of wine with a note saying, “Just because I think you’re a great person.” There’s no need to balance the books with reciprocal trades; just do something nice because you, rather than a special occasion, call for it.
+- Spend the amount of money you want to on any gift, and don’t be swayed by what was spent for you. Eliminate invitations based on obligation and fairness. Decide whom you’ll see on an internal rather than external standard.
+- Be a doer, not a complainer about injustice. For every injustice you suffer, there is a resolution that does not require you to be immobilized in any way.
+- Remember that revenge is just another way of being controlled by others. Do what you, not they, decide is for you.
 
 It’s not the injustice that counts, it’s what you do about it.
 
-## 9 Putting An End to Procrastination — Now 
+## 9 Putting An End to Procrastination — Now
 
 It takes not one drop of sweat to put off doing anything.
 
@@ -2073,7 +2073,7 @@ Procrastination... ...is a mighty tiresome facet of life.
 
 “I know I should be doing it, but I’ll get around to it later.” Your “putting it off” erroneous zone is difficult to blame on outside forces. It’s all yours—both the putting off and the discomfort you endure as a result of it.
 
-Putting it off, in fact, doesn’t even exist. You simply do, and those things you don’t do, in reality, are just undone, rather than postponed. 
+Putting it off, in fact, doesn’t even exist. You simply do, and those things you don’t do, in reality, are just undone, rather than postponed.
 
 It is only the accompanying emotional reaction and immobilization that represent neurotic behavior. If you feel that you put things off, and like it, with no attending guilt, anxiety or upset, then by all means hang onto it,
 
@@ -2136,79 +2136,79 @@ Your first strategy will be to recognize these same behaviors in yourself, and r
 
 ### Boredom: A Spin-Off of Procrastination
 
-Life is never boring but some people choose to be bored. 
+Life is never boring but some people choose to be bored.
 
 The concept of boredom entails an inability to use up present moments in a personally fulfilling way.
 
-When you procrastinate, you use your present moments doing nothing, as an alternative to doing anything. 
+When you procrastinate, you use your present moments doing nothing, as an alternative to doing anything.
 
 Doing nothing leads to boredom. The tendency is to blame boredom on the environment... ...and you can eliminate it by doing something else with your mind or energy at that moment.
 
-> “The man who lets himself be bored is even more contemptible than the bore.” 
+> “The man who lets himself be bored is even more contemptible than the bore.”
 > -Samuel Butler
 
-By doing what you choose, now, or using your mind in creative new ways now, you can insure that you’ll never again choose boredom for yourself. 
+By doing what you choose, now, or using your mind in creative new ways now, you can insure that you’ll never again choose boredom for yourself.
 
 The choice, as always, is yours.
 
 ### Some Typical Procrastinating Behavior
 
-• Staying in a job in which you find yourself stuck and unable to grow. 
-• Hanging onto a relationship that has gone sour.
-• Refusing to work on relationship difficulties... ...Simply waiting for them to improve, instead of trying to do something constructive about them... ...• Not tackling addictions... ...Saying, “I’ll quit when I’m ready,” but knowing that you are putting it off because you doubt that you can.
-• Putting off... ...menial tasks such as cleaning, repairing... ...and the like—providing you really care about whether or not they get done. If you wait long enough, maybe it will get done by itself.
-• Avoiding a confrontation with others... ...By waiting, you end up not having to do it, although the confrontation might have improved the relationship or the service.
-• Being afraid to change locations geographically. You stay in the same place for a lifetime... ...not going out for an evening to dinner, or to the theater or a sports event with your loved ones and using your “I’m busy” line to postpone it forever.
-• Deciding to start your diet tomorrow or next week.
-• Using sleep or tiredness as a reason for putting it off. Did you ever notice how tired you get when you are close to actually doing something uncomfortable or difficult? A little fatigue is a terrific deferring device.
-• Getting sick when you are faced with a disquieting or troublesome task.
-• The “I don’t have time to do it” ruse, in which you justify not doing something because of your busy schedule, which always has room for those things that you really want to do. 
-• Constantly looking forward to a vacation or that dream-trip.
-• Being a critic and using your criticism of others to camouflage your own refusal to do. 
-• Refusing to get a physical checkup when you suspect some dysfunction. By putting it off you don’t have to deal with the reality of possible illness. 
-• Being afraid to make a move toward someone you’re fond of.
-• Being bored at any time in your life. This is merely a way of putting off something and using the boring event as a reason for not doing something more exciting.
-• Planning but never putting in action a regular exercise program.
-• Living your entire life for your children and always putting off your own happiness.
+- Staying in a job in which you find yourself stuck and unable to grow.
+- Hanging onto a relationship that has gone sour.
+- Refusing to work on relationship difficulties... ...Simply waiting for them to improve, instead of trying to do something constructive about them... ...- Not tackling addictions... ...Saying, “I’ll quit when I’m ready,” but knowing that you are putting it off because you doubt that you can.
+- Putting off... ...menial tasks such as cleaning, repairing... ...and the like—providing you really care about whether or not they get done. If you wait long enough, maybe it will get done by itself.
+- Avoiding a confrontation with others... ...By waiting, you end up not having to do it, although the confrontation might have improved the relationship or the service.
+- Being afraid to change locations geographically. You stay in the same place for a lifetime... ...not going out for an evening to dinner, or to the theater or a sports event with your loved ones and using your “I’m busy” line to postpone it forever.
+- Deciding to start your diet tomorrow or next week.
+- Using sleep or tiredness as a reason for putting it off. Did you ever notice how tired you get when you are close to actually doing something uncomfortable or difficult? A little fatigue is a terrific deferring device.
+- Getting sick when you are faced with a disquieting or troublesome task.
+- The “I don’t have time to do it” ruse, in which you justify not doing something because of your busy schedule, which always has room for those things that you really want to do.
+- Constantly looking forward to a vacation or that dream-trip.
+- Being a critic and using your criticism of others to camouflage your own refusal to do.
+- Refusing to get a physical checkup when you suspect some dysfunction. By putting it off you don’t have to deal with the reality of possible illness.
+- Being afraid to make a move toward someone you’re fond of.
+- Being bored at any time in your life. This is merely a way of putting off something and using the boring event as a reason for not doing something more exciting.
+- Planning but never putting in action a regular exercise program.
+- Living your entire life for your children and always putting off your own happiness.
 
 ### Reasons for Continuing to Put It Off
 
 The rationale for putting it off is composed of one part self-delusion and two parts escape.
 
-• Most obviously, putting it off allows you to escape from unpleasant activities. There may be things you’re afraid to do or things part of you wants to do and part of you doesn’t. Remember, nothing is black or white. 
-• You can feel comfortable with your self-delusional system.
-• You can stay exactly as you are forever, as long as you keep putting it off. Thus you eliminate change and all the risks that go with it. 
-• By being bored you have someone or something else to blame for your unhappy state, thus you shift responsibility away from yourself and onto the boring activity. 
-• By being a critic you can feel important at the expense of others. It is a way of using others’ performance as stepping-stones for elevating yourself in your own mind. More self-delusion. 
-• By waiting for things to get better you can blame the world for your unhappiness—things just never seem to break for you.
-• You can avoid ever having to fail by avoiding all activities which involve some risk.
-• You can win sympathy from others and feel sorry for yourself for the anxiety that you live with as a result of not doing what you’d like to have done. 
-• You are able to justify a sloppy or less than acceptable performance on anything if you put it off long enough, and then just allow a minimal time segment for getting it done. “But I just didn’t have time.” 
-• By putting it off, you might be able to get someone else to do it for you. Thus, procrastination becomes a means of manipulating others. 
-• Putting it off enables you to delude yourself into believing that you are something other than what you really are. 
-• By avoiding a task you can escape success. If you don’t succeed you avoid having to feel good about yourself and accepting all of the continuing responsibility that goes with success.
+- Most obviously, putting it off allows you to escape from unpleasant activities. There may be things you’re afraid to do or things part of you wants to do and part of you doesn’t. Remember, nothing is black or white.
+- You can feel comfortable with your self-delusional system.
+- You can stay exactly as you are forever, as long as you keep putting it off. Thus you eliminate change and all the risks that go with it.
+- By being bored you have someone or something else to blame for your unhappy state, thus you shift responsibility away from yourself and onto the boring activity.
+- By being a critic you can feel important at the expense of others. It is a way of using others’ performance as stepping-stones for elevating yourself in your own mind. More self-delusion.
+- By waiting for things to get better you can blame the world for your unhappiness—things just never seem to break for you.
+- You can avoid ever having to fail by avoiding all activities which involve some risk.
+- You can win sympathy from others and feel sorry for yourself for the anxiety that you live with as a result of not doing what you’d like to have done.
+- You are able to justify a sloppy or less than acceptable performance on anything if you put it off long enough, and then just allow a minimal time segment for getting it done. “But I just didn’t have time.”
+- By putting it off, you might be able to get someone else to do it for you. Thus, procrastination becomes a means of manipulating others.
+- Putting it off enables you to delude yourself into believing that you are something other than what you really are.
+- By avoiding a task you can escape success. If you don’t succeed you avoid having to feel good about yourself and accepting all of the continuing responsibility that goes with success.
 
 ### Some Techniques for Ousting This Postponing Behavior
 
-• Make a decision to live five minutes at a time. Instead of thinking of tasks in long-range terms, think about now and try to use up a five-minute period doing what you want, refusing to put off anything that would bring about satisfaction. 
-• Sit down and get started on something you’ve been postponing... ...you’ll very likely find the job enjoyable, once you give up the procrastination.
-• Ask yourself, “What is the worst thing that could happen to me if I did what I’m putting off right now?”... ...Assess your fear and you’ll have no reason to hang onto it.
-• Give yourself a designated time slot... ...which you will devote exclusively to the task you’ve been putting off.
-• Think of yourself as too significant to live with anxiety about the things you have to do.
-• Look carefully at your now. Decide what you are avoiding in your current moments and begin to tackle the fear of living effectively. Procrastination is substituting the now with anxiety about a future event. If the event becomes the now, the anxiety, by definition, must go.
-• Tackle problems…with action now! Do it! The only thing holding you back is you, and the neurotic choices you’ve made
-• Start using your mind creatively in what were previously boring circumstances.
-• When someone begins to criticize you, ask this question, “Do you think I need a critic now?” Or when you find yourself being a critic, ask the person in your company if he wants to hear your citicism, and if so, why? This will help you to move from the critic to the doer column. 
-• Look hard at your life. Are you doing what you’d choose to be doing if you knew you had six months to live? If not, you’d better begin doing it... ...Your total lifetime is a mere speck. Delaying anything makes no sense.
-• Be courageous about undertaking an activity that you’ve been avoiding. One act of courage can eliminate all that fear. Stop telling yourself that you must perform well. Remind yourself that doing it is far more important. 
-• Decide not to be tired until the moment before you get into bed. Don’t allow yourself to use fatigue or illness as an escape or to put off doing anything... ...when you take away the reason for the illness or exhaustion—that is, avoidance of a task—physical problems “magically” disappear. 
-• Eliminate the words “hope,” “wish” and “maybe” from your vocabulary. They are the tools of putting it off... ...“I hope things will work out” to “I will make it happen.” “I wish things were better” to “I am going to do the following things to ensure that I feel better.” “Maybe it will be okay” to “I will make it okay.”
-• If you are putting something off which involves others... ...have a conference with all involved and ask their opinions... ...By enlisting the aid of a confidant to help you with your procrastination, you’ll have made it a joint effort. Soon you’ll dissipate much of the anxiousness that goes along with procrastination by sharing that as well.
-• Write a contract with your loved ones in which you will deliver the goods you want to but which you may have been postponing. Have each party keep a copy of the contract, and build in penalties for defaulting... ...you’ll find this strategy helpful and personally rewarding, since you’ll be participating in events that you also find enjoyable.
+- Make a decision to live five minutes at a time. Instead of thinking of tasks in long-range terms, think about now and try to use up a five-minute period doing what you want, refusing to put off anything that would bring about satisfaction.
+- Sit down and get started on something you’ve been postponing... ...you’ll very likely find the job enjoyable, once you give up the procrastination.
+- Ask yourself, “What is the worst thing that could happen to me if I did what I’m putting off right now?”... ...Assess your fear and you’ll have no reason to hang onto it.
+- Give yourself a designated time slot... ...which you will devote exclusively to the task you’ve been putting off.
+- Think of yourself as too significant to live with anxiety about the things you have to do.
+- Look carefully at your now. Decide what you are avoiding in your current moments and begin to tackle the fear of living effectively. Procrastination is substituting the now with anxiety about a future event. If the event becomes the now, the anxiety, by definition, must go.
+- Tackle problems…with action now! Do it! The only thing holding you back is you, and the neurotic choices you’ve made
+- Start using your mind creatively in what were previously boring circumstances.
+- When someone begins to criticize you, ask this question, “Do you think I need a critic now?” Or when you find yourself being a critic, ask the person in your company if he wants to hear your citicism, and if so, why? This will help you to move from the critic to the doer column.
+- Look hard at your life. Are you doing what you’d choose to be doing if you knew you had six months to live? If not, you’d better begin doing it... ...Your total lifetime is a mere speck. Delaying anything makes no sense.
+- Be courageous about undertaking an activity that you’ve been avoiding. One act of courage can eliminate all that fear. Stop telling yourself that you must perform well. Remind yourself that doing it is far more important.
+- Decide not to be tired until the moment before you get into bed. Don’t allow yourself to use fatigue or illness as an escape or to put off doing anything... ...when you take away the reason for the illness or exhaustion—that is, avoidance of a task—physical problems “magically” disappear.
+- Eliminate the words “hope,” “wish” and “maybe” from your vocabulary. They are the tools of putting it off... ...“I hope things will work out” to “I will make it happen.” “I wish things were better” to “I am going to do the following things to ensure that I feel better.” “Maybe it will be okay” to “I will make it okay.”
+- If you are putting something off which involves others... ...have a conference with all involved and ask their opinions... ...By enlisting the aid of a confidant to help you with your procrastination, you’ll have made it a joint effort. Soon you’ll dissipate much of the anxiousness that goes along with procrastination by sharing that as well.
+- Write a contract with your loved ones in which you will deliver the goods you want to but which you may have been postponing. Have each party keep a copy of the contract, and build in penalties for defaulting... ...you’ll find this strategy helpful and personally rewarding, since you’ll be participating in events that you also find enjoyable.
 
 If you want the world to change, don’t complain about it. Do something.
 
-Rather than using up your present moments with all kinds of immobilizing anxiety over what you are putting off, take charge... ...and live now! 
+Rather than using up your present moments with all kinds of immobilizing anxiety over what you are putting off, take charge... ...and live now!
 
 Be a doer, not a wisher, hoper or critic.
 
@@ -2264,7 +2264,7 @@ While doing for others is sometimes admirable, if it is at the expense of yourse
 When guilt and fear of disappointment color the nest-leaving, they continue throughout life, sometimes to the point that the marriage relationship becomes one of parenting, rather than of two individuals sharing on an equal footing.
 
 The family is an important unit in the developmental process, but it should not be a permanent unit.
-up. 
+up.
 
 As you examine effective parent-child relationships which have no requirements or obligations attached, you’ll discover parents who treat their children as friends.
 
@@ -2311,14 +2311,14 @@ You teach people to dominate you, and to treat you the way you’ve always been 
 
 Common strategies for maintaining dominance and control threads:
 
-• Yelling, screaming and voice-raising of any kind. This will keep you in line if you are a soft person and want things quiet and smooth.
-• Inducement of guilt. “You had no right to—”... ...If guilt is your hang-up, then you can be kept “submissive” with such statements.
-• The use of anger and explosive behavior.
-• The physical ailment ploy... ...when one partner doesn’t act the way the other wants him to.
-• The silent treatment. No talking and deliberate sulking are superlative strategies that one partner can use to maneuver the other into correct behavior.
-• Cry in order to help the other person to feel guilty. 
-• The leaving scene.
-• The suicide scheme.
+- Yelling, screaming and voice-raising of any kind. This will keep you in line if you are a soft person and want things quiet and smooth.
+- Inducement of guilt. “You had no right to—”... ...If guilt is your hang-up, then you can be kept “submissive” with such statements.
+- The use of anger and explosive behavior.
+- The physical ailment ploy... ...when one partner doesn’t act the way the other wants him to.
+- The silent treatment. No talking and deliberate sulking are superlative strategies that one partner can use to maneuver the other into correct behavior.
+- Cry in order to help the other person to feel guilty.
+- The leaving scene.
+- The suicide scheme.
 
 If one partner refuses to be manipulated by them, the other will not continue to use them.
 
@@ -2330,56 +2330,56 @@ Rather than saying, “Why don’t you treat me better?” begin to say, “What
 
 ### Some Common Dependency and Dependency-Fostering
 
-• Feeling unable to leave the nest or leaving it with bad feelings on both sides.
-• Asking permission... ...for anything,
-• Invasions of privacy.
-• Falling into depression and immobilization after the death of a loved one.
-• Feeling committed to a particular job and never venturing out on your own.
-• Having expectations for how a spouse, parent, or child has to be.
-• Being in _training_ all of your life for a job or position. Never leaving the training phase for self-reliance. 
-• Being hurt by what others say, feel, think, or do.
-• Taking orders from someone. 
-• Allowing someone else to make decisions for you, or always asking advice before deciding.
-• Not doing something in front of a parent or dominant person because they wouldn’t approve.
-• Giving up on your own life when a loved one dies, or becomes seriously ill. 
-• Using careful language around a dominant person, so that he won’t be upset with you. 
-• Persistently lying about your own behavior, and having to distort the truth so that “they” won’t be upset with you.
+- Feeling unable to leave the nest or leaving it with bad feelings on both sides.
+- Asking permission... ...for anything,
+- Invasions of privacy.
+- Falling into depression and immobilization after the death of a loved one.
+- Feeling committed to a particular job and never venturing out on your own.
+- Having expectations for how a spouse, parent, or child has to be.
+- Being in _training_ all of your life for a job or position. Never leaving the training phase for self-reliance.
+- Being hurt by what others say, feel, think, or do.
+- Taking orders from someone.
+- Allowing someone else to make decisions for you, or always asking advice before deciding.
+- Not doing something in front of a parent or dominant person because they wouldn’t approve.
+- Giving up on your own life when a loved one dies, or becomes seriously ill.
+- Using careful language around a dominant person, so that he won’t be upset with you.
+- Persistently lying about your own behavior, and having to distort the truth so that “they” won’t be upset with you.
 
 ### The Psychological Compensation of Dependency
 
 You may know the payoffs for being a dependent, but do you know how destructive they are? Dependency may appear harmless, but it is the enemy of all happiness and fulfillment.
 
-• Being dependent can keep you in the protective custody of others, and give you the little child benefits of not being responsible for your own behavior. 
-• By staying dependent, you can blame your shortcomings on others. 
-• If you are dependent on others, you don’t have to undertake the hard work and risk of change. You are secure in your reliance on others who will take responsibility for you. 
-• You can feel good about yourself because you are pleasing others.
-• You can avoid guilt which you choose when you behave assertively. It is easier to behave than to learn to eliminate guilt. 
-• You needn’t make choices or decisions for yourself... ...So long as you think what they think or feel what they feel, there’s no need for the hard work of determining what you think or feel.
-• When everything else is boiled away, it is just plain easier to be a follower than a leader. You can do what you’re told and avoid trouble, even though you may not like the way you feel as a follower. It’s still simpler than taking all those risks that go with being your own person. Dependency is distasteful because it makes you into less than a whole, independently functioning person. But it is easier, that’s for sure.
+- Being dependent can keep you in the protective custody of others, and give you the little child benefits of not being responsible for your own behavior.
+- By staying dependent, you can blame your shortcomings on others.
+- If you are dependent on others, you don’t have to undertake the hard work and risk of change. You are secure in your reliance on others who will take responsibility for you.
+- You can feel good about yourself because you are pleasing others.
+- You can avoid guilt which you choose when you behave assertively. It is easier to behave than to learn to eliminate guilt.
+- You needn’t make choices or decisions for yourself... ...So long as you think what they think or feel what they feel, there’s no need for the hard work of determining what you think or feel.
+- When everything else is boiled away, it is just plain easier to be a follower than a leader. You can do what you’re told and avoid trouble, even though you may not like the way you feel as a follower. It’s still simpler than taking all those risks that go with being your own person. Dependency is distasteful because it makes you into less than a whole, independently functioning person. But it is easier, that’s for sure.
 
 ### A Prospectus for Ridding Yourself of Dependency
 
-• Write your own Declaration of Independence in which you spell out for yourself how you want to function in all relationships, not eliminating compromise, but wiping out any manipulation without representation.
-• Talk with each person that you feel you are psychologically dependent upon... ...This is an excellent strategy for getting started, because the other may not even be aware of how you feel as a dependent. 
-• Give yourself five-minute goals for how you’re going to deal with dominant people in your life.
-• Arrange a planning session with your dominant partner at a time when you are feeling unthreatened. During this session, explain that you sometimes feel manipulated and submissive and that you would like to arrange a nonverbal signal to let the other person know how you are feeling when it crops up, but that you don’t want to discuss it at that time.
-• At the moment you are feeling shoved-around psychologically, state how you feel to the person, and then act out the way you’d like to behave. 
-• Remind yourself that... ...others will often disapprove of your behavior, and that has nothing to do with who or what you are... ...If you expect it, then you won’t be thrown by it.
-• Even if you are deliberately avoiding dominant people... ...you are still being controlled by them in their absence if you are experiencing emotional immobilization because of them. 
-• If you are feeling obligated to visit certain people, ask yourself if you would want others to visit you simply because they felt required to do so.
-• Make a decision to get out of your dependency role by doing volunteer work... ...getting a job that doesn’t necessarily even pay well... ...the remuneration of your own high self-esteem is worth whatever the price it costs in money or time. 
-• Insist on financial independence with no strings, and no accounting to anyone. You are a slave if you must ask for money.
-• Let them go! Let yourself go! Stop giving orders! Stop taking orders!
-• Recognize your desire for privacy and not having to share everything you feel and experience with someone.
-• Let a child’s room be his... ...A made bed is not any more psychologically sound than an unmade bed, even though you may have learned the opposite. 
-• At a party, congregate with people away from your partner... ...Split up and then join forces when it is over. You’ll double your learning and experience.
-• Take mini-trips alone, or with friends without having to feel attached to your partner. You’ll feel more strongly toward your partner when you come back, and you’ll treasure your independent functioning as well. 
-• Keep in mind that you have no responsibility to make others happy. Others make themselves happy... ...You are responsible for your own emotions and so is everyone else. No one has control over your feelings, except you. 
-• Remember that habit is no reason to do anything. Just because you’ve always been submissive to others is not sufficient justification for allowing it to continue.
+- Write your own Declaration of Independence in which you spell out for yourself how you want to function in all relationships, not eliminating compromise, but wiping out any manipulation without representation.
+- Talk with each person that you feel you are psychologically dependent upon... ...This is an excellent strategy for getting started, because the other may not even be aware of how you feel as a dependent.
+- Give yourself five-minute goals for how you’re going to deal with dominant people in your life.
+- Arrange a planning session with your dominant partner at a time when you are feeling unthreatened. During this session, explain that you sometimes feel manipulated and submissive and that you would like to arrange a nonverbal signal to let the other person know how you are feeling when it crops up, but that you don’t want to discuss it at that time.
+- At the moment you are feeling shoved-around psychologically, state how you feel to the person, and then act out the way you’d like to behave.
+- Remind yourself that... ...others will often disapprove of your behavior, and that has nothing to do with who or what you are... ...If you expect it, then you won’t be thrown by it.
+- Even if you are deliberately avoiding dominant people... ...you are still being controlled by them in their absence if you are experiencing emotional immobilization because of them.
+- If you are feeling obligated to visit certain people, ask yourself if you would want others to visit you simply because they felt required to do so.
+- Make a decision to get out of your dependency role by doing volunteer work... ...getting a job that doesn’t necessarily even pay well... ...the remuneration of your own high self-esteem is worth whatever the price it costs in money or time.
+- Insist on financial independence with no strings, and no accounting to anyone. You are a slave if you must ask for money.
+- Let them go! Let yourself go! Stop giving orders! Stop taking orders!
+- Recognize your desire for privacy and not having to share everything you feel and experience with someone.
+- Let a child’s room be his... ...A made bed is not any more psychologically sound than an unmade bed, even though you may have learned the opposite.
+- At a party, congregate with people away from your partner... ...Split up and then join forces when it is over. You’ll double your learning and experience.
+- Take mini-trips alone, or with friends without having to feel attached to your partner. You’ll feel more strongly toward your partner when you come back, and you’ll treasure your independent functioning as well.
+- Keep in mind that you have no responsibility to make others happy. Others make themselves happy... ...You are responsible for your own emotions and so is everyone else. No one has control over your feelings, except you.
+- Remember that habit is no reason to do anything. Just because you’ve always been submissive to others is not sufficient justification for allowing it to continue.
 
 The business of effective living and parenting is independence.
 
-And while you may feel real fear about breaking away from dependent relationships, if you asked those upon whom you are emotionally dependent, you would surprisingly discover that they most admire those who think and act for themselves. More irony. You get the most respect for being independent, particularly from those who try the hardest to keep you subordinate. 
+And while you may feel real fear about breaking away from dependent relationships, if you asked those upon whom you are emotionally dependent, you would surprisingly discover that they most admire those who think and act for themselves. More irony. You get the most respect for being independent, particularly from those who try the hardest to keep you subordinate.
 
 The nest is a beautiful place for a child to develop, but nest-leaving is even more beautiful and can be viewed that way by the one leaving, as well as the one watching the takeoff.
 
