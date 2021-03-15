@@ -2215,6 +2215,175 @@ Be a doer, not a wisher, hoper or critic.
 
 ## 10 Declare Your Independence
 
+In any relationship in which two people become one, the end result is two half people.
+
+Leaving the psychological nest is one of life’s difficult chores.
+
+Psychological independence means total freedom from all obligatory relationships, and an absence of other-directed behavior.
+
+The nest-leaving business is especially difficult because our society teaches us to fulfill certain expectations in special relationships.
+
+Leaving the nest means becoming your own person, living and choosing the behaviors that you want.
+
+If you enjoy your way of interacting with anyone and it doesn’t interfere with your own goals, then it is something you can cherish rather than change.
+
+Psychological dependence... ...means that you are in relationships that involve no choice, a relationship in which you are obliged to be something you don’t want to be and that you resent the way in which you are being forced to conduct yourself.
+
+If you want some kind of relationship, then it is not unhealthy. But if you need it, or are forced into it, and subsequently feel resentment, then you are in a self-defeating area.
+
+Obligation breeds guilt and dependency, while choice fosters love and independence.
+
+There is no choice in a psychologically dependent relationship, consequently there will always be indignation and ill-feelings in any such alliance.
+
+The moment you need, you become vulnerable, a slave. If the one you need leaves... ...you are then forced into immobilization,
+
+Society teaches us to be psychologically dependent on a whole raft of folks from parents on.
+
+As long as you feel that you have to do anything because it is expected of you in a particular relationship, and your doing it creates any resentment or your not doing it any guilt, you can count yourself as having work to do in this erroneous zone.
+
+Eliminating dependency starts with your family, with the way your parents dealt with you as a child and the way you deal with your own children today.
+
+### The Dependency Trap in Child Rearing and the Family
+
+Throughout the animal kingdom, parenting means to teach the offspring the skills necessary to be independent and then to leave. With us humans, the instinct is still the same, that is, to be independent, but the neurotic need to own and live one’s life through one’s children seems to take over, and the goal of raising a child to be independent is subverted into the idea of raising a child to hold onto him.
+
+You want for your children... ...to be high in self-esteem and self-confidence... ...But how can you help to ensure such an outcome? Only by being that way yourself.
+
+Children learn from the behavior of their models.
+
+If you model low self-esteem, then you’ll teach your children to adopt the same attitudes for themselves.
+
+You cannot hand your children self-confidence; they must acquire it by seeing you living the same way yourself.
+
+Only by treating yourself as the most important person and not always sacrificing yourself for your children will you teach them to have their own self-confidence and belief in themselves.
+
+If you are a sacrificer, you are... ...modeling sacrificing behavior.
+
+While doing for others is sometimes admirable, if it is at the expense of yourself, you are merely teaching the others the same kind of resentment-breeding behavior.
+
+When guilt and fear of disappointment color the nest-leaving, they continue throughout life, sometimes to the point that the marriage relationship becomes one of parenting, rather than of two individuals sharing on an equal footing.
+
+The family is an important unit in the developmental process, but it should not be a permanent unit.
+up. 
+
+As you examine effective parent-child relationships which have no requirements or obligations attached, you’ll discover parents who treat their children as friends.
+
+No abuse because they are owned, but a respect for the child’s dignity.
+
+### Differences Between Dependent and Independent Focused Families
+
+In families that focus on independence, movement toward being one’s own person is seen as normal, rather than as a challenge to anyone’s authority.
+
+The result is family members who want to be together, rather than feel obligated to be together.
+
+In this sort of family there is no subtle manipulation via guilt or threats to keep the children dependent and responsible to the parents. As the children mature, the parents don’t want their kids to visit them out of obligation. Besides, the parents are too busy being effective in their own way to be sitting around waiting for children and grandchildren to show up and give them a reason for living.
+
+> Sooner or later each of us must take the step that separates him from his father, from his mentors; each of us must have some cruelly lonely experience…I myself had not parted from my parents and their world, the “luminous” world in a violent struggle, but had gradually and almost imperceptibly become estranged. I was sad that it had to be this way, and it made for many unpleasant hours.
+> -Hesse’s Demian talks about the variety of paths to independence.
+
+> A mother is not a person to lean on, but a person to make leaning unnecessary.
+> -HDorothy Canfield Fisher, Her Son’s Wife
+
+You can make nest-leaving a natural event, or one which is loaded with trauma and which will haunt the child and the relationship forever.
+
+### Psychological Dependence and Marriage Crisis
+
+If you’re... ...left one dependent relationship with your parents and entered into another when you married, then you have an erroneous zone that needs work.
+
+> Marriage is that relation between man and woman in which the independence is equal, the dependence mutual, and the obligation reciprocal.
+> -Louis Anspacher wrote about marriage in America
+
+A relationship based on love, as was said earlier, is one in which each partner allows the other to be what he chooses, with no expectations and no demands.
+
+This sort of relationship is so rare in our culture that it is almost mythological. Imagine a union with the one you love, in which each of you can be whatever you desire. Now consider the reality of most relationships. How does that grisly dependency sneak in and muck up the works?
+
+### A Typical Marriage
+
+With two self-reliant people, who care enough about each other to foster independence rather than dependence, but at the same time share happiness with a loved person, marriage can be an exciting prospect. But, when two people try to merge into oneness, or one tries to dominate the other in any way, that spark that is within us all fights for one of the greatest human needs, independence.
+
+Longevity is not an indication of success in marriage. Many people stay married out of fear of the unknown, or because of inertia, or simply because it is the thing to do.
+
+### You Are Treated the Way You Teach Others to Treat You
+
+Dependency is not something that just happens because of association with domineering people. It is... ...a choice.
+
+You teach people to dominate you, and to treat you the way you’ve always been treated.
+
+Common strategies for maintaining dominance and control threads:
+
+• Yelling, screaming and voice-raising of any kind. This will keep you in line if you are a soft person and want things quiet and smooth.
+• Inducement of guilt. “You had no right to—”... ...If guilt is your hang-up, then you can be kept “submissive” with such statements.
+• The use of anger and explosive behavior.
+• The physical ailment ploy... ...when one partner doesn’t act the way the other wants him to.
+• The silent treatment. No talking and deliberate sulking are superlative strategies that one partner can use to maneuver the other into correct behavior.
+• Cry in order to help the other person to feel guilty. 
+• The leaving scene.
+• The suicide scheme.
+
+If one partner refuses to be manipulated by them, the other will not continue to use them.
+
+If you give the proper submissive reactions, you are teaching the other what you will tolerate.
+
+You can learn to teach others to treat you the way you want to be treated. It will take time and effort because it has taken a lot of time to teach others how you wanted to be treated until now.
+
+Rather than saying, “Why don’t you treat me better?” begin to say, “What am I doing to teach others to treat me this way?” Put the focus on you, and begin changing those reactions.
+
+### Some Common Dependency and Dependency-Fostering
+
+• Feeling unable to leave the nest or leaving it with bad feelings on both sides.
+• Asking permission... ...for anything,
+• Invasions of privacy.
+• Falling into depression and immobilization after the death of a loved one.
+• Feeling committed to a particular job and never venturing out on your own.
+• Having expectations for how a spouse, parent, or child has to be.
+• Being in _training_ all of your life for a job or position. Never leaving the training phase for self-reliance. 
+• Being hurt by what others say, feel, think, or do.
+• Taking orders from someone. 
+• Allowing someone else to make decisions for you, or always asking advice before deciding.
+• Not doing something in front of a parent or dominant person because they wouldn’t approve.
+• Giving up on your own life when a loved one dies, or becomes seriously ill. 
+• Using careful language around a dominant person, so that he won’t be upset with you. 
+• Persistently lying about your own behavior, and having to distort the truth so that “they” won’t be upset with you.
+
+### The Psychological Compensation of Dependency
+
+You may know the payoffs for being a dependent, but do you know how destructive they are? Dependency may appear harmless, but it is the enemy of all happiness and fulfillment.
+
+• Being dependent can keep you in the protective custody of others, and give you the little child benefits of not being responsible for your own behavior. 
+• By staying dependent, you can blame your shortcomings on others. 
+• If you are dependent on others, you don’t have to undertake the hard work and risk of change. You are secure in your reliance on others who will take responsibility for you. 
+• You can feel good about yourself because you are pleasing others.
+• You can avoid guilt which you choose when you behave assertively. It is easier to behave than to learn to eliminate guilt. 
+• You needn’t make choices or decisions for yourself... ...So long as you think what they think or feel what they feel, there’s no need for the hard work of determining what you think or feel.
+• When everything else is boiled away, it is just plain easier to be a follower than a leader. You can do what you’re told and avoid trouble, even though you may not like the way you feel as a follower. It’s still simpler than taking all those risks that go with being your own person. Dependency is distasteful because it makes you into less than a whole, independently functioning person. But it is easier, that’s for sure.
+
+### A Prospectus for Ridding Yourself of Dependency
+
+• Write your own Declaration of Independence in which you spell out for yourself how you want to function in all relationships, not eliminating compromise, but wiping out any manipulation without representation.
+• Talk with each person that you feel you are psychologically dependent upon... ...This is an excellent strategy for getting started, because the other may not even be aware of how you feel as a dependent. 
+• Give yourself five-minute goals for how you’re going to deal with dominant people in your life.
+• Arrange a planning session with your dominant partner at a time when you are feeling unthreatened. During this session, explain that you sometimes feel manipulated and submissive and that you would like to arrange a nonverbal signal to let the other person know how you are feeling when it crops up, but that you don’t want to discuss it at that time.
+• At the moment you are feeling shoved-around psychologically, state how you feel to the person, and then act out the way you’d like to behave. 
+• Remind yourself that... ...others will often disapprove of your behavior, and that has nothing to do with who or what you are... ...If you expect it, then you won’t be thrown by it.
+• Even if you are deliberately avoiding dominant people... ...you are still being controlled by them in their absence if you are experiencing emotional immobilization because of them. 
+• If you are feeling obligated to visit certain people, ask yourself if you would want others to visit you simply because they felt required to do so.
+• Make a decision to get out of your dependency role by doing volunteer work... ...getting a job that doesn’t necessarily even pay well... ...the remuneration of your own high self-esteem is worth whatever the price it costs in money or time. 
+• Insist on financial independence with no strings, and no accounting to anyone. You are a slave if you must ask for money.
+• Let them go! Let yourself go! Stop giving orders! Stop taking orders!
+• Recognize your desire for privacy and not having to share everything you feel and experience with someone.
+• Let a child’s room be his... ...A made bed is not any more psychologically sound than an unmade bed, even though you may have learned the opposite. 
+• At a party, congregate with people away from your partner... ...Split up and then join forces when it is over. You’ll double your learning and experience.
+• Take mini-trips alone, or with friends without having to feel attached to your partner. You’ll feel more strongly toward your partner when you come back, and you’ll treasure your independent functioning as well. 
+• Keep in mind that you have no responsibility to make others happy. Others make themselves happy... ...You are responsible for your own emotions and so is everyone else. No one has control over your feelings, except you. 
+• Remember that habit is no reason to do anything. Just because you’ve always been submissive to others is not sufficient justification for allowing it to continue.
+
+The business of effective living and parenting is independence.
+
+And while you may feel real fear about breaking away from dependent relationships, if you asked those upon whom you are emotionally dependent, you would surprisingly discover that they most admire those who think and act for themselves. More irony. You get the most respect for being independent, particularly from those who try the hardest to keep you subordinate. 
+
+The nest is a beautiful place for a child to develop, but nest-leaving is even more beautiful and can be viewed that way by the one leaving, as well as the one watching the takeoff.
+
+
 
 ## 11 Farewell to Anger
 
