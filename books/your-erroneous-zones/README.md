@@ -2383,9 +2383,35 @@ And while you may feel real fear about breaking away from dependent relationship
 
 The nest is a beautiful place for a child to develop, but nest-leaving is even more beautiful and can be viewed that way by the one leaving, as well as the one watching the takeoff.
 
-
-
 ## 11 Farewell to Anger
+
+The only antidote to anger is to eliminate the internal sentence, “If only you were more like me.”
+
+But anger is probably a part of you that you don’t like, and needless to say, neither does anyone else.
+
+Anger... ...serves no purpose that has anything to do with being a happy, fulfilled person. It is an erroneous zone, a kind of psychological influenza that incapacitates you just as a physical disease would.
+
+_anger_... ...refers to an immobilizing reaction, experienced when any expectancy is not met. Takes the form of rage, hostility, striking out at someone or even glowering silence.
+
+Anger is immobilizing and it is usually a result of wishing the world and the people in it were different.
+
+Anger is a choice, as well as a habit. It is a learned reaction to frustration, in which you behave in ways that you would rather not.
+
+Anger is debilitating. In the physiological realm, it can produce hypertension, ulcers, rashes, heart palpitations, insomnia, fatigue and even heart disease. In the psychological sense, anger breaks down love relationships, interferes with communication, leads to guilt and depression and generally just gets in your way.
+
+The expression of anger is indeed a healthier alternative than suppressing it. But there is an even healthier stance—not having the anger at all.
+
+Like all emotions, anger is the result of thinking. It is not something that simply happens to you.
+
+When faced with circumstances that are not going the way you would like them to, you tell yourself that things shouldn’t be that way (frustration) and then you select a familiar angry response which serves a purpose.
+
+As long as you think of anger as a part of what it means to be a human being, you have a reason to accept it, and avoid going to work on it.
+
+By all means give vent to your anger, let it out in nondestructive ways—if you are still deciding to have it. But begin to think of yourself as someone who can learn to think new thoughts when you are frustrated, so that the immobilizing anger can be replaced by more fulfilling emotions. 
+
+Annoyance, irritation, and disappointment are feelings that you will very likely continue to experience, since the world will never be the way you want it. But anger, that hurtful emotional response to obstacles, can be eliminated.
+
+Select personal strategies that will reinforce appropriate behavior, but don’t take all of the internal hurt that goes with it.
 
 
 ## 12 Portrait of a Person Who has Eliminated all Erroneous Zones
