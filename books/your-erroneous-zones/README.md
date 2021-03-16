@@ -2527,10 +2527,112 @@ Awareness is paramount.
 
 Anger gets in the way. It is good for nothing. Like all erroneous zones, anger is a means of using things outside yourself to explain how you feel. Forget others. Make your own choices—and don’t let them be angry ones.
 
-
-
-
-
 ## 12 Portrait of a Person Who has Eliminated all Erroneous Zones
 
+They are too busy _being_ to notice what their neighbors are doing.
 
+The person who is devoid of all erroneous zone behavior may seem to be a fictional character, but being free from self-destructive behavior is not a mythological concept; rather it’s a real possibility.
+
+Being fully functioning is within your grasp and complete present-moment.
+
+An individual who is... ...creatively alive at every moment.
+
+People free from erroneous zones are different from run-of-the-mill individuals... ...There is a different quality about them, but the difference is not discernible in the traditional external factors by which we generally classify people. They may be rich or poor, male or female, black or white, living anywhere, and doing just about anything.
+
+People who like virtually everything about life—people who are comfortable doing just about anything, and who waste no time in complaining, or wishing that things were otherwise. 
+
+They are enthusiastic about life, and they want all that they can get out of it.
+
+When you are around people like this you’ll note an absence of grumbling, moaning, or even passive sighing.
+
+There is no pretending to enjoy, but a sensible acceptance of what is, and an outlandish ability to delight in that reality. 
+
+Ask them what they don’t like and they are hard pressed to come up with an honest answer. 
+
+They don’t have sense enough to come in out of the rain, because they see rain as beautiful, thrilling and something to experience.
+
+Annoyances as disease, droughts, mosquitoes, floods and the like... ...they never spend any of their present moments complaining about them, or wishing that they weren’t so.
+
+If situations need to be eradicated, they will work at eradicating them—and enjoy the work.
+
+Truly they are likers of life, and they wallow in all of it, getting out of it all that is possible for them.
+
+Healthy fulfilled people are free from guilt and all the attendant anxiety that goes with using any present moments in being immobilized over past events.
+
+They do not waste their time wishing that they hadn’t done something, or being upset because they dislike something that they did at an earlier moment in life.
+
+Complete freedom from guilt is one hallmark of healthy individuals.
+
+Life lived through is just that, and no amount of feeling bad will alter the past.
+
+Feeling bad in the present moment only reinforces a poor self-image, and that learning from the past is far superior to remonstrating about the past.
+
+They won’t get angry at you, they’ll simply ignore you. Rather than being upset with you, they’ll go away, or change the subject.
+
+Rather than make themselves and others miserable with guilt, they unceremoniously pass when it comes along.
+
+People free of erroneous zones are nonworriers... ...They are neither planners nor putters-away for the future. They refuse to worry and they keep themselves free from the anxiety that accompanies worry.
+
+Live now, rather than in the past or the future. 
+
+They are not threatened by the unknown, and they seek out experiences that are new and unfamiliar to them. 
+
+They love ambiguity. They savor the now at all times, aware that this is all they have.
+
+The moments between events are just as livable as those taken up by the events themselves, and they have an uncanny ability to get every pleasure out of their daily lives.
+
+While our culture disapproves their behavior, they are unthreatened by self-reproach.
+
+These individuals are always enjoying simply because they see the folly of waiting to enjoy. It is a natural way of living, very much like that of a child or an animal.
+
+These healthy people are strikingly independent. They are out of the nest, and while they may have a strong love for and devotion to family, they see independence as superior to dependence in all relationships. 
+
+They treasure their own freedom from expectations.
+
+Their love involves no imposition of values on the loved one. 
+
+They put a high premium on privacy, which may leave others feeling snubbed or rejected. 
+
+They like to be alone at times, and they will go to great lengths to ensure that their privacy is protected. 
+
+You will not find these people involved in numerous love relationships. They are selective about their love, but they’re also deeply and sensitively loving. 
+
+It is difficult for dependent or unhealthy people to love them, because they are adamant about their freedom. If someone needs them, they reject such a need as hurtful to the other person as well as to themselves. 
+
+They want those they love to be independent, to make their own choices, and to live their lives for themselves.
+
+The moment you start leaning on these people, you’ll find them disappearing, first emotionally, and then physically as well.
+
+You will find an uncommon absence of approval-seeking in these happy, fulfilled individuals. They are able to function without approval and applause from others.
+
+They are unusually free from the opinion of others, almost uncaring about whether someone else likes what they’ve said or done.
+
+These are people who are so internally directed that they are literally unconcerned about others’ evaluations of their behavior.
+
+They can be almost blunt in their honesty since they do not couch their messages in carefully worded phrases designed to please.
+
+When you say something about them they will not be destroyed or immobilized. They will take the data you provide, filter it through their own values and use it for growth. 
+
+They do not need to be loved by everyone, nor do they harbor the inordinate wish to be approved by all for everything that they do.
+
+As you watch these characters you will note a lack of enculturation. They are not rebels, but they do make their own choices even if those choices conflict with what everybody else does. 
+
+They can ignore petty rules if they make no sense, and quietly shrug at the little conventions that are such an important part of so many lives.
+
+They are their own people and while they see society as an important part of their lives, they refuse to be ruled by it or to become a slave to it.
+
+They know how to laugh, and how to create laughter. They find humor in virtually all situations, and they can laugh at the most absurd as well as the most solemn of occasions. 
+
+They love to help others to laugh, and they are facile at creating humor.
+
+They are doers, who are often scorned for being frivolous at the wrong time.
+
+They don’t laugh at people, they laugh with them. 
+
+They do laugh at life, and they see the whole thing as fun, even though they are deliberate in their own pursuits. 
+
+When they step back and look at life, they know that they aren’t going any place in particular, and they are able to enjoy and create an atmosphere in which others can choose joy for themselves. They are fun to have around.
+
+They know that they look a certain way, and they accept it.
+
+They’ve accepted themselves, and therefore they are the most natural of people. No hiding behind artificialities, no apologizing for what they are.
