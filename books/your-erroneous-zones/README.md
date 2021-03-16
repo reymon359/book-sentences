@@ -2413,6 +2413,122 @@ Annoyance, irritation, and disappointment are feelings that you will very likely
 
 Select personal strategies that will reinforce appropriate behavior, but don’t take all of the internal hurt that goes with it.
 
+The irony of anger is that it never works in changing others; it only intensifies the other person’s desire to control the angry person.
+
+While the provoker may act scared, he also knows that he can set the other person off whenever he wants, and therefore exercise the same kind of vindictive authority as the angry individual thinks he has.
+
+Whenever you select anger as a response to someone else’s behavior, you are withholding from that person the right to be what he chooses. Inside your head is the neurotic sentence, “Why can’t you be more like me? Then I would like you now, instead of being angry.” But others will never be the way you want them to be, all of the time.
+
+Much of the time people and things will not go the way you would like them to go. That’s the way the world is. And the likelihood of it changing is zero.
+
+Every time you choose anger when you run into someone or something you don’t like, you are deciding to be hurt or in some way immobilized because of reality.
+
+That’s really silly. Being upset about things that aren’t ever going to change.
+
+Begin to think of others as having a right to be different from what you’d prefer. You may not like it, but you don’t have to be angry about it.
+
+The choice is really yours. Anger or new sentences about things that will help you to eliminate the need for the anger.
+
+Perhaps you see yourself in the opposite camp, someone who has a great deal of anger, but has never had the courage to express it... ...this is not the opposite of the individual who rants and rages. You have the same sentences in your head that people and things should be the way you want them to be. If they were, you reason, you wouldn’t feel anger.
+
+The ultimate goal is to learn to think in new ways that will not create the anger.
+
+Internal thoughts as: “If he wants to be a fool, I’m not going to choose to be upset. He, not me, owns his dumb behavior” or “Things aren’t going the way I think they should. While I don’t like it, I’m not going to immobilize myself.”
+
+Refusing to own anyone else’s behavior is the ultimate step.
+
+Learn not to give other people’s behavior and ideas the power to upset you.
+
+By thinking highly of yourself and refusing to let others control you, you won’t hurt yourself with present-moment anger.
+
+### Having a Sense of Humor
+
+It is impossible for you to be angry and laugh at the same time. Anger and laughter are mutually exclusive and you have the power to choose either.
+
+Laughter is the sunshine of the soul. And without sunshine nothing can live or grow.
+
+> It is my belief, you cannot deal with the most serious things in the world unless you understand the most amusing.
+> -Winston Churchill 
+
+Helping others choose to laugh, and learning to stand back and observe the incongruity of almost every life situation is an excellent remedy for anger.
+
+What you do and whether you are angry or not will have all the impact of another glass of water being thrown over Niagara Falls.
+
+Whether you choose laughter or anger will not matter much—except that the former will fill your present moments with happiness, and the latter will waste them in misery.
+
+Do you take yourself and your life so seriously that you can’t stand back and view the absurdity of taking anything that solemnly? An absence of laughter is an indicator of pathology.
+
+Remind yourself that this is the only time you have. Why waste your present being angry when laughing feels so good. 
+
+Laughter just for the sake of laughing. It is its own justification. You don’t have to have a reason to laugh. Just do it. 
+
+Observe yourself and others in this nutty world, and then decide whether to carry around anger or to develop a sense of humor that will give you and others one of the most priceless gifts of all—laughter. It feels so good.
+
+### Some Common Causes of Anger
+
+• Anger in the automobile... ...As a driver, you may experience a great deal of anger and emotional immobility because of the things you tell yourself about the ways others should be driving.
+• Anger in competitive games... ...People get angry at partners or opponents for not doing it right or for infractions of the rules.
+• Anger at the out of place. Many people feel rage at an individual or event which they consider out of place... ...Many so-called accidents are actually the result of just such incidents in which uncontrolled rage has serious results.
+• Anger about taxes. No amount of anger will ever change the tax laws of our country, but people rage just the same because taxes aren’t what they would like them to be. 
+• Anger over the tardiness of others. If you expect others to function on your timetable, you will choose anger when they do not and justify your immobilization with, “I have a right to be angry. He kept me waiting half an hour.” 
+• Anger at the disorganization or sloppiness of others.
+• Anger at inanimate objects. If you hit your shin bone or hammer your thumb, reacting with a scream can be therapeutic, but feeling real rage and doing something about it such as driving your fist through a wall is not only futile, but painful as well. 
+• Anger over the loss of objects.
+• Anger over world events beyond your control. You may not approve of politics, foreign relations, or the economy, but your anger and subsequent immobilization aren’t going to change anything.
+
+### The Many Faces of Anger
+
+• Being verbally abusive or ridiculing a spouse, children, or loved ones, or friends. 
+• Physical violence—hitting, kicking, slamming—objects or people... ...Similarly, television, movies and books which popularize anger and violence and present them as normal undermine both the individual and society. 
+• Saying things like, “He infuriates me,” or “You really aggravate me.” In these cases you are choosing to let someone else’s behavior make you unhappy. 
+• Using phrases like, “kill him,” “clobber them,” or “destroy the opposition.” You may think they’re only expressions, but they encourage anger and violence and make it acceptable even in friendly competition. 
+• Temper tantrums. Not only is this a common expression of anger, it frequently serves to get the tantrum thrower exactly what he wants. 
+• Sarcasm, ridicule and the silent treatment. These expressions of anger can be just as damaging as physical violence.
+
+### The Reward System That You’ve Constructed for Choosing Anger
+
+• Whenever you find it difficult to handle yourself, feel frustrated or defeated, you can use anger to direct the responsibility for how you feel to the person or event itself, rather than taking charge of your own feelings. 
+• You can use your anger to manipulate those who fear you.
+• Anger draws attention and thus you can feel important and powerful. 
+• Anger is a handy excuse. You can go insane—temporarily—and then excuse yourself by saying, “I couldn’t help myself.” Thus you can exonerate your behavior with out-of-control logic. 
+• You can get your way because others would rather placate you than have to put up with the angry exhibition.
+• You can manipulate others with guilt by having them wonder “Where did I go wrong to make him so angry?” When they feel guilty, you are powerful. 
+• You can break down communication in which you feel threatened because someone else is more skillful. You simply use anger to avoid the risk of looking bad. 
+• You don’t have to work on yourself when you are angry. Therefore you can use up your present moments in the easy business of being fierce and avoid doing whatever it might take to improve yourself.
+• You can indulge in self-pity after you’ve had an attack of anger and feel sorry for yourself because nobody understands you. 
+• You can avoid thinking clearly, simply by getting angry.
+• You can excuse losing or poor performance with a simple fit of temper.
+• You can excuse anger by saying you need it to help you carry out some task, but in fact anger is immobilizing and never improves performance. 
+• By saying it’s human to be angry, you have a ready justification for yourself. “I’m human, and that’s what humans do.”
+
+### Some Designs for Replacing Anger
+
+Anger can be eliminated. It will require a great deal of new thinking and it can be done only one present moment at a time. When confronted with people or events which provoke you to choose anger, become aware of what you are telling yourself, and then work at new sentences which will create new feelings and more productive behavior.
+
+• Get in touch with your thoughts at the time of your anger, and remind yourself that you don’t have to think that way, simply because you’ve always done so in the past.
+
+Awareness is paramount.
+
+• Try postponing anger... ...Once you begin to see that you can put anger off, you’ll have learned control. Postponing is control, and with lots of practice, you’ll eventually eliminate it totally.
+• Don’t try to delude yourself into believing that you enjoy something that you find distasteful. You can dislike something and still not have to be angry about it. 
+• Remind yourself at the moment of anger that everyone has a right to be what he chooses and that your demanding that anyone be different will simply prolong your anger.
+• Ask someone that you trust to help. Have them tell you when they see your anger either verbally or with an agreed signal. When you get the signal, think about what you’re doing and then try the postponing strategy. 
+• Keep an anger journal, and record the exact time, place and incident in which you chose to be angry... ...You'll soon find, if you are persistent, that the very act of having to write the incident down will persuade you to choose anger less often. 
+• Announce after you have had an angry outburst that you’ve just slipped and that one of your goals is to think differently so that you don’t experience this anger.
+• Try being physically close to someone that you love at the moment of your anger.
+• Talk with those who are the most frequent recipients of your anger at a time when you are not angry.
+• Defuse your anger for the first few seconds by labeling how you feel, and how you believe your partner feels as well. The first ten seconds are the most crucial. Once you’ve passed these, your anger will often have subsided. 
+• Keep in mind all the things you believe will be met with disapproval by fifty percent of the folks, fifty percent of the time. Once you expect others to disagree, you will not choose to feel angry. Instead, you’ll say to yourself that the world is straight since people aren’t agreeing with everything I say, think, feel and do. 
+• Keep in mind that while the expression of anger is a healthy alternative to storing it up, not having it at all is the healthiest choice of all.
+• Get rid of the expectations you have for others. When the expectations go away, so will the anger.
+• Love yourself. If you do, you won’t ever burden yourself with that self-destructive anger. • In a traffic jam, time yourself. See how long you can go without exploding. Work at the control aspect.
+• Instead of being an emotional slave to every frustrating circumstance, use the situation as a challenge to change.
+
+Anger gets in the way. It is good for nothing. Like all erroneous zones, anger is a means of using things outside yourself to explain how you feel. Forget others. Make your own choices—and don’t let them be angry ones.
+
+
+
+
 
 ## 12 Portrait of a Person Who has Eliminated all Erroneous Zones
 
