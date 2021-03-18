@@ -2636,3 +2636,132 @@ When they step back and look at life, they know that they aren’t going any pla
 They know that they look a certain way, and they accept it.
 
 They’ve accepted themselves, and therefore they are the most natural of people. No hiding behind artificialities, no apologizing for what they are.
+
+They like themselves and accept what they are.
+
+They never complain about things that won’t change, such as heat waves, rainstorms, or cold water. They accept themselves and the world as it is.
+
+You’ll see them observing the world the way it is, like a child who accepts the natural world and enjoys it for all it’s worth.
+
+They love being outdoors in nature, and tripping around in all that is unspoiled and original.
+
+They are at peace with nature... ...though they are capable of functioning in a man-made world.
+
+What may seem complex and indecipherable to others, they see as clear and understandable.
+
+The problems that immobilize so many others are often viewed as only minor annoyances by these people.
+
+They can shrug and ignore while others are angered and immobilized.
+
+They are not focused on problems in their emotional world. For these people a problem is really only an obstacle to be overcome rather than a reflection of what they are or aren’t as a person.
+
+Most people are easily threatened by external events, ideas, or people. But healthy, independent people do not know how to be threatened, and this very characteristic may make them threatening to others.
+
+They never engage in useless fighting.
+
+If fighting will help bring about change, then they will fight but never will they find it necessary to fight uselessly.
+
+They are also helpers. They are almost always engaged in work that will make other people’s lives more pleasant or tolerable.
+
+They don’t take their struggles to bed with them every night as a breeding ground for ulcers, heart disease and other physical disorders.
+
+They are incapable of stereotyping. They often don’t even notice the physical differences in people, including racial, ethnic, size and sexual.
+
+They don’t believe in being immobilized by colds and headaches. They believe in their ability to rid themselves of such maladies, and they never go around telling others how bad they feel, how tired they are, or what diseases are currently infecting their bodies.
+
+They like themselves, and consequently they eat well, exercise regularly.
+
+Honesty. They are not evasive with their responses, nor do they pretend or lie about anything.
+
+They will also avoid having to distort to protect others. 
+
+They know that they are in charge of their own world, and that others are as well. Thus, they will behave in ways that will often be perceived as cruel but in fact they are simply allowing others to make their own decisions. 
+
+They deal effectively with what is, rather than what they would like to be.
+
+These people don’t blame.
+
+They refuse to ascribe responsibility to others for what they are.
+
+They will not spend a great deal of time talking about others and focusing on what someone else has done or failed to do. They do not talk about people, they talk with them.
+
+They are so busy being effective in their own lives that they have no time for the petty connivances that occupy many people’s lives. Doers do. Critics blame and complain.
+
+They have no oughts for others. They see everyone as having choices, and those petty things that drive others insane are simply the results of someone else’s decision.
+
+They exist in a functional way, and if everything isn’t fitting in as they would prefer, they find that all right too.
+
+Organization then, for these people, is simply a useful means rather than an end in itself.
+
+They are creative. They attack any concern in their own unique way,
+
+They don’t consult manuals or ask experts; they simply attack the problem as they see fit.
+
+These are people with exceptionally high energy levels. They seem to require less sleep, and yet they are excited about living.
+
+They can muster tremendous surges of energy for completing a task because they choose to be involved in it as a fulfilling present-moment activity.
+
+Their energy... ...is simply the result of loving life and all the activities in it.
+
+They don’t know how to be bored. All life events present opportunities for doing, thinking, feeling and living, and they know how to apply their energy in virtually all life circumstances.
+
+They are aggressively curious. They never know enough. They search for more and want to learn each and every present moment of their lives.
+
+They are not concerned with having to do it right or having done it wrong. If it doesn’t work, or it doesn’t accomplish the greatest amount of good, then it is discarded, rather than mulled over in regret. 
+
+They are truth seekers in the learning sense, always excited about learning more and never believing they are a finished product.
+
+They never feel or act superior, showing off their merit badges for others to applaud.
+
+They never know enough, and they don’t know how to act snobbish or superior, since they never feel that way.
+
+They are aggressive in their interests, not waiting for information to come along, but going after it.
+
+They are not afraid to fail. In fact, they often welcome it. 
+
+They do not equate being successful in any enterprise with being successful as a human being.
+
+They know that failing is merely somebody else’s editorial opinion and not to be feared since it cannot affect self-worth. 
+
+Thus, they will try anything, participate just because it’s fun, and never fear having to explain themselves.
+
+They don’t say to themselves that other people should behave differently and that events should be otherwise. They accept others as they are, and they work at changing events that they dislike.
+
+These happy individuals display an admirable lack of defensiveness. They won’t play games and try to impress others. 
+
+They don’t dress for others’ approval.
+
+They aren’t arguers or hot-headed debaters; they simply state their views, listen to others and recognize the futility of trying to convince someone else to be as they are.
+
+They let it go at that without any need to win an argument or persuade the opponent of the wrongness of his position.
+
+They do not identify with the family, neighborhood, community, city, state, or country. They see themselves as belonging to the human race.
+
+They are not patriotic to a special boundary; rather they see themselves as a part of the whole of humanity.
+
+They transcend traditional boundaries, which often causes others to label them as rebels or even traitors.
+
+They have no heroes or idols. They view all people as human, and they place no one above themselves in importance.
+
+They do not demand justice at every turn. When someone else has more privileges, they see that as a benefit to that person, rather than as a reason for being unhappy.
+
+When playing an opponent they want him to do well, rather than wishing a poor performance in order to win by default. 
+
+They want to be victorious and effective on their own, rather than gaining through the shortcomings of others.
+
+They are too busy being, to notice what their neighbors are doing.
+
+These are individuals who love themselves. They are motivated by a desire to grow, and they always treat themselves well when given the option.
+
+Each day is a delight. They have it together and they live all of their present moments.
+
+They are not problem free, but free from emotional immobility as a result of the problems.
+
+The measure of their mental health is not in whether they slip but in what they do when they slip... ...they get up, dust themselves off, and get on with the business of living.
+
+People who are free from erroneous zones don’t chase after happiness; they live and happiness is their payoff.
+
+> Nothing on earth renders happiness less approachable than trying to find it. Historian Will Durant described how he looked for happiness in knowledge, and found only disillusionment. He then sought happiness in travel and found weariness; in wealth and found discord and worry. He looked for happiness in his writing and was only fatigued. One day he saw a woman waiting in a tiny car with a sleeping child in her arms. A man descended from a train and came over and gently kissed the woman and then the baby, very softly so as not to waken him. The family drove off and left Durant with a stunning realization of the real nature of happiness. He relaxed and discovered that “every normal function of life holds some delight.”
+> -quote from a Reader’s Digest piece on happiness.
+ 
+By using your own present moments for maximizing fulfillment, you’ll be one of these people rather than an observer. It’s such a delightful idea—freedom from erroneous zones. You can make that choice right now—if you choose to!
