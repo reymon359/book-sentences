@@ -41,6 +41,18 @@ One egg, one embryo, one adult—normality. But a bokanovskified egg will bud, w
 
 "If we could bokanovskify indefinitely the whole problem would be solved.”... ...The principle of mass production at last applied to biology.
 
+In exceptional cases we can make one ovary yield us over fifteen thousand adult individuals.
+
+“For of course,” said Mr. Foster, “in the vast majority of cases, fertility is merely a nuisance."
+
+Freemartins—structurally quite normal (except,” he had to admit, “that they _do_ have the slightest tendency to grow beards), but sterile. Guaranteed sterile. Which brings us at last,” continued Mr. Foster, “out of the realm of mere slavish imitation of nature into the much more interesting world of human invention.”
+
+If the physical development could be speeded up till it was as quick, say, as a cow’s, what an enormous saving to the Community!
+
+Pilkington, at Mombasa, had produced individuals who were sexually mature at four and full-grown at six and a half. A scientific triumph. But socially useless. Six-year-old men and women were too stupid to do even Epsilon work. And the process was an all-or-nothing one; either you failed to modify at all, or else you modified the whole way. They were still trying to find the ideal compromise between adults of twenty and adults of six. So far without success.
+
+“And that,” put in the Director sententiously, “that is the secret of happiness and virtue—liking what you’ve got to do. All conditioning aims at that: making people like their un-escapable social destiny.”
+
 ## Chapter 2
 
 
