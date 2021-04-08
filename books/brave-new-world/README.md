@@ -69,6 +69,45 @@ For that there must be words, but words without reason. In brief, hypnopædia. �
 
 ## Chapter 3
 
+“strange to think that... ...most games were played without more apparatus than a ball or two and a few sticks and perhaps a bit of netting. Imagine the folly of allowing people to play elaborate games which do nothing whatever to increase consumption. It’s madness. Nowadays the Controllers won’t approve of any new game unless it can be shown that it requires at least as much apparatus as the most complicated of existing games.”
+
+History is bunk. History,” he repeated slowly, “is bunk.”
+
+Those who feel themselves despised do well to look despising.
+
+“Try to realize what it was like to have a viviparous mother.”
+
+whenever he spoke of psychological matters—Our Freud had been the first to reveal the appalling dangers of family life. The world was full of fathers—was therefore full of misery; full of mothers—therefore of every kind of perversion from sadism to chastity; full of brothers, sisters, uncles, aunts—full of madness and suicide. “And yet, among the savages of Samoa, in certain islands off the coast of New Guinea …” The tropical sunshine lay like warm honey on the naked bodies of children tumbling promiscuously among the hibiscus blossoms. Home was in any one of twenty palm-thatched houses. In the Trobriands conception was the work of ancestral ghosts; nobody had ever heard of a father. “Extremes,” said the Controller, “meet. For the good reason that they were made to meet.”
+
+“But every one belongs to every one else,” he concluded, citing the hypnopædic proverb. The students nodded, emphatically agreeing with a statement which upwards of sixty-two thousand repetitions in the dark had made them accept, not merely as true, but as axiomatic, self-evident, utterly indisputable.
+
+Mother, monogamy, romance. High spurts the fountain; fierce and foamy the wild jet. The urge has but a single outlet. My love, my baby. No wonder these poor pre-moderns were mad and wicked and miserable. Their world didn’t allow them to take things easily, didn’t allow them to be sane, virtuous, happy. What with mothers and lovers, what with the prohibitions they were not conditioned to obey, what with the temptations and the lonely remorses, what with all the diseases and the endless isolating pain, what with the uncertainties and the poverty—they were forced to feel strongly. And feeling strongly (and strongly, what was more, in solitude, in hopelessly individual isolation), how could they be stable?
+
+"stability. No civilization without social stability. No social stability without individual stability.”
+
+“Stability,” insisted the Controller, “stability. The primal and the ultimate need. Stability. Hence all this.”
+
+“Take Ectogenesis. Pfitzner and Kawaguchi had got the whole technique worked out. But would the Governments look at it? No. There was something called Christianity. Women were forced to go on being viviparous.”
+
+“Or the Caste System. Constantly proposed, constantly rejected. There was something called democracy. As though men were more than physico-chemically equal.”
+
+“Government’s an affair of sitting, not hitting. You rule with the brains and the buttocks, never with the fists. For example, there was the conscription of consumption.”
+
+"Ending is better than mending. The more stitches, the less riches"
+
+“Back to culture. Yes, actually to culture. You can’t consume much if you sit still and read books.”
+
+“The discoveries of Pfitzner and Kawaguchi were at last made use of. An intensive propaganda against viviparous reproduction …”
+
+“Accompanied by a campaign against the Past; by the closing of museums, the blowing up of historical monuments (luckily most of them had already been destroyed during the Nine Years’ War); by the suppression of all books published before A.F . 150.”
+
+“All crosses had their tops cut and became T’s. There was also a thing called God.”
+
+“There was a thing called the soul and a thing called immortality.”
+
+“Two thousand pharmacologists and bio-chemists were subsidized in A.F . 178.”... ...“Six years later it was being produced commercially. The perfect drug.”... ...“Euphoric, narcotic, pleasantly hallucinant.”... ..._soma_... ...“All the advantages of Christianity and alcohol; none of their defects.”... ...“And do remember that a gramme is better than a damn.”
+
+“Work, play—at sixty our powers and tastes are what they were at seventeen. Old men in the bad old days used to renounce, retire, take to religion, spend their time reading, thinking— _thinking_!
 
 ## Chapter 4
 
