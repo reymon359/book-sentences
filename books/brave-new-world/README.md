@@ -111,6 +111,7 @@ Mother, monogamy, romance. High spurts the fountain; fierce and foamy the wild j
 
 ## Chapter 4
 
+The liftman was a small simian creature, dressed in the black tunic of an Epsilon-Minus Semi-Moron. “Roof.” He flung open the gates. The warm glory of afternoon sunlight made him start and blink his eyes. “Oh, roof!” he repeated in a voice of rapture. He was as though suddenly and joyfully awakened from a dark annihilating stupor. “Roof.” He smiled up with a kind of doggily expectant adoration into the faces of his passengers. Talking and laughing together, they stepped out into the light. The liftman looked after them.
 
 ## Chapter 5
 
