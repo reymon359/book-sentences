@@ -119,8 +119,66 @@ As long as human behavior is involved, this book will be your guide.
 
 ## The Fundamentals Why Tiny Changes Make a Big Difference
 
-
 ## 1 The Surprising Power of Atomic Habits
+
+Brailsford said, “The whole principle came from the idea that if you broke down everything you could think of that goes into riding a bike, and then improve it by 1 percent, you will get a significant increase when you put them all together.”
+
+Why do small improvements accumulate into such remarkable results, and how can you replicate this approach in your own life?
+
+### WHY SMALL HABITS MAKE A BIG DIFFERENCE
+
+It is so easy to overestimate the importance of one defining moment and underestimate the value of making small improvements on a daily basis.
+
+Too often, we convince ourselves that massive success requires massive action.
+
+Improving by 1 percent isn’t particularly notable—sometimes it isn’t even _noticeable_ —but it can be far more meaningful, especially in the long run.
+
+If you can get 1 percent better each day for one year, you’ll end up thirty-seven times better by the time you’re done. Conversely, if you get 1 percent worse each day for one year, you’ll decline nearly down to zero.
+
+![Figure 1](./figure1.jpg)
+
+FIGURE 1: The effects of small habits compound over time. For example, if you can get just 1 percent better each day, you’ll end up with results that are nearly 37 times better after one year.
+
+Habits are the compound interest of self-improvement.
+
+The effects of your habits multiply as you repeat them. They seem to make little difference on any given day and yet the impact they deliver over the months and years can be enormous.
+
+It is only when looking back two, five, or perhaps ten years later that the value of good habits and the cost of bad ones becomes strikingly apparent.
+
+We make a few changes, but the results never seem to come quickly and so we slide back into our previous routines.
+
+Unfortunately, the slow pace of transformation also makes it easy to let a bad habit slide.
+
+But when we repeat 1 percent errors, day after day, by replicating poor decisions, duplicating tiny mistakes, and rationalizing little excuses, our small choices compound into toxic results.
+
+It’s the accumulation of many missteps—a 1 percent decline here and there—that eventually leads to a problem.
+
+The impact created by a change in your habits is similar to the effect of shifting the route of an airplane by just a few degrees.
+
+Imagine you are flying from Los Angeles to New York City. If a pilot leaving from LAX adjusts the heading just 3.5 degrees south, you will land in Washington, D.C., instead of New York. Such a small change is barely noticeable at takeoff—the nose of the airplane moves just a few feet—but when magnified across the entire United States, you end up hundreds of miles apart.
+
+A slight change in your daily habits can guide your life to a very different destination.
+
+Making a choice that is 1 percent better or 1 percent worse seems insignificant in the moment, but over the span of moments that make up a lifetime these choices determine the difference between who you are and who you could be.
+
+Success is the product of daily habits—not once-in-a-lifetime transformations.
+
+What matters is whether your habits are putting you on the path toward success. 
+
+You should be far more concerned with your current trajectory than with your current results.
+
+Your outcomes are a lagging measure of your habits.
+
+Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits... ...You get what you repeat.
+
+If you want to predict where you’ll end up in life, all you have to do is follow the curve of tiny gains or tiny losses, and see how your daily choices will compound ten or twenty years down the line.
+
+Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy.
+
+Habits are a double-edged sword. 15 Bad habits can cut you down just as easily as good habits can build you up, which is why understanding the details is crucial. You need to know how habits work and how to design them to your liking, so you can avoid the dangerous half of the blade.
+
+### YOUR HABITS CAN COMPOUND FOR YOU OR AGAINST YOU
+
 
 
 ## 2 How Your Habits Shape Your Identity (and Vice Versa)
