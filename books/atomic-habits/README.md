@@ -177,9 +177,16 @@ Time magnifies the margin between success and failure. It will multiply whatever
 
 Habits are a double-edged sword. 15 Bad habits can cut you down just as easily as good habits can build you up, which is why understanding the details is crucial. You need to know how habits work and how to design them to your liking, so you can avoid the dangerous half of the blade.
 
-### YOUR HABITS CAN COMPOUND FOR YOU OR AGAINST YOU
+### YOUR HABITS CAN COMPOUND FOR YOU OR AGAINST YOU
 
+| Positive Compounding | Negative Compounding |
+| -------------------- | -------------------- |
+| **Productivity compounds.**... ...The effect of automating an old task or mastering a new skill can be even greater. The more tasks you can handle without thinking, the more your brain is free to focus on other areas. | **Stress compounds.**... ...common causes of stress are manageable. But when they persist for years, little stresses compound into serious health issues.|
+| **Knowledge compounds.**... ...a commitment to lifelong learning can be transformative. Furthermore, each book you read not only teaches you something new but also opens up different ways of thinking about old ideas. | **Negative thoughts compound.** The more you think of yourself as worthless, stupid, or ugly, the more you condition yourself to interpret life that way. You get trapped in a thought loop. The same is true for how you think about others. Once you fall into the habit of seeing people as angry, unjust, or selfish, you see those kind of people everywhere. |
+| **Relationships compound.** People reflect your behavior back to you. The more you help others, the more others want to help you. Being a little bit nicer in each interaction can result in a network of broad and strong connections over time. | **Outrage compounds.**... ...series of microaggressions and daily aggravations slowly multiply until one event tips the scales and outrage spreads like wildfire. |
 
+> “That’s how knowledge works. It builds up, like compound interest.”
+> -Warren Buffett
 
 ## 2 How Your Habits Shape Your Identity (and Vice Versa)
 
