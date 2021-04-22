@@ -113,7 +113,16 @@ Mother, monogamy, romance. High spurts the fountain; fierce and foamy the wild j
 
 The liftman was a small simian creature, dressed in the black tunic of an Epsilon-Minus Semi-Moron. “Roof.” He flung open the gates. The warm glory of afternoon sunlight made him start and blink his eyes. “Oh, roof!” he repeated in a voice of rapture. He was as though suddenly and joyfully awakened from a dark annihilating stupor. “Roof.” He smiled up with a kind of doggily expectant adoration into the faces of his passengers. Talking and laughing together, they stepped out into the light. The liftman looked after them.
 
+Benito was notoriously good-natured. People said of him that he could have got through life without ever touching soma . The malice and bad tempers from which other people had to take holidays never afflicted him. Reality for Benito was always sunny.
+
+Sex-hormone chewing-gum, stuffed a plug into his cheek and walked slowly away towards the hangars, ruminating.
+
+Like the vague torsos of fabulous athletes, huge fleshy clouds lolled on the blue air above their heads. Out of one of them suddenly dropped a small scarlet insect, buzzing as it fell. “There’s the Red Rocket,” said Henry, “just come in from New York.” Looking at his watch. “Seven minutes behind time,” he added, and shook his head. “These Atlantic services—they’re really scandalously unpunctual.”
+
+Henry pushed at a lever; there was a click. Slowly at first, then faster and faster, till it was a circular mist before their eyes, the propeller in front of them began to revolve. The wind of a horizontal speed whistled ever more shrilly in the stays. Henry kept his eye on the revolution-counter; when the needle touched the twelve hundred mark, he threw the helicopter screws out of gear. The machine had enough forward momentum to be able to fly on its planes.
+
 ## Chapter 5
+
 
 
 ## Chapter 6
