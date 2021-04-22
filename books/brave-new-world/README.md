@@ -123,7 +123,25 @@ Henry pushed at a lever; there was a click. Slowly at first, then faster and fas
 
 ## Chapter 5
 
+Those who meant well behaved in the same way as those who meant badly.
 
+The hangars were staffed by a single Bokanovsky Group, and the men were twins, identically small, black and hideous.
+
+“I am I, and wish I wasn’t”; his self-consciousness was acute and distressing.
+
+For Gammas, Deltas and Epsilons had been to some extent conditioned to associate corporeal mass with social superiority.
+
+The various Bureaux of Propaganda and the College of Emotional Engineering were housed in a single sixty-story building in Fleet Street. In the basement and on the lower floors were the presses and offices of the three great London newspapers—_The Hourly Radio,_ an upper-caste sheet, in pale green _Gamma Gazette,_ and, on khaki paper and in words exclusively of one syllable, _The Delta Mirror._ Then came the Bureaux of Propaganda by Television, by Feeling Picture, and by Synthetic Voice and Music respectively—twenty-two floors of them. Above were the research laboratories and the padded rooms in which the Sound-Track Writers and Synthetic Composers did their delicate work. The top eighteen floors were occupied by the College of Emotional Engineering.
+
+By profession he was a lecturer at the College of Emotional Engineering (Department of Writing) and in the intervals of his educational activities, a working Emotional Engineer. He wrote regularly for _The Hourly Radio,_ composed feely scenarios, and had the happiest knack for slogans and hypnopædic rhymes.
+
+This admirable committee man and best mixer had realized quite suddenly that sport, women, communal activities were only, so far as he was concerned, second bests.
+
+A physical shortcoming could produce a kind of mental excess. The process, it seemed, was reversible. Mental excess could produce, for its own purposes, the voluntary blindness and deafness of deliberate solitude, the artificial impotence of asceticism.
+
+Words can be like X-rays, if you use them properly—they’ll go through anything. You read and you’re pierced.
+
+Can you say something about nothing?
 
 ## Chapter 6
 
