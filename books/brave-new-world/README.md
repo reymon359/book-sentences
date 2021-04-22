@@ -145,6 +145,18 @@ Can you say something about nothing?
 
 ## Chapter 6
 
+“Phosphorous recovery,” explained Henry telegraphically. “On their way up the chimney the gases go through four separate treatments. P 2 O 5 used to go right out of circulation every time they cremated some one. Now they recover over ninety-eight per cent of it. More than a kilo and a half per adult corpse. Which makes the best part of four hundred tons of phosphorous every year from England alone.” Henry spoke with a happy pride, rejoicing wholeheartedly in the achievement, as though it had been his own. “Fine to think we can go on being socially useful even after we’re dead. Making plants grow.”
+
+“Every one works for every one else. We can’t do without any one. Even Epsilons are useful. We couldn’t do without Epsilons.
+
+“I suppose Epsilons don’t really mind being Epsilons,” she said aloud. “Of course they don’t. How can they? They don’t know what it’s like being anything else. We’d mind, of course. But then we’ve been differently conditioned. Besides, we start with a different heredity.” “I’m glad I’m not an Epsilon,” said Lenina, with conviction. “And if you were an Epsilon,” said Henry, “your conditioning would have made you no less thankful that you weren’t a Beta or an Alpha.”
+
+“It was some human being finally and definitely disappearing. Going up in a squirt of hot gas. It would be curious to know who it was—a man or a woman, an Alpha or an Epsilon.…” He sighed. Then, in a resolutely cheerful voice, “Anyhow,” he concluded, “there’s one thing we can be certain of; whoever he may have been, he was happy when he was alive. Everybody’s happy now.” “Yes, everybody’s happy now,” echoed Lenina. They had heard the words repeated a hundred and fifty times every night for twelve years.
+
+“LONDON’S FINEST SCENT AND COLOUR ORGAN ALL THE LATEST SYNTHETIC MUSIC.”
+
+Lenina and Henry were yet dancing in another world—the warm, the richly coloured, the infinitely friendly world of _soma_-holiday.
+
 
 ## Chapter 7
 
