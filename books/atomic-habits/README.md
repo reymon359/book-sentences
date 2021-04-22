@@ -187,6 +187,41 @@ Habits are a double-edged sword. 15 Bad habits can cut you down just as easily a
 
 > “That’s how knowledge works. It builds up, like compound interest.”
 > -Warren Buffett
+ 
+### WHAT PROGRESS IS REALLY LIKE
+
+Imagine that you have an ice cube sitting on the table in front of you. The room is cold and you can see your breath. It is currently twenty-five degrees. Ever so slowly, the room begins to heat up. Twenty-six degrees. Twenty-seven. Twenty-eight. The ice cube is still sitting on the table in front of you. Twenty-nine degrees. Thirty. Thirty-one. Still, nothing has happened. Then, thirty-two degrees. The ice begins to melt. A one-degree shift, seemingly no different from the temperature increases before it, has unlocked a huge change.
+
+Breakthrough moments are often the result of many previous actions, which build up the potential required to unleash a major change.
+
+Bamboo can barely be seen for the first five years as it builds extensive root systems underground before exploding ninety feet into the air within six weeks.
+
+Habits often appear to make no difference until you cross a critical threshold and unlock a new level of performance.
+
+It’s frustrating how ineffective changes can seem during the first days, weeks, and even months. It doesn’t feel like you are going anywhere... ...the most powerful outcomes are delayed.
+
+It is so hard to build habits that last. People make a few small changes, fail to see a tangible result, and decide to stop.
+
+in order to make a meaningful difference, habits need to persist long enough to break through this plateau—what I call the _Plateau of Latent Potential._ 
+
+If you find yourself struggling to build a good habit or break a bad one, it is not because you have lost your ability to improve. It is often because you have not yet crossed the Plateau of Latent Potential.
+
+When you finally break through the Plateau of Latent Potential, people... ...only sees the most dramatic event rather than all that preceded it. But you know that it’s the work you did long ago—when... ...progress—that makes the jump today possible.
+
+Mastery requires patience.
+
+> Jacob Riis hanging in their locker room: “When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. 19 Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did it—but all that had gone before.”
+> -Jacob Riis
+ 
+![Figure 2](./figure2.jpg)
+
+FIGURE 2: We often expect progress to be linear... ...In reality, the results of our efforts are often delayed... ...This can result in a “valley of disappointment” where people feel discouraged after putting in weeks or months of hard work without experiencing any results. However, this work was not wasted... ...It is not until much later that the full value of previous efforts is revealed.
+
+All big things come from small beginnings.
+
+The seed of every habit is a single, tiny decision. But as that decision is repeated, a habit sprouts and grows stronger.
+
+The task of breaking a bad habit is like uprooting a powerful oak within us. And the task of building a good habit is like cultivating a delicate flower one day at a time.
 
 ## 2 How Your Habits Shape Your Identity (and Vice Versa)
 
