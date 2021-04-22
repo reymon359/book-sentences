@@ -160,7 +160,19 @@ Lenina and Henry were yet dancing in another world—the warm, the richly colour
 
 ## Chapter 7
 
+The group was now complete, the solidarity circle perfect and without flaw. Man, woman, man, in a ring of endless alternation round the table. Twelve of them ready to be made one, waiting to come together, to be fused, to lose their twelve separate identities in a larger being.
 
+The President made another sign of the T and sat down. The service had begun. The dedicated _soma_tablets were placed in the centre of the table. The loving cup of strawberry ice-cream _soma_ was passed from hand to hand and, with the formula, “I drink to my annihilation,” twelve times quaffed. Then to the accompaniment of the synthetic orchestra the First Solidarity Hymn was sung.
+
+“Ford, we are twelve; oh, make us one, Like drops within the Social River; Oh, make us now together run As swiftly as thy shining Flivver.”... ...And then the loving cup was passed a second time. “I drink to the Greater Being” was now the formula. All drank... ...The Second Solidarity Hymn was sung. “Come, Greater Being, Social Friend, Annihilating Twelve-in-One ! We long to die, for when we end, Our larger life has but begun.”... ...By this time the _soma_ had begun to work. Eyes shone, cheeks were flushed, the inner light of universal benevolence broke out on every face in happy, friendly smiles... ...For the third time the loving cup went round. “I drink to the imminence of His Coming,”... ...The loving cup had made its circuit. Lifting his hand, the President gave a signal; the chorus broke out into the third Solidarity Hymn... ...“Feel how the Greater Being comes ! Rejoice and, in rejoicings, die ! Melt in the music of the drums ! For I am you and you are I.”
+
+The sense of the Coming’s imminence was like an electric tension in the air... ...a wonderful, mysterious, supernatural Voice spoke from above their heads. Very slowly, “Oh, Ford, Ford, Ford,” it said diminishingly and on a descending scale. A sensation of warmth radiated thrillingly out from the solar plexus to every extremity of the bodies of those who listened;... ...Then, in another tone, suddenly, startlingly. “Listen!” trumpeted the voice... ...“The feet of the Greater Being,” it went on,... ...Morgana Rothschild sprang to her feet. “I hear him,” she cried. “I hear him.”... ...Bernard also jumped up and shouted: “I hear him; He’s coming.” But it wasn’t true. He heard nothing and, for him, nobody was coming.
+
+“Orgy-porgy, Ford and fun , Kiss the girls and make them One . Boys at one with girls at peace; Orgy-porgy gives release .”
+
+“Orgy-porgy,” the dancers caught up the liturgical refrain,... ...And as they sang, the lights began slowly to fade—to fade and at the same time to grow warmer, richer, redder, until at last they were dancing in the crimson twilight of an Embryo Store... ...Then the circle wavered, broke, fell in partial disintegration on the ring of couches which surrounded—circle... ...Tenderly the deep Voice crooned and cooed; in the red twilight it was as though some enormous negro dove were hovering benevolently over the now prone or supine dancers.
+
+“Wasn’t it simply wonderful?” She looked at Bernard... ...“Yes, I thought it was wonderful,” he lied and looked away; the sight of her transfigured face was at once an accusation and an ironical reminder of his own separateness... ...“Quite wonderful,” he repeated; but the only thing he could think of was Morgana’s eyebrow.
 ## Chapter 8
 
 
