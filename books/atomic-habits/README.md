@@ -314,6 +314,61 @@ Chapter Summary:
 
 ## 2 How Your Habits Shape Your Identity (and Vice Versa)
 
+WHY IS IT so easy to repeat bad habits and so hard to form good ones?
+
+It often feels difficult to keep good habits going for more than a few days, even with sincere effort and the occasional burst of motivation.
+
+once your habits are established, they seem to stick around forever—especially the unwanted ones.
+
+Changing our habits is challenging for two reasons: (1) we try to change the wrong thing and (2) we try to change our habits in the wrong way.
+
+Our first mistake is that we try to change the wrong thing... ...consider that there are three levels at which change can occur. You can imagine them like the layers of an onion.
+ 
+![Figure 3](./figure3.jpg)
+
+FIGURE 3: There are three layers of behavior change: a change in your outcomes, a change in your processes, or a change in your identity.
+
+**The first layer is changing your outcomes.** This level is concerned with changing your results:... ...Most of the goals you set are associated with this level of change... ...**The second layer is changing your process.** This level is concerned with changing your habits and systems:... ...Most of the habits you build are associated with this level. **The third and deepest layer is changing your identity.** This level is concerned with changing your beliefs:... ...Most of the beliefs, assumptions, and biases you hold are associated with this level.
+
+Outcomes are about what you get. Processes are about what you do. Identity is about what you believe.
+
+When it comes to building habits that last... ...the problem is not that one level is “better” or “worse” than another. All levels of change are useful in their own way. The problem is the _direction_ of change.
+
+Many people begin the process of changing their habits by focusing on _what_ they want to achieve. This leads us to outcome-based habits. The alternative is to build identity-based habits. With this approach, we start by focusing on _who_ we wish to become.
+
+![Figure 4](./figure4.jpg)
+
+FIGURE 4: With outcome-based habits, the focus is on what you want to achieve. With identity-based habits, the focus is on who you wish to become.
+
+Imagine two people resisting a cigarette. When offered a smoke, the first person says, “No thanks. I’m trying to quit.” It sounds like a reasonable response, but this person still believes they are a smoker who is trying to be something else. They are hoping their behavior will change while carrying around the same beliefs. The second person declines by saying, “No thanks. I’m not a smoker.” It’s a small difference, but this statement signals a shift in identity. Smoking was part of their former life, not their current one. They no longer identify as someone who smokes.
+
+Most people don’t even consider identity change when they set out to improve... ...They set goals and determine the actions they should take to achieve those goals without considering the beliefs that drive their actions. They never shift the way they look at themselves, and they don’t realize that their old identity can sabotage their new plans for change.
+
+Behind every system of actions are a system of beliefs.
+
+There are a set of beliefs and assumptions that shape the system, an identity behind the habits. 
+
+Behavior that is incongruent with the self will not last.
+
+You may want better health, but if you continue to prioritize comfort over accomplishment, you’ll be drawn to relaxing rather than training. 
+
+It’s hard to change your habits if you never change the underlying beliefs that led to your past behavior. You have a new goal and a new plan, but you haven’t changed _who_ you are.
+
+The ultimate form of intrinsic motivation is when a habit becomes part of your identity. It’s one thing to say I’m the type of person who _wants_ this. It’s something very different to say I’m the type of person who is this. 
+
+The more pride you have in a particular aspect of your identity, the more motivated you will be to maintain the habits associated with it.
+
+True behavior change is identity change. 
+
+You might start a habit because of motivation, but the only reason you’ll stick with one is that it becomes part of your identity. 
+
+Anyone can convince themselves to visit the gym or eat healthy once or twice, but if you don’t shift the belief behind the behavior, then it is hard to stick with long-term changes. 
+
+Improvements are only temporary until they become part of who you are.
+
+The goal is not to read a book, the goal is to _become_ a reader.
+
+
 
 ## 3 How to Build Better Habits in 4 Simple Steps
 
