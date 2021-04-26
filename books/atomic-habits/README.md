@@ -223,6 +223,95 @@ The seed of every habit is a single, tiny decision. But as that decision is repe
 
 The task of breaking a bad habit is like uprooting a powerful oak within us. And the task of building a good habit is like cultivating a delicate flower one day at a time.
 
+### FORGET ABOUT GOALS, FOCUS ON SYSTEMS INSTEAD
+
+Prevailing wisdom claims that the best way to achieve what we want in life... ...is to set specific, actionable goals. For many years, this was how I approached my habits, too... ...Eventually, I began to realize that my results had very little to do with the goals I set and nearly everything to do with the systems I followed.
+
+What’s the difference between systems and goals?... ...Goals are about the results you want to achieve. Systems are about the processes that lead to those results.
+
+Now for the interesting question: If you completely ignored your goals and focused only on your system, would you still succeed?... ...I think you would.
+
+> “The score takes care of itself.”
+> Bill Walsh
+ 
+If you want better results, then forget about setting goals. Focus on your system instead.
+
+Goals are good for setting a direction, but systems are best for making progress.
+
+A handful of problems arise when you spend too much time thinking about your goals and not enough time designing your systems.
+
+**Problem #1: Winners and losers have the same goals.**
+
+If successful and unsuccessful people share the same goals, then the goal cannot be what differentiates the winners from the losers.
+
+It wasn’t the _goal_... ...The goal had always been there. It was only when they implemented a _system_ of continuous small improvements that they achieved a different outcome.
+
+**Problem #2: Achieving a goal is only a momentary change.**
+
+Imagine you have a messy room and you set a goal to clean it. If you summon the energy to tidy up, then you will have a clean room—for now. But if you maintain the same sloppy, pack-rat habits that led to a messy room in the first place, soon you’ll be looking at a new pile of clutter and hoping for another burst of motivation.
+
+You’re left chasing the same outcome because you never changed the system behind it.
+
+You treated a symptom without addressing the cause.
+
+Achieving a goal only changes your life _for the moment._
+
+We think we need to change our results, but the results are not the problem. What we really need to change are the systems that cause those results.
+
+When you solve problems at the results level, you only solve them temporarily. In order to improve for good, you need to solve problems at the systems level.
+
+Fix the inputs and the outputs will fix themselves.
+
+**Problem #3: Goals restrict your happiness.**
+
+The implicit assumption behind any goal is this: “Once I reach my goal, then I’ll be happy.” The problem with a goals-first mentality is that you’re continually putting happiness off until the next milestone.
+
+Furthermore, goals create an “either-or” conflict: either you achieve your goal and are successful or you fail and you are a disappointment. 
+
+You mentally box yourself into a narrow version of happiness. This is misguided. 
+
+It is unlikely that your actual path through life will match the exact journey you had in mind when you set out.
+
+It makes no sense to restrict your satisfaction to one scenario when there are many paths to success.
+
+When you fall in love with the process rather than the product, you don’t have to wait to give yourself permission to be happy. You can be satisfied anytime your system is running.
+
+A system can be successful in many different forms, not just the one you first envision.
+
+**Problem #4: Goals are at odds with long-term progress.**
+
+When all of your hard work is focused on a particular goal, what is left to push you forward after you achieve it? This is why many people find themselves reverting to their old habits after accomplishing a goal. 
+
+The purpose of setting goals is to win the game. The purpose of building systems is to continue playing the game. 
+
+True long-term thinking is goal-less thinking.
+
+It is about the cycle of endless refinement and continuous improvement. 
+
+Ultimately, it is your commitment to the _process_ that will determine your _progress._
+
+### A SYSTEM OF ATOMIC HABITS
+
+If you’re having trouble changing your habits, the problem isn’t you. The problem is your system. 
+
+Bad habits repeat themselves again and again not because you don’t want to change, but because you have the wrong system for change. 
+
+You do not rise to the level of your goals. You fall to the level of your systems.
+
+Atomic habits... ...are little habits that are part of a larger system. Just as atoms are the building blocks of molecules, atomic habits are the building blocks of remarkable results.
+
+At first, these tiny routines seem insignificant, but soon they build on each other and fuel bigger wins that multiply to a degree that far outweighs the cost of their initial investment.
+
+_atomic habits_ —a regular practice or routine that is not only small and easy to do, but also the source of incredible power; a component of the system of compound growth.
+
+Chapter Summary:
+- Habits are the compound interest of self-improvement. Getting 1 percent better every day counts for a lot in the long-run. 
+- Habits are a double-edged sword. They can work for you or against you, which is why understanding the details is essential. 
+- Small changes often appear to make no difference until you cross a critical threshold. The most powerful outcomes of any compounding process are delayed. You need to be patient. 
+- An atomic habit is a little habit that is part of a larger system. Just as atoms are the building blocks of molecules, atomic habits are the building blocks of remarkable results.
+- If you want better results, then forget about setting goals. Focus on your system instead. 
+- You do not rise to the level of your goals. You fall to the level of your systems.
+
 ## 2 How Your Habits Shape Your Identity (and Vice Versa)
 
 
