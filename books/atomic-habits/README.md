@@ -368,7 +368,54 @@ Improvements are only temporary until they become part of who you are.
 
 The goal is not to read a book, the goal is to _become_ a reader.
 
+What you do is an indication of the type of person you believe that you are.
 
+Once a person believes in a particular aspect of their identity, they are more likely to act in alignment with that belief.
+
+Doing the right thing is easy. After all, when your behavior and your identity are fully aligned, you are no longer pursuing behavior change. You are simply acting like the type of person you already believe yourself to be.
+
+When working against you, though, identity change can be a curse. Once you have adopted an identity, it can be easy to let your allegiance to it impact your ability to change.
+
+Many people walk through life in a cognitive slumber, blindly following the norms attached to their identity. “I’m terrible with directions.” “I’m not a morning person.” ...and a thousand other variations.
+
+The more deeply a thought or action is tied to your identity, the more difficult it is to change it.
+
+It can feel comfortable to believe what your culture believes (group identity) or to do what upholds your self-image (personal identity), even if it’s wrong.
+
+The biggest barrier to positive change at any level—individual.
+
+Good habits can make rational sense, but if they conflict with your identity, you will fail to put them into action.
+
+On any given day, you may struggle with your habits... ...Over the long run, however, the real reason you fail to stick with habits is that your self-image gets in the way.
+
+Progress requires unlearning. 
+
+Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.
+
+If your beliefs and worldview play such an important role in your behavior, where do they come from in the first place? How, exactly, is your identity formed? And how can you emphasize new aspects of your identity that serve you and gradually erase the pieces that hinder you?
+
+### THE TWO-STEP PROCESS TO CHANGING YOUR IDENTITY
+
+Your identity emerges out of your habits.
+
+You are not born with preset beliefs. Every belief, including those about yourself, is learned and conditioned through experience.
+
+Your habits are how you embody your identity. When you make your bed each day, you embody the identity of an organized person.
+
+The more you repeat a behavior, the more you reinforce the identity associated with that behavior.
+
+The word _identity_ was originally derived from the Latin words _essentitas,_ which means _being,_ and _identidem,_ which means _repeatedly._ Your identity is literally your “repeated beingness.”
+
+If you go to the gym even when it’s snowing, you have evidence that you are committed to fitness. The more evidence you have for a belief, the more strongly you will believe it.
+
+I published a new article every Monday and Thursday for the first few years. As the evidence grew, so did my identity as a writer. I didn’t start out as a writer. I _became_ one through my habits.
+
+As you repeat these actions, however, the evidence accumulates and your self-image begins to change.
+
+Your habits contribute most of the evidence that shapes your identity. In this way, the process of building habits is actually the process of becoming yourself.
+
+
+This is a gradual evolution... ...We change bit by bit, day by day, habit by habit. We are continually undergoing microevolutions of the self... ...If you finish a book, then perhaps you are the type of person who likes reading... ...Every action you take is a vote for the type of person you wish to become.
 
 ## 3 How to Build Better Habits in 4 Simple Steps
 
