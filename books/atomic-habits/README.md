@@ -414,8 +414,57 @@ As you repeat these actions, however, the evidence accumulates and your self-ima
 
 Your habits contribute most of the evidence that shapes your identity. In this way, the process of building habits is actually the process of becoming yourself.
 
-
 This is a gradual evolution... ...We change bit by bit, day by day, habit by habit. We are continually undergoing microevolutions of the self... ...If you finish a book, then perhaps you are the type of person who likes reading... ...Every action you take is a vote for the type of person you wish to become.
+
+Meaningful change does not require radical change. Small habits can make a meaningful difference by providing evidence of a new identity. And if a change is meaningful, it actually is big. That’s the paradox of making small improvements.
+
+Habits are the path to changing your identity. The most practical way to change _who_ you are is to change _what_ you do.
+
+Each habit not only gets results but also teaches you something far more important: to trust yourself. You start to believe you can actually accomplish these things.
+
+When... ...the evidence begins to change, the story you tell yourself begins to change as well.
+
+Every time you choose to perform a bad habit, it’s a vote for that identity. The good news is that you don’t need to be perfect. In any election, there are going to be votes for both sides. You don’t need a unanimous vote to win an election; you just need a majority. It doesn’t matter if you cast a few votes for a bad behavior or an unproductive habit. Your goal is simply to win the majority of the time.
+
+New identities require new evidence. If you keep casting the same votes you’ve always cast, you’re going to get the same results you’ve always had.
+
+If nothing changes, nothing is going to change.
+
+It is a simple two-step process: 1. Decide the type of person you want to be. 2. Prove it to yourself with small wins.
+
+First, decide who you want to be... ...at any level—as an individual, as a team, as a community, as a nation. What do you want to stand for? What are your principles and values? Who do you wish to become? These are big questions, and many people aren’t sure where to begin—but they do know what kind of results they want... ...That’s fine. Start there and work backward from the results you want to the type of person who could get those results. Ask yourself, “Who is the type of person that could get the outcome I want?”... ...Who is the type of person that could learn a new language?
+
+For example, “Who is the type of person who could write a book?” It’s probably someone who is consistent and reliable. Now your focus shifts from writing a book (outcome-based) to being the type of person who is consistent and reliable (identity-based).
+
+Beliefs like: 
+- “I’m the kind of teacher who stands up for her students.” 
+- “I’m the kind of doctor who gives each patient the time and empathy they need.” 
+- “I’m the kind of manager who advocates for her employees.”
+
+Feedback loops. Your habits shape your identity, and your identity shapes your habits. It’s a two-way street. The formation of all habits is a feedback loop.
+
+It’s important to let your values, principles, and identity drive the loop rather than your results. The focus should always be on becoming that type of person, not getting a particular outcome.
+
+### THE REAL REASON HABITS MATTER
+
+Identity change is the North Star of habit change.
+
+“Are you becoming the type of person you want to become?” The first step is not _what_ or _how,_ but _who._ You need to know who you want to be. Otherwise, your quest for change is like a boat without a rudder.
+
+You have the power to change your beliefs about yourself. Your identity is not set in stone. You have a choice in every moment. 
+
+You can choose the identity you want to reinforce today with the habits you choose today.
+
+It’s not about achieving external measures of success like earning more money, losing weight, or reducing stress. Habits... ...are not about _having_ something. They are about _becoming_ someone.
+
+Your habits matter because they help you become the type of person you wish to be. They are the channel through which you develop your deepest beliefs about yourself. Quite literally, you become your habits.
+
+Chapter Summary:
+- There are three levels of change: outcome change, process change, and identity change. 
+- The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become. 
+- Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become. 
+- Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity. 
+- The real reason habits matter is not because they can get you better results (although they can do that), but because they can change your beliefs about yourself.
 
 ## 3 How to Build Better Habits in 4 Simple Steps
 
