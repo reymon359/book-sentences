@@ -468,6 +468,111 @@ Chapter Summary:
 
 ## 3 How to Build Better Habits in 4 Simple Steps
 
+> “behaviors followed by satisfying consequences tend to be repeated and those that produce unpleasant consequences are less likely to be repeated.”
+> -Thorndike
+
+### WHY YOUR BRAIN BUILDS HABITS
+
+A habit is a behavior that has been repeated enough times to become automatic. 
+
+The process of habit formation begins with trial and error.
+
+Whenever you encounter a new situation in life, your brain has to make a decision. _How do I respond to this?_ The first time you come across a problem, you’re not sure how to solve it... ...you’re just trying things out to see what works.
+
+After you stumble upon an unexpected reward, you alter your strategy for next time. Your brain immediately begins to catalog the events that preceded the reward.
+
+The feedback loop behind all human behavior: try, fail, learn, try differently. With practice, the useless movements fade away and the useful actions get reinforced. That’s a habit forming.
+
+Whenever you face a problem repeatedly, your brain begins to automate the process of solving it.
+
+
+> “Habits are, simply, reliable solutions to recurring problems in our environment.”
+> -Jason Hreha
+ 
+As habits are created, the level of activity in the brain _decreases._ You learn to lock in on the cues that predict success and tune out everything else. When a similar situation arises in the future, you know exactly what to look for.
+
+Your brain skips the process of trial and error and creates a mental rule: if this, then that.
+
+A habit is just a memory of the steps you previously followed to solve a problem in the past.
+
+The primary reason the brain remembers the past is to better predict what will work in the future.
+
+Habit formation is incredibly useful because the conscious mind is the bottleneck of the brain. It can only pay attention to one problem at a time.
+
+Whenever possible, the conscious mind likes to pawn off tasks to the nonconscious mind to do automatically... ...Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks.
+
+Habits do not restrict freedom. They create it.
+
+If you’re always being forced to make decisions about simple tasks... ...then you have less time for freedom. It’s only by making the fundamentals of life easier that you can create the mental space needed for free thinking and creativity.
+
+When you have your habits dialed in and the basics of life are handled and done, your mind is free to focus on new challenges and master the next set of problems.
+
+Building habits in the present allows you to do more of what you want in the future.
+
+### THE SCIENCE OF HOW HABITS WORK
+
+The process of building a habit can be divided into four simple steps: cue, craving, response, and reward.
+
+![Figure 5](./figure5.jpg)
+
+FIGURE 5: All habits proceed through four stages in the same order: cue, craving, response, and reward.
+
+The cue triggers your brain to initiate a behavior. It is a bit of information that predicts a reward.
+
+Your mind is continuously analyzing your internal and external environment for hints of where rewards are located. Because the cue is the first indication that we’re close to a reward, it naturally leads to a craving.
+
+Cravings are the second step, and they are the motivational force behind every habit. Without some level of motivation or desire—without craving a change—we have no reason to act. 
+
+What you crave is not the habit itself but the change in state it delivers.
+
+You are not motivated by brushing your teeth but rather by the feeling of a clean mouth.
+
+Cravings differ from person to person. In theory, any piece of information could trigger a craving, but in practice, people are not motivated by the same cues.
+
+Cues are meaningless until they are interpreted. The thoughts, feelings, and emotions of the observer are what transform a cue into a craving. 
+
+The third step is the response... ...is the actual habit you perform, which can take the form of a thought or an action.
+
+Whether a response occurs depends on how motivated you are and how much friction is associated with the behavior. If a particular action requires more physical or mental effort than you are willing to expend, then you won’t do it.
+
+It sounds simple, but a habit can occur only if you are capable of doing it.
+
+Rewards are the end goal of every habit. The cue is about noticing the reward. The craving is about wanting the reward. The response is about obtaining the reward. We chase rewards because they serve two purposes: (1) they satisfy us and (2) they teach us.
+
+Yes, rewards provide benefits on their own. Food and water deliver the energy you need to survive... ...But the more immediate benefit is that rewards satisfy your craving to eat.
+
+At least for a moment, rewards deliver contentment and relief from craving.
+
+Second, rewards teach us which actions are worth remembering in the future.
+
+Feelings of pleasure and disappointment are part of the feedback mechanism that helps your brain distinguish useful actions from useless ones.
+
+If a behavior is insufficient in any of the four stages, it will not become a habit.
+
+Eliminate the cue and your habit will never start. Reduce the craving and you won’t experience enough motivation to act. Make the behavior difficult and you won’t be able to do it. And if the reward fails to satisfy your desire, then you’ll have no reason to do it again in the future.
+
+Without the first three steps, a behavior will not occur. Without all four, a behavior will not be repeated.
+
+![Figure 6](./figure6.jpg)
+
+FIGURE 6: The four stages of habit are best described as a feedback loop. They form an endless cycle that is running every moment you are alive. This “habit loop” is continually scanning the environment, predicting what will happen next, trying out different responses, and learning from the results.
+
+Together, these four steps form a neurological feedback loop—cue, craving, response, reward; cue, craving, response, reward—that ultimately allows you to create automatic habits. This cycle is known as the habit loop.
+
+This four-step process... ...is running and active during every moment you are alive
+
+We can split these four steps into two phases: the problem phase and the solution phase. The problem phase includes the cue and the craving, and it is when you realize that something needs to change. The solution phase includes the response and the reward, and it is when you take action and achieve the change you desire.
+
+![Problem and solution phases](./problem_and_solution_phases.jpg)
+
+All behavior is driven by the desire to solve a problem. 
+
+Sometimes the problem is that you notice something good and you want to obtain it. Sometimes the problem is that you are experiencing pain and you want to relieve it.
+
+By the time we become adults, we rarely notice the habits that are running our lives. Most of us never give a second thought to the fact that we tie the same shoe first each morning, or unplug the toaster after each use, or always change into comfortable clothes after getting home from work. After decades of mental programming, we automatically slip into these patterns of thinking and acting.
+
+![Problem and solution phases examples](./problem_and_solution_phases_examples.jpg)
+
 
 ## The 1st Law Make It Obvious
 
