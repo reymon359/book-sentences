@@ -206,6 +206,21 @@ He looked at Helmholtz Watson expectantly, awaiting his due reward of sympathy, 
 
 ## Chapter 10
 
+The synthetic music plant was working as they entered the hall and left nothing to be desired.
+
+“There won’t be any in the Reservation,” Bernard warned her. “And no scent, no television, no hot water even. If you feel you can’t stand it, stay here till I come back.” Lenina was quite offended. “Of course I can stand it. I only said it was lovely here because … well, because progress is lovely, isn’t it?” “Five hundred repetitions once a week from thirteen to seventeen,” said Bernard wearily, as though to himself. “What did you say?” “I said that progress was lovely. That’s why you mustn’t come to the Reservation unless you really want to.” “But I do want to.” “Very well, then,” said Bernard; and it was almost a threat.
+
+“You don’t say so,” said Lenina politely, not knowing in the least what the Warden had said, but taking her cue from his dramatic pause. When the Warden started booming, she had inconspicuously swallowed half a gramme of soma , with the result that she could now sit, serenely not listening, thinking of nothing at all, but with her large blue eyes fixed on the Warden’s face in an expression of rapt attention.
+
+“To touch the fence is instant death,” pronounced the Warden solemnly. “There is no escape from a Savage Reservation.”
+
+“No escape,” repeated the Warden, waving him back into his chair; and as the permit was not yet countersigned, Bernard had no choice but to obey. “Those who are born in the Reservation—and remember, my dear young lady,” he added, leering obscenely at Lenina, and speaking in an improper whisper, “remember that, in the Reservation, children still are born, yes, actually born, revolting as that may seem …” (He hoped that this reference to a shameful subject would make Lenina blush; but she only smiled with simulated intelligence and said, “You don’t say so!” Disappointed, the Warden began again.) “Those, I repeat, who are born in the Reservation are destined to die there.”... ...“… about sixty thousand Indians and half-breeds … absolute savages … our inspectors occasionally visit … otherwise, no communication whatever with the civilized world … still preserve their repulsive habits and customs … marriage, if you know what that is, my dear young lady; families … no conditioning … monstrous superstitions … Christianity and totemism and ancestor worship … extinct languages, such as Zuñi and Spanish and Athapascan … pumas, porcupines and other ferocious animals … infectious diseases … priests … venomous lizards …”
+
+“What? He’s looking out for some one to take my place?” Bernard’s voice was agonized. “So it’s actually decided? Did he mention Iceland? You say he did? Ford! Iceland …” He hung up the receiver and turned back to Lenina. His face was pale, his expression utterly dejected.
+
+“Back to-morrow. And remember,” he added reassuringly to Lenina, “they’re perfectly tame; savages won’t do you any harm. They’ve got enough experience of gas bombs to know that they mustn’t play any tricks.” Still laughing, he threw the helicopter screws into gear, accelerated, and was gone.
+
+
 
 ## Chapter 11
 
