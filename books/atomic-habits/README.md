@@ -485,7 +485,6 @@ The feedback loop behind all human behavior: try, fail, learn, try differently. 
 
 Whenever you face a problem repeatedly, your brain begins to automate the process of solving it.
 
-
 > “Habits are, simply, reliable solutions to recurring problems in our environment.”
 > -Jason Hreha
  
@@ -573,12 +572,30 @@ By the time we become adults, we rarely notice the habits that are running our l
 
 ![Problem and solution phases examples](./problem_and_solution_phases_examples.jpg)
 
-
 ## The 1st Law Make It Obvious
-
 
 ## 4 The Man Who Didn’t Look Right
 
+The human brain is a prediction machine. 5 It is continuously taking in your surroundings and analyzing the information it comes across.
+
+Whenever you experience something repeatedly... ...your brain begins noticing what is important, sorting through the details and highlighting the relevant cues, and cataloging that information for future use. With enough practice, you can pick up on the cues that predict certain outcomes without consciously thinking about it.
+
+We can’t always explain what it is we are learning, but learning is happening all along the way.
+
+We underestimate how much our brains and bodies can do without thinking. You do not tell your hair to grow, your heart to pump, your lungs to breathe, or your stomach to digest. And yet your body handles all this and more on autopilot. You are much more than your conscious self.
+
+You don’t need to be aware of the cue for a habit to begin. You can notice an opportunity and take action without dedicating conscious attention to it. This is what makes habits useful.
+
+As habits form, your actions come under the direction of your automatic and nonconscious mind. You fall into old patterns before you realize what’s happening. Unless someone points it out, you may not notice that you cover your mouth with your hand whenever you laugh, that you apologize before asking a question, or that you have a habit of finishing other people’s sentences. And the more you repeat these patterns, the less likely you become to question what you’re doing and why you’re doing it.
+
+We must begin the process of behavior change with awareness.
+
+Before we can effectively build new habits, we need to get a handle on our current ones.
+
+> “Until you make the unconscious conscious, it will direct your life and you will call it fate.”
+> -Carl Jung
+
+### THE HABITS SCORECARD
 
 ## 5 The Best Way to Start a New Habit
 
