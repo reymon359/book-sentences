@@ -173,11 +173,36 @@ The sense of the Coming’s imminence was like an electric tension in the air...
 “Orgy-porgy,” the dancers caught up the liturgical refrain,... ...And as they sang, the lights began slowly to fade—to fade and at the same time to grow warmer, richer, redder, until at last they were dancing in the crimson twilight of an Embryo Store... ...Then the circle wavered, broke, fell in partial disintegration on the ring of couches which surrounded—circle... ...Tenderly the deep Voice crooned and cooed; in the red twilight it was as though some enormous negro dove were hovering benevolently over the now prone or supine dancers.
 
 “Wasn’t it simply wonderful?” She looked at Bernard... ...“Yes, I thought it was wonderful,” he lied and looked away; the sight of her transfigured face was at once an accusation and an ironical reminder of his own separateness... ...“Quite wonderful,” he repeated; but the only thing he could think of was Morgana’s eyebrow.
+
 ## Chapter 8
 
+“You can’t teach a rhinoceros tricks,”
+
+Some men are almost rhinoceroses; they don’t respond properly to conditioning.
+
+“Alone with you, Lenina.” “But, Bernard, we shall be alone all night.” Bernard blushed and looked away. “I meant, alone for talking,” he mumbled. “Talking? But what about?” Walking and talking—that seemed a very odd way of spending an afternoon.
+
+“I’d rather be myself,” he said. “Myself and nasty. Not somebody else, however jolly.”
+
+“It makes me feel as though…” he hesitated, searching for words with which to express himself, “as though I were more me, if you see what I mean. More on my own, not so completely a part of something else. Not just a cell in the social body. Doesn’t it make you feel like that, Lenina?” But Lenina was crying. “It’s horrible, it’s horrible,” she kept repeating. “And how can you talk like that about not wanting to be a part of the social body? After all, every one works for every one else. We can’t do without any one. Even Epsilons …” “Yes, I know,” said Bernard derisively. “‘Even Epsilons are useful’! So am I. And I damned well wish I weren’t!” Lenina was shocked by his blasphemy. “Bernard!” She protested in a voice of amazed distress. “How can you?” In a different key, “How can I?” he repeated meditatively. “No, the real problem is: How is it that I can’t, or rather—because, after all, I know quite well why I can’t—what would it be like if I could, if I were free—not enslaved by my conditioning.” “But, Bernard, you’re saying the most awful things.” “Don’t you wish you were free, Lenina?” “I don’t know what you mean. I am free. Free to have the most wonderful time. Everybody’s happy nowadays.” He laughed, “Yes, ‘Everybody’s happy nowadays.’ We begin giving the children that at five. But wouldn’t you like to be free to be happy in some other way, Lenina? In your own way, for example; not in everybody else’s way.” “I don’t know what you mean,” she repeated.
+
+“Never put off till to-morrow the fun you can have today,” she said gravely. “Two hundred repetitions, twice a week from fourteen to sixteen and a half,” was all his comment.
+
+“I want to know what passion is,” she heard him saying. “I want to feel something strongly.” “When the individual feels, the community reels,” Lenina pronounced. “Well, why shouldn’t it reel a bit?” “Bernard!” But Bernard remained unabashed.
+
+“It suddenly struck me the other day,” continued Bernard, “that it might be possible to be an adult all the time.” “I don’t understand.” Lenina’s tone was firm. “I know you don’t. And that’s why we went to bed together yesterday—like infants—instead of being adults and waiting.” “But it was fun,” Lenina insisted. “Wasn’t it?”
 
 ## Chapter 9
 
+“I had the same idea as you,” the Director was saying. “Wanted to have a look at the savages. Got a permit for New Mexico and went there for my summer holiday. With the girl I was having at the moment. She was a Beta-Minus, and I think” (he shut his eyes), “I think she had yellow hair. Anyhow she was pneumatic, particularly pneumatic; I remember that.
+
+She got lost... ...“the next day there was a search. But we couldn’t find her... ...Anyhow it was horrible. It upset me very much at the time. More than it ought to have done, I dare say. Because, after all, it’s the sort of accident that might have happened to any one; and, of course, the social body persists although the component cells may change.”
+
+Alphas are so conditioned that they do not have to be infantile in their emotional behaviour. But that is all the more reason for their making a special effort to conform. It is their duty to be infantile, even against their inclination. And so, Mr. Marx, I give you fair warning.”
+
+And this confidence was the greater for his not for a moment really believing that he would be called upon to face anything at all. People simply weren’t transferred for things
+
+He looked at Helmholtz Watson expectantly, awaiting his due reward of sympathy, encouragement, admiration. But no word came. Helmholtz sat silent, staring at the floor. He liked Bernard... ...Nevertheless, there were things in Bernard which he hated... ...suddenly Bernard blushed and turned away.
 
 ## Chapter 10
 
