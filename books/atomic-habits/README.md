@@ -597,6 +597,56 @@ Before we can effectively build new habits, we need to get a handle on our curre
 
 ### THE HABITS SCORECARD
 
+_Pointing-and-Calling,_ is a safety system designed to reduce mistakes... ...reduces errors by up to 85 percent and cuts accidents by 30 percent... ...is so effective because it raises the level of awareness from a nonconscious habit to a more conscious level.
+
+The more automatic a behavior becomes, the less likely we are to consciously think about it. And when we’ve done something a thousand times before, we begin to overlook things.
+
+We’re so used to doing what we’ve always done that we don’t stop to question whether it’s the right thing to do at all.
+
+Many of our failures in performance are largely attributable to a lack of self-awareness.
+
+One of our greatest challenges in changing habits is maintaining awareness of what we are actually doing. This helps explain why the consequences of bad habits can sneak up on us. We need a “point-and-call” system for our personal lives. That’s the origin of the Habits Scorecard, which is a simple exercise you can use to become more aware of your behavior.
+
+make a list of your daily habits... ...Once you have a full list, look at each behavior, and ask yourself, “Is this a good habit, a bad habit, or a neutral habit?” If it is a good habit, write “+” next to it. If it is a bad habit, write “–”. If it is a neutral habit, write “=”.
+
+- Wake up = 
+- Turn off alarm = 
+- Check my phone – 
+- Go to the bathroom = 
+- Weigh myself + 
+- Take a shower + 
+- Brush my teeth + 
+- Floss my teeth + 
+- Put on deodorant + 
+- Hang up towel to dry = 
+- Get dressed = 
+- Make a cup of tea +
+
+The marks you give to a particular habit will depend on your situation and your goals... ...It all depends on what you’re working toward.
+
+There are no good habits or bad habits. There are only effective habits. That is, effective at solving problems.
+
+All habits serve you in some way—even the bad ones—which is why you repeat them.
+
+Categorize your habits by how they will benefit you in the long run... ...Smoking a cigarette may reduce stress right now (that’s how it’s serving you), but it’s not a healthy long-term behavior.
+
+how it’s serving you), but it’s not a healthy long-term behavior. If you’re still having trouble determining how to rate a particular habit, here is a question I like to use: “Does this behavior help me become the type of person I wish to be? Does this habit cast a vote for or against my desired identity?” Habits that reinforce your desired identity are usually good. Habits that conflict with your desired identity are usually bad.
+
+As you create your Habits Scorecard, there is no need to change anything at first. The goal is to simply notice what is actually going on... ...Don’t blame yourself for your faults. Don’t praise yourself for your successes.
+
+The first step to changing bad habits is to be on the lookout for them. If you feel like you need extra help, then you can try Pointing-and-Calling in your own life. Say out loud the action that you are thinking of taking and what the outcome will be.
+
+If you want to cut back on your junk food habit but notice yourself grabbing another cookie, say out loud, “I’m about to eat this cookie, but I don’t need it. Eating it will cause me to gain weight and hurt my health.” Hearing your bad habits spoken aloud makes the consequences seem more real. It adds weight to the action rather than letting yourself mindlessly slip into an old routine.
+
+The process of behavior change always starts with awareness.
+
+Chapter Summary:
+- With enough practice, your brain will pick up on the cues that predict certain outcomes without consciously thinking about it. 
+- Once our habits become automatic, we stop paying attention to what we are doing. 
+- The process of behavior change always starts with awareness. You need to be aware of your habits before you can change them. 
+- Pointing-and-Calling raises your level of awareness from a nonconscious habit to a more conscious level by verbalizing your actions. 
+- The Habits Scorecard is a simple exercise you can use to become more aware of your behavior.
+
 ## 5 The Best Way to Start a New Habit
 
 
