@@ -649,6 +649,80 @@ Chapter Summary:
 
 ## 5 The Best Way to Start a New Habit
 
+_implementation intention,_ which is a plan you make beforehand about when and where to act. That is, how you intend to _implement_ a particular habit.
+
+The cues that can trigger a habit come in a wide range of forms—the feel of your phone buzzing in your pocket, the smell of chocolate chip cookies, the sound of ambulance sirens—but the two most common cues are time and location. Implementation intentions leverage both of these cues.
+
+Broadly speaking, the format for creating an implementation intention is: “When situation X arises, I will perform response Y.”
+
+People who make a specific plan for when and where they will perform a new habit are more likely to follow through.
+
+Too many people try to change their habits without these basic details figured out. We tell ourselves, “I’m going to eat healthier” or “I’m going to write more,” but we never say when and where these habits are going to happen. We leave it up to chance and hope that we will “just remember to do it” or feel motivated at the right time.
+
+Many people think they lack motivation when what they really lack is clarity. It is not always obvious when and where to take action. Some people spend their entire lives waiting for the time to be right to make an improvement.
+
+Once an implementation intention has been set, you don’t have to wait for inspiration to strike... ...When the moment of action occurs, there is no need to make a decision. Simply follow your predetermined plan.
+
+Fill out this sentence: I will [BEHAVIOR] at [TIME] in [LOCATION]. Example: Meditation. I will meditate for one minute at 7 a.m. in my kitchen.
+
+If we have hope, we have a reason to take action. A fresh start feels motivating.
+
+Being specific about what you want and how you will achieve it helps you say no to things that derail progress, distract your attention, and pull you off course.
+
+When your dreams are vague, it’s easy to rationalize little exceptions all day long and never get around to the specific things you need to do to succeed.
+
+The goal is to make the time and location so obvious that, with enough repetition, you get an urge to do the right thing at the right time, even if you can’t say why.
+
+> Obviously you’re never going to just work out without conscious thought
+> - Jason Zweig
+
+### HABIT STACKING: A SIMPLE PLAN TO OVERHAUL YOUR HABITS
+
+The Diderot Effect states that obtaining a new possession often creates a spiral of consumption that leads to additional purchases.
+
+Many human behaviors follow this cycle. You often decide what to do next based on what you have just finished doing.
+
+No behavior happens in isolation. Each action becomes a cue that triggers the next behavior.
+
+One of the best ways to build a new habit is to identify a current habit you already do each day and then stack your new behavior on top. This is called _habit stacking._
+
+The habit stacking formula is: “After [CURRENT HABIT], I will [NEW HABIT].”
+
+The key is to tie your desired behavior into something you already do each day.
+
+Once you have mastered this basic structure, you can begin to create larger stacks by chaining small habits together. This allows you to take advantage of the natural momentum that comes from one behavior leading into the next—a positive version of the Diderot Effect. 
+
+![Figure 7](./figure7.jpg)
+
+FIGURE 7: Habit stacking increases the likelihood that you’ll stick with a habit by stacking your new behavior on top of an old one. This process can be repeated to chain numerous habits together, each one acting as the cue for the next.
+
+Habit stacking allows you to create a set of simple rules that guide your future behavior. It’s like you always have a game plan for which action should come next.
+
+
+Strategy, the secret to creating a successful habit stack is selecting the right cue to kick things off.
+
+Unlike an implementation intention, which specifically states the time and location for a given behavior, habit stacking implicitly has the time and location built into.
+
+Don’t ask yourself to do a habit when you’re likely to be occupied with something else.
+
+Your cue should also have the same frequency as your desired habit. If you want to do a habit every day, but you stack it on top of a habit that only happens on Mondays, that’s not a good choice.
+
+Habit stacking works best when the cue is highly specific and immediately actionable.
+
+Habits like “read more” or “eat better” are worthy causes, but these goals do not provide instruction on how and when to act. Be specific and clear:... ...The specificity is important. 
+
+The more tightly bound your new habit is to a specific cue, the better the odds are that you will notice when the time comes to act.
+
+The 1st Law of Behavior Change is to _make it obvious._ Strategies like implementation intentions and habit stacking are among the most practical ways to create obvious cues for your habits and design a clear plan for when and where to take action.
+
+Chapter Summary:
+-The 1st Law of Behavior Change is make it obvious .
+-The two most common cues are time and location.
+-Creating an implementation intention is a strategy you can use to pair a new habit with a specific time and location.
+-The implementation intention formula is: I will [BEHAVIOR] at [TIME] in [LOCATION].
+-Habit stacking is a strategy you can use to pair a new habit with a current habit.
+-The habit stacking formula is: After [CURRENT HABIT], I will [NEW HABIT].
+
 
 ## 6 Motivation is Overrated; Environment Often Matters More
 
