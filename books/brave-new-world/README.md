@@ -111,6 +111,8 @@ Mother, monogamy, romance. High spurts the fountain; fierce and foamy the wild j
 
 ## Chapter 4
 
+### Part 1
+
 The liftman was a small simian creature, dressed in the black tunic of an Epsilon-Minus Semi-Moron. “Roof.” He flung open the gates. The warm glory of afternoon sunlight made him start and blink his eyes. “Oh, roof!” he repeated in a voice of rapture. He was as though suddenly and joyfully awakened from a dark annihilating stupor. “Roof.” He smiled up with a kind of doggily expectant adoration into the faces of his passengers. Talking and laughing together, they stepped out into the light. The liftman looked after them.
 
 Benito was notoriously good-natured. People said of him that he could have got through life without ever touching soma . The malice and bad tempers from which other people had to take holidays never afflicted him. Reality for Benito was always sunny.
@@ -121,7 +123,7 @@ Like the vague torsos of fabulous athletes, huge fleshy clouds lolled on the blu
 
 Henry pushed at a lever; there was a click. Slowly at first, then faster and faster, till it was a circular mist before their eyes, the propeller in front of them began to revolve. The wind of a horizontal speed whistled ever more shrilly in the stays. Henry kept his eye on the revolution-counter; when the needle touched the twelve hundred mark, he threw the helicopter screws out of gear. The machine had enough forward momentum to be able to fly on its planes.
 
-## Chapter 5
+### Part 2
 
 Those who meant well behaved in the same way as those who meant badly.
 
@@ -143,7 +145,9 @@ Words can be like X-rays, if you use them properly—they’ll go through anythi
 
 Can you say something about nothing?
 
-## Chapter 6
+## Chapter 5
+
+### Part 1
 
 “Phosphorous recovery,” explained Henry telegraphically. “On their way up the chimney the gases go through four separate treatments. P 2 O 5 used to go right out of circulation every time they cremated some one. Now they recover over ninety-eight per cent of it. More than a kilo and a half per adult corpse. Which makes the best part of four hundred tons of phosphorous every year from England alone.” Henry spoke with a happy pride, rejoicing wholeheartedly in the achievement, as though it had been his own. “Fine to think we can go on being socially useful even after we’re dead. Making plants grow.”
 
@@ -157,8 +161,7 @@ Can you say something about nothing?
 
 Lenina and Henry were yet dancing in another world—the warm, the richly coloured, the infinitely friendly world of _soma_-holiday.
 
-
-## Chapter 7
+### Part 2
 
 The group was now complete, the solidarity circle perfect and without flaw. Man, woman, man, in a ring of endless alternation round the table. Twelve of them ready to be made one, waiting to come together, to be fused, to lose their twelve separate identities in a larger being.
 
@@ -174,7 +177,9 @@ The sense of the Coming’s imminence was like an electric tension in the air...
 
 “Wasn’t it simply wonderful?” She looked at Bernard... ...“Yes, I thought it was wonderful,” he lied and looked away; the sight of her transfigured face was at once an accusation and an ironical reminder of his own separateness... ...“Quite wonderful,” he repeated; but the only thing he could think of was Morgana’s eyebrow.
 
-## Chapter 8
+## Chapter 6
+
+### Part 1
 
 “You can’t teach a rhinoceros tricks,”
 
@@ -192,7 +197,7 @@ Some men are almost rhinoceroses; they don’t respond properly to conditioning.
 
 “It suddenly struck me the other day,” continued Bernard, “that it might be possible to be an adult all the time.” “I don’t understand.” Lenina’s tone was firm. “I know you don’t. And that’s why we went to bed together yesterday—like infants—instead of being adults and waiting.” “But it was fun,” Lenina insisted. “Wasn’t it?”
 
-## Chapter 9
+### Part 2
 
 “I had the same idea as you,” the Director was saying. “Wanted to have a look at the savages. Got a permit for New Mexico and went there for my summer holiday. With the girl I was having at the moment. She was a Beta-Minus, and I think” (he shut his eyes), “I think she had yellow hair. Anyhow she was pneumatic, particularly pneumatic; I remember that.
 
@@ -204,7 +209,7 @@ And this confidence was the greater for his not for a moment really believing th
 
 He looked at Helmholtz Watson expectantly, awaiting his due reward of sympathy, encouragement, admiration. But no word came. Helmholtz sat silent, staring at the floor. He liked Bernard... ...Nevertheless, there were things in Bernard which he hated... ...suddenly Bernard blushed and turned away.
 
-## Chapter 10
+### Part 3
 
 The synthetic music plant was working as they entered the hall and left nothing to be desired.
 
@@ -220,6 +225,55 @@ The synthetic music plant was working as they entered the hall and left nothing 
 
 “Back to-morrow. And remember,” he added reassuringly to Lenina, “they’re perfectly tame; savages won’t do you any harm. They’ve got enough experience of gas bombs to know that they mustn’t play any tricks.” Still laughing, he threw the helicopter screws into gear, accelerated, and was gone.
 
+## Chapter 7
+
+The pueblo of Malpais. Block above block, each story smaller than the one below, the tall houses rose like stepped and amputated pyramids into the blue sky. At their feet lay a straggle of low buildings, a criss-cross of walls; and on three sides the precipices fell sheer into the plain.
+
+Up there, in Malpais, the drums were being beaten. Their feet fell in with the rhythm of that mysterious heart.
+
+They walked along for some way in the shadow of the mesa, rounded a projection, and there, in a water-worn ravine, was the way up the companion ladder. They climbed. It was a very steep path that zigzagged from side to side of the gully. Sometimes the pulsing of the drums was all but inaudible, at others they seemed to be beating only just round the corner.
+
+A padding of soft feet made them turn round. Naked from throat to navel, their dark brown bodies painted with white lines (“like asphalt tennis courts,” Lenina was later to explain), their faces inhuman with daubings of scarlet, black and ochre, two Indians came running along the path.
+
+They came on without a word, running quietly in their deerskin moccasins. One of them was holding a feather brush; the other carried, in either hand, what looked at a distance like three or four pieces of thick rope. One of the ropes writhed uneasily, and suddenly Lenina saw that they were snakes.
+
+An almost naked Indian was very slowly climbing down the ladder... ...His body was bent and emaciated to the bone, almost flesh-less. Very slowly he came down, pausing at each rung before he ventured another step. “What’s the matter with him?” whispered Lenina. Her eyes were wide with horror and amazement. “He’s old, that’s all,” Bernard answered as carelessly as he could. He too was startled; but he made an effort to seem unmoved. “Old?” she repeated. “But the Director’s old; lots of people are old; they’re not like that.” “That’s because we don’t allow them to be like that. We preserve them from diseases. We keep their internal secretions artificially balanced at a youthful equilibrium. We don’t permit their magnesium-calcium ratio to fall below what it was at thirty. We give them transfusion of young blood. We keep their metabolism permanently stimulated. So, of course, they don’t look like that. Partly,” he added, “because most of them die long before they reach this old creature’s age. Youth almost unimpaired till sixty, and then, crack! the end.”
+
+“But it’s terrible,” Lenina whispered. “It’s awful. We ought not to have come here.” She felt in her pocket for her soma —only to discover that, by some unprecedented oversight, she had left the bottle down at the rest-house. Bernard’s pockets were also empty. Lenina was left to face the horrors of Malpais unaided.
+
+“What a wonderfully intimate relationship,” he said, deliberately outrageous. “And what an intensity of feeling it must generate! I often think one may have missed something in not having had a mother. And perhaps you’ve missed something in not being a mother, Lenina.
+
+They stepped across the threshold and found themselves on a wide terrace. Below them, shut in by the tall houses, was the village square, crowded with Indians. Bright blankets, and feathers in black hair, and the glint of turquoise, and dark skins shining with heat. Lenina put her handkerchief to her nose again. In the open space at the centre of the square were two circular platforms of masonry and trampled clay— the roofs, it was evident, of underground chambers; for in the centre of each platform was an open hatchway, with a ladder emerging from the lower darkness. A sound of subterranean flute playing came up and was almost lost in the steady remorseless persistence of the drums.
+
+Queer—yes. The place was queer, so was the music, so were the clothes and the goitres and the skin diseases and the old people. But the performance itself—there seemed to be nothing specially queer about that.
+
+For suddenly there had swarmed up from those round chambers underground a ghastly troop of monsters. Hideously masked or painted out of all semblance of humanity, they had tramped out a strange limping dance round the square; round and again round, singing as they went, round and round—each time a little faster; and the drums had changed and quickened their rhythm, so that it became like the pulsing of fever in the ears;
+
+He tossed the snakes to the first-comers, then dipped back into the chest for more. More and more, black snakes and brown and mottled—he flung them out. And then the dance began again on a different rhythm. Round and round they went with their snakes, snakily, with a soft undulating movement at the knees and hips. Round and round.
+
+The old man clapped his hands. Naked but for a white cotton breech-cloth, a boy of about eighteen stepped out of the crowd and stood before him, his hands crossed over his chest, his head bowed. The old man made the sign of the cross over him and turned away. Slowly, the boy began to walk round the writhing heap of snakes.
+
+The coyote-man raised his whip... ...The coyote struck again, again; and at every blow at first a gasp, and then a deep groan went up from the crowd. The boy walked. Twice, thrice, four times round he went. The blood was streaming... ...Bending over him, the old man touched his back with a long white feather, held it up for a moment, crimson, for the people to see, then shook it thrice over the snakes... ...The dancers rushed forward, picked up the snakes and ran out of the square... ...A minute later the square was empty, only the boy remained, prone where he had fallen, quite still.
+
+There was the sound of feet in the inner room. Lenina did not move, but sat with her face in her hands, unseeing, apart. Only Bernard turned round. The dress of the young man who now stepped out on to the terrace was Indian; but his plaited hair was straw-coloured, his eyes a pale blue, and his skin a white skin, bronzed. “Hullo. Good-morrow,” said the stranger... ...Astonishment made Lenina forget the deprivation of soma . She uncoverd her face and, for the first time, looked at the stranger. “Do you mean to say that you wanted to be hit with that whip?” Still averted from her, the young man made a sign of affirmation. “For the sake of the pueblo—to make the rain come and the corn grow. And to please Pookong and Jesus. And then to show that I can bear pain without crying out. Yes,”
+
+Bernard’s questions made a diversion. Who? How? When? From where? Keeping his eyes fixed on Bernard’s face (for so passionately did he long to see Lenina smiling that he simply dared not look at her), the young man tried to explain himself. Linda and he—Linda was his mother (the word made Lenina look uncomfortable)—were strangers in the Reservation. Linda had come from the Other Place long ago, before he was born, with a man who was his father. (Bernard pricked up his ears.) She had gone walking alone in those mountains over there to the North, had fallen down a steep place and hurt her head. (“Go on, go on,” said Bernard excitedly.) Some hunters from Malpais had found her and brought her to the pueblo. As for the man who was his father, Linda had never seen him again. His name was Tomakin. (Yes, “Thomas” was the D.H.C.’s first name.) He must have flown away, back to the Other Place, away without her—a bad, unkind, unnatural man. “And so I was born in Malpais,” he concluded. “In Malpais.”
+
+The door opened. A very stout blonde squaw stepped across the threshold and stood looking at the strangers, staring incredulously... ...It was worse than the old man. So fat. And all the lines in her face, the flabbiness, the wrinkles. And the sagging cheeks, with those purplish blotches... ...“Oh, my dear, my dear.” The torrent of words flowed sobbingly. “If you knew how glad—after all these years! A civilized face. Yes, and civilized clothes. Because I thought I should never see a piece of real acetate silk again.”... ...And I _was_ so ashamed. Just think of it: me, a Beta—having a baby: put yourself in my place.”
+
+Besides, it never used to be right to mend clothes. Throw them away when they’ve got holes in them and buy new. ‘The more stitches, the less riches.’ Isn’t that right? Mending’s anti-social. But it’s all different here. It’s like living with lunatics.
+
+“nobody’s supposed to belong to more than one person. And if you have people in the ordinary way, the others think you’re wicked and anti-social. They hate and despise you. Once a lot of women came and made a scene because their men came to see me. Well, why not? And then they rushed at me … No, it was too awful. I can’t tell you about it.”
+
+So they’re having children all the time—like dogs. It’s too revolting.
+
+There’s so much one doesn’t know; it wasn’t my business to know. I mean, when a child asks you how a helicopter works or who made the world—well, what are you to answer if you’re a Beta and have always worked in the Fertilizing Room? What _are_ you to answer?”
+
+## Chapter 8
+
+## Chapter 9
+
+## Chapter 10
 
 
 ## Chapter 11
