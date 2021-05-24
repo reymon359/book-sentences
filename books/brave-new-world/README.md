@@ -271,6 +271,46 @@ There’s so much one doesn’t know; it wasn’t my business to know. I mean, w
 
 ## Chapter 8
 
+“So hard for me to realize,” Bernard was saying, “to reconstruct. As though we were living on different planets, in different centuries. A mother, and all this dirt, and gods, and old age, and disease …” He shook his head. “It’s almost inconceivable. I shall never understand, unless you explain.” “Explain what?” “This.” He indicated the pueblo. “That.” And it was the little house outside the village. “Everything. All your life.” “But what is there to say?” “From the beginning. As far back as you can remember.” “As far back as I can remember.” John frowned. There was a long silence.
+
+Linda put her hand on him and he felt safer. In those other words he did not understand so well, she said to the man, “Not with John here.” The man looked at him, then again at Linda, and said a few words in a soft voice. Linda said, “No.”
+
+Suddenly people started talking very loud, and there were the women pushing Linda away, and Linda was crying. She went to the door and he ran after her. He asked her why they were angry. “Because I broke something,” she said. And then she got angry too. “How should I know how to do their beastly weaving?” she said. “Beastly savages.” He asked her what savages were.
+
+Popé used to come often. He said the stuff in the gourd was called _mescal;_ but Linda said it ought to be called _soma;_ only it made you feel ill afterwards.
+
+“But why did they want to hurt you, Linda?” he asked that night. He was crying, because the red marks of the whip on his back still hurt so terribly. But he was also crying because people were so beastly and unfair, and because he was only a little boy and couldn’t do anything against them. Linda was crying too. She was grown up, but she wasn’t big enough to fight against three of them. It wasn’t fair for her either. “Why did they want to hurt you, Linda?” “I don’t know. How should I know?” It was difficult to hear what she said, because she was lying on her stomach and her face was in the pillow. “They say those men are _their_ men,”
+
+she pushed him away, hard. His head banged against the wall. “Little idiot!” she shouted; and then, suddenly, she began to slap him. Slap, slap … “Linda,” he cried out. “Oh, mother, don’t!” “I’m not your mother. I won’t be your mother.” “But, Linda … Oh!” She slapped him on the cheek. “Turned into a savage,” she shouted. “Having young ones like an animal … If it hadn’t been for you, I might have gone to the Inspector, I might have got away. But not with a baby. That would have been too shameful.” He saw that she was going to hit him again, and lifted his arm to guard his face. “Oh, don’t, Linda, please don’t.” “Little beast!” She pulled down his arm; his face was uncovered. “Don’t, Linda.” He shut his eyes, expecting the blow. But she didn’t hit him. After a little time, he opened his eyes again and saw that she was looking at him. He tried to smile at her. Suddenly she put her arms round him and kissed him again and again.
+
+The happiest times were when she told him about the Other Place. “And you really can go flying, whenever you like?” “Whenever you like.”
+
+One of the old men of the pueblo would talk to them, in those other words, of the great Transformer of the World, and of the long fight between Right Hand and Left Hand, between Wet and Dry;
+
+Lying in bed, he would think of Heaven and London and Our Lady of Acoma and the rows and rows of babies in clean bottles and Jesus flying up and Linda flying up and the great Director of World hatcheries and Awonawilona.
+
+Linda taught him to read. With a piece of charcoal she drew pictures on the wall—an animal sitting down, a baby inside a bottle; then she wrote letters. THE CAT IS ON THE MAT. THE TOT IS IN THE POT. He learned quickly and easily.
+
+He began reading. _The Chemical and Bacteriological Conditioning of the Embryo. Practical Instructions for Beta Embryo-Store Workers._ It took him a quarter of an hour to read the title alone. He threw the book on the floor. “Beastly, beastly book!” he said, and began to cry.
+
+“What are chemicals?” he would ask. “Oh, stuff like magnesium salts, and alcohol for keeping the Deltas and Epsilons small and backward, and calcium carbonate for bones, and all that sort of thing.” “But how do you make chemicals, Linda? Where do they come from?” “Well, I don’t know. You get them out of bottles. And when the bottles are empty, you send up to the Chemical Store for more. It’s the Chemical Store people who make them, I suppose. Or else they send to the factory for them. I don’t know. I never did any chemistry. My job was always with the embryos.”
+
+One day... ...he came home and found a book that he had never seen before lying on the floor in the bedroom. It was a thick book and looked very old... ...He picked it up, looked at the title-page: the book was called The Complete Works of William Shakespeare . Linda was lying on the bed, sipping that horrible stinking mescal out of a cup. “Popé brought it,” she said. Her voice was thick and hoarse like somebody else’s voice. “It was lying in one of the chests of the Antelope Kiva. It’s supposed to have been there for hundreds of years. I expect it’s true, because I looked at it, and it seemed to be full of nonsense. Uncivilized. Still, it’ll be good enough for you to practise your reading on.”
+
+Somehow it was as though he had never really hated Popé before; never really hated him because he had never been able to say how much he hated him. But now he had these words,
+
+“I’ll kill him, I’ll kill him, I’ll kill him,” he kept saying. And suddenly there were more words. _When he is drunk asleep, or in his rage Or in the incestuous pleasure of his bed..._ The magic was on his side, the magic explained and gave orders.
+
+He ran across the room and stabbed—oh, the blood!—stabbed again, as Popé heaved out of his sleep, lifted his hand to stab once more, but found his wrist caught, held and—oh, oh!—twisted. He couldn’t move, he was trapped, and there were Popé’s small black eyes, very close, staring into his own... ...he couldn’t help it—he began to cry. Popé burst out laughing. “Go,” he said, in the other Indian words. “Go, my brave Ahaiyuta.” He ran out into the other room to hide his tears. “You are fifteen,” said old Mitsima, in the Indian words. “Now I may teach you to work the clay.”
+
+“Next winter,” said old Mitsima, “I will teach you to make the bow.”
+
+Kiakimé did the same. Then Kiakimé’s father stepped forward, and holding up a feathered prayer stick, made a long prayer, then threw the stick after the corn meal. “It is finished,” said old Mitsima in a loud voice. “They are married.”... ...It is finished. Old Mitsima’s words repeated themselves in his mind. Finished, finished … In silence and from a long way off, but violently, desperately, hopelessly, he had loved Kiakimé. And now it was finished. He was sixteen.
+
+At the full moon, in the Antelope Kiva, secrets would be told, secrets would be done and borne. They would go down, boys, into the kiva and come out again, men... ...This time the man struck him, pulled his hair. “Not for you, white-hair!” “Not for the son of the she-dog,” said one of the other men. The boys laughed. “Go!” And as he still hovered on the fringes of the group, “Go!” the men shouted again. One of them bent down, took a stone, threw it. “Go, go, go!” There was a shower of stones... ...but it was not for pain that he sobbed; it was because he was all alone, because he had been driven out, alone,
+
+He had discovered Time and Death and God.
+
 ## Chapter 9
 
 ## Chapter 10
