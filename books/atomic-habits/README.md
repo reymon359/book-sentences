@@ -716,15 +716,39 @@ The more tightly bound your new habit is to a specific cue, the better the odds 
 The 1st Law of Behavior Change is to _make it obvious._ Strategies like implementation intentions and habit stacking are among the most practical ways to create obvious cues for your habits and design a clear plan for when and where to take action.
 
 Chapter Summary:
--The 1st Law of Behavior Change is make it obvious .
--The two most common cues are time and location.
--Creating an implementation intention is a strategy you can use to pair a new habit with a specific time and location.
--The implementation intention formula is: I will [BEHAVIOR] at [TIME] in [LOCATION].
--Habit stacking is a strategy you can use to pair a new habit with a current habit.
--The habit stacking formula is: After [CURRENT HABIT], I will [NEW HABIT].
-
+- The 1st Law of Behavior Change is make it obvious .
+- The two most common cues are time and location.
+- Creating an implementation intention is a strategy you can use to pair a new habit with a specific time and location.
+- The implementation intention formula is: I will [BEHAVIOR] at [TIME] in [LOCATION].
+- Habit stacking is a strategy you can use to pair a new habit with a current habit.
+- The habit stacking formula is: After [CURRENT HABIT], I will [NEW HABIT].
 
 ## 6 Motivation is Overrated; Environment Often Matters More
+
+ANNE THORNDIKE, A primary care physician at Massachusetts General Hospital in Boston, had a crazy idea. 1 She believed she could improve the eating habits of thousands of hospital staff and visitors without changing their willpower or motivation in the slightest way. In fact, she didn’t plan on talking to them at all. Thorndike and her colleagues designed a six-month study to alter the “choice architecture” of the hospital cafeteria. They started by changing how drinks were arranged in the room.
+
+![Figure 6](./figure.jpg)
+
+FIGURE 8: Here is a representation of what the cafeteria looked like before the environment design changes were made (left) and after (right). The shaded boxes indicate areas where bottled water was available in each instance. Because the amount of water in the environment was increased, behavior shifted naturally and without additional motivation.
+
+People often choose products not because of _what_ they are, but because of _where_ they are.
+
+Your habits change depending on the room you are in and the cues in front of you.
+
+Environment is the invisible hand that shapes human behavior. 
+
+Despite our unique personalities, certain behaviors tend to arise again and again under certain environmental conditions.
+
+The most common form of change is not internal, but external: we are changed by the world around us. Every habit is context dependent.
+
+> Behavior is a function of the Person in their Environment, or B = f (P,E)
+> - Psychologist Kurt Lewin, 1936
+
+In 1952, the economist Hawkins Stern described a phenomenon he called _Suggestion Impulse Buying,_ which “is triggered when a shopper sees a product for the first time and visualizes a need for it.” 4 In other words, customers will occasionally buy products not because they _want_ them but because of how they are _presented_ to them.
+
+The more obviously available a product or service is, the more likely you are to try it.
+
+We like to think that we are in control... ...The truth, however, is that many of the actions we take each day are shaped not by purposeful drive and choice but by the most obvious option.
 
 
 ## 7 The Secret to Self-Control
