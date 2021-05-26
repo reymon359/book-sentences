@@ -834,3 +834,5 @@ We like to think that we are in control... ...The truth, however, is that many o
 
 ## Copyright
 
+TODO: Add stuff from here https://jamesclear.com/atomic-habits/resources
+
