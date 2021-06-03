@@ -827,8 +827,64 @@ Chapter Summary:
 
 ## 7 The Secret to Self-Control
 
+This finding contradicted the prevailing view at the time, which considered heroin addiction to be a permanent and irreversible condition. Instead, Robins revealed that addictions could spontaneously dissolve if there was a radical change in the environment... ...Once a soldier returned to the United States, though, he found himself in an environment devoid of those triggers. When the context changed, so did the habit.
 
+Typically, 90 percent of heroin users become re-addicted once they return home from rehab.
 
+If you’re overweight, a smoker, or an addict, you’ve been told your entire life that it is because you lack self-control—maybe even that you’re a bad person. The idea that a little bit of discipline would solve all our problems is deeply embedded in our culture.
+
+“disciplined” people are better at structuring their lives in a way that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations.
+
+The people with the best self-control are typically the ones who need to use it the least. 
+
+It’s easier to practice self-restraint when you don’t have to use it very often.
+
+The way to improve... ...is not by wishing you were a more disciplined person, but by creating a more disciplined environment.
+
+A habit that has been encoded in the mind is ready to be used whenever the relevant situation arises.
+
+Once a habit has been encoded, the urge to act follows whenever the environmental cues reappear.
+
+Showing pictures of blackened lungs to smokers leads to higher levels of anxiety, which drives many people to reach for a cigarette. If you’re not careful about cues, you can cause the very behavior you want to stop.
+
+Bad habits are autocatalytic: the process feeds itself. They foster the feelings they try to numb.
+
+Worrying about your health makes you feel anxious, which causes you to smoke to ease your anxiety, which makes your health even worse and soon you’re feeling more anxious.
+
+“cue-induced wanting”: an external trigger causes a compulsive craving to repeat a bad habit. Once you _notice_ something, you begin to _want_ it.
+
+Scientists have found that showing addicts a picture of cocaine for just thirty-three milliseconds stimulates the reward pathway in the brain and sparks desire.
+
+You can break a habit, but you’re unlikely to forget it. Once the mental grooves of habit have been carved into your brain, they are nearly impossible to remove entirely—even if they go unused for quite a while.
+
+Simply resisting temptation is an ineffective strategy.
+
+In the short-run, you can choose to overpower temptation. In the long-run, we become a product of the environment that we live in.
+
+I have never seen someone consistently stick to positive habits in a negative environment.
+
+One of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it.
+
+This practice is an inversion of the 1st Law of Behavior Change. Rather than _make it obvious,_ you can _make it invisible._
+
+Self-control is a short-term strategy, not a long-term one. You may be able to resist temptation once or twice, but it’s unlikely you can muster the willpower to override your desires every time. 
+
+Instead of summoning a new dose of willpower whenever you want to do the right thing, your energy would be better spent optimizing your environment.
+
+The secret to self-control. Make the cues of your good habits obvious and the cues of your bad habits invisible.
+
+Chapter Summary
+- The inversion of the 1st Law of Behavior Change is make it invisible. 
+- Once a habit is formed, it is unlikely to be forgotten. 
+- People with high self-control tend to spend less time in tempting situations. It’s easier to avoid temptation than resist it. 
+- One of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it. 
+- Self-control is a short-term strategy, not a long-term one.
+
+![How to create a Good Habit](./how_to_create_a_good_habit.jpg)
+
+![How to break a Bad Habit](./how_to_break_a_bad_habit.jpg)
+
+You can download a printable version of this habits cheat sheet at: atomichabits.com/cheatsheet
 
 ## The 2nd Law Make It Attractive
 
