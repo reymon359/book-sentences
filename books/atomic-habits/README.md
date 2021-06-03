@@ -967,4 +967,5 @@ You can download a printable version of this habits cheat sheet at: http://atomi
 ## Copyright
 
 TODO: Add stuff from here https://jamesclear.com/atomic-habits/resources
+and here https://jamesclear.com/atomic-habits/endnotes
 
