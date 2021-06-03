@@ -884,7 +884,7 @@ Chapter Summary
 
 ![How to break a Bad Habit](./how_to_break_a_bad_habit.jpg)
 
-You can download a printable version of this habits cheat sheet at: atomichabits.com/cheatsheet
+You can download a printable version of this habits cheat sheet at: http://atomichabits.com/cheatsheet
 
 ## The 2nd Law Make It Attractive
 
