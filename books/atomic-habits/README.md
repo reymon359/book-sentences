@@ -750,8 +750,84 @@ The more obviously available a product or service is, the more likely you are to
 
 We like to think that we are in control... ...The truth, however, is that many of the actions we take each day are shaped not by purposeful drive and choice but by the most obvious option.
 
+Snakes can smell by “tasting the air” with their highly sensitive tongues.
+
+In humans, perception is directed by the sensory nervous system. We perceive the world through sight, sound, smell, touch, and taste. But we also have other ways of sensing stimuli. Some are conscious, but many are nonconscious.
+
+The most powerful of all human sensory abilities, however, is vision. The human body has about eleven million sensory receptors. Approximately ten million of those are dedicated to sight. Some experts estimate that half of the brain’s resources are used on vision.
+
+Visual cues are the greatest catalyst of our behavior.
+
+A small change in what you _see_ can lead to a big shift in what you _do._
+
+Live and work in environments that are filled with productive cues and devoid of unproductive ones.
+
+You don’t have to be the victim of your environment. You can also be the architect of it.
+
+### HOW TO DESIGN YOUR ENVIRONMENT FOR SUCCESS
+
+Every habit is initiated by a cue, and we are more likely to notice cues that stand out.
+
+Unfortunately, the environments where we live and work often make it easy not to do certain actions because there is no obvious cue to trigger the behavior. It’s easy not to practice the guitar when it’s tucked away in the closet. It’s easy not to read a book when the bookshelf is in the corner of the guest room... ...When the cues that spark a habit are subtle or hidden, they are easy to ignore.
+
+Creating obvious visual cues can draw your attention toward a desired habit.
+
+In the early 1990s, the cleaning staff at Schiphol Airport in Amsterdam installed a small sticker that looked like a fly near the center of each urinal. Apparently, when men stepped up to the urinals, they aimed for what they thought was a bug. The stickers improved their aim and significantly reduced “spillage” around the urinals. Further analysis determined that the stickers cut bathroom cleaning costs by 8 percent per year.
+
+If you want to make a habit a big part of your life, make the cue a big part of your environment.
+
+Make sure the best choice is the most obvious one. Making a better decision is easy and natural when the cues for good habits are right in front of you.
+
+Most people live in a world others have created for them. But you can alter the spaces where you live and work to increase your exposure to positive cues and reduce your exposure to negative ones.
+
+Become the architect of your life. Be the designer of your world and not merely the consumer of it.
+
+### THE CONTEXT IS THE CUE
+
+The cues that trigger a habit can start out very specific, but over time your habits become associated not with a single trigger but with the entire _context_ surrounding the behavior.
+
+Many people drink more in social situations than they would ever drink alone. The trigger is rarely a single cue, but rather the whole situation: watching your friends order drinks, hearing the music at the bar, seeing the beers on tap.
+
+Each location develops a connection to certain habits and routines.
+
+Our behavior is not defined by the objects in the environment but by our relationship to them.
+
+Stop thinking about your environment as filled with objects. Start thinking about it as filled with relationships.
+
+In one study, scientists instructed insomniacs to get into bed only when they were tired. If they couldn’t fall asleep, they were told to sit in a different room until they became sleepy. Over time, subjects began to associate the context of their bed with the action of sleeping, and it became easier to quickly fall asleep when they climbed in bed. Their brains learned that sleeping—not browsing on their phones, not watching television, not staring at the clock—was the only action that happened in that room.
+
+Habits can be easier to change in a new environment. It helps to escape the subtle triggers and cues that nudge you toward your current habits.
+
+When you step outside your normal environment, you leave your behavioral biases behind. You aren’t battling old environmental cues, which allows new habits to form without interruption.
+
+Want to think more creatively?... ...Take a break from the space where you do your daily work, which is also linked to your current thought patterns.
+
+When you can’t manage to get to an entirely new environment, redefine or rearrange your current one.
+
+“One space, one use.”
+
+It was easier for me to turn off the professional side of my brain when there was a clear dividing line between work life and home life. Each room had one primary use.
+
+Whenever possible, avoid mixing the context of one habit with another. When you start mixing contexts, you’ll start mixing habits—and the easier ones will usually win out.
+
+When you can use your phone to do nearly anything, it becomes hard to associate it with one task. You want to be productive, but you’re also conditioned to browse social media,
+
+If your space is limited, divide your room into activity zones: a chair for reading, a desk for writing, a table for eating.
+
+Every habit should have a home.
+
+If you want behaviors that are stable and predictable, you need an environment that is stable and predictable.
+
+Chapter Summary:
+- Small changes in context can lead to large changes in behavior over time.
+- Every habit is initiated by a cue. We are more likely to notice cues that stand out. 
+- Make the cues of good habits obvious in your environment. 
+- Gradually, your habits become associated not with a single trigger but with the entire context surrounding the behavior. The context becomes the cue. 
+- It is easier to build new habits in a new environment because you are not fighting against old cues.
 
 ## 7 The Secret to Self-Control
+
+
 
 
 ## The 2nd Law Make It Attractive
