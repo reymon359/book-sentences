@@ -727,7 +727,7 @@ Chapter Summary:
 
 ANNE THORNDIKE, A primary care physician at Massachusetts General Hospital in Boston, had a crazy idea. 1 She believed she could improve the eating habits of thousands of hospital staff and visitors without changing their willpower or motivation in the slightest way. In fact, she didn’t plan on talking to them at all. Thorndike and her colleagues designed a six-month study to alter the “choice architecture” of the hospital cafeteria. They started by changing how drinks were arranged in the room.
 
-![Figure 6](./figure.jpg)
+![Figure 8](./figure8.jpg)
 
 FIGURE 8: Here is a representation of what the cafeteria looked like before the environment design changes were made (left) and after (right). The shaded boxes indicate areas where bottled water was available in each instance. Because the amount of water in the environment was increased, behavior shifted naturally and without additional motivation.
 
