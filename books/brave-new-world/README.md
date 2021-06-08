@@ -311,6 +311,18 @@ At the full moon, in the Antelope Kiva, secrets would be told, secrets would be 
 
 He had discovered Time and Death and God.
 
+“Alone, always alone,” the young man was saying. The words awoke a plaintive echo in Bernard’s mind. Alone, alone … “So am I,” he said, on a gush of confiding-ness. “Terribly alone.” “Are you?” John looked surprised. “I thought that in the Other Place … I mean, Linda always said that nobody was ever alone there.”
+
+If one’s different, one’s bound to be lonely.
+
+“I wanted to know what it was like being crucified. Hanging there in the sun …” “But why?” “Why? Well …” He hesitated. “Because I felt I ought to. If Jesus could stand it. And then, if one has done something wrong … Besides, I was unhappy; that was another reason.” “It seems a funny way of curing your unhappiness,” said Bernard. But on second thoughts he decided that there was, after all, some sense in it. Better than taking soma...
+
+“I wonder if you’d like to come back to London with us?” he asked, making the first move in a campaign whose strategy he had been secretly elaborating ever since, in the little house, he had realized who the “father” of this young savage must be. “Would you like that?” The young man’s face lit up. “Do you really mean it?” “Of course; if I can get permission, that is.”
+
+Was saying; and his eyes shone, his face was brightly flushed. “How many goodly creatures are there here! How beauteous mankind is!” The flush suddenly deepened; he was thinking of Lenina,
+
+“O brave new world,” he began, then suddenly interrupted himself; the blood had left his cheeks; he was as pale as paper. “Are you married to her?” he asked. “Am I what?” “Married. You know—for ever. They say ‘for ever’ in the Indian words; it can’t be broken.” “Ford, no!” Bernard couldn’t help laughing. John also laughed, but for another reason—laughed for pure joy. “O brave new world,” he repeated. “O brave new world that has such people in it. Let’s start at once.” “You have a most peculiar way of talking sometimes,” said Bernard, staring at the young man in perplexed astonishment. “And, anyhow, hadn’t you better wait till you actually see the new world?”
+
 ## Chapter 9
 
 ## Chapter 10
