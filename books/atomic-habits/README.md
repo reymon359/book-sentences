@@ -888,6 +888,8 @@ You can download a printable version of this habits cheat sheet at: http://atomi
 
 ## The 2nd Law Make It Attractive
 
+## 8 How to Make a Habit Irresistible
+
 IN THE 1940S, a Dutch scientist named Niko Tinbergen performed a series of experiments that transformed our understanding of what motivates us... ...investigating herring gulls... ...Adult herring gulls have a small red dot on their beak, and Tinbergen noticed that newly hatched chicks would peck this spot whenever they wanted food... ...Eventually, he created a beak with three large red dots on it. When he placed it over the nest, the baby birds went crazy with delight. They pecked at the little red patches as if it was the greatest beak they had ever seen.
 
 Like the baby gulls automatically pecking at red dots, the greylag goose was following an instinctive rule: _When I see a round object nearby, I must roll it back into the nest. The bigger the round object, the harder I should try to get it._
@@ -965,11 +967,100 @@ Chapter Summary
 - It is the anticipation of a reward—not the fulfillment of it—that gets us to take action. The greater the anticipation, the greater the dopamine spike. 
 - Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do.
 
-## 8 How to Make a Habit Irresistible
-
-
 ## 9 The Role of Family and Friends in Shaping Your Habits
 
+> “A genius is not born, but is educated and trained.”
+> - Laszlo Polgar
+
+Laszlo decided chess would be a suitable field for the experiment, and he laid out a plan to raise his children to become chess prodigies. The kids would be home-schooled, a rarity in Hungary at the time. The house would be filled with chess books and pictures of famous chess players. The children would play against each other constantly and compete in the best tournaments they could find. The family would keep a meticulous file system of the tournament history of every competitor the children faced. Their lives would be dedicated to chess. Laszlo successfully courted Klara, and within a few years, the Polgars were parents to three young girls: Susan, Sofia, and Judit... ...The childhood of the Polgar sisters was atypical, to say the least. And yet, if you ask them about it, they claim their lifestyle was attractive, even enjoyable... ...The Polgar sisters grew up in a culture that prioritized chess above all else—praised them for it, rewarded them for it. In their world, an obsession with chess was normal. And as we are about to see, whatever habits are normal in your culture are among the most attractive behaviors you’ll find.
+
+### THE SEDUCTIVE PULL OF SOCIAL NORMS
+
+Humans are herd animals. We want to fit in, to bond with others, and to earn the respect and approval of our peers. Such inclinations are essential to our survival.
+
+> “In the long history of humankind, those who learned to collaborate and improvise most effectively have prevailed.”
+> - Charles Darwin
+
+We don’t choose our earliest habits, we imitate them.
+
+We follow the script handed down by our friends and family, our church or school, our local community and society at large. Each of these cultures and groups comes with its own set of expectations and standards—when and whether to get married, how many children to have, which holidays to celebrate, how much money to spend on your child’s birthday party.
+
+> “The customs and practices of life in society sweep us along.”
+> - Michel de Montaigne
+
+Most of the time, going along with the group does not feel like a burden. Everyone wants to belong.
+
+Behaviors are attractive when they help us fit in.
+
+We imitate the habits of three groups in particular:
+
+1. The close.
+2. The many.
+3. The powerful.
+
+### 1. Imitating the Close
+
+Proximity has a powerful effect on our behavior. This is true of the physical environment, as we discussed in Chapter 6 , but it is also true of the social environment. We pick up habits from the people around us.
+
+In college, I began to talk like my roommates. When traveling to other countries, I unconsciously imitate the local accent despite reminding myself to stop.
+
+The closer we are to someone, the more likely we are to imitate some of their habits.
+
+“A person’s chances of becoming obese increased by 57 percent if he or she had a friend who became obese.”
+
+Our friends and family provide a sort of invisible peer pressure that pulls us in their direction.
+
+One study found that the higher your best friend’s IQ at age eleven or twelve, the higher your IQ would be at age fifteen, even after controlling for natural levels of intelligence.
+
+One of the most effective things you can do to build better habits is to join a culture where your desired behavior is the normal behavior. New habits seem achievable when you see others doing them every day.
+
+Surround yourself with people who have the habits you want to have yourself. You’ll rise together.
+
+Join a culture where (1) your desired behavior is the normal behavior and (2) you already have something in common with the group.
+
+Nothing sustains motivation better than belonging to the tribe. It transforms a personal quest into a shared one.
+
+Remaining part of a group after achieving a goal is crucial to maintaining your habits. It’s friendship and community that embed a new identity and help behaviors last over the long run.
+
+### 2. Imitating the Many
+
+![Figure 10](./figure10.jpg)
+
+FIGURE 10: This is a representation of two cards used by Solomon Asch in his famous social conformity experiments. The length of the line on the first card (left) is obviously the same as line C, but when a group of actors claimed it was a different length the research subjects would often change their minds and go with the crowd rather than believe their own eyes.
+
+Whenever we are unsure how to act, we look to the group to guide our behavior.
+
+We check reviews on Amazon or Yelp or TripAdvisor because we want to imitate the “best” buying, eating, and travel habits. It’s usually a smart strategy. There is evidence in numbers. But there can be a downside. The normal behavior of the tribe often overpowers the desired behavior of the individual.
+
+There is tremendous internal pressure to comply with the norms of the group. The reward of being accepted is often greater than the reward of winning an argument, looking smart, or finding truth. 
+
+Most days, we’d rather be wrong with the crowd than be right by ourselves. 
+
+The human mind knows how to get along with others. It wants to get along with others. This is our natural mode. You can override it—you can choose to ignore the group or to stop caring what other people think—but it takes work. Running against the grain of your culture requires extra effort. 
+
+When changing your habits means challenging the tribe, change is unattractive. When changing your habits means fitting in with the tribe, change is very attractive.
+
+### 3. Imitating the Powerful
+
+Humans everywhere pursue power, prestige, and status.
+
+Historically, a person with greater power and status has access to more resources, worries less about survival, and proves to be a more attractive mate.
+
+Once we fit in, we start looking for ways to stand out. This is one reason we care so much about the habits of highly effective people. We try to copy the behavior of successful people because we desire success ourselves.
+
+High-status people enjoy the approval, respect, and praise of others. And that means if a behavior can get us approval, respect, and praise, we find it attractive. 
+
+We are also motivated to avoid behaviors that would lower our status.
+
+We are continually wondering “What will others think of me?” and altering our behavior based on the answer.
+
+Chapter Summary
+- The culture we live in determines which behaviors are attractive to us. 
+- We tend to adopt habits that are praised and approved of by our culture because we have a strong desire to fit in and belong to the tribe. 
+- We tend to imitate the habits of three social groups: the close (family and friends), the many (the tribe), and the powerful (those with status and prestige). 
+- One of the most effective things you can do to build better habits is to join a culture where (1) your desired behavior is the normal behavior and (2) you already have something in common with the group. 
+- The normal behavior of the tribe often overpowers the desired behavior of the individual. Most days, we’d rather be wrong with the crowd than be right by ourselves. 
+- If a behavior can get us approval, respect, and praise, we find it attractive.
 
 ## 10 How to Find and Fix the Causes of Your Bad Habits
 
