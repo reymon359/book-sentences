@@ -888,6 +888,82 @@ You can download a printable version of this habits cheat sheet at: http://atomi
 
 ## The 2nd Law Make It Attractive
 
+IN THE 1940S, a Dutch scientist named Niko Tinbergen performed a series of experiments that transformed our understanding of what motivates us... ...investigating herring gulls... ...Adult herring gulls have a small red dot on their beak, and Tinbergen noticed that newly hatched chicks would peck this spot whenever they wanted food... ...Eventually, he created a beak with three large red dots on it. When he placed it over the nest, the baby birds went crazy with delight. They pecked at the little red patches as if it was the greatest beak they had ever seen.
+
+Like the baby gulls automatically pecking at red dots, the greylag goose was following an instinctive rule: _When I see a round object nearby, I must roll it back into the nest. The bigger the round object, the harder I should try to get it._
+
+Scientists refer to exaggerated cues as _supernormal stimuli._ A supernormal stimulus is a heightened version of reality—like a beak with three red dots or an egg the size of a volleyball—and it elicits a stronger response than usual.
+
+After spending hundreds of thousands of years hunting and foraging for food in the wild, the human brain has evolved to place a high value on salt, sugar, and fat. Such foods are often calorie-dense and they were quite rare when our ancient ancestors were roaming the savannah. When you don’t know where your next meal is coming from, eating as much as possible is an excellent strategy for survival. Today, however, we live in a calorie-rich environment. Food is abundant, but your brain continues to crave it like it is scarce. Placing a high value on salt, sugar, and fat is no longer advantageous to our health, but the craving persists because the brain’s reward centers have not changed for approximately fifty thousand years. The modern food industry relies on stretching our Paleolithic instincts beyond their evolutionary purpose.
+
+Foods that are high in dynamic contrast keep the experience novel and interesting, encouraging you to eat more.
+
+> “We’ve gotten too good at pushing our own buttons.
+> - Stephan Guyenet, a neuroscientist who specializes in eating behavior and obesity
+
+The more attractive an opportunity is, the more likely it is to become habit-forming.
+
+Society is filled with highly engineered versions of reality that are more attractive than the world our ancestors evolved in... ...These are the supernormal stimuli of our modern world. They exaggerate features that are naturally attractive to us, and our instincts go wild as a result, driving us into excessive shopping habits, social media habits, porn habits, eating habits, and many others.
+
+The trend is for rewards to become more concentrated and stimuli to become more enticing.
+
+Compared to nature, these pleasure-packed experiences are hard to resist. We have the brains of our ancestors but temptations they never had to face.
+
+While it is not possible to transform every habit into a supernormal stimulus, we can make any habit more enticing. To do this, we must start by understanding what a craving is and how it works.
+
+### THE DOPAMINE-DRIVEN FEEDBACK LOOP
+
+By implanting electrodes in the brains of rats, the researchers blocked the release of dopamine. To the surprise of the scientists, the rats lost all will to live. 10 They wouldn’t eat. They wouldn’t have sex. They didn’t crave anything. Within a few days, the animals died of thirst.
+
+Without dopamine, desire died. And without desire, action stopped.
+
+Habits are a dopamine-driven feedback loop. Every behavior that is highly habit-forming—taking drugs, eating junk food, playing video games, browsing social media—is associated with higher levels of dopamine.
+
+For years, scientists assumed dopamine was all about pleasure, but now we know it plays a central role in many neurological processes, including motivation, learning and memory, punishment and aversion, and voluntary movement.
+
+Dopamine is released not only when you _experience pleasure,_ but also when you _anticipate it._
+
+Whenever you predict that an opportunity will be rewarding, your levels of dopamine spike in anticipation. And whenever dopamine rises, so does your motivation to act.
+
+It is the anticipation of a reward—not the fulfillment of it—that gets us to take action.
+
+The reward system that is activated in the brain when you _receive_ a reward is the same system that is activated when you _anticipate_ a reward.
+
+The anticipation of an experience can often feel better than the attainment of it... ...As an adult, daydreaming about an upcoming vacation can be more enjoyable than actually being on vacation. Scientists refer to this as the difference between “wanting” and “liking.”
+
+![Figure 9](./figure9.jpg)
+
+FIGURE 9: Before a habit is learned (A), dopamine is released when the reward is experienced for the first time. The next time around (B), dopamine rises before taking action, immediately after a cue is recognized. This spike leads to a feeling of desire and a craving to take action whenever the cue is spotted. Once a habit is learned, dopamine will not rise when a reward is experienced because you already expect the reward. However, if you see a cue and expect a reward, but do not get one, then dopamine will drop in disappointment (C). The sensitivity of the dopamine response can clearly be seen when a reward is provided late (D). First, the cue is identified and dopamine rises as a craving builds. Next, a response is taken but the reward does not come as quickly as expected and dopamine begins to drop. Finally, when the reward comes a little later than you had hoped, dopamine spikes again. It is as if the brain is saying, “See! I knew I was right. Don’t forget to repeat this action next time.”
+
+Your brain has far more neural circuitry allocated for _wanting_ rewards than for _liking_ them... ...researchers have found that 100 percent of the nucleus accumbens is activated during wanting. 19 Meanwhile, only 10 percent of the structure is activated during liking.
+
+Desire is the engine that drives behavior. Every action is taken because of the anticipation that precedes it.
+
+### HOW TO USE TEMPTATION BUNDLING TO MAKE YOUR HABITS MORE ATTRACTIVE
+
+Temptation bundling works by linking an action you want to do with an action you need to do.
+
+You’re more likely to find a behavior attractive if you get to do one of your favorite things at the same time.
+
+Premack’s Principle. Named after the work of professor David Premack, the principle states that “more probable behaviors will reinforce less probable behaviors.”
+
+You can even combine temptation bundling with the habit stacking strategy.
+
+If you want to check Facebook, but you need to exercise more: 
+
+1. After I pull out my phone, I will do ten burpees (need). 
+2. After I do ten burpees, I will check Facebook (want). 
+
+The hope is that eventually you’ll look forward to... ...doing ten burpees because it means you get to read the latest sports news or check Facebook. Doing the thing you need to do means you get to do the thing you want to do.
+
+Temptation bundling is one way to create a heightened version of any habit by connecting it with something you already want.
+
+Chapter Summary
+- The 2nd Law of Behavior Change is make it attractive. 
+- The more attractive an opportunity is, the more likely it is to become habit-forming. 
+- Habits are a dopamine-driven feedback loop. When dopamine rises, so does our motivation to act. 
+- It is the anticipation of a reward—not the fulfillment of it—that gets us to take action. The greater the anticipation, the greater the dopamine spike. 
+- Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do.
 
 ## 8 How to Make a Habit Irresistible
 
