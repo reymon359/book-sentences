@@ -1064,6 +1064,96 @@ Chapter Summary
 
 ## 10 How to Find and Fix the Causes of Your Bad Habits
 
+Allen Carr’s Easy Way to Stop Smoking... ...reframes each cue associated with smoking and gives it a new meaning. He says things like:
+
+- You think you are quitting something, but you’re not quitting anything because cigarettes do nothing for you.
+- You think smoking is something you need to do to be social, but it’s not. You can be social without smoking at all.
+- You think smoking is about relieving stress, but it’s not. Smoking does not relieve your nerves, it destroys them.
+
+It is an inversion of the 2nd Law of Behavior Change: _make it unattractive._
+
+### WHERE CRAVINGS COME FROM
+
+Every behavior has a surface level craving and a deeper, underlying motive.
+
+Some of our underlying motives include: 
+- Conserve energy
+- Obtain food and water
+- Find love and reproduce
+- Connect and bond with others
+- Win social acceptance and approval
+- Reduce uncertainty
+- Achieve status and prestige
+
+A craving is just a specific manifestation of a deeper underlying motive.
+
+Your brain did not evolve with a desire to smoke cigarettes or to check Instagram or to play video games. At a deep level, you simply want to reduce uncertainty and relieve anxiety, to win social acceptance and approval, or to achieve status.
+
+Look at nearly any product that is habit-forming and you’ll see that it does not create a new motivation, but rather latches onto the underlying motives of human nature.
+ 
+Your habits are modern-day solutions to ancient desires.
+
+There are many different ways to address the same underlying motive. One person might learn to reduce stress by smoking a cigarette. Another person learns to ease their anxiety by going for a run. 
+
+Your current habits are not necessarily the best way to solve the problems you face; they are just the methods you learned to use. Once you associate a solution with the problem you need to solve, you keep coming back to it. 
+
+Habits are all about associations. These associations determine whether we predict a habit to be worth repeating or not.
+
+You see a cue, categorize it based on past experience, and determine the appropriate response. This all happens in an instant, but it plays a crucial role in your habits because every action is preceded by a prediction.
+
+Life feels reactive, but it is actually predictive. All day long, you are making your best guess of how to act given what you’ve just seen and what has worked for you in the past. You are endlessly predicting what will happen in the next moment.
+
+Our behavior is heavily dependent on how we interpret the events that happen to us, not necessarily the objective reality of the events themselves.
+
+Predictions lead to feelings, which is how we typically describe a craving—a feeling, a desire, an urge. 
+
+Feelings and emotions transform the cues we perceive and the predictions we make into a signal that we can apply.
+
+Desire is the difference between where you are now and where you want to be in the future. Even the tiniest action is tinged with the motivation to feel differently than you do in the moment. 
+
+When you binge-eat or light up or browse social media, what you really want is _not_ a potato chip or a cigarette or a bunch of likes. What you really want is to _feel_ different. 
+ 
+Our feelings and emotions tell us whether to hold steady in our current state or to make a change. They help us decide the best course of action. 
+
+Neurologists have discovered that when emotions and feelings are impaired, we actually lose the ability to make decisions. 2 We have no signal of what to pursue and what to avoid. As the neuroscientist Antonio Damasio explains, “It is emotion that allows you to mark things as good, bad, or indifferent.” 
+
+The specific cravings you feel and habits you perform are really an attempt to address your fundamental underlying motives. Whenever a habit successfully addresses a motive, you develop a craving to do it again.
+
+Habits are attractive when we associate them with positive feelings,
+
+### HOW TO REPROGRAM YOUR BRAIN TO ENJOY HARD HABITS
+
+You can make hard habits more attractive if you can learn to associate them with a positive experience.
+
+For instance, we often talk about everything we have to do in a given day. You have to wake up early for work... ...You have to cook dinner for your family. Now, imagine changing just one word: You don’t “have” to. You “get” to. You _get_ to wake up early for work... ...You _get_ to cook dinner for your family. You transition from seeing these behaviors as burdens and turn them into opportunities. The key point is that both versions of reality are true. You have to do those things, and you also _get_ to do them. We can find evidence for whatever mind-set we choose.
+
+Reframing your habits to highlight their benefits rather than their drawbacks is a fast and lightweight way to reprogram your mind and make a habit seem more attractive.
+
+**Exercise.** Instead of telling yourself “I need to go run in the morning,” say “It’s time to build endurance and get fast.”
+
+**Finance.** Living below your current means _increases_ your future means.
+
+**Meditation.** Distraction is a good thing because you need distractions to practice meditation.
+
+**Pregame jitters.** You can reframe “I am nervous” to “I am excited and I’m getting an adrenaline rush to help me concentrate.”
+
+Little mind-set shifts aren’t magic, but they can help change the feelings you associate with a particular habit or situation. 
+
+If you want to take it a step further, you can create a _motivation ritual._ You simply practice associating your habits with something you enjoy, then you can use that cue whenever you need a bit of motivation.
+
+You can adapt this strategy for nearly any purpose. Say you want to feel happier in general. Find something that makes you truly happy—like petting your dog or taking a bubble bath—and then create a short routine that you perform every time _before_ you do the thing you love. Maybe you take three deep breaths and smile. Three deep breaths. Smile. Pet the dog. Repeat. Eventually, you’ll begin to associate this breathe-and-smile routine with being in a good mood. It becomes a cue that means feeling happy.
+
+Once a habit has been built, the cue can prompt a craving, even if it has little to do with the original situation. 
+
+The key to finding and fixing the causes of your bad habits is to reframe the associations you have about them. It’s not easy, but if you can reprogram your predictions, you can transform a hard habit into an attractive one.
+
+Chapter Summary
+- The inversion of the 2nd Law of Behavior Change is make it unattractive.
+- Every behavior has a surface level craving and a deeper underlying motive. 
+- Your habits are modern-day solutions to ancient desires. 
+- The cause of your habits is actually the prediction that precedes them. The prediction leads to a feeling. 
+- Highlight the benefits of avoiding a bad habit to make it seem unattractive. 
+- Habits are attractive when we associate them with positive feelings and unattractive when we associate them with negative feelings. Create a motivation ritual by doing something you enjoy immediately before a difficult habit.
 
 ## The 3rd Law Make It Easy
 
