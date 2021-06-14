@@ -1157,9 +1157,41 @@ Chapter Summary
 
 ## The 3rd Law Make It Easy
 
-
 ## 11 Walk Slowly, but Never Backward
 
+It is easy to get bogged down trying to find the optimal plan for change: the fastest way to lose weight, the best program to build muscle, the perfect idea for a side hustle. We are so focused on figuring out the best approach that we never get around to taking action. 
+
+As Voltaire once wrote, “The best is the enemy of the good.”
+
+Difference between being in motion and taking action... ...When you’re in motion, you’re planning and strategizing and learning. Those are all good things, but they don’t produce a result. Action, on the other hand, is the type of behavior that will deliver an outcome.
+
+If motion doesn’t lead to results, why do we do it? Sometimes we do it because we actually need to plan or learn more. But more often than not, we do it because motion allows us to feel like we’re making progress without running the risk of failure.
+
+Motion makes you feel like you’re getting things done. But really, you’re just preparing to get something done. When preparation becomes a form of procrastination, you need to change something. You don’t want to merely be planning. You want to be practicing. 
+
+If you want to master a habit, the key is to start with repetition, not perfection.
+
+### HOW LONG DOES IT ACTUALLY TAKE TO FORM A NEW HABIT?
+
+Habit formation is the process by which a behavior becomes progressively more automatic through repetition. The more you repeat an activity, the more the structure of your brain changes to become efficient at that activity. 
+
+Neuroscientists call this _long-term potentiation,_ which refers to the strengthening of connections between neurons in the brain based on recent patterns of activity. 3 With each repetition, cell-to-cell signaling improves and the neural connections tighten.
+
+Hebb’s Law: “Neurons that fire together wire together.”
+
+Both common sense and scientific evidence agree: repetition is a form of change. 
+
+Each time you repeat an action, you are activating a particular neural circuit associated with that habit. This means that simply putting in your reps is one of the most critical steps you can take to encoding a new habit.
+
+All habits follow a similar trajectory from effortful practice to automatic behavior, a process known as _automaticity._ Automaticity is the ability to perform a behavior without thinking about each step, which occurs when the nonconscious mind takes over.
+
+![Figure 11](./figure11.jpg)
+
+FIGURE 11: In the beginning (point A), a habit requires a good deal of effort and concentration to perform. After a few repetitions (point B), it gets easier, but still requires some conscious attention. With enough practice (point C), the habit becomes more automatic than conscious. Beyond this threshold— the habit line —the behavior can be done more or less without thinking. A new habit has been formed.
+
+![Figure 12](./figure12.jpg)
+
+FIGURE 12: This graph shows someone who built the habit of walking for ten minutes after breakfast each day. Notice that as the repetitions increase, so does automaticity, until the behavior is as easy and automatic as it can be.
 
 ## 12 The Law of Least Effort
 
