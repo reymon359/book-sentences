@@ -325,6 +325,15 @@ Was saying; and his eyes shone, his face was brightly flushed. “How many goodl
 
 ## Chapter 9
 
+Bernard meanwhile lay pensive and wide-eyed in the dark. It was long after midnight before he fell asleep. Long after midnight; but his insomnia had not been fruitless; he had a plan... ...“Miss Crowne’s gone on soma -holiday,” he explained. “Can hardly be back before five. Which leaves us seven hours.” He could fly to Santa Fé, do all the business he had to do, and be in Malpais again long before she woke up... ...at ten forty-seven and a half it was the deep, resonant voice of Mustapha Mond himself that sounded in his ears. “I ventured to think,” stammered Bernard, “that your fordship might find the matter of sufficient scientific interest …” “Yes, I do find it of sufficient scientific interest,” said the deep voice. “Bring these two individuals back to London with you.” “Your fordship is aware that I shall need a special permit …” “The necessary orders,” said Mustapha Mond, “are being sent to the Warden of the Reservation at this moment. You will proceed at once to the Warden’s Office. Good-morning, Mr. Marx.”
+
+The young man stood outside the rest-house. “Bernard,” he called. “Bernard!” There was no answer. Noiseless on his deerskin moccasins, he ran up the steps and tried the door. The door was locked. They were gone! Gone! It was the most terrible thing that had ever happened to him. She had asked him to come and see them, and now they were gone. He sat down on the steps and cried.
+
+There, on a low bed, the sheet flung back, dressed in a pair of pink one-piece zippyjamas, lay Lenina, fast asleep and so beautiful in the midst of her curls, so touchingly childish with her pink toes and her grave sleeping face, so trustful in the helplessness of her limp hands and melted limbs, that the tears came to his eyes. With an infinity of quite unnecessary precautions—for nothing short of a pistol shot could have called Lenina back from her soma -holiday before the appointed time—he entered the room, he knelt on the floor beside the bed. He gazed, he clasped his hands, his lips moved.
+
+The humming grew louder and louder, localized itself as being outside the shuttered windows. The plane! In a panic, he scrambled to his feet and ran into the other room, vaulted through the open window, and hurrying along the path between the tall agaves was in time to receive Bernard Marx as he climbed out of the helicopter.
+
+
 ## Chapter 10
 
 
