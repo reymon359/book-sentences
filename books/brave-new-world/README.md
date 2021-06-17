@@ -419,9 +419,17 @@ You’ve got to be hurt and upset; otherwise you can’t think of the really goo
 
 “You can’t expect me to keep a straight face about fathers and mothers. And who’s going to get excited about a boy having a girl or not having her?” (The Savage winced; but Helmholtz, who was staring pensively at the floor, saw nothing.) “No,” he concluded, with a sigh, “it won’t do. We need some other kind of madness and violence. But what? What? Where can one find it?” He was silent; then, shaking his head, “I don’t know,” he said at last, “I don’t know.”
 
-
 ## Chapter 13
 
+“Anyhow, you ought to go and see the doctor,” said Henry. “A doctor a day keeps the jim-jams away,” he added heartily, driving home his hypnopædic adage with a clap on the shoulder. “Perhaps you need a Pregnancy Substitute,” he suggested. “Or else an extra-strong V.P.S. treatment. Sometimes, you know, the standard passion surrogate isn’t quite …” “Oh, for Ford’s sake,” said Lenina, breaking her stubborn silence, “shut up!” And she turned back to her neglected embryos.
+
+The bell rang, and the Savage, who was impatiently hoping that Helmholtz would come that afternoon (for having at last made up his mind to talk to Helmholtz about Lenina, he could not bear to postpone his confidences a moment longer), jumped up and ran to the door. “I had a premonition it was you, Helmholtz,” he shouted as he opened. On the threshold, in a white acetate-satin sailor suit, and with a round white cap rakishly tilted over her left ear, stood Lenina. “Oh!” said the Savage, as though some one had struck him a heavy blow.
+
+“Answer me this question: do you really like me, or don’t you?” There was a moment’s silence; then, in a very low voice, “I love you more than anything in the world,” he said.
+
+And as though awakened by her cry he caught her by the shoulders and shook her. “Whore!” he shouted. “Whore! Impudent strumpet!” “Oh, don’t, do-on’t,” she protested in a voice made grotesquely tremulous by his shaking. “Whore!” “Ple-ease.” “Damned whore!” “A gra-amme is be-etter …” she began. The Savage pushed her away with such force that she staggered and fell. “Go,” he shouted, standing over her menacingly, “get out of my sight or I’ll kill you.” He clenched his fists. Lenina raised her arm to cover her face. “No, please don’t, John …” “Hurry up. Quick!”
+
+With an infinity of precautions she opened the door a quarter of an inch; peeped through the crack; was encouraged by the view of emptiness; opened a little further; and put her whole head out; finally tiptoed into the room; stood for a few seconds with strongly beating heart, listening, listening; then darted to the front door, opened, slipped through, slammed, ran. It was not till she was in the lift and actually dropping down the well that she began to feel herself secure.
 
 ## Chapter 14
 
