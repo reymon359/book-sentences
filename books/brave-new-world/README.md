@@ -389,6 +389,36 @@ The mouth was open, she was calling. Her foreshortened figure rushed away from h
 
 ## Chapter 12
 
+_“Ai yaa tákwa!”_ It was only in Zuni that the Savage could adequately express what he felt about the Arch-Community-Songster. _“Háni!”_ he added as an afterthought; and then (with what derisive ferocity!): _“Sons éso tse-ná.”_ And he spat on the ground, as Popé might have done. In the end Bernard had to slink back, diminished, to his rooms and inform the impatient assembly that the Savage would not be appearing that evening. The news was received with indignation.
+
+Lenina alone said nothing. Pale, her blue eyes clouded with an unwonted melancholy, she sat in a corner, cut off from those who surrounded her by an emotion which they did not share. She had come to the party filled with a strange feeling of anxious exultation. “In a few minutes,” she had said to herself, as she entered the room, “I shall be seeing him, talking to him, telling him” (for she had come with her mind made up) “that I like him—more than anybody I’ve ever known. And then perhaps he’ll say …”
+
+Pierced by every word that was spoken, the tight balloon of Bernard’s happy self-confidence was leaking from a thousand wounds. Pale, distraught, abject and agitated, he moved among his guests stammering incoherent apologies, assuring them that next time the Savage would certainly be there.
+
+_To meet the Arch-Community-Songster of Canterbury and Mr. Savage._ Bernard had proclaimed his triumph on every invitation card. But the Savage had chosen this evening of all evenings to lock himself up in his room... ...What should have been the crowning moment of Bernard’s whole career had turned out to be the moment of his greatest humiliation.
+
+“A New Theory of Biology,” was the title of the paper which Mustapha Mond had just finished reading. He sat for some time, meditatively frowning, then picked up his pen and wrote across the title-page: “The author’s mathematical treatment of the conception of purpose is novel and highly ingenious, but heretical and, so far as the present social order is concerned, dangerous and potentially subversive. _Not to be published._”... ...A pity, he thought, as he signed his name. It was a masterly piece of work. But once you began admitting explanations in terms of purpose—well, you didn’t know what the result might be. It was the sort of idea that might easily decondition the more unsettled minds among the higher castes—make them lose their faith in happiness as the Sovereign Good.
+
+He picked up his pen again, and under the words _“Not to be published”_ drew a second line, thicker and blacker than the first; then sighed, “What fun it would be,” he thought, “if one didn’t have to think about happiness!”
+
+Bernard was back among the miseries of space and time. It was in the lowest spirits that he taxied across to his work at the Conditioning Centre. The intoxication of success had evaporated; he was soberly his old self; and by contrast with the temporary balloon of these last weeks, the old self seemed unprecedentedly heavier than the surrounding atmosphere.
+
+“Because I’m unhappy again; that’s why.” “Well, I’d rather be unhappy than have the sort of false, lying happiness you were having here.”
+
+As a victim, the Savage possessed, for Bernard, this enormous superiority over the others: that he was accessible. One of the principal functions of a friend is to suffer (in a milder and symbolic form) the punishments that we should like, but are unable, to inflict upon our enemies.
+
+Helmholtz had also come into conflict with Authority. “It was over some rhymes,” he explained. “I was giving my usual course of Advanced Emotional Engineering for Third Year Students. Twelve lectures, of which the seventh is about rhymes. ‘On the Use of Rhymes in Moral Propaganda and Advertisement,’ to be precise. I always illustrate my lecture with a lot of technical examples. This time I thought I’d give them one I’d just written myself. Pure madness, of course; but I couldn’t resist it.” He laughed. “I was curious to see what their reactions would be. Besides,” he added more gravely, “I wanted to do a bit of propaganda; I was trying to engineer them into feeling as I’d felt when I wrote the rhymes. Ford!” He laughed again. “What an outcry there was! The Principal had me up and threatened to hand me the immediate sack. I’m a marked man.” “But what were your rhymes?” Bernard asked. “They were about being alone.”
+
+Helmholtz only laughed. “I feel,” he said, after a silence, “as though I were just beginning to have something to write about. As though I were beginning to be able to use that power I feel I’ve got inside me—that extra, latent power. Something seems to be coming to me.” In spite of all his troubles, he seemed, Bernard thought, profoundly happy.
+
+Helmholtz and the Savage took to one another at once. So cordially indeed that Bernard felt a sharp pang of jealousy. In all these weeks he had never come to so close an intimacy with the Savage as Helmholtz immediately achieved. Watching them, listening to their talk, he found himself sometimes resentfully wishing that he had never brought them together.
+
+Helmholtz had been restless throughout the entire scene; but when, pathetically mimed by the Savage, Juliet cried out: _“Is there no pity sitting in the clouds , That sees into the bottom of my grief ? O sweet my mother, cast me not away: Delay this marriage for a month, a week; Or, if you do not, make the bridal bed In that dim monument where Tybalt lies …”_ when Juliet said this, Helmholtz broke out in an explosion of uncontrollable guffawing. The mother and father (grotesque obscenity) forcing the daughter to have some one she didn’t want! And the idiotic girl not saying that she was having some one else whom (for the moment, at any rate) she preferred! In its smutty absurdity the situation was irresistibly comical.
+
+You’ve got to be hurt and upset; otherwise you can’t think of the really good, penetrating, X-rayish phrases.
+
+“You can’t expect me to keep a straight face about fathers and mothers. And who’s going to get excited about a boy having a girl or not having her?” (The Savage winced; but Helmholtz, who was staring pensively at the floor, saw nothing.) “No,” he concluded, with a sigh, “it won’t do. We need some other kind of madness and violence. But what? What? Where can one find it?” He was silent; then, shaking his head, “I don’t know,” he said at last, “I don’t know.”
+
 
 ## Chapter 13
 
