@@ -1193,6 +1193,19 @@ FIGURE 11: In the beginning (point A), a habit requires a good deal of effort an
 
 FIGURE 12: This graph shows someone who built the habit of walking for ten minutes after breakfast each day. Notice that as the repetitions increase, so does automaticity, until the behavior is as easy and automatic as it can be.
 
+There is nothing magical about time passing with regard to habit formation... ...What matters is the rate at which you perform the behavior.
+
+It’s the frequency that makes the difference. Your current habits have been internalized over the course of hundreds, if not thousands, of repetitions. New habits require the same level of frequency.
+
+In practice, it doesn’t really matter how long it takes for a habit to become automatic. What matters is that you take the actions you need to take to make progress. Whether an action is fully automatic is of less importance.
+
+Chapter Summary
+- The 3rd Law of Behavior Change is make it easy.
+- The most effective form of learning is practice, not planning.
+- Focus on taking action, not being in motion.
+- Habit formation is the process by which a behavior becomes progressively more automatic through repetition.
+- The amount of time you have been performing a habit is not as important as the number of times you have performed it.
+
 ## 12 The Law of Least Effort
 
 
