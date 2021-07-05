@@ -1270,4 +1270,4 @@ Chapter Summary
 
 TODO: Add stuff from here https://jamesclear.com/atomic-habits/resources
 and here https://jamesclear.com/atomic-habits/endnotes
-
+add the links to the folder in the repo or directly to the pdfs online
