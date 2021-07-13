@@ -1232,6 +1232,8 @@ Certainly, you are capable of doing very hard things. The problem is that some d
 
 The less friction you face, the easier it is for your stronger self to emerge. The idea behind make it easy is not to only do easy things. The idea is to make it as easy as possible in the moment to do things that payoff in the long run.
 
+### HOW TO ACHIEVE MORE WITH LESS EFFORT
+
 Trying to pump up your motivation to stick with a hard habit is like trying to force water through a bent hose. You can do it, but it requires a lot of effort and increases the tension in your life. Meanwhile, making your habits simple and easy is like removing the bend in the hose. Rather than trying to overcome the friction in your life, you reduce it.
 
 When deciding where to practice a new habit, it is best to choose a place that is already along the path of your daily routine. Habits are easier to build when they fit into the flow of your life. You are more likely to go to the gym if it is on your way to work because stopping doesn’t add much friction to your lifestyle.
@@ -1251,6 +1253,8 @@ Business is a never-ending quest to deliver the same result in an easier fashion
 The central idea is to create an environment where doing the right thing is as easy as possible. 
 
 Much of the battle of building better habits comes down to finding ways to reduce the friction associated with our good habits and increase the friction associated with our bad ones.
+
+### PRIME THE ENVIRONMENT FOR FUTURE USE
 
 “resetting the room.”... ...When he leaves his car, he throws any trash away. Whenever he takes a shower, he wipes down the toilet while the shower is warming up. (As he notes, the “perfect time to clean the toilet is right before you wash yourself in the shower anyway.”8) The purpose of resetting each room is not simply to clean up after the last action, but to prepare for the next action... ...People think I work hard but I’m actually really lazy. I’m just proactively lazy. It gives you so much time back.”
 
@@ -1274,6 +1278,53 @@ Chapter Summary
 - Prime your environment to make future actions easier.
 
 ## 13 How to Stop Procrastinating by Using the Two-Minute Rule
+
+Researchers estimate that 40 to 50 percent of our actions on any given day are done out of habit.
+
+Habits are automatic choices that influence the conscious decisions that follow.
+
+Habits are like the entrance ramp to a highway. They lead you down a path and, before you know it, you’re speeding toward the next behavior. It seems to be easier to continue what you are already doing than to start doing something different... ...You check your phone for “just a second” and soon you have spent twenty minutes staring at the screen. In this way, the habits you follow without thinking often determine the choices you make when you are thinking.
+
+Every day, there are a handful of moments that deliver an outsized impact. I refer to these little choices as _decisive moments._
+
+Decisive moments set the options available to your future self.
+
+![Figure 14](./figure14.jpg)
+
+FIGURE 14: The difference between a good day and a bad day is often a few productive and healthy choices made at decisive moments. Each one is like a fork in the road, and these choices stack up throughout the day and can ultimately lead to very different outcomes.
+
+We are limited by where our habits lead us.
+
+Each day is made up of many moments, but it is really a few habitual choices that determine the path you take. These little choices stack up, each one setting the trajectory for how you spend the next chunk of time.
+
+Habits are the entry point, not the end point.
+
+### THE TWO-MINUTE RULE
+
+Even when you know you should start small, it’s easy to start too big. When you dream about making a change, excitement inevitably takes over and you end up trying to do too much too soon. 
+
+The Two-Minute Rule, which states, “When you start a new habit, it should take less than two minutes to do.” 
+
+Any habit can be scaled down into a two-minute version:
+- “Read before bed each night” becomes “Read one page.”
+- “Do thirty minutes of yoga” becomes “Take out my yoga mat.”
+- “Study for class” becomes “Open my notes.”
+
+This is a powerful strategy because once you’ve started doing the right thing, it is much easier to continue doing it.
+
+A new habit should not feel like a challenge. The actions that follow can be challenging, but the first two minutes should be easy. What you want is a “gateway habit” that naturally leads you down a more productive path.
+
+The point is not to do one thing. The point is to master the habit of showing up.
+
+A habit must be established before it can be improved.
+
+As you master the art of showing up, the first two minutes simply become a ritual at the beginning of a larger routine.
+
+The more you ritualize the beginning of a process, the more likely it becomes that you can slip into the state of deep focus that is required to do great things.
+
+The secret is to always stay below the point where it feels like work.
+
+> “The best way is to always stop when you are going good,” - Ernest Hemingway
 
 
 ## 14 How to Make Good Habits Inevitable and Bad Habits Impossible
