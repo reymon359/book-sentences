@@ -1314,6 +1314,8 @@ This is a powerful strategy because once you’ve started doing the right thing,
 
 A new habit should not feel like a challenge. The actions that follow can be challenging, but the first two minutes should be easy. What you want is a “gateway habit” that naturally leads you down a more productive path.
 
+![Two minute rule table](./two-minute-rule-table.jpg)
+
 The point is not to do one thing. The point is to master the habit of showing up.
 
 A habit must be established before it can be improved.
