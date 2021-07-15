@@ -1328,6 +1328,23 @@ The secret is to always stay below the point where it feels like work.
 
 > “The best way is to always stop when you are going good,” - Ernest Hemingway
 
+Strategies like this work for another reason, too: they reinforce the identity you want to build. If you show up at the gym five days in a row—even if it’s just for two minutes—you are casting votes for your new identity. You’re not worried about getting in shape. You’re focused on becoming the type of person who doesn’t miss workouts. You’re taking the smallest action that confirms the type of person you want to be.
+
+We rarely think about change this way because everyone is consumed by the end goal. But one push-up is better than not exercising.
+
+It’s better to do less than you hoped than to do nothing at all.
+
+Once you’ve established the habit and you’re showing up each day, you can combine the Two-Minute Rule with a technique we call habit shaping to scale your habit back up toward your ultimate goal... ...Eventually, you’ll end up with the habit you had originally hoped to build while still keeping your focus where it should be: on the first two minutes of the behavior.
+
+![Examples of habit shaping](./examples_of_habit_shaping.jpg)
+
+
+Chapter Summary:
+- Habits can be completed in a few seconds but continue to impact your behavior for minutes or hours afterward.
+- Many habits occur at decisive moments—choices that are like a fork in the road—and either send you in the direction of a productive day or an unproductive one.
+- The Two-Minute Rule states, “When you start a new habit, it should take less than two minutes to do.”
+- The more you ritualize the beginning of a process, the more likely it becomes that you can slip into the state of deep focus that is required to do great things.
+- Standardize before you optimize. You can’t improve a habit that doesn’t exist.
 
 ## 14 How to Make Good Habits Inevitable and Bad Habits Impossible
 
