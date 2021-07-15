@@ -1504,6 +1504,15 @@ Chapter Summary:
 
 ## 16 How to Stick with Good Habits Every Day
 
+“Every morning I would start with 120 paper clips in one jar and I would keep dialing the phone until I had moved them all to the second jar,”... ...I like to refer to this technique as the Paper Clip Strategy
+
+Making progress is satisfying, and visual measures provide clear evidence of your progress. As a result, they reinforce your behavior and add a little bit of immediate satisfaction to any activity.
+
+Visual measurement comes in many forms: food journals, workout logs, loyalty punch cards, the progress bar on a software download, even the page numbers in a book. But perhaps the best way to measure your progress is with a habit tracker.
+
+### HOW TO KEEP YOUR HABITS ON TRACK
+
+A habit tracker is a simple way to measure whether you did a habit.
 
 ## 17 How an Accountability Partner Can Change Everything
 
