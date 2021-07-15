@@ -1338,7 +1338,6 @@ Once you’ve established the habit and you’re showing up each day, you can co
 
 ![Examples of habit shaping](./examples_of_habit_shaping.jpg)
 
-
 Chapter Summary:
 - Habits can be completed in a few seconds but continue to impact your behavior for minutes or hours afterward.
 - Many habits occur at decisive moments—choices that are like a fork in the road—and either send you in the direction of a productive day or an unproductive one.
@@ -1348,6 +1347,68 @@ Chapter Summary:
 
 ## 14 How to Make Good Habits Inevitable and Bad Habits Impossible
 
+Sometimes success is less about making good habits easy and more about making bad habits hard. This is an inversion of the 3rd Law of Behavior Change: make it difficult.
+
+A commitment device is a choice you make in the present that controls your actions in the future.2 It is a way to lock in future behavior, bind you to good habits, and restrict you from bad ones.
+
+My friend and fellow habits expert Nir Eyal purchased an outlet timer, which is an adapter that he plugged in between his internet router and the power outlet. At 10 p.m. each night, the outlet timer cuts off the power to the router.3 When the internet goes off, everyone knows it is time to go to bed.
+
+Commitment devices are useful because they enable you to take advantage of good intentions before you can fall victim to temptation. 
+
+To cut calories, for example, I will ask the waiter to split my meal and box half of it to go before the meal is served. If I waited until the meal came out and told myself “I’ll just eat half,” it would never work.
+
+The key is to change the task such that it requires more work to get out of the good habit than to get started on it.
+
+Commitment devices increase the odds that you’ll do the right thing in the future by making bad habits difficult in the present. However, we can do even better. We can make good habits inevitable and bad habits impossible.
+
+### HOW TO AUTOMATE A HABIT AND NEVER THINK ABOUT IT AGAIN
+
+In the mid-1800s, employee theft was a common problem. Receipts were kept in an open drawer and could easily be altered or discarded. There were no video cameras to review behavior and no software to track transactions. Unless you were willing to hover over your employees every minute of the day, or to manage all transactions yourself, it was difficult to prevent theft.
+
+The best way to break a bad habit is to make it impractical to do. Increase the friction until you don’t even have the option to act.
+
+I’m fascinated by the idea that a single choice can deliver returns again and again, and I surveyed my readers on their favorite onetime actions that lead to better long-term habits.6 The table on the following page shares some of the most popular answers... ...These onetime actions are a straightforward way to employ the 3rd Law of Behavior Change. They make it easier to sleep well, eat healthy, be productive, save money, and generally live better.
+
+### ONETIME ACTIONS THAT LOCK IN GOOD HABITS
+
+| Nutrition                                                                                                                                                                                   | Happiness                                                                                                                     |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Buy a water filter to clean your drinking water. Use smaller plates to reduce caloric intake.                                                                                               | Get a dog. Move to a friendly, social neighborhood.                                                                           |
+| Sleep                                                                                                                                                                                       | General Health                                                                                                                |
+| Buy a good mattress. Get blackout curtains. Remove your television from your bedroom.                                                                                                       | Get vaccinated. Buy good shoes to avoid back pain. Buy a supportive chair or standing desk.                                   |
+| Productivity                                                                                                                                                                                | Finance                                                                                                                       |
+| Unsubscribe from emails. Turn off notifications and mute group chats. Set your phone to silent. Use email filters to clear up your inbox. Delete games and social media apps on your phone. | Enroll in an automatic savings plan. Set up automatic bill pay. Cut cable service. Ask service providers to lower your bills. |
+
+Technology can transform actions that were once hard, annoying, and complicated into behaviors that are easy, painless, and simple. It is the most reliable and effective way to guarantee the right behavior.
+
+Things you have to do monthly or yearly are never repeated frequently enough to become a habit, so they benefit in particular from technology “remembering” to do them for you.
+
+When you automate as much of your life as possible, you can spend your effort on the tasks machines cannot do yet. 
+
+Each habit that we hand over to the authority of technology frees up time and energy to pour into the next stage of growth
+
+> “Civilization advances by extending the number of operations we can perform without thinking about them.” - Alfred North Whitehead
+
+When the effort required to act on your desires becomes effectively zero, you can find yourself slipping into whatever impulse arises at the moment. 
+
+The downside of automation is that we can find ourselves jumping from easy task to easy task without making time for more difficult, but ultimately more rewarding, work.
+
+New time management strategy. Every Monday, my assistant would reset the passwords on all my social media accounts, which logged me out on each device. All week I worked without distraction. On Friday, she would send me the new passwords. I had the entire weekend to enjoy what social media had to offer until Monday morning when she would do it again. (If you don’t have an assistant, team up with a friend or family member and reset each other’s passwords each week.)
+
+Once my bad habit became impossible, I discovered that I did actually have the motivation to work on more meaningful tasks. 
+
+After I removed the mental candy from my environment, it became much easier to eat the healthy stuff.
+
+When working in your favor, automation can make your good habits inevitable and your bad habits impossible.
+
+By utilizing commitment devices, strategic onetime decisions, and technology, you can create an environment of inevitability—a space where good habits are not just an outcome you hope for but an outcome that is virtually guaranteed.
+
+Chapter Summary:
+- The inversion of the 3rd Law of Behavior Change is make it difficult.
+- A commitment device is a choice you make in the present that locks in better behavior in the future.
+- The ultimate way to lock in future behavior is to  automate your habits.
+- Onetime choices—like buying a better mattress or enrolling in an automatic savings plan—are single actions that automate your future habits and deliver increasing returns over time.
+- Using technology to automate your habits is the most reliable and effective way to guarantee the right behavior.
 
 ## The 4th Law Make It Satisfying
 
