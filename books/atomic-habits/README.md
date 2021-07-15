@@ -1412,9 +1412,95 @@ Chapter Summary:
 
 ## The 4th Law Make It Satisfying
 
-
 ## 15 The Cardinal Rule of Behavior Change
 
+“It is a lot easier for people to adopt a product that provides a strong positive sensory signal, for example the mint taste of toothpaste, than it is to adopt a habit that does not provide pleasurable sensory feedback, like flossing one’s teeth. 
+
+We are more likely to repeat a behavior when the experience is satisfying. This is entirely logical. Feelings of pleasure—even minor ones like washing your hands with soap that smells nice and lathers well—are signals that tell the brain: “This feels good. Do this again, next time.” 
+
+Pleasure teaches your brain that a behavior is worth remembering and repeating.
+
+Chewing gum had been sold commercially throughout the 1800s, but it wasn’t until Wrigley launched in 1891 that it became a worldwide habit. Early versions were made from relatively bland resins—chewy, but not tasty. Wrigley revolutionized the industry by adding flavors like Spearmint and Juicy Fruit, which made the product flavorful and fun to use. Then they went a step further and began pushing chewing gum as a pathway to a clean mouth. Advertisements told readers to “Refresh Your Taste.” Tasty flavors and the feeling of a fresh mouth provided little bits of immediate reinforcement and made the product satisfying to use. Consumption skyrocketed, and Wrigley became the largest chewing gum company in the world.
+
+Conversely, if an experience is not satisfying, we have little reason to repeat it.
+
+Cardinal Rule of Behavior Change: What is rewarded is repeated. What is punished is avoided. 
+
+You learn what to do in the future based on what you were rewarded for doing (or punished for doing) in the past. Positive emotions cultivate habits. Negative emotions destroy them.
+
+The first three laws of behavior change—make it obvious, make it attractive, and make it easy—increase the odds that a behavior will be performed this time. The fourth law of behavior change—make it satisfying—increases the odds that a behavior will be repeated next time. It completes the habit loop.
+
+We are not looking for just any type of satisfaction. We are looking for immediate satisfaction.
+
+### THE MISMATCH BETWEEN IMMEDIATE AND DELAYED REWARDS
+
+An immediate-return environment because your actions instantly deliver clear and immediate outcomes.
+
+In modern society, many of the choices you make today will not benefit you immediately. If you do a good job at work, you’ll get a paycheck in a few weeks... ...You live in what scientists call a delayed-return environment because you can work for years before your actions deliver the intended payoff.
+
+The human brain did not evolve for life in a delayed-return environment.
+
+It is only recently—during the last five hundred years or so—that society has shifted to a predominantly delayed-return environment.14 fn1 Compared to the age of the brain, modern society is brand-new. In the last one hundred years, we have seen the rise of the car, the airplane, the television, the personal computer, the internet, the smartphone, and Beyoncé. The world has changed much in recent years, but human nature has changed little.
+
+Our ancestors spent their days responding to grave threats, securing the next meal, and taking shelter from a storm. It made sense to place a high value on instant gratification. The distant future was less of a concern. And after thousands of generations in an immediate-return environment, our brains evolved to prefer quick payoffs to long-term ones.
+
+Behavioral economists refer to this tendency as time inconsistency. That is, the way your brain evaluates rewards is inconsistent across time.fn2 You value the present more than the future.
+
+Our bias toward instant gratification causes problems... ...The consequences of bad habits are delayed while the rewards are immediate. Smoking might kill you in ten years, but it reduces stress and eases your nicotine cravings now.
+
+With our bad habits, the immediate outcome usually feels good, but the ultimate outcome feels bad. With good habits, it is the reverse: the immediate outcome is unenjoyable, but the ultimate outcome feels good.
+
+> “It almost always happens that when the immediate consequence is favorable, the later consequences are disastrous, and vice versa... Often, the sweeter the first fruit of a habit, the more bitter are its later fruits.” - Frédéric Bastiat
+
+The costs of your good habits are in the present. The costs of your bad habits are in the future.
+
+When you envision what you want your life to be like, it is easy to see the value in taking actions with long-term benefits. We all want better lives for our future selves. However, when the moment of decision arrives, instant gratification usually wins. You are no longer making a choice for Future You.
+
+The more immediate pleasure you get from an action, the more strongly you should question whether it aligns with your long-term goals.
+
+What is immediately rewarded is repeated. What is immediately punished is avoided.
+
+The road less traveled is the road of delayed gratification. If you’re willing to wait for the rewards, you’ll face less competition and often get a bigger payoff.
+
+The last mile is always the least crowded.
+
+At some point, success in nearly every field requires you to ignore an immediate reward in favor of a delayed reward.
+
+Most people know that delaying gratification is the wise approach... ...But these outcomes are seldom top-of-mind at the decisive moment.
+
+It’s possible to train yourself to delay gratification—but you need to work with the grain of human nature, not against it. The best way to do this is to add a little bit of immediate pleasure to the habits that pay off in the long-run and a little bit of immediate pain to ones that don’t.
+
+### HOW TO TURN INSTANT GRATIFICATION TO YOUR ADVANTAGE
+
+The vital thing in getting a habit to stick is to feel successful—even if it’s in a small way. The feeling of success is a signal that your habit paid off and that the work was worth the effort.
+
+In a perfect world, the reward for a good habit is the habit itself. In the real world, good habits tend to feel worthwhile only after they have provided you with something. Early on, it’s all sacrifice.
+
+The ending of any experience is vital because we tend to remember it more than other phases. You want the ending of your habit to be satisfying.
+
+Habit stacking,... ...ties your habit to an immediate cue, which makes it obvious when to start. Reinforcement ties your habit to an immediate reward, which makes it satisfying when you finish.
+
+Immediate reinforcement can be especially helpful when dealing with habits of avoidance, which are behaviors you want to stop doing... ...It can be hard to feel satisfied when there is no action in the first place. All you’re doing is resisting temptation, and there isn’t much satisfying about that.
+
+One solution is to turn the situation on its head. You want to make avoidance visible. Open a savings account and label it for something you want—maybe “Leather Jacket.”... ...The immediate reward of seeing yourself save money toward the leather jacket feels a lot better than being deprived. You are making it satisfying to do nothing.
+
+It is worth noting that it is important to select short-term rewards that reinforce your identity rather than ones that conflict with it. Buying a new jacket is fine if you’re trying to lose weight or read more books, but it doesn’t work if you’re trying to budget and save money.
+
+Eventually, as intrinsic rewards like a better mood, more energy, and reduced stress kick in, you’ll become less concerned with chasing the secondary reward. The identity itself becomes the reinforcer. You do it because it’s who you are and it feels good to be you.
+
+The more a habit becomes part of your life, the less you need outside encouragement to follow through. 
+
+Incentives can start a habit. Identity sustains a habit.
+
+It takes time for the evidence to accumulate and a new identity to emerge. Immediate reinforcement helps maintain motivation in the short term while you’re waiting for the long-term rewards to arrive.
+
+Chapter Summary:
+- The 4th Law of Behavior Change is make it satisfying.
+- We are more likely to repeat a behavior when the experience is satisfying.
+- The human brain evolved to prioritize immediate rewards over delayed rewards.
+- The Cardinal Rule of Behavior Change: What is immediately rewarded is repeated. What is immediately punished is avoided.
+- To get a habit to stick you need to feel immediately successful—even if it’s in a small way.
+- The first three laws of behavior change—make it obvious, make it attractive, and make it easy—increase the odds that a behavior will be performed this time. The fourth law of behavior change—make it satisfying—increases the odds that a behavior will be repeated next time.
 
 ## 16 How to Stick with Good Habits Every Day
 
