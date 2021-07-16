@@ -1584,6 +1584,32 @@ The dark side of tracking a particular behavior is that we become driven by the 
 
 If your success is measured by a lower number on the scale, you will optimize for a lower number on the scale.
 
+We focus on working long hours instead of getting meaningful work done.
+
+We teach for standardized tests instead of emphasizing learning, curiosity, and critical thinking.
+
+We optimize for what we measure. When we choose the wrong measurement, we get the wrong behavior.
+
+Charles Goodhart, the principle states, “When a measure becomes a target, it ceases to be a good measure.”
+
+Measurement is only useful when it guides you and adds context to a larger picture, not when it consumes you.
+
+In our data-driven world, we tend to overvalue numbers and undervalue anything ephemeral, soft, and difficult to quantify. We mistakenly think the factors we can measure are the only factors that exist. But just because you can measure something doesn’t mean it’s the most important thing. And just because you can’t measure something doesn’t mean it’s not important at all.
+
+It can feel satisfying to record a habit and track your progress, but the measurement is not the only thing that matters.
+
+If you’re not feeling motivated by the number on the scale, perhaps it’s time to focus on a different measurement—one that gives you more signals of progress.
+
+Habit tracking offers a simple way to make your habits more satisfying. Each measurement provides a little bit of evidence that you’re moving in the right direction and a brief moment of immediate pleasure for a job well done.
+
+Chapter Summary
+- One of the most satisfying feelings is the feeling of making progress.
+- A habit tracker is a simple way to measure whether you did a habit—like marking an X on a calendar.
+- Habit trackers and other visual forms of measurement can make your habits satisfying by providing clear evidence of your progress.
+- Don’t break the chain. Try to keep your habit streak alive.
+- Never miss twice. If you miss one day, try to get back on track as quickly as possible.
+- Just because you can measure something doesn’t mean it’s the most important thing.
+
 ## 17 How an Accountability Partner Can Change Everything
 
 
