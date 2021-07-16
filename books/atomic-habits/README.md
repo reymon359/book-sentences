@@ -1514,6 +1514,76 @@ Visual measurement comes in many forms: food journals, workout logs, loyalty pun
 
 A habit tracker is a simple way to measure whether you did a habit.
 
+Benjamin Franklin.2 Beginning at age twenty, Franklin carried a small booklet everywhere he went and used it to track thirteen personal virtues. This list included goals like “Lose no time. Be always employed in something useful” and “Avoid trifling conversation.” At the end of each day, Franklin would open his booklet and record his progress.
+
+Habit tracking is powerful because it leverages multiple Laws of Behavior Change. It simultaneously makes a behavior obvious, attractive, and satisfying.
+
+### Benefit #1: Habit tracking is obvious.
+
+Recording your last action creates a trigger that can initiate your next one.
+
+Research has shown that people who track their progress on goals like losing weight, quitting smoking, and lowering blood pressure are all more likely to improve than those who don’t.
+
+The mere act of tracking a behavior can spark the urge to change it.
+
+Habit tracking also keeps you honest. Most of us have a distorted view of our own behavior. We think we act better than we do. Measurement offers one way to overcome our blindness to our own behavior and notice what’s really going on each day.
+
+When the evidence is right in front of you, you’re less likely to lie to yourself.
+
+### Benefit #2: Habit tracking is attractive.
+
+The most effective form of motivation is progress.6 When we get a signal that we are moving forward, we become more motivated to continue down that path. In this way, habit tracking can have an addictive effect on motivation. Each small win feeds your desire.
+
+The empty square you see each morning can motivate you to get started because you don’t want to lose your progress by breaking the streak.
+
+### Benefit #3: Habit tracking is satisfying.
+
+Tracking can become its own form of reward... ...It feels good to watch your results grow... ...and if it feels good, then you’re more likely to endure.
+
+Habit tracking also helps keep your eye on the ball: you’re focused on the process rather than the result. You’re not fixated on getting six-pack abs, you’re just trying to keep the streak alive and become the type of person who doesn’t miss workouts.
+
+In summary, habit tracking (1) creates a visual cue that can remind you to act, (2) is inherently motivating because you see the progress you are making and don’t want to lose it, and (3) feels satisfying whenever you record another successful instance of your habit. 
+
+Habit tracking provides visual proof that you are casting votes for the type of person you wish to become, which is a delightful form of immediate and intrinsic gratification.
+
+Many people resist the idea of tracking and measuring. It can feel like a burden because it forces you into two habits: the habit you’re trying to build and the habit of tracking it.
+
+Tracking isn’t for everyone, and there is no need to measure your entire life. But nearly anyone can benefit from it in some form—even if it’s only temporary.
+
+What can we do to make tracking easier? First, whenever possible, measurement should be automated... ...Second, manual tracking should be limited to your most important habits... ...Finally, record each measurement immediately after the habit occurs. The completion of the behavior is the cue to write it down. This approach allows you to combine the habit-stacking method mentioned in Chapter 5 with habit tracking.
+
+The habit stacking + habit tracking formula is: After [CURRENT HABIT], I will [TRACK MY HABIT].
+
+It’s always interesting to see how you’ve actually been spending your time.
+
+### HOW TO RECOVER QUICKLY WHEN YOUR HABITS BREAK DOWN
+
+No matter how consistent you are with your habits, it is inevitable that life will interrupt you at some point. Perfection is not possible.
+
+The first mistake is never the one that ruins you.7 It is the spiral of repeated mistakes that follows. Missing once is an accident.8 Missing twice is the start of a new habit.
+
+Anyone can have a bad performance, a bad workout, or a bad day at work. But when successful people fail, they rebound quickly. The breaking of a habit doesn’t matter if the reclaiming of it is fast.
+
+Too often, we fall into an all-or-nothing cycle with our habits. The problem is not slipping up; the problem is thinking that if you can’t do something perfectly, then you shouldn’t do it at all.
+
+If you start with $100, then a 50 percent gain will take you to $150. But you only need a 33 percent loss to take you back to $100. In other words, avoiding a 33 percent loss is just as valuable as achieving a 50 percent gain. 
+
+As Charlie Munger says, “The first rule of compounding: Never interrupt it unnecessarily.”
+
+Sluggish days and bad workouts maintain the compound gains you accrued from previous good days.
+
+Don’t put up a zero. Don’t let losses eat into your compounding.
+
+It’s about being the type of person who doesn’t miss workouts. It’s easy to train when you feel good, but it’s crucial to show up when you don’t feel like it.
+
+The all-or-nothing cycle of behavior change is just one pitfall that can derail your habits.
+
+### KNOWING WHEN (AND WHEN NOT) TO TRACK A HABIT
+
+The dark side of tracking a particular behavior is that we become driven by the number rather than the purpose behind it.
+
+If your success is measured by a lower number on the scale, you will optimize for a lower number on the scale.
+
 ## 17 How an Accountability Partner Can Change Everything
 
 
