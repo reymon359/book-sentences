@@ -1612,6 +1612,24 @@ Chapter Summary
 
 ## 17 How an Accountability Partner Can Change Everything
 
+Just as we are more likely to repeat an experience when the ending is satisfying, we are also more likely to avoid an experience when the ending is painful. 
+
+Pain is an effective teacher. If a failure is painful, it gets fixed. If a failure is relatively painless, it gets ignored.
+
+The more immediate and more costly a mistake is, the faster you will learn from it
+
+The more immediate the pain, the less likely the behavior. If you want to prevent bad habits and eliminate unhealthy behaviors, then adding an instant cost to the action is a great way to reduce their odds.
+
+We repeat bad habits because they serve us in some way, and that makes them hard to abandon.
+
+There is, of course, a limit to this. If you’re going to rely on punishment to change behavior, then the strength of the punishment must match the relative strength of the behavior it is trying to correct. 
+
+To be productive, the cost of procrastination must be greater than the cost of action.
+
+In general, the more local, tangible, concrete, and immediate the consequence, the more likely it is to influence individual behavior. The more global, intangible, vague, and delayed the consequence, the less likely it is to influence individual behavior.
+
+
+
 
 ## Advanced Tactics How to Go from Being Merely Good to Being Truly Great
 
