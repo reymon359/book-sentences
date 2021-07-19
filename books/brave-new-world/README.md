@@ -567,3 +567,31 @@ Isn’t there something in living dangerously?” “There’s a great deal in i
 
 ## Chapter 18
 
+“I say,” Helmholtz exclaimed solicitously, “you do look ill, John!” “Did you eat something that didn’t agree with you?” asked Bernard. The Savage nodded. “I ate civilization.”
+
+“I want to say how sorry I am about everything that happened yesterday.” He blushed. “How ashamed,” he went on, in spite of the unsteadiness of his voice, “how really …” The Savage cut him short and, taking his hand, affectionately pressed it. “Helmholtz was wonderful to me,” Bernard resumed, after a little pause. “If it hadn’t been for him, I should …” “Now, now,” Helmholtz protested. There was a silence. In spite of their sadness—because of it, even; for their sadness was the symptom of their love for one another—the three young men were happy.
+
+“He said he wanted to go on with the experiment. But I’m damned,” the Savage added, with sudden fury, “I’m damned if I’ll go on being experimented with. Not for all the Controllers in the world, I shall go away to-morrow too.” “But where?” the others asked in unison. The Savage shrugged his shoulders. “Anywhere. I don’t care. So long as I can be alone.”
+
+The Savage had chosen as his hermitage the old lighthouse which stood on the crest of the hill between Puttenham and Elstead. The building was of ferro-concrete and in excellent condition—almost too comfortable the Savage had thought when he first explored the place, almost too civilizedly luxurious. He pacified his conscience by promising himself a com-pensatingly harder self-discipline, purifications the more complete and thorough.
+
+For the very reason why he had chosen the lighthouse had become almost instantly a reason for going somewhere else. He had decided to live there because the view was so beautiful, because, from his vantage point, he seemed to be looking out on to the incarnation of a divine being.
+
+But it was not alone the distance that had attracted the Savage to his lighthouse; the near was as seductive as the far. The woods, the open stretches of heather and yellow gorse, the clumps of Scotch firs, the shining ponds with their overhanging birch trees, their water lilies, their beds of rushes—these were beautiful and, to an eye accustomed to the aridities of the American desert, astonishing. And then the solitude! Whole days passed during which he never saw a human being.
+
+Flowers and a landscape were the only attractions here. And so, as there was no good reason for coming, nobody came. During the first days the Savage lived alone and undisturbed.
+
+When it came to pan-glandular biscuits and vitaminized beef-surrogate, he had not been able to resist the shopman’s persuasion. Looking at the tins now, he bitterly reproached himself for his weakness. Loathsome civilized stuff! He had made up his mind that he would never eat it, even if he were starving. “That’ll teach them,” he thought vindictively. It would also teach him.
+
+He counted his money. The little that remained would be enough, he hoped, to tide him over the winter. By next spring, his garden would be producing enough to make him independent of the outside world. Meanwhile, there would always be game. He had seen plenty of rabbits, and there were waterfowl on the ponds. He set to work at once to make a bow and arrows.
+
+The work gave him an intense pleasure. After those weeks of idleness in London, with nothing to do, whenever he wanted anything, but to press a switch or turn a handle, it was pure delight to be doing something that demanded skill and patience.
+
+He had almost finished whittling the stave into shape, when he realized with a start that he was singing—singing! It was as though, stumbling upon himself from the outside, he had suddenly caught himself out, taken himself flagrantly at fault. Guiltily he blushed. After all, it was not to sing and enjoy himself that he had come here. It was to escape further contamination by the filth of civilized life; it was to be purified and made good; it was actively to make amends.
+
+Half an hour later, three Delta-Minus land-workers from one of the Puttenham Bokanovsky Groups happened to be driving to Elstead and, at the top of the hill, were astonished to see a young man standing outside the abandoned lighthouse stripped to the waist and hitting himself with a whip of knotted cords... ...Three days later, like turkey buzzards settling on a corpse, the reporters came.
+
+Five words he uttered and no more—five words, the same as those he had said to Bernard about the Arch-Community-Songster of Canterbury. “Háni! Sons éso tse-ná!” And seizing the reporter by the shoulder, he spun him round (the young man revealed himself invitingly well-covered), aimed and, with all the force and accuracy of a champion foot-and-mouth-baller, delivered a most prodigious kick.
+
+Eight minutes later, a new edition of The Hourly Radio was on sale in the streets of London. “HOURLY RADIO REPORTER HAS COCCYX KICKED BY MYSTERY SAVAGE,” ran the headlines on the front page. “SENSATION IN SURREY.”
+
