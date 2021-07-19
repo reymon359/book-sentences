@@ -433,6 +433,29 @@ With an infinity of precautions she opened the door a quarter of an inch; peeped
 
 ## Chapter 14
 
+It was a large room bright with sunshine and yellow paint, and containing twenty beds, all occupied. Linda was dying in company—in company and with all the modern conveniences. The air was continuously alive with gay synthetic melodies. At the foot of every bed, confronting its moribund occupant, was a television box. Television was left on, a running tap, from morning till night. Every quarter of an hour the prevailing perfume of the room was automatically changed. “We try,” explained the nurse, who had taken charge of the Savage at the door, “we try to create a thoroughly pleasant atmosphere here, something between a first-class
+
+“Is there any hope?” he asked. “You mean, of her not dying?” (He nodded.) “No, of course there isn’t. When somebody’s sent here, there’s no …” Startled by the expression of distress on his pale face, she suddenly broke off. “Why, whatever is the matter?” she asked. She was not accustomed to this kind of thing in visitors. (Not that there were many visitors anyhow: or any reason why there should be many visitors.) “You’re not feeling ill, are you?” He shook his head. “She’s my mother,” he said in a scarcely audible voice. The nurse glanced at him with startled, horrified eyes; then quickly looked away. From throat to temple she was all one hot blush.
+
+The Savage sat down beside the bed. “Linda,” he whispered, taking her hand. At the sound of her name, she turned. Her vague eyes brightened with recognition. She squeezed his hand, she smiled, her lips moved, then quite suddenly her head fell forward. She was asleep. He sat watching her—seeking through the tired flesh, seeking and finding that young, bright face which had stooped over his childhood in Malpais, remembering (and he closed his eyes) her voice, her movements, all the events of their life together.
+
+A sudden noise of shrill voices made him open his eyes and, after hastily brushing away the tears, look round. What seemed an interminable stream of identical eight-year-old male twins was pouring into the room... ...They swarmed between the beds, clambered over, crawled under, peeped into the television boxes, made faces at the patients. Linda astonished and rather alarmed them. A group stood clustered at the foot of her bed, staring with the frightened and stupid curiosity of animals suddenly confronted by the unknown. “Oh, look, look!” They spoke in low, scared voices. “Whatever is the matter with her? Why is she so fat?” They had never seen a face like hers before—had never seen a face that was not youthful and taut-skinned, a body that had ceased to be slim and upright.
+
+“What have you been doing to him?” she demanded fiercely. “I won’t have you striking the children.” “Well then, keep them away from this bed.” The Savage’s voice was trembling with indignation. “What are these filthy little brats doing here at all? It’s disgraceful!” “Disgraceful? But what do you mean? They’re being death-conditioned. And I tell you,” she warned him truculently, “if I have any more of your interference with their conditioning, I’ll send for the porters and have you thrown out.”
+
+He repeated to himself, as though the words were a spell that would restore the dead past to life. But the spell was ineffective.
+
+He squeezed her limp hand almost with violence, as though he would force her to come back from this dream of ignoble pleasures, from these base and hateful memories—back into the present, back into reality; the appalling present, the awful reality—but sublime, but significant, but desperately important precisely because of the imminence of that which made them so fearful. “Don’t you know me, Linda?”
+
+She knew him for John, her son, but fancied him an intruder into that paradisal Malpais where she had been spending her soma-holiday with Popé.
+
+Her hands went to her throat, then clawed at the air—the air she could no longer breathe, the air that, for her, had ceased to exist.
+
+The look she gave him was charged with an unspeakable terror—with terror and, it seemed to him, reproach. She tried to raise herself in bed, but fell back on to the pillows. Her face was horribly distorted, her lips blue. The Savage turned and ran up the ward. “Quick, quick!” he shouted. “Quick!” Standing in the center of a ring of zipper-hunting twins, the Head Nurse looked round. The first moment’s astonishment gave place almost instantly to disapproval. “Don’t shout! Think of the little ones,” she said, frowning. “You might decondition … But what are you doing?” He had broken through the ring. “Be careful!” A child was yelling. “Quick, quick!” He caught her by the sleeve, dragged her after him. “Quick! Something’s happened. I’ve killed her.” By the time they were back at the end of the ward Linda was dead. The Savage stood for a moment in frozen silence, then fell on his knees beside the bed and, covering his face with his hands, sobbed uncontrollably.
+
+Should she speak to him? try to bring him back to a sense of decency? remind him of where he was? of what fatal mischief he might do to these poor innocents? Undoing all their wholesome death-conditioning with this disgusting outcry—as though death were something terrible, as though any one mattered as much as all that! It might give them the most disastrous ideas about the subject, might upset them into reacting in the entirely wrong, the utterly antisocial way.
+
+“Is she dead?” repeated the inquisitive twin trotting at his side. The Savage looked down at him and still without speaking pushed him away. The twin fell on the floor and at once began to howl. The Savage did not even look round.
 
 ## Chapter 15
 
