@@ -1652,6 +1652,111 @@ Chapter Summary
 
 ## 18 The Truth About Talent (When Genes Matter and When They Don’t)
 
+The secret to maximizing your odds of success is to choose the right field of competition.
+
+Habits are easier to perform, and more satisfying to stick with, when they align with your natural inclinations and abilities.
+
+People are born with different abilities. Some people don’t like to discuss this fact. On the surface, your genes seem to be fixed, and it’s no fun to talk about things you cannot control. Plus, phrases like biological determinism makes it sound like certain individuals are destined for success and others doomed to failure.
+
+Our environment determines the suitability of our genes and the utility of our natural talents. When our environment changes, so do the qualities that determine success. This is true not just for physical characteristics but for mental ones as well. I’m smart if you ask me about habits and human behavior; not so much when it comes to knitting, rocket propulsion, or guitar chords. Competence is highly dependent on context.
+
+The people at the top of any competitive field are not only well trained, they are also well suited to the task. And this is why, if you want to be truly great, selecting the right place to focus is crucial.
+
+In short: genes do not determine your destiny. They determine your areas of opportunity.
+
+> “Genes can predispose, but they don’t predetermine." - Gabor Mate
+
+The areas where you are genetically predisposed to success are the areas where habits are more likely to be satisfying. The key is to direct your effort toward areas that both excite you and match your natural skills, to align your ambition with your ability.
+
+### HOW YOUR PERSONALITY INFLUENCES YOUR HABITS
+
+Your genes are operating beneath the surface of every habit. Indeed, beneath the surface of every behavior.
+
+There’s a strong genetic component to how obedient or rebellious you are when facing authority, how vulnerable or resistant you are to stressful events, how proactive or reactive you tend to be, and even how captivated or bored you feel during sensory experiences like attending a concert.
+
+> “It is now at the point where we have stopped testing to see if traits have a genetic component because we literally can’t find a single one that isn’t influenced by our genes. - Robert Plomin, a behavioral geneticist at King’s College in London
+
+Your personality is the set of characteristics that is consistent from situation to situation. The most proven scientific analysis of personality traits is known as the “Big Five,” which breaks them down into five spectrums of behavior.
+
+1. Openness to experience: from curious and inventive on one end to cautious and consistent on the other.
+2. Conscientiousness: organized and efficient to easygoing and spontaneous.
+3. Extroversion: outgoing and energetic to solitary and reserved (you likely know them as extroverts vs. introverts).
+4. Agreeableness: friendly and compassionate to challenging and detached.
+5. Neuroticism: anxious and sensitive to confident, calm, and stable.
+
+People who are high in agreeableness are kind, considerate, and warm.12 They also tend to have higher natural oxytocin levels, a hormone that plays an important role in social bonding, increases feelings of trust, and can act as a natural antidepressant
+
+People who are more sensitive to negative cues in their environment are more likely to score high in neuroticism.
+
+Our habits are not solely determined by our personalities, but there is no doubt that our genes nudge us in a certain direction. Our deeply rooted preferences make certain behaviors easier for some people than for others.
+
+A person who scores lower on conscientiousness, for example, will be less likely to be orderly by nature and may need to rely more heavily on environment design to stick with good habits.
+
+You should build habits that work for your personality.
+
+Read whatever fascinates you. 
+
+You don’t have to build the habits everyone tells you to build. Choose the habit that best suits you, not the one that is most popular.
+
+### HOW TO FIND A GAME WHERE THE ODDS ARE IN YOUR FAVOR
+
+Learning to play a game where the odds are in your favor is critical for maintaining motivation and feeling successful. 
+
+In theory, you can enjoy almost anything. In practice, you are more likely to enjoy the things that come easily to you. 
+
+People who are talented in a particular area tend to be more competent at that task and are then praised for doing a good job. They stay energized because they are making progress where others have failed, and because they get rewarded with better pay and bigger opportunities, which not only makes them happier but also propels them to produce even higher-quality work. It’s a virtuous cycle.
+
+Pick the right habit and progress is easy. Pick the wrong habit and life is a struggle.
+
+You need to make sure you’re playing the right game for your skillset. How do you figure that out? The most common approach is trial and error. Of course, there’s a problem with this strategy: life is short. You don’t have time to try every career, date every eligible bachelor, or play every musical instrument. Thankfully, there is an effective way to manage this conundrum, and it is known as the explore/exploit trade-off.
+
+The proper balance depends on whether you’re winning or losing. If you are currently winning, you exploit, exploit, exploit. If you are currently losing, you continue to explore, explore, explore.
+
+The optimal approach also depends on how much time you have. If you have a lot of time—like someone at the beginning of their career—it makes more sense to explore because once you find the right thing, you still have a good amount of time to exploit it. If you’re pressed for time—say, as you come up on the deadline for a project—you should implement the best solution you’ve found so far and get some results.
+
+Questions you can ask yourself to continually narrow in on the habits and areas that will be most satisfying to you: 
+
+**What feels like fun to me, but work to others?** The mark of whether you are made for a task is not whether you love it but whether you can handle the pain of the task easier than most people. 
+
+**What makes me lose track of time?** Flow is the mental state you enter when you are so focused on the task at hand that the rest of the world fades away. This blend of happiness and peak performance is what athletes and performers experience when they are “in the zone.”
+
+**Where do I get greater returns than the average person?** We are continually comparing ourselves to those around us, and a behavior is more likely to be satisfying when the comparison is in our favor.
+
+**What comes naturally to me?** For just a moment, ignore what you have been taught. Ignore what society has told you. Ignore what others expect of you. Look inside yourself and ask, “What feels natural to me? When have I felt alive? When have I felt like the real me?” No internal judgments or people-pleasing. No second-guessing or self-criticism. Just feelings of engagement and enjoyment. Whenever you feel authentic and genuine, you are headed in the right direction.
+
+We all have limited time on this planet, and the truly great among us are the ones who not only work hard but also have the good fortune to be exposed to opportunities that favor us.
+
+If you can’t find a game where the odds are stacked in your favor, create one.
+
+When you can’t win by being better, you can win by being different. By combining your skills, you reduce the level of competition, which makes it easier to stand out. 
+
+Specialization is a powerful way to overcome the “accident” of bad genetics. The more you master a specific skill, the harder it becomes for others to compete with you.
+
+Even if you’re not the most naturally gifted, you can often win by being the best in a very narrow category.
+
+Boiling water will soften a potato but harden an egg. You can’t control whether you’re a potato or an egg, but you can decide to play a game where it’s better to be hard or soft.
+
+### HOW TO GET THE MOST OUT OF YOUR GENES
+
+Our genes do not eliminate the need for hard work. They clarify it. They tell us what to work hard on.
+
+The better we understand our nature, the better our strategy can be.
+
+Biological differences matter. Even so, it’s more productive to focus on whether you are fulfilling your own potential than comparing yourself to someone else.
+
+People get so caught up in the fact that they have limits that they rarely exert the effort required to get close to them.
+
+Until you work as hard as those you admire, don’t explain away their success as luck.
+
+One of the best ways to ensure your habits remain satisfying over the long-run is to pick behaviors that align with your personality and skills. Work hard on the things that come easy.
+
+Chapter Summary
+- The secret to maximizing your odds of success is to choose the right field of competition.
+- Pick the right habit and progress is easy. Pick the wrong habit and life is a struggle.
+- Genes cannot be easily changed, which means they provide a powerful advantage in favorable circumstances and a serious disadvantage in unfavorable circumstances.
+- Habits are easier when they align with your natural abilities. Choose the habits that best suit you.
+- Play a game that favors your strengths. If you can’t find a game that favors you, create one.
+- Genes do not eliminate the need for hard work. They clarify it. They tell us what to work hard on.
 
 ## 19 The Goldilocks Rule: How to Stay Motivated in Life and Work
 
