@@ -1628,8 +1628,24 @@ To be productive, the cost of procrastination must be greater than the cost of a
 
 In general, the more local, tangible, concrete, and immediate the consequence, the more likely it is to influence individual behavior. The more global, intangible, vague, and delayed the consequence, the less likely it is to influence individual behavior.
 
+### THE HABIT CONTRACT
 
+As a society, we collectively agree to abide by certain rules and then enforce them as a group.
 
+Just as governments use laws to hold citizens accountable, you can create a habit contract to hold yourself accountable. A habit contract is a verbal or written agreement in which you state your commitment to a particular habit and the punishment that will occur if you don’t follow through. Then you find one or two people to act as your accountability partners and sign off on the contract with you.
+
+To make bad habits unsatisfying, your best option is to make them painful in the moment.
+
+Knowing that someone is watching can be a powerful motivator. You are less likely to procrastinate or give up because there is an immediate cost. If you don’t follow through, perhaps they’ll see you as untrustworthy or lazy. Suddenly, you are not only failing to uphold your promises to yourself, but also failing to uphold your promises to others.
+
+Thomas Frank, an entrepreneur in Boulder, Colorado, wakes up at 5:55 each morning.7 And if he doesn’t, he has a tweet automatically scheduled that says, “It’s 6:10 and I’m not up because I’m lazy! Reply to this for $5 via PayPal (limit 5), assuming my alarm didn’t malfunction.”
+
+Chapter Summary
+- The inversion of the 4th Law of Behavior Change is make it unsatisfying.
+- We are less likely to repeat a bad habit if it is painful or unsatisfying.
+- An accountability partner can create an immediate cost to inaction. We care deeply about what others think of us, and we do not want others to have a lesser opinion of us.
+- A habit contract can be used to add a social cost to any behavior. It makes the costs of violating your promises public and painful.
+- Knowing that someone else is watching you can be a powerful motivator.
 
 ## Advanced Tactics How to Go from Being Merely Good to Being Truly Great
 
