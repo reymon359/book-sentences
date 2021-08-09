@@ -1760,6 +1760,59 @@ Chapter Summary
 
 ## 19 The Goldilocks Rule: How to Stay Motivated in Life and Work
 
+The way to maintain motivation and achieve peak levels of desire is to work on tasks of “just manageable difficulty."
+
+The human brain loves a challenge, but only if it is within an optimal zone of difficulty.
+
+If you love tennis and try to play a serious match against a four-year-old, you will quickly become bored. It’s too easy. You’ll win every point. In contrast, if you play a professional tennis player like Roger Federer or Serena Williams, you will quickly lose motivation because the match is too difficult.
+
+The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right.
+
+When you’re starting a new habit, it’s important to keep the behavior as easy as possible so you can stick with it even when conditions aren’t perfect... ...Once a habit has been established, however, it’s important to continue to advance in small ways. These little improvements and new challenges keep you engaged.
+
+![Figure 15](./figure15.jpg)
+
+FIGURE 15: Maximum motivation occurs when facing a challenge of just manageable difficulty. In psychology research this is known as the Yerkes–Dodson law, which describes the optimal level of arousal as the midpoint between boredom and anxiety.
+
+A flow state is the experience of being “in the zone” and fully immersed in an activity. Scientists have tried to quantify this feeling. They found that to achieve a state of flow, a task must be roughly 4 percent beyond your current ability.5 In real life it’s typically not feasible to quantify the difficulty of an action in this way, but the core idea of the Goldilocks Rule remains: working on challenges of just manageable difficulty—something on the perimeter of your ability—seems crucial for maintaining motivation.
+
+Behaviors need to remain novel in order for them to stay attractive and satisfying. Without variety, we get bored. And boredom is perhaps the greatest villain on the quest for self-improvement.
+
+### HOW TO STAY FOCUSED WHEN YOU GET BORED WORKING ON YOUR GOALS
+
+“At some point it comes down to who can handle the boredom of training every day, doing the same lifts over and over and over.”
+
+People talk about getting “amped up” to work on their goals. Whether it’s business or sports or art, you hear people say things like, “It all comes down to passion.”... ...As a result, many of us get depressed when we lose focus or motivation... ...But this coach was saying that really successful people feel the same lack of motivation as everyone else. The difference is that they still find a way to show up despite the feelings of boredom.
+
+Mastery requires practice. But the more you practice something, the more boring and routine it becomes.
+
+The greatest threat to success is not failure but boredom. We get bored with habits because they stop delighting us.
+
+As our habits become ordinary, we start derailing our progress to seek novelty.
+
+Machiavelli noted, “Men desire novelty to such an extent that those who are doing well wish for a change as much as those who are doing badly
+
+> “Men desire novelty to such an extent that those who are doing well wish for a change as much as those who are doing badly." - Machiavelli noted
+
+Variable rewards won’t create a craving—that is, you can’t take a reward people are uninterested in, give it to them at a variable interval, and hope it will change their mind—but they are a powerful way to amplify the cravings we already experience because they reduce boredom.
+
+The sweet spot of desire occurs at a 50/50 split between success and failure. Half of the time you get what you want. Half of the time you don’t. You need just enough “winning” to experience satisfaction and just enough “wanting” to experience desire.
+
+Variable rewards or not, no habit will stay interesting forever. At some point, everyone faces the same challenge on the journey of self-improvement: you have to fall in love with boredom.
+
+If you only do the work when it’s convenient or exciting, then you’ll never be consistent enough to achieve remarkable results.
+
+Professionals stick to the schedule; amateurs let life get in the way. Professionals know what is important to them and work toward it with purpose; amateurs get pulled off course by the urgencies of life.
+
+The only way to become excellent is to be endlessly fascinated by doing the same thing over and over. You have to fall in love with boredom.
+
+Chapter Summary
+
+- The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities.
+- The greatest threat to success is not failure but boredom.
+- As habits become routine, they become less interesting and less satisfying. We get bored.
+- Anyone can work hard when they feel motivated. It’s the ability to keep going when work isn’t exciting that makes the difference.
+- Professionals stick to the schedule; amateurs let life get in the way.
 
 ## 20 The Downside of Creating Good Habits
 
