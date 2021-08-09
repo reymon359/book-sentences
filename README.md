@@ -21,6 +21,7 @@ Here is the list of the books I picked up sentences from
 
 | Year I read it | Cover | Name | Author/s | Publication Year |
 |----------------|-------|------|----------|------------------|
+| 2021 | <img width="100" src="./books/nineteen-eighty-four/nineteen-eighty-four.jpg" /> | [Nineteen Eighty-Four](./books/nineteen-eighty-four/README.md) | George Orwell | 1949 |
 | 2021 | <img width="100" src="./books/brave-new-world/brave-new-world.jpg" /> | [Brave New World](./books/brave-new-world/README.md) | Aldous Huxley | 1932 |
 | 2021 | <img width="100" src="./books/your-erroneous-zones/your-erroneous-zones.jpg" /> | [Your Erroneous Zones](./books/your-erroneous-zones/README.md) | Wayne Dyer | 1976 |
 | 2021 | <img width="100" src="./books/james-and-the-giant-peach/james-and-the-giant-peach.jpg" /> | [James and the Giant Peach.](./books/james-and-the-giant-peach/README.md) | Roald Dahl | 1961 |
