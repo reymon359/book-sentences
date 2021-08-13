@@ -1816,6 +1816,34 @@ Chapter Summary
 
 ## 20 The Downside of Creating Good Habits
 
+When you can do it “good enough” on autopilot, you stop thinking about how to do it better.
+
+The upside of habits is that we can do things without thinking. The downside of habits is that you get used to doing things a certain way and stop paying attention to little errors.
+
+You assume you’re getting better because you’re gaining experience. In reality, you are merely reinforcing your current habits—not improving them. In fact, some research has shown that once a skill has been mastered there is usually a slight decline in performance over time.
+
+However, when you want to maximize your potential and achieve elite levels of performance, you need a more nuanced approach.
+
+Habits + Deliberate Practice = Mastery
+
+But after one habit has been mastered, you have to return to the effortful part of the work and begin building the next habit.
+
+Mastery is the process of narrowing your focus to a tiny element of success, repeating it until you have internalized the skill, and then using this new habit as the foundation to advance to the next frontier of your development.
+
+Each habit unlocks the next level of performance. It’s an endless cycle.
+
+![Figure 16](./figure16.jpg)
+
+FIGURE 16: The process of mastery requires that you progressively layer improvements on top of one another, each habit building upon the last until a new level of performance has been reached and a higher range of skills has been internalized.
+
+It is precisely at the moment when you begin to feel like you have mastered a skill—right when things are starting to feel automatic and you are becoming comfortable—that you must avoid slipping into the trap of complacency.
+
+### HOW TO REVIEW YOUR HABITS AND MAKE ADJUSTMENTS
+
+> “Sustaining an effort is the most important thing for any enterprise.5 The way to be successful is to learn how to do things right, then do them the same way every time.” - Pat Riley
+
+
+
 
 ## Conclusion: The Secret to Results That Last
 
