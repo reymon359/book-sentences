@@ -1902,6 +1902,26 @@ Chapter Summary
 
 ## Conclusion: The Secret to Results That Last
 
+The holy grail of habit change is not a single 1 percent improvement, but a thousand of them. It’s a bunch of atomic habits stacking up, each one a fundamental unit of the overall system.
+
+Each improvement is like adding a grain of sand to the positive side of the scale, slowly tilting things in your favor. Eventually, if you stick with it, you hit a tipping point. Suddenly, it feels easier to stick with good habits. The weight of the system is working for you rather than against you.
+
+Success is not a goal to reach or a finish line to cross. It is a system to improve, an endless process to refine.
+
+“If you’re having trouble changing your habits, the problem isn’t you. The problem is your system. Bad habits repeat themselves again and again not because you don’t want to change, but because you have the wrong system for change.”
+
+| Behaviors are effortless here. | Behaviors are difficult here. |
+|--------------------------------|-------------------------------|
+| Obvious                        | Invisible                     |
+| Attractive                     | Unattractive                  |
+| Easy                           | Hard                          |
+| Satisfying                     | Unsatisfying                  |
+
+You want to push your good habits toward the left side of the spectrum by making them obvious, attractive, easy, and satisfying. Meanwhile, you want to cluster your bad habits toward the right side by making them invisible, unattractive, hard, and unsatisfying.
+
+This is a continuous process. There is no finish line. There is no permanent solution.
+
+Change until you find the next bottleneck. Make it obvious. Make it attractive. Make it easy. Make it satisfying. Round and round. Always looking for the next way to get 1 percent better.
 
 ## Appendix
 
