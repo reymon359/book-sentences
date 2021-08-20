@@ -1842,8 +1842,63 @@ It is precisely at the moment when you begin to feel like you have mastered a sk
 
 > “Sustaining an effort is the most important thing for any enterprise.5 The way to be successful is to learn how to do things right, then do them the same way every time.” - Pat Riley
 
+Reflection and review enables the long-term improvement of all habits because it makes you aware of your mistakes and helps you consider possible paths for improvement.
 
+Without reflection, we can make excuses, create rationalizations, and lie to ourselves. We have no process for determining whether we are performing better or worse compared to yesterday.
 
+Improvement is not just about learning habits, it’s also about fine-tuning them.
+
+You don’t want to keep practicing a habit if it becomes ineffective.
+
+Personally, I employ two primary modes of reflection and review. Each December, I perform an Annual Review, in which I reflect on the previous year.9 I tally my habits for the year by counting up how many articles I published, how many workouts I put in, how many new places I visited, and more.fn2 Then, I reflect on my progress (or lack thereof) by answering three questions:
+
+1. What went well this year?
+2. What didn’t go so well this year?
+3. What did I learn?
+
+Six months later, when summer rolls around, I conduct an Integrity Report. Like everyone, I make a lot of mistakes. My Integrity Report helps me realize where I went wrong and motivates me to get back on course. I use it as a time to revisit my core values and consider whether I have been living in accordance with them. This is when I reflect on my identity and how I can work toward being the type of person I wish to become. My yearly Integrity Report answers three questions:
+
+1. What are the core values that drive my life and work?
+2. How am I living and working with integrity right now?
+3. How can I set a higher standard in the future?
+
+Reflection can also bring a sense of perspective. Daily habits are powerful because of how they compound, but worrying too much about every daily choice is like looking at yourself in the mirror from an inch away. You can see every imperfection and lose sight of the bigger picture. There is too much feedback. Conversely, never reviewing your habits is like never looking in the mirror. You aren’t aware of easily fixable flaws—a spot on your shirt, a bit of food in your teeth. There is too little feedback. Periodic reflection and review is like viewing yourself in the mirror from a conversational distance. You can see the important changes you should make without losing sight of the bigger picture. You want to view the entire mountain range, not obsess over each peak and valley.
+
+### HOW TO BREAK THE BELIEFS THAT HOLD YOU BACK
+
+In the beginning, repeating a habit is essential to build up evidence of your desired identity. As you latch on to that new identity, however, those same beliefs can hold you back from the next level of growth. When working against you, your identity creates a kind of “pride” that encourages you to deny your weak spots and prevents you from truly growing. This is one of the greatest downsides of building habits.
+
+The more sacred an idea is to us—that is, the more deeply it is tied to our identity—the more strongly we will defend it against criticism.
+
+The tighter we cling to an identity, the harder it becomes to grow beyond it.
+ 
+Avoid making any single aspect of your identity an overwhelming portion of who you are.
+
+> “keep your identity small.” - Paul Graham
+
+The more you let a single belief define you, the less capable you are of adapting when life challenges you.
+
+When chosen effectively, an identity can be flexible rather than brittle. Like water flowing around an obstacle, your identity works with the changing circumstances rather than against them.
+
+> Men are born soft and supple;
+dead, they are stiff and hard.
+Plants are born tender and pliant;
+dead, they are brittle and dry.
+Thus whoever is stiff and inflexible
+is a disciple of death.
+Whoever is soft and yielding
+is a disciple of life.
+The hard and stiff will be broken.
+The soft and supple will prevail.
+— LAO TZU
+
+Life is constantly changing, so you need to periodically check in to see if your old habits and beliefs are still serving you.
+
+Chapter Summary
+- The upside of habits is that we can do things without thinking. The downside is that we stop paying attention to little errors.
+- Habits + Deliberate Practice = Mastery
+- Reflection and review is a process that allows you to remain conscious of your performance over time.
+- The tighter we cling to an identity, the harder it becomes to grow beyond it.
 
 ## Conclusion: The Secret to Results That Last
 
