@@ -236,7 +236,7 @@ Tracer development is consistent with the idea that a project is never finished:
 
 Prototyping generates disposable code. Tracer code is lean but complete, and forms part of the skeleton of the final system. Think of prototyping as the reconnaissance and intelligence gathering that takes place before a single tracer bullet is fired.
 
-![Tracer bullets](./tracer_bullets.png)
+![Tracer bullets](./assets/tracer_bullets.png)
 
 ### Topic 13 Prototypes and Post-it Notes
 
@@ -722,7 +722,7 @@ Big-O is never going to give you actual numbers for time or memory or whatever: 
 
 Figure 3 - Runtimes of various algorithms
 
-![Algorithms runtimes](./algorithms_runtimes.png)
+![Algorithms runtimes](./assets/algorithms_runtimes.png)
 
 _Simple loops_
 If a simple loop runs from _1_ to _n_, then the algorithm is likely to be _O(n)_—time increases linearly with .
