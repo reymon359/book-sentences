@@ -1,6 +1,6 @@
 
  - Content: books
-     - [Brave new world](Brave%20new%20world/index.md)
+     - [Brave New World](Brave%20New%20World/index.md)
         
      - [Clean Architecture](Clean%20Architecture/index.md)
         

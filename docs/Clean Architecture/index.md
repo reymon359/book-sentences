@@ -1,13 +1,12 @@
 
-<p align="center"><img alt="clean-architecture" src="./Clean%20Architecture/assets/clean-architecture.png" width="250" /></p> 
+![Cover](./assets/clean-architecture.png)
 
-<h1 align="center">Clean Architecture. A Craftsman's Guide to Software Structure and Design.</h1>
+# Clean Architecture. A Craftsman's Guide to Software Structure and Design
 
-<h3 align="center">Robert C. Martin - 2017</h3> 
+Robert C. Martin - 2017
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Foreword](#foreword)
 - [Preface](#preface)
 - [PART I Introduction](#part-i-introduction)
@@ -427,7 +426,7 @@ If you ask the business managers if they want to be able to make changes, theyâ€
 > â€” Dwight D. Eisenhower
 
 | **Important Urgent**   | **Important Not Urgent**   |
-|------------------------|----------------------------|
+| ---------------------- | -------------------------- |
 | **Unimportant Urgent** | **Unimportant Not Urgent** |
 Figure 2.1 Eisenhower matrix
 

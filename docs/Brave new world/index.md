@@ -1,9 +1,11 @@
 
-<p align="center"><img alt="brave-new-world" src="Brave%20new%20world/assets/brave-new-world.jpg" width="250" /></p> 
+![Cover](./assets/brave-new-world.jpg)
 
-<h1 align="center">Brave New World</h1>
+# Brave New World
 
-<h3 align="center">Aldous Huxley - 1932</h3> 
+Robert C. Martin - 2017
+
+Aldous Huxley - 1932
 
 ## Table of Contents
 
