@@ -11,9 +11,15 @@
     
  - [Novel](Genre/Novel.md)
     
+ - [Personal Growth](Genre/Personal%20Growth.md)
+    
  - [Psychology](Genre/Psychology.md)
     
  - [Science fiction](Genre/Science%20fiction.md)
     
+ - [Self-help](Genre/Self-help.md)
+    
  - [Software Development](Genre/Software%20Development.md)
+    
+ - [Success](Genre/Success.md)
     

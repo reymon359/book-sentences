@@ -8,6 +8,8 @@
         
      - [Man's Search For Meaning](Man's%20Search%20For%20Meaning/index.md)
         
+     - [The 7 habits of highly effective people](The%207%20habits%20of%20highly%20effective%20people/index.md)
+        
     
 
 
@@ -34,10 +36,16 @@
         
      - [Novel](./Genre/Novel.md)
         
+     - [Personal Growth](./Genre/Personal%20Growth.md)
+        
      - [Psychology](./Genre/Psychology.md)
         
      - [Science fiction](./Genre/Science%20fiction.md)
         
+     - [Self-help](./Genre/Self-help.md)
+        
      - [Software Development](./Genre/Software%20Development.md)
+        
+     - [Success](./Genre/Success.md)
         
     

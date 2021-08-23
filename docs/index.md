@@ -78,6 +78,8 @@ There are [a ton of researches and articles](https://www.google.com/search?q=Wri
     
  - [Man's Search For Meaning](Man's%20Search%20For%20Meaning/index.md)
     
+ - [The 7 habits of highly effective people](The%207%20habits%20of%20highly%20effective%20people/index.md)
+    
 
 ## Classifications
 
