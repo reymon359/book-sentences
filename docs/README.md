@@ -8,10 +8,14 @@
 
  - [Brave new world](Brave%20new%20world/index.md)
     
+ - [Clean Architecture](Clean%20Architecture/index.md)
+    
 
 ## Classifications
 
 
+ - [Genre](Genre/index.md)
+    
  - [Read](Read/index.md)
     
 <br/><br/><br/><sub>Made with [Collman](https://github.com/reymon359/collman)<sub>
