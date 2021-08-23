@@ -1,6 +1,6 @@
 module.exports = {
   main: {
-    name: 'How to live',
+    name: 'Book sentences',
     repo: 'https://github.com/reymon359/book-sentences',
     loadSidebar: true,
     alias: {

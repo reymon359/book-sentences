@@ -1,6 +1,7 @@
 ---
 name: 'Brave new world'
 Read: ['2021']
+Genre: ['Science fiction', 'Dystopian fiction']
 ---
 
 <p align="center"><img alt="brave-new-world" src="Brave%20new%20world/assets/brave-new-world.jpg" width="250" /></p> 
