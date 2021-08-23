@@ -13,6 +13,8 @@
     
  - [Historical](Genre/Historical.md)
     
+ - [Juvenile Fiction](Genre/Juvenile%20Fiction.md)
+    
  - [Literary](Genre/Literary.md)
     
  - [Mystery](Genre/Mystery.md)

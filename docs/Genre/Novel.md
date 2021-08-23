@@ -9,3 +9,5 @@
     
  - [The Labyrinth of Spirits](The%20Labyrinth%20of%20Spirits/index.md)
     
+ - [The Little Prince](The%20Little%20Prince/index.md)
+    

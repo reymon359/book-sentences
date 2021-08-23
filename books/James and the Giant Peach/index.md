@@ -1,7 +1,7 @@
 ---
 name: 'James and the Giant Peach'
 Read: ['2021']
-Genre: ['Novel', 'Fantasy Fiction']
+Genre: ['Novel', 'Fantasy Fiction', 'Juvenile Fiction']
 ---
 
 ![Cover](./assets/james-and-the-giant-peach.jpg)

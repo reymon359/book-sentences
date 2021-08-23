@@ -18,11 +18,15 @@
         
      - [The Labyrinth of Spirits](The%20Labyrinth%20of%20Spirits/index.md)
         
+     - [The Little Prince](The%20Little%20Prince/index.md)
+        
     
 
 
  - Read
      - [2017](./Read/2017.md)
+        
+     - [2018](./Read/2018.md)
         
      - [2019](./Read/2019.md)
         
@@ -49,6 +53,8 @@
      - [Good Practices](./Genre/Good%20Practices.md)
         
      - [Historical](./Genre/Historical.md)
+        
+     - [Juvenile Fiction](./Genre/Juvenile%20Fiction.md)
         
      - [Literary](./Genre/Literary.md)
         
