@@ -76,6 +76,8 @@ There are [a ton of researches and articles](https://www.google.com/search?q=Wri
     
  - [James and the Giant Peach](James%20and%20the%20Giant%20Peach/index.md)
     
+ - [Man's Search For Meaning](Man's%20Search%20For%20Meaning/index.md)
+    
 
 ## Classifications
 

@@ -6,6 +6,8 @@
         
      - [James and the Giant Peach](James%20and%20the%20Giant%20Peach/index.md)
         
+     - [Man's Search For Meaning](Man's%20Search%20For%20Meaning/index.md)
+        
     
 
 
@@ -22,11 +24,17 @@
  - Genre
      - [All](Genre/index.md)
         
+     - [Biography](./Genre/Biography.md)
+        
      - [Dystopian fiction](./Genre/Dystopian%20fiction.md)
         
      - [Fantasy Fiction](./Genre/Fantasy%20Fiction.md)
         
+     - [Historical](./Genre/Historical.md)
+        
      - [Novel](./Genre/Novel.md)
+        
+     - [Psychology](./Genre/Psychology.md)
         
      - [Science fiction](./Genre/Science%20fiction.md)
         

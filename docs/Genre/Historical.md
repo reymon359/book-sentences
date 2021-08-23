@@ -1,7 +1,5 @@
-# 2020
+# Historical
 
 
- - [Clean Architecture](Clean%20Architecture/index.md)
-    
  - [Man's Search For Meaning](Man's%20Search%20For%20Meaning/index.md)
     
