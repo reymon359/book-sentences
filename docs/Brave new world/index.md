@@ -3,8 +3,6 @@
 
 # Brave New World
 
-Robert C. Martin - 2017
-
 Aldous Huxley - 1932
 
 ## Table of Contents
