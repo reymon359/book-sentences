@@ -1,6 +1,6 @@
 ---
 name: 'The 7 habits of highly effective people'
-Read: ['2020']
+Read: ['2019']
 Genre: ['Self-help', 'Personal Growth', 'Success']
 ---
 

@@ -79,4 +79,4 @@ I believe that a life of integrity is the most fundamental source of personal wo
 
 By the way here is a Guide with the 7 habits of highly effective people. 
 
-![guide 7 habits](./assets/the-7-habits-of-highly-effective-people-guide.png)<hr/><br/>[Read:](Read/index.md) [2020](Read/2020.md)<br/>[Genre:](Genre/index.md) [Personal Growth](Genre/Personal%20Growth.md) [Self-help](Genre/Self-help.md) [Success](Genre/Success.md)
+![guide 7 habits](./assets/the-7-habits-of-highly-effective-people-guide.png)<hr/><br/>[Read:](Read/index.md) [2019](Read/2019.md)<br/>[Genre:](Genre/index.md) [Personal Growth](Genre/Personal%20Growth.md) [Self-help](Genre/Self-help.md) [Success](Genre/Success.md)

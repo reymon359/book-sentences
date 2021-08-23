@@ -7,7 +7,13 @@
     
  - [Fantasy Fiction](Genre/Fantasy%20Fiction.md)
     
+ - [Fiction](Genre/Fiction.md)
+    
  - [Historical](Genre/Historical.md)
+    
+ - [Literary](Genre/Literary.md)
+    
+ - [Mystery](Genre/Mystery.md)
     
  - [Novel](Genre/Novel.md)
     

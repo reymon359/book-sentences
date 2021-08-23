@@ -12,10 +12,16 @@
         
      - [The 7 habits of highly effective people Personal Workbook](The%207%20habits%20of%20highly%20effective%20people%20Personal%20Workbook/index.md)
         
+     - [The Angel's Game](The%20Angel's%20Game/index.md)
+        
     
 
 
  - Read
+     - [2017](./Read/2017.md)
+        
+     - [2019](./Read/2019.md)
+        
      - [2020](./Read/2020.md)
         
      - [2021](./Read/2021.md)
@@ -34,7 +40,13 @@
         
      - [Fantasy Fiction](./Genre/Fantasy%20Fiction.md)
         
+     - [Fiction](./Genre/Fiction.md)
+        
      - [Historical](./Genre/Historical.md)
+        
+     - [Literary](./Genre/Literary.md)
+        
+     - [Mystery](./Genre/Mystery.md)
         
      - [Novel](./Genre/Novel.md)
         

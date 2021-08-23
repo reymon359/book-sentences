@@ -82,6 +82,8 @@ There are [a ton of researches and articles](https://www.google.com/search?q=Wri
     
  - [The 7 habits of highly effective people Personal Workbook](The%207%20habits%20of%20highly%20effective%20people%20Personal%20Workbook/index.md)
     
+ - [The Angel's Game](The%20Angel's%20Game/index.md)
+    
 
 ## Classifications
 
