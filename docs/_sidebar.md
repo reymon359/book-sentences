@@ -14,6 +14,8 @@
         
      - [The Angel's Game](The%20Angel's%20Game/index.md)
         
+     - [The Clean Coder](The%20Clean%20Coder/index.md)
+        
     
 
 
@@ -41,6 +43,8 @@
      - [Fantasy Fiction](./Genre/Fantasy%20Fiction.md)
         
      - [Fiction](./Genre/Fiction.md)
+        
+     - [Good Practices](./Genre/Good%20Practices.md)
         
      - [Historical](./Genre/Historical.md)
         

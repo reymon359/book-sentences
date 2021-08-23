@@ -9,6 +9,8 @@
     
  - [Fiction](Genre/Fiction.md)
     
+ - [Good Practices](Genre/Good%20Practices.md)
+    
  - [Historical](Genre/Historical.md)
     
  - [Literary](Genre/Literary.md)

@@ -1,7 +1,7 @@
 ---
 name: 'Clean Architecture'
 Read: ['2020']
-Genre: ['Software Development']
+Genre: ['Software Development', 'Good Practices']
 ---
 
 ![Cover](./assets/clean-architecture.png)
