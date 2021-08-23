@@ -94,6 +94,8 @@ There are [a ton of researches and articles](https://www.google.com/search?q=Wri
     
  - [The Prisoner of Heaven](The%20Prisoner%20of%20Heaven/index.md)
     
+ - [The Shadow of the Wind](The%20Shadow%20of%20the%20Wind/index.md)
+    
 
 ## Classifications
 
