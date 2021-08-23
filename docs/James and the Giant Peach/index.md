@@ -191,4 +191,4 @@ English: And because so many of them were always begging hhn to tell and tell ag
 
 So he did.
 
-And _that_ is what you have just finished reading<hr/><br/>[Read:](Read/index.md) [2021](Read/2021.md)<br/>[Genre:](Genre/index.md) [Fantasy Fiction](Genre/Fantasy%20Fiction.md) [Novel](Genre/Novel.md)
+And _that_ is what you have just finished reading<hr/><br/>[Read:](Read/index.md) [2021](Read/2021.md)<br/>[Genre:](Genre/index.md) [Fantasy Fiction](Genre/Fantasy%20Fiction.md) [Juvenile Fiction](Genre/Juvenile%20Fiction.md) [Novel](Genre/Novel.md)

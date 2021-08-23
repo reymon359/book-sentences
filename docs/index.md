@@ -90,6 +90,8 @@ There are [a ton of researches and articles](https://www.google.com/search?q=Wri
     
  - [The Little Prince](The%20Little%20Prince/index.md)
     
+ - [The Pragmatic Programmer](The%20Pragmatic%20Programmer/index.md)
+    
 
 ## Classifications
 

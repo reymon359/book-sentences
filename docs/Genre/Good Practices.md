@@ -5,3 +5,5 @@
     
  - [The Clean Coder](The%20Clean%20Coder/index.md)
     
+ - [The Pragmatic Programmer](The%20Pragmatic%20Programmer/index.md)
+    
