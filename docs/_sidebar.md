@@ -16,6 +16,8 @@
         
      - [The Clean Coder](The%20Clean%20Coder/index.md)
         
+     - [The Labyrinth of Spirits](The%20Labyrinth%20of%20Spirits/index.md)
+        
     
 
 
