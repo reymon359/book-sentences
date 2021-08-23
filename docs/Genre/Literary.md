@@ -5,3 +5,5 @@
     
  - [The Labyrinth of Spirits](The%20Labyrinth%20of%20Spirits/index.md)
     
+ - [The Prisoner of Heaven](The%20Prisoner%20of%20Heaven/index.md)
+    
