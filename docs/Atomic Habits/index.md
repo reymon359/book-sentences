@@ -2078,5 +2078,4 @@ You can download this chapter at: atomichabits.com/parenting or have a look at t
 
 - More resources can be found in the cheatsheet folder from the assets
 - https://jamesclear.com/atomic-habits/resources
-- https://jamesclear.com/atomic-habits/endnotes
-<hr/><br/>[Read:](Read/index.md) [2021](Read/2021.md)<br/>[Genre:](Genre/index.md) [Personal Growth](Genre/Personal%20Growth.md) [Productivity](Genre/Productivity.md) [Self-help](Genre/Self-help.md)
+- https://jamesclear.com/atomic-habits/endnotes<hr/><br/>[Read:](Read/index.md) [2021](Read/2021.md)<br/>[Genre:](Genre/index.md) [Personal Growth](Genre/Personal%20Growth.md) [Productivity](Genre/Productivity.md) [Self-help](Genre/Self-help.md)
