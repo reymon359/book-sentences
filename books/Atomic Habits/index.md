@@ -2031,27 +2031,14 @@ In the beginning, hope is all you have.
 
 ## How to Apply These Ideas to Business
 
-You can download this chapter at: atomichabits.com/business or [here](./assets/cheatseet/bonus_chapter_how_to_apply_these_ideas_to_business.pdf)
+You can download this chapter at: atomichabits.com/business or have a look at the cheatsheet folder from the assets
 
 ## How to Apply These Ideas to Parenting
 
+You can download this chapter at: atomichabits.com/parenting or have a look at the cheatsheet folder from the assets
 
+## Extra resources
 
-
-## Acknowledgments
-
-
-## Notes
-
-
-## Index
-
-
-## Copyright
-
-TODO: Add stuff from here https://jamesclear.com/atomic-habits/resources
-and here https://jamesclear.com/atomic-habits/endnotes
-add the links to the folder in the repo or directly to the pdfs online
-
-
-TODO: check the book where the cheatseet ismentioned and addd a proper link to it (maybe to the github folder)
+- More resources can be found in the cheatsheet folder from the assets
+- https://jamesclear.com/atomic-habits/resources
+- https://jamesclear.com/atomic-habits/endnotes
