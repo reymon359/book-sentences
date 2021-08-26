@@ -1,5 +1,7 @@
 
  - Content: books
+     - [Atomic Habits](Atomic%20Habits/index.md)
+        
      - [Brave New World](Brave%20New%20World/index.md)
         
      - [Clean Architecture](Clean%20Architecture/index.md)
@@ -73,6 +75,8 @@
      - [Novel](./Genre/Novel.md)
         
      - [Personal Growth](./Genre/Personal%20Growth.md)
+        
+     - [Productivity](./Genre/Productivity.md)
         
      - [Psychology](./Genre/Psychology.md)
         

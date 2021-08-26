@@ -1,8 +1,14 @@
-<p align="center"><img alt="atomic-habits" src="./atomic-habits.jpg" width="250" /></p> 
+---
+name: 'Atomic Habits'
+Read: ['2021']
+Genre: ['Self-help', 'Personal Growth', 'Productivity']
+---
 
-<h1 align="center">Atomic Habits.</h1>
+![Cover](./assets/atomic-habits.jpg)
 
-<h3 align="center">James Clear - 2018</h3> 
+# Atomic Habits
+
+James Clear - 2018
 
 ## Table of Contents
 
@@ -135,7 +141,7 @@ Improving by 1 percent isn’t particularly notable—sometimes it isn’t even 
 
 If you can get 1 percent better each day for one year, you’ll end up thirty-seven times better by the time you’re done. Conversely, if you get 1 percent worse each day for one year, you’ll decline nearly down to zero.
 
-![Figure 1](./figure1.jpg)
+![Figure 1](./assets/figure1.jpg)
 
 FIGURE 1: The effects of small habits compound over time. For example, if you can get just 1 percent better each day, you’ll end up with results that are nearly 37 times better after one year.
 
@@ -213,7 +219,7 @@ Mastery requires patience.
 > Jacob Riis hanging in their locker room: “When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. 19 Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did it—but all that had gone before.”
 > -Jacob Riis
  
-![Figure 2](./figure2.jpg)
+![Figure 2](./assets/figure2.jpg)
 
 FIGURE 2: We often expect progress to be linear... ...In reality, the results of our efforts are often delayed... ...This can result in a “valley of disappointment” where people feel discouraged after putting in weeks or months of hard work without experiencing any results. However, this work was not wasted... ...It is not until much later that the full value of previous efforts is revealed.
 
@@ -324,7 +330,7 @@ Changing our habits is challenging for two reasons: (1) we try to change the wro
 
 Our first mistake is that we try to change the wrong thing... ...consider that there are three levels at which change can occur. You can imagine them like the layers of an onion.
  
-![Figure 3](./figure3.jpg)
+![Figure 3](./assets/figure3.jpg)
 
 FIGURE 3: There are three layers of behavior change: a change in your outcomes, a change in your processes, or a change in your identity.
 
@@ -336,7 +342,7 @@ When it comes to building habits that last... ...the problem is not that one lev
 
 Many people begin the process of changing their habits by focusing on _what_ they want to achieve. This leads us to outcome-based habits. The alternative is to build identity-based habits. With this approach, we start by focusing on _who_ we wish to become.
 
-![Figure 4](./figure4.jpg)
+![Figure 4](./assets/figure4.jpg)
 
 FIGURE 4: With outcome-based habits, the focus is on what you want to achieve. With identity-based habits, the focus is on who you wish to become.
 
@@ -512,7 +518,7 @@ Building habits in the present allows you to do more of what you want in the fut
 
 The process of building a habit can be divided into four simple steps: cue, craving, response, and reward.
 
-![Figure 5](./figure5.jpg)
+![Figure 5](./assets/figure5.jpg)
 
 FIGURE 5: All habits proceed through four stages in the same order: cue, craving, response, and reward.
 
@@ -552,7 +558,7 @@ Eliminate the cue and your habit will never start. Reduce the craving and you wo
 
 Without the first three steps, a behavior will not occur. Without all four, a behavior will not be repeated.
 
-![Figure 6](./figure6.jpg)
+![Figure 6](./assets/figure6.jpg)
 
 FIGURE 6: The four stages of habit are best described as a feedback loop. They form an endless cycle that is running every moment you are alive. This “habit loop” is continually scanning the environment, predicting what will happen next, trying out different responses, and learning from the results.
 
@@ -562,7 +568,7 @@ This four-step process... ...is running and active during every moment you are a
 
 We can split these four steps into two phases: the problem phase and the solution phase. The problem phase includes the cue and the craving, and it is when you realize that something needs to change. The solution phase includes the response and the reward, and it is when you take action and achieve the change you desire.
 
-![Problem and solution phases](./problem_and_solution_phases.jpg)
+![Problem and solution phases](./assets/problem_and_solution_phases.jpg)
 
 All behavior is driven by the desire to solve a problem. 
 
@@ -570,7 +576,7 @@ Sometimes the problem is that you notice something good and you want to obtain i
 
 By the time we become adults, we rarely notice the habits that are running our lives. Most of us never give a second thought to the fact that we tie the same shoe first each morning, or unplug the toaster after each use, or always change into comfortable clothes after getting home from work. After decades of mental programming, we automatically slip into these patterns of thinking and acting.
 
-![Problem and solution phases examples](./problem_and_solution_phases_examples.jpg)
+![Problem and solution phases examples](./assets/problem_and_solution_phases_examples.jpg)
 
 ## The 1st Law Make It Obvious
 
@@ -692,7 +698,7 @@ The key is to tie your desired behavior into something you already do each day.
 
 Once you have mastered this basic structure, you can begin to create larger stacks by chaining small habits together. This allows you to take advantage of the natural momentum that comes from one behavior leading into the next—a positive version of the Diderot Effect. 
 
-![Figure 7](./figure7.jpg)
+![Figure 7](./assets/figure7.jpg)
 
 FIGURE 7: Habit stacking increases the likelihood that you’ll stick with a habit by stacking your new behavior on top of an old one. This process can be repeated to chain numerous habits together, each one acting as the cue for the next.
 
@@ -727,7 +733,7 @@ Chapter Summary:
 
 ANNE THORNDIKE, A primary care physician at Massachusetts General Hospital in Boston, had a crazy idea. 1 She believed she could improve the eating habits of thousands of hospital staff and visitors without changing their willpower or motivation in the slightest way. In fact, she didn’t plan on talking to them at all. Thorndike and her colleagues designed a six-month study to alter the “choice architecture” of the hospital cafeteria. They started by changing how drinks were arranged in the room.
 
-![Figure 8](./figure8.jpg)
+![Figure 8](./assets/figure8.jpg)
 
 FIGURE 8: Here is a representation of what the cafeteria looked like before the environment design changes were made (left) and after (right). The shaded boxes indicate areas where bottled water was available in each instance. Because the amount of water in the environment was increased, behavior shifted naturally and without additional motivation.
 
@@ -880,9 +886,9 @@ Chapter Summary
 - One of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it. 
 - Self-control is a short-term strategy, not a long-term one.
 
-![How to create a Good Habit](./how_to_create_a_good_habit.jpg)
+![How to create a Good Habit](./assets/how_to_create_a_good_habit.jpg)
 
-![How to break a Bad Habit](./how_to_break_a_bad_habit.jpg)
+![How to break a Bad Habit](./assets/how_to_break_a_bad_habit.jpg)
 
 You can download a printable version of this habits cheat sheet at: http://atomichabits.com/cheatsheet
 
@@ -933,7 +939,7 @@ The reward system that is activated in the brain when you _receive_ a reward is 
 
 The anticipation of an experience can often feel better than the attainment of it... ...As an adult, daydreaming about an upcoming vacation can be more enjoyable than actually being on vacation. Scientists refer to this as the difference between “wanting” and “liking.”
 
-![Figure 9](./figure9.jpg)
+![Figure 9](./assets/figure9.jpg)
 
 FIGURE 9: Before a habit is learned (A), dopamine is released when the reward is experienced for the first time. The next time around (B), dopamine rises before taking action, immediately after a cue is recognized. This spike leads to a feeling of desire and a craving to take action whenever the cue is spotted. Once a habit is learned, dopamine will not rise when a reward is experienced because you already expect the reward. However, if you see a cue and expect a reward, but do not get one, then dopamine will drop in disappointment (C). The sensitivity of the dopamine response can clearly be seen when a reward is provided late (D). First, the cue is identified and dopamine rises as a craving builds. Next, a response is taken but the reward does not come as quickly as expected and dopamine begins to drop. Finally, when the reward comes a little later than you had hoped, dopamine spikes again. It is as if the brain is saying, “See! I knew I was right. Don’t forget to repeat this action next time.”
 
@@ -1024,7 +1030,7 @@ Remaining part of a group after achieving a goal is crucial to maintaining your 
 
 ### 2. Imitating the Many
 
-![Figure 10](./figure10.jpg)
+![Figure 10](./assets/figure10.jpg)
 
 FIGURE 10: This is a representation of two cards used by Solomon Asch in his famous social conformity experiments. The length of the line on the first card (left) is obviously the same as line C, but when a group of actors claimed it was a different length the research subjects would often change their minds and go with the crowd rather than believe their own eyes.
 
@@ -1185,11 +1191,11 @@ Each time you repeat an action, you are activating a particular neural circuit a
 
 All habits follow a similar trajectory from effortful practice to automatic behavior, a process known as _automaticity._ Automaticity is the ability to perform a behavior without thinking about each step, which occurs when the nonconscious mind takes over.
 
-![Figure 11](./figure11.jpg)
+![Figure 11](./assets/figure11.jpg)
 
 FIGURE 11: In the beginning (point A), a habit requires a good deal of effort and concentration to perform. After a few repetitions (point B), it gets easier, but still requires some conscious attention. With enough practice (point C), the habit becomes more automatic than conscious. Beyond this threshold— the habit line —the behavior can be done more or less without thinking. A new habit has been formed.
 
-![Figure 12](./figure12.jpg)
+![Figure 12](./assets/figure12.jpg)
 
 FIGURE 12: This graph shows someone who built the habit of walking for ten minutes after breakfast each day. Notice that as the repetitions increase, so does automaticity, until the behavior is as easy and automatic as it can be.
 
@@ -1208,7 +1214,7 @@ Chapter Summary
 
 ## 12 The Law of Least Effort
 
-![Figure 13](./figure13.jpg)
+![Figure 13](./assets/figure13.jpg)
 
 FIGURE 13: The primary axis of Europe and Asia is east-west. The primary axis of the Americas and Africa is north-south. This leads to a wider range of climates up-and-down the Americas than across Europe and Asia. As a result, agriculture spread nearly twice as fast across Europe and Asia than it did elsewhere. The behavior of farmers—even across hundreds or thousands of years—was constrained by the amount of friction in the environment.
 
@@ -1289,7 +1295,7 @@ Every day, there are a handful of moments that deliver an outsized impact. I ref
 
 Decisive moments set the options available to your future self.
 
-![Figure 14](./figure14.jpg)
+![Figure 14](./assets/figure14.jpg)
 
 FIGURE 14: The difference between a good day and a bad day is often a few productive and healthy choices made at decisive moments. Each one is like a fork in the road, and these choices stack up throughout the day and can ultimately lead to very different outcomes.
 
@@ -1314,7 +1320,7 @@ This is a powerful strategy because once you’ve started doing the right thing,
 
 A new habit should not feel like a challenge. The actions that follow can be challenging, but the first two minutes should be easy. What you want is a “gateway habit” that naturally leads you down a more productive path.
 
-![Two minute rule table](./two-minute-rule-table.jpg)
+![Two minute rule table](./assets/two-minute-rule-table.jpg)
 
 The point is not to do one thing. The point is to master the habit of showing up.
 
@@ -1336,7 +1342,7 @@ It’s better to do less than you hoped than to do nothing at all.
 
 Once you’ve established the habit and you’re showing up each day, you can combine the Two-Minute Rule with a technique we call habit shaping to scale your habit back up toward your ultimate goal... ...Eventually, you’ll end up with the habit you had originally hoped to build while still keeping your focus where it should be: on the first two minutes of the behavior.
 
-![Examples of habit shaping](./examples_of_habit_shaping.jpg)
+![Examples of habit shaping](./assets/examples_of_habit_shaping.jpg)
 
 Chapter Summary:
 - Habits can be completed in a few seconds but continue to impact your behavior for minutes or hours afterward.
@@ -1770,7 +1776,7 @@ The Goldilocks Rule states that humans experience peak motivation when working o
 
 When you’re starting a new habit, it’s important to keep the behavior as easy as possible so you can stick with it even when conditions aren’t perfect... ...Once a habit has been established, however, it’s important to continue to advance in small ways. These little improvements and new challenges keep you engaged.
 
-![Figure 15](./figure15.jpg)
+![Figure 15](./assets/figure15.jpg)
 
 FIGURE 15: Maximum motivation occurs when facing a challenge of just manageable difficulty. In psychology research this is known as the Yerkes–Dodson law, which describes the optimal level of arousal as the midpoint between boredom and anxiety.
 
@@ -1832,7 +1838,7 @@ Mastery is the process of narrowing your focus to a tiny element of success, rep
 
 Each habit unlocks the next level of performance. It’s an endless cycle.
 
-![Figure 16](./figure16.jpg)
+![Figure 16](./assets/figure16.jpg)
 
 FIGURE 16: The process of mastery requires that you progressively layer improvements on top of one another, each habit building upon the last until a new level of performance has been reached and a higher range of skills has been internalized.
 
@@ -1952,3 +1958,6 @@ Change until you find the next bottleneck. Make it obvious. Make it attractive. 
 TODO: Add stuff from here https://jamesclear.com/atomic-habits/resources
 and here https://jamesclear.com/atomic-habits/endnotes
 add the links to the folder in the repo or directly to the pdfs online
+
+
+TODO: check the book where the cheatseet ismentioned and addd a proper link to it (maybe to the github folder)
