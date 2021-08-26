@@ -7,47 +7,89 @@ James Clear - 2018
 
 ## Table of Contents
 
-- About the Book
-- About the Author
-- Title Page
-- Epigraph
-- Introduction: My Story 
-- The Fundamentals Why Tiny Changes Make a Big Difference
-- 1 The Surprising Power of Atomic Habits
-- 2 How Your Habits Shape Your Identity (and Vice Versa)
-- 3 How to Build Better Habits in 4 Simple Steps
-- The 1st Law Make It Obvious
-- 4 The Man Who Didn’t Look Right
-- 5 The Best Way to Start a New Habit
-- 6 Motivation is Overrated; Environment Often Matters More
-- 7 The Secret to Self-Control
-- The 2nd Law Make It Attractive
-- 8 How to Make a Habit Irresistible
-- 9 The Role of Family and Friends in Shaping Your Habits
-- 10 How to Find and Fix the Causes of Your Bad Habits
-- The 3rd Law Make It Easy
-- 11 Walk Slowly, but Never Backward
-- 12 The Law of Least Effort
-- 13 How to Stop Procrastinating by Using the Two-Minute Rule
-- 14 How to Make Good Habits Inevitable and Bad Habits Impossible
-- The 4th Law Make It Satisfying
-- 15 The Cardinal Rule of Behavior Change
-- 16 How to Stick with Good Habits Every Day
-- 17 How an Accountability Partner Can Change Everything
-- Advanced Tactics How to Go from Being Merely Good to Being Truly Great
-- 18 The Truth About Talent (When Genes Matter and When They Don’t)
-- 19 The Goldilocks Rule: How to Stay Motivated in Life and Work
-- 20 The Downside of Creating Good Habits
-- Conclusion: The Secret to Results That Last
-- Appendix
-- What Should You Read Next?
-- Little Lessons from the Four Laws
-- How to Apply These Ideas to Business
-- How to Apply These Ideas to Parenting
-- Acknowledgments
-- Notes
-- Index
-- Copyright
+  - [About the Book](#about-the-book)
+  - [About the Author](#about-the-author)
+  - [Title Page](#title-page)
+  - [Epigraph](#epigraph)
+  - [Introduction: My Story](#introduction-my-story)
+    - [MY RECOVERY](#my-recovery)
+    - [HOW I LEARNED ABOUT HABITS](#how-i-learned-about-habits)
+    - [HOW AND WHY I WROTE THIS BOOK](#how-and-why-i-wrote-this-book)
+    - [HOW THIS BOOK WILL BENEFIT YOU](#how-this-book-will-benefit-you)
+  - [The Fundamentals Why Tiny Changes Make a Big Difference](#the-fundamentals-why-tiny-changes-make-a-big-difference)
+  - [1 The Surprising Power of Atomic Habits](#1-the-surprising-power-of-atomic-habits)
+    - [WHY SMALL HABITS MAKE A BIG DIFFERENCE](#why-small-habits-make-a-big-difference)
+    - [YOUR HABITS CAN COMPOUND FOR YOU OR AGAINST YOU](#your-habits-can-compound-for-you-or-against-you)
+    - [WHAT PROGRESS IS REALLY LIKE](#what-progress-is-really-like)
+    - [FORGET ABOUT GOALS, FOCUS ON SYSTEMS INSTEAD](#forget-about-goals-focus-on-systems-instead)
+    - [A SYSTEM OF ATOMIC HABITS](#a-system-of-atomic-habits)
+  - [2 How Your Habits Shape Your Identity (and Vice Versa)](#2-how-your-habits-shape-your-identity-and-vice-versa)
+    - [THE REAL REASON HABITS MATTER](#the-real-reason-habits-matter)
+  - [3 How to Build Better Habits in 4 Simple Steps](#3-how-to-build-better-habits-in-4-simple-steps)
+    - [WHY YOUR BRAIN BUILDS HABITS](#why-your-brain-builds-habits)
+    - [THE SCIENCE OF HOW HABITS WORK](#the-science-of-how-habits-work)
+  - [The 1st Law Make It Obvious](#the-1st-law-make-it-obvious)
+  - [4 The Man Who Didn’t Look Right](#4-the-man-who-didnt-look-right)
+    - [THE HABITS SCORECARD](#the-habits-scorecard)
+  - [5 The Best Way to Start a New Habit](#5-the-best-way-to-start-a-new-habit)
+    - [HABIT STACKING: A SIMPLE PLAN TO OVERHAUL YOUR HABITS](#habit-stacking-a-simple-plan-to-overhaul-your-habits)
+  - [6 Motivation is Overrated; Environment Often Matters More](#6-motivation-is-overrated-environment-often-matters-more)
+    - [HOW TO DESIGN YOUR ENVIRONMENT FOR SUCCESS](#how-to-design-your-environment-for-success)
+    - [THE CONTEXT IS THE CUE](#the-context-is-the-cue)
+  - [7 The Secret to Self-Control](#7-the-secret-to-self-control)
+  - [The 2nd Law Make It Attractive](#the-2nd-law-make-it-attractive)
+  - [8 How to Make a Habit Irresistible](#8-how-to-make-a-habit-irresistible)
+    - [THE DOPAMINE-DRIVEN FEEDBACK LOOP](#the-dopamine-driven-feedback-loop)
+    - [HOW TO USE TEMPTATION BUNDLING TO MAKE YOUR HABITS MORE ATTRACTIVE](#how-to-use-temptation-bundling-to-make-your-habits-more-attractive)
+  - [9 The Role of Family and Friends in Shaping Your Habits](#9-the-role-of-family-and-friends-in-shaping-your-habits)
+    - [THE SEDUCTIVE PULL OF SOCIAL NORMS](#the-seductive-pull-of-social-norms)
+    - [1. Imitating the Close](#1-imitating-the-close)
+    - [2. Imitating the Many](#2-imitating-the-many)
+    - [3. Imitating the Powerful](#3-imitating-the-powerful)
+  - [10 How to Find and Fix the Causes of Your Bad Habits](#10-how-to-find-and-fix-the-causes-of-your-bad-habits)
+    - [WHERE CRAVINGS COME FROM](#where-cravings-come-from)
+    - [HOW TO REPROGRAM YOUR BRAIN TO ENJOY HARD HABITS](#how-to-reprogram-your-brain-to-enjoy-hard-habits)
+  - [The 3rd Law Make It Easy](#the-3rd-law-make-it-easy)
+  - [11 Walk Slowly, but Never Backward](#11-walk-slowly-but-never-backward)
+    - [HOW LONG DOES IT ACTUALLY TAKE TO FORM A NEW HABIT?](#how-long-does-it-actually-take-to-form-a-new-habit)
+  - [12 The Law of Least Effort](#12-the-law-of-least-effort)
+    - [HOW TO ACHIEVE MORE WITH LESS EFFORT](#how-to-achieve-more-with-less-effort)
+    - [PRIME THE ENVIRONMENT FOR FUTURE USE](#prime-the-environment-for-future-use)
+  - [13 How to Stop Procrastinating by Using the Two-Minute Rule](#13-how-to-stop-procrastinating-by-using-the-two-minute-rule)
+    - [THE TWO-MINUTE RULE](#the-two-minute-rule)
+  - [14 How to Make Good Habits Inevitable and Bad Habits Impossible](#14-how-to-make-good-habits-inevitable-and-bad-habits-impossible)
+    - [HOW TO AUTOMATE A HABIT AND NEVER THINK ABOUT IT AGAIN](#how-to-automate-a-habit-and-never-think-about-it-again)
+    - [ONETIME ACTIONS THAT LOCK IN GOOD HABITS](#onetime-actions-that-lock-in-good-habits)
+  - [The 4th Law Make It Satisfying](#the-4th-law-make-it-satisfying)
+  - [15 The Cardinal Rule of Behavior Change](#15-the-cardinal-rule-of-behavior-change)
+    - [THE MISMATCH BETWEEN IMMEDIATE AND DELAYED REWARDS](#the-mismatch-between-immediate-and-delayed-rewards)
+    - [HOW TO TURN INSTANT GRATIFICATION TO YOUR ADVANTAGE](#how-to-turn-instant-gratification-to-your-advantage)
+  - [16 How to Stick with Good Habits Every Day](#16-how-to-stick-with-good-habits-every-day)
+    - [HOW TO KEEP YOUR HABITS ON TRACK](#how-to-keep-your-habits-on-track)
+    - [Benefit #1: Habit tracking is obvious.](#benefit-1-habit-tracking-is-obvious)
+    - [Benefit #2: Habit tracking is attractive.](#benefit-2-habit-tracking-is-attractive)
+    - [Benefit #3: Habit tracking is satisfying.](#benefit-3-habit-tracking-is-satisfying)
+    - [HOW TO RECOVER QUICKLY WHEN YOUR HABITS BREAK DOWN](#how-to-recover-quickly-when-your-habits-break-down)
+    - [KNOWING WHEN (AND WHEN NOT) TO TRACK A HABIT](#knowing-when-and-when-not-to-track-a-habit)
+  - [17 How an Accountability Partner Can Change Everything](#17-how-an-accountability-partner-can-change-everything)
+    - [THE HABIT CONTRACT](#the-habit-contract)
+  - [Advanced Tactics How to Go from Being Merely Good to Being Truly Great](#advanced-tactics-how-to-go-from-being-merely-good-to-being-truly-great)
+  - [18 The Truth About Talent (When Genes Matter and When They Don’t)](#18-the-truth-about-talent-when-genes-matter-and-when-they-dont)
+    - [HOW YOUR PERSONALITY INFLUENCES YOUR HABITS](#how-your-personality-influences-your-habits)
+    - [HOW TO FIND A GAME WHERE THE ODDS ARE IN YOUR FAVOR](#how-to-find-a-game-where-the-odds-are-in-your-favor)
+    - [HOW TO GET THE MOST OUT OF YOUR GENES](#how-to-get-the-most-out-of-your-genes)
+  - [19 The Goldilocks Rule: How to Stay Motivated in Life and Work](#19-the-goldilocks-rule-how-to-stay-motivated-in-life-and-work)
+    - [HOW TO STAY FOCUSED WHEN YOU GET BORED WORKING ON YOUR GOALS](#how-to-stay-focused-when-you-get-bored-working-on-your-goals)
+  - [20 The Downside of Creating Good Habits](#20-the-downside-of-creating-good-habits)
+    - [HOW TO REVIEW YOUR HABITS AND MAKE ADJUSTMENTS](#how-to-review-your-habits-and-make-adjustments)
+    - [HOW TO BREAK THE BELIEFS THAT HOLD YOU BACK](#how-to-break-the-beliefs-that-hold-you-back)
+  - [Conclusion: The Secret to Results That Last](#conclusion-the-secret-to-results-that-last)
+  - [Appendix](#appendix)
+  - [What Should You Read Next?](#what-should-you-read-next)
+  - [Little Lessons from the Four Laws](#little-lessons-from-the-four-laws)
+  - [How to Apply These Ideas to Business](#how-to-apply-these-ideas-to-business)
+  - [How to Apply These Ideas to Parenting](#how-to-apply-these-ideas-to-parenting)
+  - [Extra resources](#extra-resources)
 
 ## About the Book
 
@@ -1932,27 +1974,109 @@ Change until you find the next bottleneck. Make it obvious. Make it attractive. 
   
 ## Little Lessons from the Four Laws
 
+IN THIS BOOK, I have introduced a four-step model for human behavior: cue, craving, response, reward. This framework not only teaches us how to create new habits but also reveals some interesting insights about human behavior.
+
+**Awareness comes before desire.** A craving is created when you assign meaning to a cue. Your brain constructs an emotion or feeling to describe your current situation, and that means a craving can only occur after you have noticed an opportunity.
+
+**Happiness is simply the absence of desire.** When you observe a cue, but do not desire to change your state, you are content with the current situation.
+
+Happiness is not about the achievement of pleasure (which is joy or satisfaction), but about the lack of desire. It arrives when you have no urge to feel differently. 
+
+Happiness is the state you enter when you no longer want to change your state.
+
+Happiness is fleeting because a new desire always comes along.
+
+> “Happiness is the space between one desire being fulfilled and a new desire forming.” - Caed Budris
+
+Suffering is the space between craving a change in state and getting it.
+
+**It is the idea of pleasure that we chase.** We seek the image of pleasure that we generate in our minds.
+
+Victor Frankl meant when he said that happiness cannot be pursued, it must ensue. Desire is pursued. Pleasure ensues from action.
+
+**Peace occurs when you don’t turn your observations into problems.**... ...If you do not desire to act on what you observe, then you are at peace. Craving is about wanting to fix everything. Observation without craving is the realization that you do not need to fix anything... ...You’re simply observing and existing.
+
+**With a big enough why you can overcome any how.**
+
+> “He who has a why to live for can bear almost any how.” - Friedrich Nietzsche, the German philosopher and poet
+
+**Being curious is better than being smart.** Being motivated and curious counts for more than being smart because it leads to action.
+
+It is desire, not intelligence, that prompts behavior.
+
+> “The trick to doing anything is first cultivating a desire for it.” - Naval Ravikant
+
+**Emotions drive behavior.** Every decision is an emotional decision at some level. Whatever your logical reasons are for taking action, you only feel compelled to act on them because of emotion.
+
+Craving comes before response. The feeling comes first, and then the behavior.
+
+**We can only be rational and logical after we have been emotional.** The primary mode of the brain is to feel; the secondary mode is to think... ...Psychologists refer to this as System 1 (feelings and rapid judgments) versus System 2 (rational analysis). The feeling comes first (System 1);4 the rationality only intervenes later (System 2). This works great when the two are aligned, but it results in illogical and emotional thinking when they are not.
+
+**Your response tends to follow your emotions.** Our thoughts and actions are rooted in what we find attractive, not necessarily in what is logical.
+
+If a topic makes someone feel emotional, they will rarely be interested in the data. This is why emotions can be such a threat to wise decision making.
+
+To approach a situation from a more neutral emotional position allows you to base your response on the data rather than the emotion.
+
+**Suffering drives progress.** The source of all suffering is the desire for a change in state. This is also the source of all progress. The desire to change your state is what powers you to take action.
+
+With craving, we are dissatisfied but driven. Without craving, we are satisfied but lack ambition.
+
+**Your actions reveal how badly you want something.** If you keep saying something is a priority but you never act on it, then you don’t really want it.
+
+**Reward is on the other side of sacrifice.** Response (sacrifice of energy) always precedes reward (the collection of resources). 
+
+**Self-control is difficult because it is not satisfying.** A reward is an outcome that satisfies your craving. This makes self-control ineffective because inhibiting our desires does not usually resolve them. 
+
+**Self-control is difficult because it is not satisfying.** A reward is an outcome that satisfies your craving. This makes self-control ineffective because inhibiting our desires does not usually resolve them.
+
+Self-control requires you to release a desire rather than satisfy it.
+
+**Our expectations determine our satisfaction.** The gap between our cravings and our rewards determines how satisfied we feel after taking action.
+
+Your expectation changes your satisfaction. An average experience preceded by high expectations is a disappointment. An average experience preceded by low expectations is a delight.
+
+Satisfaction = Liking – Wanting
+
+> “Being poor is not having too little, it is wanting more.” - Seneca
+
+If your wants outpace your likes, you’ll always be unsatisfied. You’re perpetually putting more weight on the problem than the solution.
+
+Happiness is relative.
+
+**The pain of failure correlates to the height of expectation.** When desire is high, it hurts to not like the outcome. Failing to attain something you want hurts more than failing to attain something you didn’t think much about in the first place. 
+
+**Feelings come both before and after the behavior.** Before acting, there is a feeling that motivates you to act—the craving. After acting, there is a feeling that teaches you to repeat the action in the future—the reward.
+
+Cue > Craving (Feeling) > Response > Reward (Feeling)
+
+How we feel influences how we act, and how we act influences how we feel.
+
+**Desire initiates. Pleasure sustains.** Wanting and liking are the two drivers of behavior. If it’s not desirable, you have no reason to do it. Desire and craving are what initiate a behavior. But if it’s not enjoyable, you have no reason to repeat it.
+
+Feeling motivated gets you to act. Feeling successful gets you to repeat.
+
+**Hope declines with experience and is replaced by acceptance.**
+
+The first time an opportunity arises, there is hope of what could be... ...The second time around, your expectation is grounded in reality. You begin to understand how the process works and your hope is gradually traded for a more accurate prediction and acceptance of the likely outcome.
+
+New strategies seem more appealing than old ones because they can have unbounded hope.
+
+> “Youth is easily deceived because it is quick to hope.”8 Perhaps this can be revised to “Youth is easily deceived because it only hopes.” - Aristotle
+
+In the beginning, hope is all you have.
 
 ## How to Apply These Ideas to Business
 
+You can download this chapter at: atomichabits.com/business or have a look at the cheatsheet folder from the assets
 
 ## How to Apply These Ideas to Parenting
 
+You can download this chapter at: atomichabits.com/parenting or have a look at the cheatsheet folder from the assets
 
-## Acknowledgments
+## Extra resources
 
-
-## Notes
-
-
-## Index
-
-
-## Copyright
-
-TODO: Add stuff from here https://jamesclear.com/atomic-habits/resources
-and here https://jamesclear.com/atomic-habits/endnotes
-add the links to the folder in the repo or directly to the pdfs online
-
-
-TODO: check the book where the cheatseet ismentioned and addd a proper link to it (maybe to the github folder)<hr/><br/>[Read:](Read/index.md) [2021](Read/2021.md)<br/>[Genre:](Genre/index.md) [Personal Growth](Genre/Personal%20Growth.md) [Productivity](Genre/Productivity.md) [Self-help](Genre/Self-help.md)
+- More resources can be found in the cheatsheet folder from the assets
+- https://jamesclear.com/atomic-habits/resources
+- https://jamesclear.com/atomic-habits/endnotes
+<hr/><br/>[Read:](Read/index.md) [2021](Read/2021.md)<br/>[Genre:](Genre/index.md) [Personal Growth](Genre/Personal%20Growth.md) [Productivity](Genre/Productivity.md) [Self-help](Genre/Self-help.md)
