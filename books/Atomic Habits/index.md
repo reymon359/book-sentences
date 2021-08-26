@@ -2029,11 +2029,13 @@ New strategies seem more appealing than old ones because they can have unbounded
 
 In the beginning, hope is all you have.
 
-
 ## How to Apply These Ideas to Business
 
+You can download this chapter at: atomichabits.com/business or [here](./assets/cheatseet/bonus_chapter_how_to_apply_these_ideas_to_business.pdf)
 
 ## How to Apply These Ideas to Parenting
+
+
 
 
 ## Acknowledgments
