@@ -12,47 +12,89 @@ James Clear - 2018
 
 ## Table of Contents
 
-- About the Book
-- About the Author
-- Title Page
-- Epigraph
-- Introduction: My Story 
-- The Fundamentals Why Tiny Changes Make a Big Difference
-- 1 The Surprising Power of Atomic Habits
-- 2 How Your Habits Shape Your Identity (and Vice Versa)
-- 3 How to Build Better Habits in 4 Simple Steps
-- The 1st Law Make It Obvious
-- 4 The Man Who Didn’t Look Right
-- 5 The Best Way to Start a New Habit
-- 6 Motivation is Overrated; Environment Often Matters More
-- 7 The Secret to Self-Control
-- The 2nd Law Make It Attractive
-- 8 How to Make a Habit Irresistible
-- 9 The Role of Family and Friends in Shaping Your Habits
-- 10 How to Find and Fix the Causes of Your Bad Habits
-- The 3rd Law Make It Easy
-- 11 Walk Slowly, but Never Backward
-- 12 The Law of Least Effort
-- 13 How to Stop Procrastinating by Using the Two-Minute Rule
-- 14 How to Make Good Habits Inevitable and Bad Habits Impossible
-- The 4th Law Make It Satisfying
-- 15 The Cardinal Rule of Behavior Change
-- 16 How to Stick with Good Habits Every Day
-- 17 How an Accountability Partner Can Change Everything
-- Advanced Tactics How to Go from Being Merely Good to Being Truly Great
-- 18 The Truth About Talent (When Genes Matter and When They Don’t)
-- 19 The Goldilocks Rule: How to Stay Motivated in Life and Work
-- 20 The Downside of Creating Good Habits
-- Conclusion: The Secret to Results That Last
-- Appendix
-- What Should You Read Next?
-- Little Lessons from the Four Laws
-- How to Apply These Ideas to Business
-- How to Apply These Ideas to Parenting
-- Acknowledgments
-- Notes
-- Index
-- Copyright
+  - [About the Book](#about-the-book)
+  - [About the Author](#about-the-author)
+  - [Title Page](#title-page)
+  - [Epigraph](#epigraph)
+  - [Introduction: My Story](#introduction-my-story)
+    - [MY RECOVERY](#my-recovery)
+    - [HOW I LEARNED ABOUT HABITS](#how-i-learned-about-habits)
+    - [HOW AND WHY I WROTE THIS BOOK](#how-and-why-i-wrote-this-book)
+    - [HOW THIS BOOK WILL BENEFIT YOU](#how-this-book-will-benefit-you)
+  - [The Fundamentals Why Tiny Changes Make a Big Difference](#the-fundamentals-why-tiny-changes-make-a-big-difference)
+  - [1 The Surprising Power of Atomic Habits](#1-the-surprising-power-of-atomic-habits)
+    - [WHY SMALL HABITS MAKE A BIG DIFFERENCE](#why-small-habits-make-a-big-difference)
+    - [YOUR HABITS CAN COMPOUND FOR YOU OR AGAINST YOU](#your-habits-can-compound-for-you-or-against-you)
+    - [WHAT PROGRESS IS REALLY LIKE](#what-progress-is-really-like)
+    - [FORGET ABOUT GOALS, FOCUS ON SYSTEMS INSTEAD](#forget-about-goals-focus-on-systems-instead)
+    - [A SYSTEM OF ATOMIC HABITS](#a-system-of-atomic-habits)
+  - [2 How Your Habits Shape Your Identity (and Vice Versa)](#2-how-your-habits-shape-your-identity-and-vice-versa)
+    - [THE REAL REASON HABITS MATTER](#the-real-reason-habits-matter)
+  - [3 How to Build Better Habits in 4 Simple Steps](#3-how-to-build-better-habits-in-4-simple-steps)
+    - [WHY YOUR BRAIN BUILDS HABITS](#why-your-brain-builds-habits)
+    - [THE SCIENCE OF HOW HABITS WORK](#the-science-of-how-habits-work)
+  - [The 1st Law Make It Obvious](#the-1st-law-make-it-obvious)
+  - [4 The Man Who Didn’t Look Right](#4-the-man-who-didnt-look-right)
+    - [THE HABITS SCORECARD](#the-habits-scorecard)
+  - [5 The Best Way to Start a New Habit](#5-the-best-way-to-start-a-new-habit)
+    - [HABIT STACKING: A SIMPLE PLAN TO OVERHAUL YOUR HABITS](#habit-stacking-a-simple-plan-to-overhaul-your-habits)
+  - [6 Motivation is Overrated; Environment Often Matters More](#6-motivation-is-overrated-environment-often-matters-more)
+    - [HOW TO DESIGN YOUR ENVIRONMENT FOR SUCCESS](#how-to-design-your-environment-for-success)
+    - [THE CONTEXT IS THE CUE](#the-context-is-the-cue)
+  - [7 The Secret to Self-Control](#7-the-secret-to-self-control)
+  - [The 2nd Law Make It Attractive](#the-2nd-law-make-it-attractive)
+  - [8 How to Make a Habit Irresistible](#8-how-to-make-a-habit-irresistible)
+    - [THE DOPAMINE-DRIVEN FEEDBACK LOOP](#the-dopamine-driven-feedback-loop)
+    - [HOW TO USE TEMPTATION BUNDLING TO MAKE YOUR HABITS MORE ATTRACTIVE](#how-to-use-temptation-bundling-to-make-your-habits-more-attractive)
+  - [9 The Role of Family and Friends in Shaping Your Habits](#9-the-role-of-family-and-friends-in-shaping-your-habits)
+    - [THE SEDUCTIVE PULL OF SOCIAL NORMS](#the-seductive-pull-of-social-norms)
+    - [1. Imitating the Close](#1-imitating-the-close)
+    - [2. Imitating the Many](#2-imitating-the-many)
+    - [3. Imitating the Powerful](#3-imitating-the-powerful)
+  - [10 How to Find and Fix the Causes of Your Bad Habits](#10-how-to-find-and-fix-the-causes-of-your-bad-habits)
+    - [WHERE CRAVINGS COME FROM](#where-cravings-come-from)
+    - [HOW TO REPROGRAM YOUR BRAIN TO ENJOY HARD HABITS](#how-to-reprogram-your-brain-to-enjoy-hard-habits)
+  - [The 3rd Law Make It Easy](#the-3rd-law-make-it-easy)
+  - [11 Walk Slowly, but Never Backward](#11-walk-slowly-but-never-backward)
+    - [HOW LONG DOES IT ACTUALLY TAKE TO FORM A NEW HABIT?](#how-long-does-it-actually-take-to-form-a-new-habit)
+  - [12 The Law of Least Effort](#12-the-law-of-least-effort)
+    - [HOW TO ACHIEVE MORE WITH LESS EFFORT](#how-to-achieve-more-with-less-effort)
+    - [PRIME THE ENVIRONMENT FOR FUTURE USE](#prime-the-environment-for-future-use)
+  - [13 How to Stop Procrastinating by Using the Two-Minute Rule](#13-how-to-stop-procrastinating-by-using-the-two-minute-rule)
+    - [THE TWO-MINUTE RULE](#the-two-minute-rule)
+  - [14 How to Make Good Habits Inevitable and Bad Habits Impossible](#14-how-to-make-good-habits-inevitable-and-bad-habits-impossible)
+    - [HOW TO AUTOMATE A HABIT AND NEVER THINK ABOUT IT AGAIN](#how-to-automate-a-habit-and-never-think-about-it-again)
+    - [ONETIME ACTIONS THAT LOCK IN GOOD HABITS](#onetime-actions-that-lock-in-good-habits)
+  - [The 4th Law Make It Satisfying](#the-4th-law-make-it-satisfying)
+  - [15 The Cardinal Rule of Behavior Change](#15-the-cardinal-rule-of-behavior-change)
+    - [THE MISMATCH BETWEEN IMMEDIATE AND DELAYED REWARDS](#the-mismatch-between-immediate-and-delayed-rewards)
+    - [HOW TO TURN INSTANT GRATIFICATION TO YOUR ADVANTAGE](#how-to-turn-instant-gratification-to-your-advantage)
+  - [16 How to Stick with Good Habits Every Day](#16-how-to-stick-with-good-habits-every-day)
+    - [HOW TO KEEP YOUR HABITS ON TRACK](#how-to-keep-your-habits-on-track)
+    - [Benefit #1: Habit tracking is obvious.](#benefit-1-habit-tracking-is-obvious)
+    - [Benefit #2: Habit tracking is attractive.](#benefit-2-habit-tracking-is-attractive)
+    - [Benefit #3: Habit tracking is satisfying.](#benefit-3-habit-tracking-is-satisfying)
+    - [HOW TO RECOVER QUICKLY WHEN YOUR HABITS BREAK DOWN](#how-to-recover-quickly-when-your-habits-break-down)
+    - [KNOWING WHEN (AND WHEN NOT) TO TRACK A HABIT](#knowing-when-and-when-not-to-track-a-habit)
+  - [17 How an Accountability Partner Can Change Everything](#17-how-an-accountability-partner-can-change-everything)
+    - [THE HABIT CONTRACT](#the-habit-contract)
+  - [Advanced Tactics How to Go from Being Merely Good to Being Truly Great](#advanced-tactics-how-to-go-from-being-merely-good-to-being-truly-great)
+  - [18 The Truth About Talent (When Genes Matter and When They Don’t)](#18-the-truth-about-talent-when-genes-matter-and-when-they-dont)
+    - [HOW YOUR PERSONALITY INFLUENCES YOUR HABITS](#how-your-personality-influences-your-habits)
+    - [HOW TO FIND A GAME WHERE THE ODDS ARE IN YOUR FAVOR](#how-to-find-a-game-where-the-odds-are-in-your-favor)
+    - [HOW TO GET THE MOST OUT OF YOUR GENES](#how-to-get-the-most-out-of-your-genes)
+  - [19 The Goldilocks Rule: How to Stay Motivated in Life and Work](#19-the-goldilocks-rule-how-to-stay-motivated-in-life-and-work)
+    - [HOW TO STAY FOCUSED WHEN YOU GET BORED WORKING ON YOUR GOALS](#how-to-stay-focused-when-you-get-bored-working-on-your-goals)
+  - [20 The Downside of Creating Good Habits](#20-the-downside-of-creating-good-habits)
+    - [HOW TO REVIEW YOUR HABITS AND MAKE ADJUSTMENTS](#how-to-review-your-habits-and-make-adjustments)
+    - [HOW TO BREAK THE BELIEFS THAT HOLD YOU BACK](#how-to-break-the-beliefs-that-hold-you-back)
+  - [Conclusion: The Secret to Results That Last](#conclusion-the-secret-to-results-that-last)
+  - [Appendix](#appendix)
+  - [What Should You Read Next?](#what-should-you-read-next)
+  - [Little Lessons from the Four Laws](#little-lessons-from-the-four-laws)
+  - [How to Apply These Ideas to Business](#how-to-apply-these-ideas-to-business)
+  - [How to Apply These Ideas to Parenting](#how-to-apply-these-ideas-to-parenting)
+  - [Extra resources](#extra-resources)
 
 ## About the Book
 
