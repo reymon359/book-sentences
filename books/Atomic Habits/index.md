@@ -1937,6 +1937,98 @@ Change until you find the next bottleneck. Make it obvious. Make it attractive. 
   
 ## Little Lessons from the Four Laws
 
+IN THIS BOOK, I have introduced a four-step model for human behavior: cue, craving, response, reward. This framework not only teaches us how to create new habits but also reveals some interesting insights about human behavior.
+
+**Awareness comes before desire.** A craving is created when you assign meaning to a cue. Your brain constructs an emotion or feeling to describe your current situation, and that means a craving can only occur after you have noticed an opportunity.
+
+**Happiness is simply the absence of desire.** When you observe a cue, but do not desire to change your state, you are content with the current situation.
+
+Happiness is not about the achievement of pleasure (which is joy or satisfaction), but about the lack of desire. It arrives when you have no urge to feel differently. 
+
+Happiness is the state you enter when you no longer want to change your state.
+
+Happiness is fleeting because a new desire always comes along.
+
+> “Happiness is the space between one desire being fulfilled and a new desire forming.” - Caed Budris
+
+Suffering is the space between craving a change in state and getting it.
+
+**It is the idea of pleasure that we chase.** We seek the image of pleasure that we generate in our minds.
+
+Victor Frankl meant when he said that happiness cannot be pursued, it must ensue. Desire is pursued. Pleasure ensues from action.
+
+**Peace occurs when you don’t turn your observations into problems.**... ...If you do not desire to act on what you observe, then you are at peace. Craving is about wanting to fix everything. Observation without craving is the realization that you do not need to fix anything... ...You’re simply observing and existing.
+
+**With a big enough why you can overcome any how.**
+
+> “He who has a why to live for can bear almost any how.” - Friedrich Nietzsche, the German philosopher and poet
+
+**Being curious is better than being smart.** Being motivated and curious counts for more than being smart because it leads to action.
+
+It is desire, not intelligence, that prompts behavior.
+
+> “The trick to doing anything is first cultivating a desire for it.” - Naval Ravikant
+
+**Emotions drive behavior.** Every decision is an emotional decision at some level. Whatever your logical reasons are for taking action, you only feel compelled to act on them because of emotion.
+
+Craving comes before response. The feeling comes first, and then the behavior.
+
+**We can only be rational and logical after we have been emotional.** The primary mode of the brain is to feel; the secondary mode is to think... ...Psychologists refer to this as System 1 (feelings and rapid judgments) versus System 2 (rational analysis). The feeling comes first (System 1);4 the rationality only intervenes later (System 2). This works great when the two are aligned, but it results in illogical and emotional thinking when they are not.
+
+**Your response tends to follow your emotions.** Our thoughts and actions are rooted in what we find attractive, not necessarily in what is logical.
+
+If a topic makes someone feel emotional, they will rarely be interested in the data. This is why emotions can be such a threat to wise decision making.
+
+To approach a situation from a more neutral emotional position allows you to base your response on the data rather than the emotion.
+
+**Suffering drives progress.** The source of all suffering is the desire for a change in state. This is also the source of all progress. The desire to change your state is what powers you to take action.
+
+With craving, we are dissatisfied but driven. Without craving, we are satisfied but lack ambition.
+
+**Your actions reveal how badly you want something.** If you keep saying something is a priority but you never act on it, then you don’t really want it.
+
+**Reward is on the other side of sacrifice.** Response (sacrifice of energy) always precedes reward (the collection of resources). 
+
+**Self-control is difficult because it is not satisfying.** A reward is an outcome that satisfies your craving. This makes self-control ineffective because inhibiting our desires does not usually resolve them. 
+
+**Self-control is difficult because it is not satisfying.** A reward is an outcome that satisfies your craving. This makes self-control ineffective because inhibiting our desires does not usually resolve them.
+
+Self-control requires you to release a desire rather than satisfy it.
+
+**Our expectations determine our satisfaction.** The gap between our cravings and our rewards determines how satisfied we feel after taking action.
+
+Your expectation changes your satisfaction. An average experience preceded by high expectations is a disappointment. An average experience preceded by low expectations is a delight.
+
+Satisfaction = Liking – Wanting
+
+> “Being poor is not having too little, it is wanting more.” - Seneca
+
+If your wants outpace your likes, you’ll always be unsatisfied. You’re perpetually putting more weight on the problem than the solution.
+
+Happiness is relative.
+
+**The pain of failure correlates to the height of expectation.** When desire is high, it hurts to not like the outcome. Failing to attain something you want hurts more than failing to attain something you didn’t think much about in the first place. 
+
+**Feelings come both before and after the behavior.** Before acting, there is a feeling that motivates you to act—the craving. After acting, there is a feeling that teaches you to repeat the action in the future—the reward.
+
+Cue > Craving (Feeling) > Response > Reward (Feeling)
+
+How we feel influences how we act, and how we act influences how we feel.
+
+**Desire initiates. Pleasure sustains.** Wanting and liking are the two drivers of behavior. If it’s not desirable, you have no reason to do it. Desire and craving are what initiate a behavior. But if it’s not enjoyable, you have no reason to repeat it.
+
+Feeling motivated gets you to act. Feeling successful gets you to repeat.
+
+**Hope declines with experience and is replaced by acceptance.**
+
+The first time an opportunity arises, there is hope of what could be... ...The second time around, your expectation is grounded in reality. You begin to understand how the process works and your hope is gradually traded for a more accurate prediction and acceptance of the likely outcome.
+
+New strategies seem more appealing than old ones because they can have unbounded hope.
+
+> “Youth is easily deceived because it is quick to hope.”8 Perhaps this can be revised to “Youth is easily deceived because it only hopes.” - Aristotle
+
+In the beginning, hope is all you have.
+
 
 ## How to Apply These Ideas to Business
 
