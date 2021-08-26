@@ -1,27 +1,6 @@
-<!--
-This README.md file was generated from an open source template.
-Have a look at it! https://gist.github.com/reymon359/a0880e5b3bfcbac54f58b52b3ade2e02
--->
-
-<!-- Logo (with link) -->
-<p align="center">
- <a href="https://reymon359.github.io/book-sentences/">
-   <img alt="how to live" src="https://raw.githubusercontent.com/reymon359/book-sentences/master/assets/open-book.png" width="100" />
- </a>
-</p>
-
-<!-- Title -->
-<h1 align="center">
- Book Sentences
-</h1>
-
-<p align="center">
-A collection of sentences from different books.
- <a href="https://reymon359.github.io/book-sentences/">
-  Have a look at them here.
- </a>
-</p>
-
+---
+name: 'Book sentences'
+---
 
 This project is a collection of my favorite sentences from the books I read.
 
