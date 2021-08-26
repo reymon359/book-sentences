@@ -23,6 +23,8 @@
     
  - [Personal Growth](Genre/Personal%20Growth.md)
     
+ - [Productivity](Genre/Productivity.md)
+    
  - [Psychology](Genre/Psychology.md)
     
  - [Science fiction](Genre/Science%20fiction.md)
