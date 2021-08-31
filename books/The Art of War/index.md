@@ -154,7 +154,25 @@ In respect of military method, we have, firstly, Measurement; secondly, Estimati
 
 ## V Energy
 
+> The control of a large force is the same principle as the control of a few men: it is merely a question of dividing up their numbers. - Sun Tzu
 
+To ensure that your whole host may withstand the brunt of the enemy’s attack and remain unshaken—this is effected by maneuvers direct and indirect.
+
+In all fighting, the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory.
+
+There are not more than five primary colors (blue, yellow, red, white, and black), yet in combination they produce more hues than can ever been seen.
+
+In battle, there are not more than two methods of attack—the direct and the indirect; yet these two in combination give rise to an endless series of maneuvers.
+
+The direct and the indirect lead on to each other in turn. It is like moving in a circle—you never come to an end. Who can exhaust the possibilities of their combination?
+
+The good fighter will be terrible in his onset, and prompt in his decision.
+
+Amid the turmoil and tumult of battle, there may be seeming disorder and yet no real disorder at all; amid confusion and chaos, your array may be without head or tail, yet it will be proof against defeat. Simulated disorder postulates perfect discipline, simulated fear postulates courage; simulated weakness postulates strength. Hiding order beneath the cloak of disorder is simply a question of subdivision; concealing courage under a show of timidity presupposes a fund of latent energy; masking strength with weakness is to be effected by tactical dispositions.
+
+Thus one who is skillful at keeping the enemy on the move maintains deceitful appearances, according to which the enemy will act. He sacrifices something, that the enemy may snatch at it.
+
+The clever combatant looks to the effect of combined energy, and does not require too much from individuals. Hence his ability to pick out the right men and utilize combined energy. When he utilizes combined energy, his fighting men become as it were like unto rolling logs or stones. For it is the nature of a log or stone to remain motionless on level ground, and to move when on a slope; if four-cornered, to come to a standstill, but if round-shaped, to go rolling down. Thus the energy developed by good fighting men is as the momentum of a round stone rolled down a mountain thousands of feet in height. So much on the subject of energy.
 
 ## VI Weak Points and Strong
 
