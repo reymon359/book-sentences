@@ -136,7 +136,21 @@ If you know the enemy and know yourself, you need not fear the result of a hundr
 
 ## IV Tactical Dispositions
 
+The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy.
 
+To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.
+
+One may KNOW how to conquer without being able to DO it.
+
+The general who is skilled in defense hides in the most secret recesses of the earth; he who is skilled in attack flashes forth from the topmost heights of heaven. Thus on the one hand we have ability to protect ourselves; on the other, a victory that is complete.
+
+To see victory only when it is within the ken of the common herd is not the acme of excellence. Neither is it the acme of excellence if you fight and conquer and the whole Empire says, “Well done!”... ...What the ancients called a clever fighter is one who not only wins, but excels in winning with ease.
+
+He wins his battles by making no mistakes. Making no mistakes is what establishes the certainty of victory, for it means conquering an enemy that is already defeated.
+
+In war the victorious strategist only seeks battle after the victory has been won, whereas he who is destined to defeat first fights and afterwards looks for victory.
+
+In respect of military method, we have, firstly, Measurement; secondly, Estimation of quantity; thirdly, Calculation; fourthly, Balancing of chances; fifthly, Victory.
 
 ## V Energy
 
