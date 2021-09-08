@@ -176,6 +176,41 @@ The clever combatant looks to the effect of combined energy, and does not requir
 
 ## VI Weak Points and Strong
 
+> Whoever is first in the field and awaits the coming of the enemy, will be fresh for the fight; whoever is second in the field and has to hasten to battle will arrive exhausted. - Sun Tzu
+
+The clever combatant imposes his will on the enemy, but does not allow the enemy’s will to be imposed on him.
+
+Appear at points which the enemy must hasten to defend; march swiftly to places where you are not expected.
+
+An army may march great distances without distress, if it marches through country where the enemy is not.
+
+You can be sure of succeeding in your attacks if you only attack places which are undefended. You can ensure the safety of your defense if you only hold positions that cannot be attacked.
+
+O divine art of subtlety and secrecy! Through you we learn to be invisible, through you inaudible; and hence we can hold the enemy’s fate in our hands.
+
+If we wish to fight, the enemy can be forced to an engagement even though he be sheltered behind a high rampart and a deep ditch. All we need do is attack some other place that he will be obliged to relieve. If we do not wish to fight, we can prevent the enemy from engaging us even though the lines of our encampment be merely traced out on the ground. All we need do is to throw something odd and unaccountable in his way.
+
+We can form a single united body, while the enemy must split up into fractions. Hence there will be a whole pitted against separate parts of a whole, which means that we shall be many to the enemy’s few. And if we are able thus to attack an inferior force with a superior one, our opponents will be in dire straits.
+
+The spot where we intend to fight must not be made known; for then the enemy will have to prepare against a possible attack at several different points; and his forces being thus distributed in many directions, the numbers we shall have to face at any given point will be proportionately few.
+
+If he sends reinforcements everywhere, he will everywhere be weak.
+
+Numerical weakness comes from having to prepare against possible attacks; numerical strength, from compelling our adversary to make these preparations against us.
+
+Though the enemy be stronger in numbers, we may prevent him from fighting. Scheme so as to discover his plans and the likelihood of their success.
+
+Rouse him, and learn the principle of his activity or inactivity. Force him to reveal himself, so as to find out his vulnerable spots.
+
+In making tactical dispositions, the highest pitch you can attain is to conceal them; conceal your dispositions, and you will be safe from the prying of the subtlest spies, from the machinations of the wisest brains.
+
+Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances.
+
+In war, the way is to avoid what is strong and to strike at what is weak.
+
+Water shapes its course according to the nature of the ground over which it flows.
+
+Therefore, just as water retains no constant shape, so in warfare there are no constant conditions. He who can modify his tactics in relation to his opponent and thereby succeed in winning, may be called a heaven-born captain.
 
 
 ## VII Maneuvering
