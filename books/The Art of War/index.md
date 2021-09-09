@@ -254,6 +254,8 @@ It is a military axiom not to advance uphill against the enemy, nor to oppose hi
 
 When you surround an army, leave an outlet free. Do not press a desperate foe too hard.
 
+## VIII Variations in Tactics
+
 Sun Tzu said: In war, the general receives his commands from the sovereign, collects his army and concentrates his forces.
 
 When in difficult country, do not encamp.
@@ -282,13 +284,47 @@ Five dangerous faults which may affect a general:
 
 These are the five besetting sins of a general, ruinous to the conduct of war. When an army is overthrown and its leader slain, the cause will surely be found among these five dangerous faults. Let them be a subject of meditation.
 
-## VIII Variations in Tactics
-
-
-
 ## IX The Army on the March
 
+Camp in high places, facing the sun. Do not climb heights in order to fight. So much for mountain warfare.
 
+After crossing a river, you should get far away from it.
+
+Moor your craft higher up than the enemy, and facing the sun. Do not move upstream to meet the enemy. So much for river warfare.
+
+In dry, level country, take up an easily accessible position with rising ground to your right and on your rear, so that the danger may be in front, and safety lie behind. So much for campaigning in flat country.
+
+All armies prefer high ground to low and sunny places to dark.
+
+If you are careful of your men, and camp on hard ground, the army will be free from disease of every kind, and this will spell victory.
+
+When, in consequence of heavy rains up-country, a river which you wish to ford is swollen and flecked with foam, you must wait until it subsides.
+
+Country in which there are precipitous cliffs with torrents running between, deep natural hollows, confined places, tangled thickets, quagmires and crevasses, should be left with all possible speed and not approached. While we keep away from such places, we should get the enemy to approach them; while we face them, we should let the enemy have them on his rear.
+
+When the enemy is close at hand and remains quiet, he is relying on the natural strength of his position. When he keeps aloof and tries to provoke a battle, he is anxious for the other side to advance.
+
+Movement amongst the trees of a forest shows that the enemy is advancing... ...The rising of birds in their flight is the sign of an ambuscade. Startled beasts indicate that a sudden attack is coming.
+
+Humble words and increased preparations are signs that the enemy is about to advance. Violent language and driving forward as if to the attack are signs that he will retreat.
+
+Peace proposals unaccompanied by a sworn covenant indicate a plot.
+
+When the soldiers stand leaning on their spears, they are faint from want of food. If those who are sent to draw water begin by drinking themselves, the army is suffering from thirst.
+
+If the enemy sees an advantage to be gained and makes no effort to secure it, the soldiers are exhausted.
+
+If there is disturbance in the camp, the general’s authority is weak. If the banners and flags are shifted about, sedition is afoot. If the officers are angry, it means that the men are weary.
+
+When an army feeds its horses with grain and kills its cattle for food, and when the men do not hang their cooking pots over the campfires, showing that they will not return to their tents, you may know that they are determined to fight to the death.
+
+To begin by bluster, but afterwards to take fright at the enemy’s numbers, shows a supreme lack of intelligence.
+
+If our troops are no more in number than the enemy, that is amply sufficient; it only means that no direct attack can be made. What we can do is simply to concentrate all our available strength, keep a close watch on the enemy, and obtain reinforcements.
+
+He who exercises no forethought but makes light of his opponents is sure to be captured by them.
+
+Soldiers must be treated in the first instance with humanity, but kept under control by means of iron discipline. This is a certain road to victory.
 
 ## X Terrain
 
