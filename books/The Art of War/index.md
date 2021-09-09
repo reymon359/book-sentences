@@ -234,6 +234,53 @@ In war, practice dissimulation, and you will succeed.
 
 Whether to concentrate or to divide your troops, must be decided by circumstances.
 
+In raiding and plundering be like fire, in immovability like a mountain.
+
+Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.
+
+Ponder and deliberate before you make a move.
+
+The Book of Army Management says: On the field of battle, the spoken word does not carry far enough: hence the institution of gongs and drums. Nor can ordinary objects be seen clearly enough: hence the institution of banners and flags.
+
+Gongs and drums, banners and flags, are means whereby the ears and eyes of the host may be focused on one particular point.
+
+A solider’s spirit is keenest in the morning; by noonday it has begun to flag; and in the evening, his mind is bent only on returning to camp.
+
+A clever general, therefore, avoids an army when its spirit is keen, but attacks it when it is sluggish and inclined to return. This is the art of studying moods.
+
+To be near the goal while the enemy is still far from it, to wait at ease while the enemy is toiling and struggling, to be well-fed while the enemy is famished—this is the art of husbanding one’s strength.
+
+It is a military axiom not to advance uphill against the enemy, nor to oppose him when he comes downhill.
+
+When you surround an army, leave an outlet free. Do not press a desperate foe too hard.
+
+Sun Tzu said: In war, the general receives his commands from the sovereign, collects his army and concentrates his forces.
+
+When in difficult country, do not encamp.
+
+Do not linger in dangerously isolated positions. In hemmed-in situations, you must resort to stratagem. In desperate position, you must fight.
+
+There are roads which must not be followed, armies which must be not attacked, towns which must not be besieged, positions which must not be contested, commands of the sovereign which must not be obeyed.
+
+The general who thoroughly understands the advantages that accompany variation of tactics knows how to handle his troops.
+
+So, the student of war who is unversed in the art of war of varying his plans, even though he be acquainted with the Five Advantages, will fail to make the best use of his men.
+
+In the wise leader’s plans, considerations of advantage and of disadvantage will be blended together.
+
+Reduce the hostile chiefs by inflicting damage on them; and make trouble for them, and keep them constantly engaged; hold out specious allurements, and make them rush to any given point.
+
+The art of war teaches us to rely not on the likelihood of the enemy’s not coming, but on our own readiness to receive him; not on the chance of his not attacking, but rather on the fact that we have made our position unassailable.
+
+Five dangerous faults which may affect a general:
+
+- (1)Recklessness, which leads to destruction;
+- (2)cowardice, which leads to capture;
+- (3)a hasty temper, which can be provoked by insults;
+- (4)a delicacy of honor which is sensitive to shame;
+- (5)over-solicitude for his men, which exposes him to worry and trouble.
+
+These are the five besetting sins of a general, ruinous to the conduct of war. When an army is overthrown and its leader slain, the cause will surely be found among these five dangerous faults. Let them be a subject of meditation.
 
 ## VIII Variations in Tactics
 
