@@ -328,6 +328,7 @@ Soldiers must be treated in the first instance with humanity, but kept under con
 
 ## X Terrain
 
+> We may distinguish six kinds of terrain, to wit: (1)Accessible ground; (2)entangling ground; (3)temporizing ground; (4)narrow passes; (5)precipitous heights; (6)positions at a great distance from the enemy. - Sun Tzu
 
 
 ## XI The Nine Situations
