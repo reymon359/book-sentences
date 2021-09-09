@@ -212,9 +212,27 @@ Water shapes its course according to the nature of the ground over which it flow
 
 Therefore, just as water retains no constant shape, so in warfare there are no constant conditions. He who can modify his tactics in relation to his opponent and thereby succeed in winning, may be called a heaven-born captain.
 
-
 ## VII Maneuvering
 
+Sun Tzu said: In war, the general receives his commands from the sovereign.
+
+The difficulty of tactical maneuvering consists in turning the devious into the direct, and misfortune into gain.
+
+To take a long and circuitous route, after enticing the enemy out of the way, and though starting after him, to contrive to reach the goal before him, shows knowledge of the artifice of DEVIATION.
+
+Maneuvering with an army is advantageous; with an undisciplined multitude, most dangerous.
+
+If you order your men to roll up their buff-coats, and make forced marches without halting day or night, covering double the usual distance at a stretch, doing a hundred LI in order to wrest an advantage, the leaders of all your three divisions will fall into the hands of the enemy.
+
+An army without its baggage-train is lost; without provisions it is lost; without bases of supply it is lost.
+
+We cannot enter into alliances until we are acquainted with the designs of our neighbors.
+
+We are not fit to lead an army on the march unless we are familiar with the face of the country.
+
+In war, practice dissimulation, and you will succeed.
+
+Whether to concentrate or to divide your troops, must be decided by circumstances.
 
 
 ## VIII Variations in Tactics
