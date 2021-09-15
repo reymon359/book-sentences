@@ -330,6 +330,41 @@ Soldiers must be treated in the first instance with humanity, but kept under con
 
 > We may distinguish six kinds of terrain, to wit: (1)Accessible ground; (2)entangling ground; (3)temporizing ground; (4)narrow passes; (5)precipitous heights; (6)positions at a great distance from the enemy. - Sun Tzu
 
+Ground which can be freely traversed by both sides is called ACCESSIBLE. .With regard to ground of this nature, be before the enemy in occupying the raised and sunny spots, and carefully guard your line of supplies. Then you will be able to fight with advantage.
+
+Ground which can be abandoned but is hard to re-occupy is called ENTANGLING.
+
+When the position is such that neither side will gain by making the first move, it is called TEMPORIZING ground. In a position of this sort, even though the enemy should offer us an attractive bait, it will be advisable not to stir forth, but rather to retreat, thus enticing the enemy in his turn; then, when part of his army has come out, we may deliver our attack with advantage.
+
+With regard to NARROW PASSES, if you can occupy them first, let them be strongly garrisoned and await the advent of the enemy.
+
+With regard to PRECIPITOUS HEIGHTS, if you are beforehand with your adversary, you should occupy the raised and sunny spots, and there wait for him to come up.
+
+If you are situated at a great distance from the enemy, and the strength of the two armies is equal, it is not easy to provoke a battle, and fighting will be to your disadvantage.
+
+An army is exposed to six several calamities, not arising from natural causes, but from faults for which the general is responsible. These are: (1)Flight; (2)insubordination; (3)collapse; (4)ruin; (5)disorganization; (6)rout.
+
+If one force is hurled against another ten times its size, the result will be the FLIGHT of the former.
+
+When the common soldiers are too strong and their officers too weak, the result is INSUBORDINATION. When the officers are too strong and the common soldiers too weak, the result is COLLAPSE.
+
+When the higher officers are angry and insubordinate, and on meeting the enemy give battle on their own account from a feeling of resentment, before the commander-in-chief can tell whether or no he is in a position to fight, the result is RUIN.
+
+When the general is weak and without authority; when his orders are not clear and distinct... ...the result is utter DISORGANIZATION.
+
+When a general, unable to estimate the enemy’s strength, allows an inferior force to engage a larger one... ...and neglects to place picked soldiers in the front rank, the result must be ROUT.
+
+The natural formation of the country is the soldier’s best ally; but a power of estimating the adversary, of controlling the forces of victory, and of shrewdly calculating difficulties, dangers and distances, constitutes the test of a great general.
+
+If fighting is sure to result in victory, then you must fight, even though the ruler forbid it; if fighting will not result in victory, then you must not fight even at the ruler’s bidding.
+
+The general who advances without coveting fame and retreats without fearing disgrace, whose only thought is to protect his country and do good service for his sovereign, is the jewel of the kingdom.
+
+Regard your soldiers as your children... ...look upon them as your own beloved sons, and they will stand by you even unto death. If, however, you are indulgent, but unable to make your authority felt; kind-hearted, but unable to enforce your commands; and incapable, moreover, of quelling disorder: then your soldiers must be likened to spoilt children.
+
+If we know that our own men are in a condition to attack, but are unaware that the enemy is not open to attack, we have gone only halfway towards victory. If we know that the enemy is open to attack, but are unaware that our own men are not in a condition to attack, we have gone only halfway towards victory. If we know that the enemy is open to attack, and also know that our men are in a condition to attack, but are unaware that the nature of the ground makes fighting impracticable, we have still gone only halfway towards victory.
+
+If you know the enemy and know yourself, your victory will not stand in doubt; if you know Heaven and know Earth, you may make your victory complete.
 
 ## XI The Nine Situations
 
