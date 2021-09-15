@@ -368,7 +368,51 @@ If you know the enemy and know yourself, your victory will not stand in doubt; i
 
 ## XI The Nine Situations
 
+> We may distinguish six kinds of terrain, to wit: (1)Accessible ground; (2)entangling ground; (3)temporizing ground; (4)narrow passes; (5)precipitous heights; (6)positions at a great distance from the enemy. - Sun Tzu
 
+> We may distinguish six kinds of terrain, to wit: (1)Accessible ground; (2)entangling ground; (3)temporizing ground; (4)narrow passes; (5)precipitous heights; (6)positions at a great distance from the enemy. - Sun Tzu
+
+> The art of war recognizes nine varieties of ground: (1)Dispersive ground; (2)facile ground; (3)contentious ground; (4)open ground; (5)ground of intersecting highways; (6)serious ground; (7)difficult ground; (8)hemmed-in ground; (9)desperate ground.
+
+When a chieftain is fighting in his own territory, it is dispersive ground. When he has penetrated into hostile territory, but to no great distance, it is facile ground. Ground the possession of which imports great advantage to either side, is contentious ground. Ground on which each side has liberty of movement is open ground. Ground which forms the key to three contiguous states, so that he who occupies it first has most of the Empire at his command, is a ground of intersecting highways. When an army has penetrated into the heart of a hostile country, leaving a number of fortified cities in its rear, it is serious ground.  Mountain forests, rugged steeps, marshes and fens—all country that is hard to traverse: this is difficult ground. Ground which is reached through narrow gorges, and from which we can only retire by tortuous paths, so that a small number of the enemy would suffice to crush a large body of our men: this is hemmed in ground. Ground on which we can only be saved from destruction by fighting without delay, is desperate ground. On dispersive ground, therefore, fight not. On facile ground, halt not. On contentious ground, attack not. On open ground, do not try to block the enemy’s way. On the ground of intersecting highways, join hands with your allies. On serious ground, gather in plunder. In difficult ground, keep steadily on the march. On hemmed-in ground, resort to stratagem. On desperate ground, fight. 
+
+If asked how to cope with a great host of the enemy in orderly array and on the point of marching to the attack, I should say: “Begin by seizing something which your opponent holds dear; then he will be amenable to your will.”
+
+Rapidity is the essence of war: take advantage of the enemy’s unreadiness, make your way by unexpected routes, and attack unguarded spots.
+
+Carefully study the well-being of your men, and do not overtax them. Concentrate your energy and hoard your strength. Keep your army continually on the move, and devise unfathomable plans.
+
+Throw your soldiers into positions whence there is no escape, and they will prefer death to flight. If they will face death, there is nothing they may not achieve. Officers and men alike will put forth their uttermost strength.
+
+Soldiers when in desperate straits lose the sense of fear.
+
+Prohibit the taking of omens, and do away with superstitious doubts. Then, until death itself comes, no calamity need be feared.
+
+On the day they are ordered out to battle, your soldiers may weep... ...But let them once be brought to bay, and they will display the courage of a Chu or a Kuei.
+
+The skillful tactician may be likened to the SHUAI-JAN. Now the SHUAI-JAN is a snake that is found in the Chang mountains. Strike at its head, and you will be attacked by its tail; strike at its tail, and you will be attacked by its head; strike at its middle, and you will be attacked by head and tail both.
+
+The principle on which to manage an army is to set up one standard of courage which all must reach.
+
+The skillful general conducts his army just as though he were leading a single man, willy-nilly, by the hand.
+
+He must be able to mystify his officers and men by false reports and appearances, and thus keep them in total ignorance. By altering his arrangements and changing his plans, he keeps the enemy without definite knowledge. By shifting his camp and taking circuitous routes, he prevents the enemy from anticipating his purpose.
+
+The different measures suited to the nine varieties of ground; the expediency of aggressive or defensive tactics; and the fundamental laws of human nature: these are things that must most certainly be studied.
+
+On dispersive ground, I would inspire my men with unity of purpose. On facile ground, I would see that there is close connection between all parts of my army. On contentious ground, I would hurry up my rear. On open ground, I would keep a vigilant eye on my defenses. On ground of intersecting highways, I would consolidate my alliances. On serious ground, I would try to ensure a continuous stream of supplies. On difficult ground, I would keep pushing on along the road. On hemmed-in ground, I would block any way of retreat. On desperate ground, I would proclaim to my soldiers the hopelessness of saving their lives.
+
+Confront your soldiers with the deed itself; never let them know your design. When the outlook is bright, bring it before their eyes; but tell them nothing when the situation is gloomy.
+
+For it is precisely when a force has fallen into harm’s way that is capable of striking a blow for victory.
+
+By persistently hanging on the enemy’s flank, we shall succeed in the long run in killing the commander-in-chief. This is called ability to accomplish a thing by sheer cunning.
+
+Be stern in the council-chamber, so that you may control the situation.
+
+If the enemy leaves a door open, you must rush in.
+
+At first, then, exhibit the coyness of a maiden, until the enemy gives you an opening; afterwards emulate the rapidity of a running hare, and it will be too late for the enemy to oppose you.
 
 ## XII The Attack by Fire
 
