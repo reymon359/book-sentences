@@ -416,7 +416,25 @@ At first, then, exhibit the coyness of a maiden, until the enemy gives you an op
 
 ## XII The Attack by Fire
 
+> There are five ways of attacking with fire. The first is to burn soldiers in their camp; the second is to burn stores; the third is to burn baggage trains; the fourth is to burn arsenals and magazines; the fifth is to hurl dropping fire amongst the enemy - Sun Tzu
 
+The proper season is when the weather is very dry; the special days are those when the moon is in the constellations of the Sieve, the Wall, the Wing or the Cross-bar; for these four are all days of rising wind.
+
+When you start a fire, be to windward of it. Do not attack from the leeward.
+
+A wind that rises in the daytime lasts long, but a night breeze soon falls.
+
+Hence those who use fire as an aid to the attack show intelligence; those who use water as an aid to the attack gain an accession of strength.
+
+Unhappy is the fate of one who tries to win his battles and succeed in his attacks without cultivating the spirit of enterprise; for the result is waste of time and general stagnation.
+
+Hence the saying: The enlightened ruler lays his plans well ahead; the good general cultivates his resources.
+
+No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique.
+
+If it is to your advantage, make a forward move; if not, stay where you are.
+
+A kingdom that has once been destroyed can never come again into being; nor can the dead ever be brought back to life. Hence the enlightened ruler is heedful, and the good general full of caution. This is the way to keep a country at peace and an army intact.
 
 ## XIII The Use of Spies
 
