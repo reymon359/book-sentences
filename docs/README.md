@@ -36,6 +36,8 @@ I have read other books before these (not as many as I would have liked), howeve
     
  - [The Angel's Game](The%20Angel's%20Game/index.md)
     
+ - [The Art of War](The%20Art%20of%20War/index.md)
+    
  - [The Clean Coder](The%20Clean%20Coder/index.md)
     
  - [The Labyrinth of Spirits](The%20Labyrinth%20of%20Spirits/index.md)
