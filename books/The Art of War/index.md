@@ -438,4 +438,24 @@ A kingdom that has once been destroyed can never come again into being; nor can 
 
 ## XIII The Use of Spies
 
+> Raising a host of a hundred thousand men and marching them great distances entails heavy loss on the people and a drain on the resources of the State. The daily expenditure will amount to a thousand ounces of silver. There will be commotion at home and abroad, and men will drop down exhausted on the highways. As many as seven hundred thousand families will be impeded in their labor - Sun Tzu
 
+What enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is FOREKNOWLEDGE.
+
+Knowledge of the enemy’s dispositions can only be obtained from other men. Hence the use of spies, of whom there are five classes: (1)Local spies; (2)inward spies; (3)converted spies; (4)doomed spies; (5)surviving spies.
+
+When these five kinds of spy are all at work, none can discover the secret system. This is called “divine manipulation of the threads.” It is the sovereign’s most precious faculty.
+
+Having LOCAL SPIES means employing the services of the inhabitants of a district. Having INWARD SPIES, making use of officials of the enemy. Having CONVERTED SPIES, getting hold of the enemy’s spies and using them for our own purposes. Having DOOMED SPIES, doing certain things openly for purposes of deception, and allowing our spies to know of them and report them to the enemy. SURVIVING SPIES, finally, are those who bring back news from the enemy’s camp.
+
+Spies cannot be usefully employed without a certain intuitive sagacity. They cannot be properly managed without benevolence and straightforwardness.
+
+Be subtle! Be subtle! And use your spies for every kind of business.
+
+If a secret piece of news is divulged by a spy before the time is ripe, he must be put to death together with the man to whom the secret was told.
+
+It is through the information brought by the converted spy that we are able to acquire and employ local and inward spies. It is owing to his information, again, that we can cause the doomed spy to carry false tidings to the enemy.
+
+The end and aim of spying... ...is knowledge of the enemy; and this knowledge can only be derived, in the first instance, from the converted spy... ...treated with the utmost liberality.
+
+Spies are a most important element in water because on them depends an army’s ability to move.
