@@ -14,6 +14,8 @@
         
      - [The Angel's Game](The%20Angel's%20Game/index.md)
         
+     - [The Art of War](The%20Art%20of%20War/index.md)
+        
      - [The Clean Coder](The%20Clean%20Coder/index.md)
         
      - [The Labyrinth of Spirits](The%20Labyrinth%20of%20Spirits/index.md)
@@ -52,6 +54,8 @@
  - Genre
      - [All](Genre/index.md)
         
+     - [Ancient](./Genre/Ancient.md)
+        
      - [Biography](./Genre/Biography.md)
         
      - [Dystopian fiction](./Genre/Dystopian%20fiction.md)
@@ -68,11 +72,15 @@
         
      - [Literary](./Genre/Literary.md)
         
+     - [Military Science](./Genre/Military%20Science.md)
+        
      - [Mystery](./Genre/Mystery.md)
         
      - [Novel](./Genre/Novel.md)
         
      - [Personal Growth](./Genre/Personal%20Growth.md)
+        
+     - [Philosophy](./Genre/Philosophy.md)
         
      - [Psychology](./Genre/Psychology.md)
         

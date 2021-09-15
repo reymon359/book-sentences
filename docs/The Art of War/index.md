@@ -1,8 +1,3 @@
----
-name: "The Art of War"
-Read: ['2021']
-Genre: ['Philosophy', 'Ancient', 'Historical', 'Military Science']
----
 
 ![Cover](./assets/the-art-of-war.jpg)
 
@@ -446,4 +441,4 @@ It is through the information brought by the converted spy that we are able to a
 
 The end and aim of spying... ...is knowledge of the enemy; and this knowledge can only be derived, in the first instance, from the converted spy... ...treated with the utmost liberality.
 
-Spies are a most important element in water because on them depends an army’s ability to move.
+Spies are a most important element in water because on them depends an army’s ability to move.<hr/><br/>[Read:](Read/index.md) [2021](Read/2021.md)<br/>[Genre:](Genre/index.md) [Ancient](Genre/Ancient.md) [Historical](Genre/Historical.md) [Military Science](Genre/Military%20Science.md) [Philosophy](Genre/Philosophy.md)
