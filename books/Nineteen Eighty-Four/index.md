@@ -100,7 +100,39 @@ The knocking was repeated. The worst thing of all would be to delay. His heart w
 
 ### Chapter 2
 
+As he put his hand to the door-knob Winston saw that he had left the diary open on the table. DOWN WITH BIG BROTHER was written all over it, in letters almost big enough to be legible across the room.
 
+“Oh, comrade,” she began in a dreary, whining sort of voice, “I thought I heard you come in. Do you think you could come across and have a look at our kitchen sink? It’s got blocked up and--” It was Mrs. Parsons, the wife of a neighbour on the same floor. (“Mrs.” was a word somewhat discountenanced by the Party --you were supposed to call everyone “comrade” --but with some women one used it instinctively.)
+
+Parsons was Winston’s fellow-employee at the Ministry of Truth. He was a fattish but active man of paralysing stupidity, a mass of imbecile enthusiasms --one of those completelyunquestioning, devoted drudges on whom, more even than on the Thought Police, the stability of the Party depended.
+
+“Up with your hands!” yelled a savage voice. A handsome, tough-looking boy of nine had popped up from behind the table and was menacing him with a toy automatic pistol... ...Winston raised his hands above his head, but with an uneasy feeling, so vicious was the boy’s demeanour, that it was not altogether a game. “You’re a traitor!” yelled the boy. “You’re a thought-criminal! You’re a Eurasian spy! I’ll shoot you, I’ll vaporize you, I’ll send you to the salt mines!”
+
+Some Eurasian prisoners, guilty of war crimes, were to be hanged in the Park that evening, Winston remembered. This happened about once a month, and was a popular spectacle. Children always clamoured to be taken to see it.
+
+Nearly all children nowadays were horrible. What was worst of all was that by means of such organizations as the Spies they were systematically turned into ungovernable little savages, and yet this produced in them no tendency whatever to rebel against the discipline of the Party. On the contrary, they adored the Party and everything connected with it. The songs, the processions, the banners, the hiking, the drilling with dummy rifles, the yelling of slogans, the worship of Big Brother --it was all a sort of glorious game to them. 
+
+Hardly a week passed in which the Times did not carry a paragraph describing how some eavesdropping little sneak --“child hero” was the phrase generally used --had overheard some compromising remark and denounced its parents to the Thought Police.
+
+Years ago -- how long was it? Seven years it must be -- he had dreamed that he was walking through a pitch-dark room. And someone sitting to one side of him had said as he passed: ‘We shall meet in the place where there is no darkness.’ It was said very quietly, almost casually --a statement, not a command.
+
+He could not now remember whether it was before or after having the dream that he had seen O’Brien for the first time, nor could he remember when he had first identified the voice as O’Brien’s. But at any rate the identification existed. It was O’Brien who had spoken to him out of the dark.
+
+Even after this morning’s flash of the eyes it was still impossible to be sure whether O’Brien was a friend or an enemy. 
+
+Announcement that, as from next week, the chocolate ration would be reduced from thirty grammes to twenty.
+
+The sacred principles of Ingsoc. Newspeak, doublethink, the mutability of the past. He felt as though he were wandering in the forests of the sea bottom, lost in a monstrous world where he himself was the monster. He was alone. The past was dead, the future was unimaginable. What certainty had he that a single human creature now living was on his side? And what way of knowing that the dominion of the Party would not endure for ever?
+
+Nothing was your own except the few cubic centimetres inside your skull.
+
+The diary would be reduced to ashes and himself to vapour. Only the Thought Police would read what he had written, before they wiped it out of existence and out of memory. How could you make appeal to the future when not a trace of you, not even an anonymous word scribbled on a piece of paper, could physically survive?
+
+To the future or to the past, to a time when thought is free, when men are different from one another and do not live alone --to a time when truth exists and what is done cannot be undone: From the age of uniformity, from the age of solitude, from the age of Big Brother, from the age of doublethink -- greetings!
+
+The consequences of every act are included in the act itself. He wrote: Thoughtcrime does not entail death: thoughtcrime IS death.
+
+He put the diary away in the drawer. It was quite useless to think of hiding it, but he could at least make sure whether or not its existence had been discovered. A hair laid across the page-ends was too obvious. With the tip of his finger he picked up an identifiable grain of whitish dust anddeposited it on the corner of the cover, where it was bound to be shaken off if the book was moved.
 
 ### Chapter 3
 
