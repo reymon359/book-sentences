@@ -182,7 +182,21 @@ Sometimes, indeed, you could put your finger on a definite lie. It wasnot true, 
 
 ### Chapter 4
 
+With the deep, unconscious sigh which not even the nearness of the telescreen could prevent him from uttering when his day’s work started, Winston pulled the speakwrite towards him, blew the dust from its mouthpiece, and put on his spectacles. Then he unrolled and clipped together four small cylinders of paper which had already flopped out of the pneumatic tube on the right-hand side of his desk... ...Winston examined the four slips of paper which he had unrolled. Each contained a message of only one or two lines, in the abbreviated jargon -- not actually Newspeak, but consisting largely ofNewspeak words -- which was used in the Ministry for internal purposes... ...The messages he had received referred to articles or news items which for one reason or another it was thought necessary to alter, or, as the official phrase had it, to rectify. For example, it appeared from the Times of the seventeenth of March that Big Brother, in his speech of the previous day, had predicted that the South Indian front would remain quiet but that a Eurasian offensive would shortly be launched in North Africa. As it happened, the Eurasian Higher Command had launched its offensive in South India and left North Africa alone. It was therefore necessary to rewrite a paragraph of Big Brother’s speech, in such a way as to make him predict the thing that had actually happened.
 
+As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. Then, with a movement which was as nearly as possible unconscious, he crumpled up the original message and any notes that he himself had made, and dropped them into the memory hole to bedevoured by the flames.
+
+This process of continuous alteration was applied not only to newspapers, but to books, periodicals, pamphlets, posters, leaflets, films, sound-tracks, cartoons, photographs --to every kind of literature or documentation which might conceivably hold any political or ideological significance.
+
+Day by day and almost minute by minute the past was brought up to date.
+
+In this way every prediction made by the Party could be shown by documentary evidence to have been correct, norwas any item of news, or any expression of opinion, which conflicted with the needs of the moment, ever allowed to remain on record.
+
+All history was a palimpsest, scraped clean and reinscribedexactly as often as was necessary.
+
+The written instructions which Winston received, and which he invariably got rid of as soon as he had dealt with them, never stated or implied that an act of forgery was to be committed: always the reference was to slips, errors, misprints, or misquotations which it was necessary to put right in the interests of accuracy.
+
+Everything faded away into a shadow-world in which, finally, even the date of the year had become uncertain.
 
 ### Chapter 5
 
