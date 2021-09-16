@@ -136,7 +136,49 @@ He put the diary away in the drawer. It was quite useless to think of hiding it,
 
 ### Chapter 3
 
+Winston was dreaming of his mother. He must, he thought, have been ten or eleven years old when his mother had disappeared. She was a tall, statuesque, rather silent woman with slow movements and magnificent fair hair. His father he remembered more vaguely as dark and thin, dressed always in neat dark clothes... ...The two of them must evidently have been swallowed up in one of the first great purges of the fifties.
 
+He could not remember what had happened, but he knew in his dream that in some way the lives of his mother and his sister had been sacrificed to his own. It was one of those dreams which, while retaining the characteristic dream scenery, are a continuation of one’s intellectual life, and in which one becomes aware of facts and ideas which still seem new and valuable after one is awake.
+
+Tragedy, he perceived, belonged to the ancient time, to a time when there was still privacy, love, and friendship, and when the members of a family stood by one another without needing to know the reason.
+
+Suddenly he was standing on short springy turf, on a summer evening when the slanting rays of the sun gilded the ground... ...The girl with dark hair was coming towards them across the field. With what seemed a single movement she tore off her clothes and flung them disdainfully aside... ...With itsgrace and carelessness it seemed to annihilate a whole culture, a whole system of thought, as though Big Brother and the Party and the Thought Police could all be swept into nothingness by a single splendid movement of the arm. That too was a gesture belonging to the ancient time.
+
+The telescreen was giving forth an ear-splitting whistle which continued on the same note for thirty seconds. It was nought seven fifteen, getting-up time for office workers. Winston wrenched his body out of bed -- naked, for a member of the Outer Party received only 3,000 clothing coupons annually, and a suit of pyjamas was 600 --and seized a dingy singlet and a pair of shorts that were lying across a chair. The Physical Jerks would begin in three minutes.
+
+It was extraordinarily difficult. Beyond the late fifties everything faded. When there were no external records that you could refer to, even the outline of your own life lost its sharpness. 
+
+There had been a fairly long interval of peace during his childhood, because one of his early memories was of an air raid which appeared to take everyone by surprise... ...He did not remember the raid itself, but he did remember his father’s hand clutching his own as they hurried down, down, down into some place deep in the earth.
+
+There were people sitting all over the stone-flagged floor, and other people, packed tightly together, were sitting on metal bunks, one above the other. Winston and his mother and father found themselves a place on the floor, and near them an old man and an old woman were sitting side by side on a bunk... ...Every few minutes the old man kept repeating: “We didn’t ought to ’ave trusted ’em. I said so, Ma, didn’t I? That’s what comes of trusting ’em. I said so all along. We didn’t ought to ’ave trusted the buggers.” But which buggers they didn’t ought to have trusted Winston could not now remember.
+
+Officially the change of partners had never happened. Oceania was at war with Eurasia: therefore Oceania had always been at war with Eurasia. The enemy of the moment always represented absolute evil, and it followed that any past or future agreement with him was impossible.
+
+The frightening thing was that it might all be true. If the Party could thrust its hand into the past and say of this or that event, it never happened --that, surely, was more terrifying than mere torture and death?
+
+If all others accepted the lie which the Party imposed -- if all records told the same tale --then the lie passed into history and became truth. 
+
+“Who controls the past,” ran the Party slogan, “controls the future: who controls the present controls the past.”
+
+The past, though of its nature alterable, never had been altered. Whatever was true now was true from everlasting to everlasting. It was quite simple. All that was needed was an unending series of victories over your own memory. “Reality control”, they called it: in Newspeak, ‘doublethink’
+
+To know and not to know, to be conscious of complete truthfulness while telling carefully constructed lies, to hold simultaneously two opinions which cancelled out, knowing them to be contradictory and believing in both of them, to use logic against logic, to repudiate morality while laying claim to it, to believe that democracy was impossible andthat the Party was the guardian of democracy, to forget whatever it was necessary to forget, then to draw it back into memory again at the moment when it was needed, and then promptly to forgetit again: and above all, to apply the same process to the process itself. 
+
+The ultimate subtlety: consciously to induce unconsciousness, and then, once again, to become unconscious of the act of hypnosis you had just performed.
+
+Even to understand the word “doublethink” involved the use of doublethink.
+
+The past, he reflected, had not merely been altered, it had been actuallydestroyed. For how could you establish even the most obvious fact when there existed no record outside your own memory?
+
+First heard mention of BigBrother. He thought it must have been at some time in the sixties.
+
+In the Party histories, of course, Big Brother figured as the leader and guardian of the Revolution since its very earliest days. His exploits had been gradually pushed backwards in time until already they extended into the fabulous world of the forties and the thirties, when the capitalists in their strange cylindrical hats still rode through the streets of London in great gleaming motor-cars or horse carriages with glass sides. 
+
+Winston could not even remember at what date the Party itself had come into existence.
+
+Sometimes, indeed, you could put your finger on a definite lie. It wasnot true, for example, as was claimed in the Party history books, that the Party had invented aeroplanes. He remembered aeroplanes since his earliest childhood. But you could prove nothing.There was never any evidence.
+
+“Smith!” screamed the shrewish voice from the telescreen. “6079 Smith W.! Yes, you! Bend lower, please!... ...“There, comrades! That’s how I want to see you doing it. Watch me again. I’m thirty-nine and I’ve had four children. Now look.” She bent over again... ...That’s better, comrade, that’s much better,” she added encouragingly as Winston, with a violent lunge, succeeded in touching his toes with knees unbent, for the first time in several years.
 
 ### Chapter 4
 
