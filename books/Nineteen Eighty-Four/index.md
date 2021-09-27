@@ -198,8 +198,63 @@ The written instructions which Winston received, and which he invariably got rid
 
 Everything faded away into a shadow-world in which, finally, even the date of the year had become uncertain.
 
+People in the Records Department did not readily talk about their jobs. In the long, windowless hall, with its double row of cubicles and its endless rustle of papers and hum of voices murmuring into speakwrites, there were quite a dozen people whom Winston did not even know by name, though he daily saw them hurrying to and fro in the corridors or gesticulating in the Two Minutes Hate.
+
+In the cubicle next to him the little woman with sandy hair toiled day in day out, simply at tracking down and deleting from the Press the names of people who had been vaporized and weretherefore considered never to have existed. 
+
+And this hall, with its fifty workers or thereabouts, was only one subsection, a single cell, as it were, in the huge complexity of the Records Department. Beyond, above, below, were other swarms of workers engaged in an unimaginable multitude of jobs.
+
+There were the huge printing-shops with their sub-editors, their typography experts, and their elaborately equipped studios for the faking of photographs. There was the tele-programmes section with its engineers, its producers, and its teams of actors specially chosen for their skill in imitating voices.
+
+Somewhere or other, quiteanonymous, there were the directing brains who co-ordinated the whole effort and laid down the lines of policy which made it necessary that this fragment of the past should be preserved, that one falsified, and the other rubbed out of existence.
+
+The Records Department, after all, was itself only a single branch of the Ministry of Truth, whose primary job was not to reconstruct the past but to supply the citizens of Oceania with... ...with every conceivable kind of information, instruction, or entertainment.
+
+And the Ministry had not only to supply the multifarious needs of the party, but also to repeat the whole operation at a lower level for the benefit of the proletariat... ...Here were produced rubbishy newspapers containing almost nothing except sport, crime and astrology, sensational five-cent novelettes, films oozing with sex, and sentimental songs which were composed entirely by mechanical means on a special kind of kaleidoscope known as a versificator.
+
+There was even a whole sub-section --Pornosec, it was called in Newspeak -- engaged in producing the lowest kind of pornography, which was sent out in sealed packets and which no Party member, other than those who worked on it, was permitted to look at.
+
+Winston’s greatest pleasure in life was in his work. Most of it was a tedious routine, but included in it there were also jobs so difficult and intricate that you could lose yourself in them as in the depths of a mathematical problem --delicate pieces of forgery in which you had nothing toguide you except your knowledge of the principles of Ingsoc and your estimate of what the Party wanted you to say.
+
+He unrolled the message that he had set aside earlier. It ran: "times 3.12.83 reporting bb dayorder doubleplusungood refs unpersons rewrite fullwise upsub antefiling" In Oldspeak (or standard English) this might be rendered: "The reporting of Big Brother’s Order for the Day in the Times of December 3rd 1983 is extremely unsatisfactory and makes references to non-existent persons. Rewrite it in full and submit your draft to higher authority before filing."
+
+It was unusual for political offenders to be put on trial or even publicly denounced. The great purges involving thousands ofpeople, with public trials of traitors and thought-criminals who made abject confession of their crimes and were afterwards executed, were special show-pieces not occurring oftener than once ina couple of years. More commonly, people who had incurred the displeasure of the Party simply disappeared and were never heard of again.
+
+Perhaps thirty people personally known to Winston, not counting his parents, had disappeared at one time or another.
+
+As many as a dozen people were now working awayon rival versions of what Big Brother had actually said. And presently some master brain in the Inner Party would select this version or that, would re-edit it and set in motion the complexprocesses of cross-referencing that would be required, and then the chosen lie would pass into the permanent records and become truth.
+
+Withers, however, was already an unperson. He did not exist: he had never existed. Winston decided that it would not be enough simply to reverse the tendency of Big Brother’s speech. It was better to make it deal with something totally unconnected with its original subject.
+
+He might turn the speech into the usual denunciation of traitors and thought-criminals, but that was a little too obvious, while to invent a victory at the front, or some triumph of overproduction in the Ninth Three-Year Plan, might complicate the records too much. What was needed was a piece of pure fantasy. Suddenly there sprang into his mind, ready made as it were, the image of a certain Comrade Ogilvy, who had recently died in battle, in heroic circumstances.
+
+Comrade Ogilvy, unimagined an hour ago, was now a fact. It struck him as curious that you couldcreate dead men but not living ones. Comrade Ogilvy, who had never existed in the present, now existed in the past, and when once the act of forgery was forgotten, he would exist just as authentically, and upon the same evidence, as Charlemagne or Julius Caesar.
+
 ### Chapter 5
 
+In the low-ceilinged canteen, deep underground, the lunch queue jerked slowly forward. The room was already very full and deafeningly noisy. From the grille at the counter the steam of stewcame pouring forth, with a sour metallic smell which did not quite overcome the fumes of Victory Gin... ...“Just the man I was looking for,” said a voice at Winston’s back. He turned round. It was his friend Syme, who worked in the Research Department. Perhaps “friend” was not exactly the right word. You did not have friends nowadays, you had comrades: but there were some comrades whose society was pleasanter than that of others. Syme was a philologist, a specialist in Newspeak. Indeed, he was one of the enormous team of experts now engaged in compiling the Eleventh Edition of the Newspeak Dictionary.
+
+At any given moment there was some necessary article which the Party shops were unable to supply. Sometimes it was buttons, sometimes it was darning wool, sometimes it was shoelaces; at present it was razor blades. You could only get hold of them, if at all, by scrounging more or less furtively on the “free” market.
+
+“It was a good hanging,” said Syme reminiscently. “I think it spoils it when they tie their feet together. I like to see them kicking. And above all, at the end, the tongue sticking right out, and blue --a quite bright blue. That’s the detail that appeals to me.”
+
+Winston and Syme pushed their trays beneath the grille. On to each was dumped swiftly the regulation lunch --a metal pannikin of pinkish-grey stew, a hunk of bread, a cube of cheese, a mugof milkless Victory Coffee, and one saccharine tablet. “There’s a table over there, under that telescreen,” said Syme. “Let’s pick up a gin on the way.” The gin was served out to them in handleless china mugs. They threaded their way across the crowded room and unpacked their trays on to the metal-topped table, on one corner of which someone had left a pool of stew, a filthy liquid mess that had the appearance of vomit.
+
+“How is the Dictionary getting on?” said Winston, raising his voice to overcome the noise. “Slowly,” said Syme. “I’m on the adjectives. It’s fascinating.”... ...“The Eleventh Edition is the definitive edition,” he said. “We’re getting the language into its final shape --the shape it’s going to have when nobody speaks anything else. When we’ve finished with it, people like you will have to learn it all over again. You think, I dare say, that our chief job is inventing new words. But not a bit of it! We’re destroying words --scores of them, hundreds of them, every day. We’re cutting the language down to the bone. The Eleventh Edition won’t contain a single word that will become obsolete before the year 2050.”
+
+“It’s a beautiful thing, the destruction of words. Of course the great wastage is in the verbs and adjectives, but there are hundreds of nouns that can be got rid of as well. It isn’t only the synonyms; there are also the antonyms. After all, what justification is there for a word which is simply the opposite of some other word? A word contains its opposite in itself. Take ‘good’, for instance. If you have a word like ‘good’, what need is there for a word like ‘bad’? ‘Ungood’ will do just as well --better, because it’s an exact opposite, which the other is not. Or again, if you want a stronger version of ‘good’, what sense is there in having a whole string of vague useless words like ‘excellent’ and ‘splendid’ and all the rest of them? ‘Plusgood’ covers the meaning, or ‘doubleplusgood’ if you want something stronger still. Of course we use those forms already. but inthe final version of Newspeak there’ll be nothing else. In the end the whole notion of goodness and badness will be covered by only six words --in reality, only one word. Don’t you see the beauty ofthat, Winston? It was B.B.’s idea originally, of course,” he added as an afterthought.
+
+“Don’t you see that the whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which toexpress it. Every concept that can ever be needed, will be expressed by exactly one word, with its meaning rigidly defined and all its subsidiary meanings rubbed out and forgotten.
+
+Even now, of course, there’s no reason or excuse for committing thoughtcrime. It’s merely a question of self-discipline, reality-control. But in the end there won’t be any need even for that. The Revolution will be complete when the language is perfect. Newspeak is Ingsoc and Ingsoc is Newspeak,” he added with a sort of mystical satisfaction. “Has it ever occurred to you, Winston, that by the year 2050, at the very latest, not a single human being will be alive who could understand such a conversation as we are having now?”
+
+“By 2050 -- earlier, probably -- all real knowledge of Oldspeak will have disappeared. The whole literature of the past will have been destroyed... ...--they’ll exist only in Newspeak versions, not merely changed into something different, but actually changed into something contradictory of what they used to be. Even the literature of the Party will change. Even the slogans will change... ...The whole climate of thought will be different. In fact there will be no thought, as we understand it now. Orthodoxy means not thinking --not needing to think. Orthodoxy is unconsciousness.”
+
+At the table on his left the man with the strident voice was still talking remorselessly away. A young woman who was perhaps his secretary, and who was sitting with her back to Winston, was listening to him and seemed to be eagerly agreeing with everything that he said... ...He might be denouncing Goldstein and demanding sterner measures against thought-criminals and saboteurs, he might be fulminating against the atrocities of the Eurasian army, he might be praising Big Brother or the heroes on the Malabar front --it made no difference. Whatever it was, you could be certain that every word of it was pure orthodoxy, pure Ingsoc... ...The stuff that was comingout of him consisted of words, but it was not speech in the true sense: it was a noise uttered in unconsciousness, like the quacking of a duck.
+
+“There is a word in Newspeak,” said Syme, “I don’t know whether you know it: duckspeak, to quack like a duck. It is one of those interesting words that have two contradictory meanings. Applied to an opponent, it is abuse, applied to someone you agree with, it is praise.”
+
+There was no law, not even an unwritten law, against frequenting the Chestnut Tree Café, yet the place was somehow ill-omened. The old, discredited leaders of the Party had been used to gather there before they were finally purged. Goldstein himself, it was said, had sometimes been seen there, years and decades ago.
 
 
 ### Chapter 6
