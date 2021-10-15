@@ -256,8 +256,61 @@ At the table on his left the man with the strident voice was still talking remor
 
 There was no law, not even an unwritten law, against frequenting the Chestnut Tree Café, yet the place was somehow ill-omened. The old, discredited leaders of the Party had been used to gather there before they were finally purged. Goldstein himself, it was said, had sometimes been seen there, years and decades ago.
 
+Syme looked up. “Here comes Parsons,” he said. Something in the tone of his voice seemed to add, “that bloody fool”. Parsons, Winston’s fellow-tenant at Victory Mansions... ...His whole appearance was that of alittle boy grown large, so much so that although he was wearing the regulation overalls, it was almost impossible not to think of him as being dressed in the blue shorts, grey shirt, and red neckerchief of the Spies. In visualizing him one saw always a picture of dimpled knees and sleeves rolled back from pudgy forearms... ...He greeted them both with a cheery “Hullo, hullo!” and sat down at the table, giving off an intense smell of sweat.
+
+“Which sub is that?” said Winston, automatically feeling for money. About a quarter of one’s salary had to be earmarked for voluntary subscriptions, which were so numerous that it was difficult to keep track of them. “For Hate Week. You know --the house-by-house fund. I’m treasurer for our block. We’re making an all-out effort --going to put on a tremendous show. I tell you, it won’t be my fault if old Victory Mansions doesn’t have the biggest outfit of flags in the whole street. Two dollars you promised me.” Winston found and handed over two creased and filthy notes, which Parsons entered in a small notebook, in the neat handwriting of the illiterate.
+
+She got two other girls to go with her, slipped off from the hike, and spent the whole afternoon following a strange man. They kept on his tail for two hours, right through the woods, and then, when they got into Amersham, handed him over to the patrols.”... ...“What happened to the man?” said Winston. “Ah, that I couldn’t say, of course. But I wouldn’t be altogether surprised if--” Parsons made the motion of aiming a rifle, and clicked his tongue for the explosion.
+
+A trumpet call floated from the telescreen just above their heads. However, it was not the proclamation of a military victory this time, but merely an announcement from the Ministry of Plenty. “Comrades!” cried an eager youthful voice... ...through the streets with banners voicing their gratitude to Big Brother for the new, happy life which his wise leadership has bestowed upon us. Here are some of the completed figures. Foodstuffs--” The phrase “our new, happy life” recurred several times. It had been a favourite of late with the Ministry of Plenty.
+
+It appeared that there had even been demonstrations to thank Big Brother for raising the chocolate ration to twenty grammes a week. And only yesterday, he reflected, it had been announced that the ration was to be reduced to twenty grammes a week. Was it possible that they could swallow that, after only twenty-four hours? Yes, they swallowed it... ...Was he, then, alone in the possession of a memory?
+
+The fabulous statistics continued to pour out of the telescreen. As compared with last yearthere was more food, more clothes, more houses, more furniture, more cooking-pots, more fuel, more ships, more helicopters, more books, more babies -- more of everything except disease, crime,and insanity. Year by year and minute by minute, everybody and everything was whizzing rapidly upwards. 
+
+He meditated resentfully on the physical texture of life. Had it always been like this? Had food always tasted like this?... ...Always in your stomach and in your skin there was a sort of protest, a feeling that you had been cheated of something that you had a right to.
+
+And though, of course, it grew worse as one’s body aged, was it not a sign that this was not the natural order of things, if one’s heart sickened at the discomfort and dirt and scarcity, the interminable winters, the stickiness of one’s socks, the lifts that never worked, the cold water, the gritty soap, the cigarettes that came to pieces, the food with its strange evil tastes? Why should one feel it to be intolerable unless one had some kind of ancestral memory that things had once been different?
+
+Little dumpy men, growing stout very early in life, with short legs, swift scuttling movements, and fat inscrutable faces with very small eyes. It was the type that seemed to flourish best under the dominion of the Party.
+
+It seemed to him that he knew instinctively who would survive and who would perish: though just what it was that made forsurvival, it was not easy to say.
+
+The girl at the nexttable had turned partly round and was looking at him. It was the girl with dark hair... ...Why did she keep following him about? Unfortunately he could not remember whether she had already been at the table when he arrived, or had come there afterwards. But yesterday, at any rate, during the Two Minutes Hate, she had sat immediately behind him when there was no apparent need to do so. Quite likely her real object had been to listen to him and make sure whether he was shouting loudly enough.
+
+It was terribly dangerous to let your thoughts wander when you were in any public place or within range of a telescreen.
+
+To wear an improper expression on your face (to look incredulous when a victory was announced, for example) was itself a punishable offence. There was even a word for it in Newspeak: facecrime, it was called.
+
+“Did I ever tell you, old boy,” he said, chuckling round the stem of his pipe, “about the time when those two nippers of mine set fire to the old market-woman’s skirt because they saw her wrapping up sausages in a poster of B.B.? Sneaked up behind her and set fire to it with a box of matches. Burned her quite badly, I believe. Little beggars, eh? But keen as mustard! That’s a first-rate training they give them in the Spies nowadays --better than in my day, even.
 
 ### Chapter 6
+
+Winston was writing in his diary: It was three years ago. It was on a dark evening, in a narrow side-street nearone of the big railway stations. She was standing near a doorway in the wall... ...Itwas really the paint that appealed to me, the whiteness of it, like a mask, and thebright red lips. Party women never paint their faces. There was nobody else in thestreet, and no telescreens.
+
+He had an almost overwhelming temptation to shout a string of filthy words at the top of his voice... ...to do any violent or noisy or painful thing that might black out the memory that was tormenting him.
+
+Your worst enemy, he reflected, was your own nervous system. At any moment the tension inside you was liable to translate itself into some visible symptom.
+
+The most deadly danger of all was talking in your sleep. There was no way of guarding against that, so far as he could see.
+
+He thought of Katharine, his wife. Winston was married --had been married,at any rate: probably he still was married, so far as he knew his wife was not dead.
+
+No woman of the Party ever used scent, or could be imagined as doing so. Only the proles used scent.
+
+Consorting with prostitutes was forbidden, of course, but it was one of those rules that you could occasionally nerve yourself to break... ...To be caught with a prostitute might mean five years in a forced-labour camp... ...And it was easy enough, provided that you could avoid being caught inthe act... ...Tacitly the Partywas even inclined to encourage prostitution, as an outlet for instincts which could not be altogether suppressed.
+
+The aim of the Party was not merely to prevent men and women from forming loyalties which it might not be able to control. Its real, undeclared purpose was to remove all pleasure from the sexual act. Not love so much as eroticism was the enemy, inside marriage as well as outside it. All marriages between Party members had to be approved by a committee appointed for thepurpose, and --though the principle was never clearly stated --permission was always refused if the couple concerned gave the impression of being physically attracted to one another.
+
+All children were to be begotten by artificial insemination (artsem, it was called in Newspeak) and brought up in public institutions. This, Winston was aware, was not meant altogether seriously, but somehow it fitted in with the general ideology of the Party.
+
+The Party was trying to kill the sex instinct, or, if it could not be killed, then to distort it and dirty it.
+
+He thought again of Katharine... ...It was curious how seldom he thought of her. For days at a time he was capable of forgetting that he had ever been married... ...She had not a thought in her head that was not a slogan, and there was no imbecility, absolutely none that she was not capable of swallowing if the Party handed it out to her. “The human sound-track” he nicknamed her in his own mind. Yet he could have endured living with her if it had not been for just one thing -- sex. As soon as he touched her she seemed to wince and stiffen.
+
+
+
+
 
 
 
