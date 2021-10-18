@@ -126,6 +126,33 @@ The University of Chicago and the United Y.M.C.A. Schools conducted a survey to 
 
 ## Nine suggestions on how to get the most out of this book
 
+If you do have this cardinal endowment, then you can achieve wonders without reading any suggestions for getting the most out of a book... ...Just this: a deep, driving desire to learn, a vigorous determination to increase your ability to deal with people.
+
+Ask yourself just how and when you can apply each suggestion.
+
+Marking and underscoring a book makes it more interesting, and far easier to review rapidly.
+
+The rapidity with which we forget is astonishing. So, if you want to get a real, lasting benefit... ...don’t imagine that skimming through it once will suffice... ...you ought to spend a few hours reviewing it every month.
+
+> ‘If you teach a man anything, he will never learn.’ - Bernard Shaw
+
+Learning is an active process. We learn by doing.
+
+Only knowledge that is used sticks in your mind.
+
+each Saturday... ...process of self-examination and review and appraisal... ...“What mistakes did I make that time?” “What did I do that was right – and in what way could I have improved my performance?” “What lessons can I learn from that experience?”
+
+In order to get the most out of this book:
+a. Develop a deep, driving desire to master the principles of human relations.
+b. Read each chapter twice before going on to the next one.
+c. As you read, stop frequently to ask yourself how you can apply each suggestion.
+d. Underscore each important idea.
+e. Review this book each month.
+f. Apply these principles at every opportunity. Use this volume as a working handbook to help you solve your daily problems.
+g. Make a lively game out of your learning by offering some friend a dime or a dollar every time he or she catches you violating one of these principles.
+h. Check up each week on the progress you are making. Ask yourself what mistakes you have made, what improvement, what lessons you have learned for the future.
+i. Keep notes in the back of this book showing how and when you have applied these principles.
+
 ## PART ONE: FUNDAMENTAL TECHNIQUES IN HANDLING PEOPLE
 
 ### 1 ‘If You Want to Gather Honey, Don’t Kick Over the Beehive’
