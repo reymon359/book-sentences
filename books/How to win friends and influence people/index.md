@@ -114,6 +114,16 @@ Copyright
 
 ## How this book was written – and why
 
+I conducted courses in public speaking only – courses designed to train adults, by actual experience, to think on their feet and express their ideas with more clarity, more effectiveness and more poise, both in business interviews and before groups. But gradually, as the seasons passed, I realised that as sorely as these adults needed training in effective speaking, they needed still more training in the fine art of getting along with people in everyday business and social contacts.
+
+One can, for example, hire mere technical ability in engineering, accountancy, architecture or any other profession at nominal salaries. But the person who has technical knowledge plus the ability to express ideas, to assume leadership, and to arouse enthusiasm among people – that person is headed for higher earning power.
+
+John D. Rockefeller said that ‘the ability to deal with people is as purchasable a commodity as sugar or coffee.’ ‘And I will pay more for that ability,’ said John D., ‘than for any other under the sun.’
+
+The University of Chicago and the United Y.M.C.A. Schools conducted a survey to determine what adults want to study... ...That survey revealed that health is the prime interest of adults – and that their second interest is people; how to understand and get along with people; how to make people like you; and how to win others to your way of thinking.
+
+> ‘is not knowledge but action.’ And this is an action book. - Dale Carnegie 1936
+
 ## Nine suggestions on how to get the most out of this book
 
 ## PART ONE: FUNDAMENTAL TECHNIQUES IN HANDLING PEOPLE
