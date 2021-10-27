@@ -191,7 +191,74 @@ PRINCIPLE 1: Don’t criticise, condemn or complain.
 
 ### 2 The Big Secret of Dealing with People
 
-### 3 ‘He Who Can Do This Has the Whole World with Him. He Who Cannot Walks a Lonely Way’
+THERE IS ONLY one way under high heaven to get anybody to do anything... ...And that is by making the other person want to do it.
+
+The only way I can get you to do anything is by giving you what you want.
+
+Sigmund Freud said that everything you and I do springs from two motives: the sex urge and the desire to be great.
+
+John Dewey, one of America’s most profound philosophers, phrased it a bit differently. Dr. Dewey said that the deepest urge in human nature is ‘the desire to be important.’ Remember that phrase: ‘the desire to be important.’
+
+Some of the things most people want include:
+
+1 Health and the preservation of life.
+2 Food.
+3 Sleep.
+4 Money and the things money will buy.
+5 Life in the hereafter.
+6 Sexual gratification.
+7 The well-being of our children.
+8 A feeling of importance.
+
+Almost all these wants are usually gratified – all except one. But there is one longing – almost as deep, almost as imperious, as the desire for food or sleep – which is seldom gratified. It is what Freud calls ‘the desire to be great.’ It is what Dewey calls the ‘desire to be important.’
+
+It was this desire for a feeling of importance that inspired Dickens to write his immortal novels. This desire inspired Sir Christopher Wren to design his symphonies in stone. This desire made Rockefeller amass millions that he never spent! And this same desire made the richest family in your town build a house far too large for its requirements.
+
+If you tell me how you get your feeling of importance, I’ll tell you what you are. That determines your character. That is the most significant thing about you.
+
+People sometimes became invalids in order to win sympathy and attention, and get a feeling of importance.
+
+Some authorities declare that people may actually go insane in order to find, in the dreamland of insanity, the feeling of importance that has been denied them in the harsh world of reality.
+
+Why people went insane. Nobody knows for sure. But he did say that many people who go insane find in insanity a feeling of importance that they were unable to achieve in the world of reality.
+
+> ‘I consider my ability to arouse enthusiasm among my people, the greatest asset I possess, and the way to develop the best that is in a person is by appreciation and encouragement. There is nothing else that so kills the ambitions of a person as criticisms from superiors. I never criticise anyone. I believe in giving a person incentive to work. So I am anxious to praise but loath to find fault. If I like anything, I am hearty in my approbation and lavish in my praise.’ - Charles Schwab
+
+‘Once I did bad and that I heard ever/Twice I did good, but that I heard never.’
+
+> ‘There is nothing I need so much as nourishment for my self-esteem.’ - Alfred Lunt
+
+We nourish the bodies of our children and friends and employees, but how seldom do we nourish their self-esteem? We provide them with roast beef and potatoes to build energy, but we neglect to give them kind words of appreciation that would sing in their memories for years like the music of the morning stars.
+
+Of course flattery seldom works with discerning people. It is shallow, selfish and insincere. It ought to fail and it usually does. True, some people are so hungry, so thirsty, for appreciation that they will swallow anything, just as a starving man will eat grass and fishworms.
+
+In the long run, flattery will do you more harm than good. Flattery is counterfeit, and like counterfeit money, it will eventually get you into trouble if you pass it to someone else.
+
+The difference between appreciation and flattery? That is simple. One is sincere and the other insincere.
+
+General Obregon’s philosophy: ‘Don’t be afraid of enemies who attack you. Be afraid of the friends who flatter you.’
+
+‘Flattery is telling the other person precisely what he thinks about himself.’
+
+When we are not engaged in thinking about some definite problem, we usually spend about 95 percent of our time thinking about ourselves. Now, if we stop thinking about ourselves for a while and begin to think of the other person’s good points, we won’t have to resort to flattery so cheap and false that it can be spotted almost before it is out of the mouth.
+
+One of the most neglected virtues of our daily existence is appreciation.
+
+Hurting people not only does not change them, it is never called for.
+
+Emerson said: ‘Every man I meet is my superior in some way. In that, I learn of him.’
+
+Forget flattery. Give honest, sincere appreciation. Be ‘hearty in your approbation and lavish in your praise’
+
+PRINCIPLE 2: Give honest and sincere appreciation.
+
+### 3 He Who Can Do This Has the Whole World with Him. He Who Cannot Walks a Lonely Way
+
+You are interested in what you want. You are eternally interested in it. But no one else is. The rest of us are just like you: we are interested in what we want. So the only way on earth to influence other people is to talk about what they want and show them how to get it.
+
+Every act you have ever performed since the day you were born was performed because you wanted something.
+
+> ‘Action springs out of what we fundamentally desire . . . and the best piece of advice which can be given to would-be persuaders, whether in business, in the home, in the school, in politics, is: First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way.’ - Harry A. Overstreet in Influencing Human Behaviour
 
 ## PART TWO: SIX WAYS TO MAKE PEOPLE LIKE YOU
 
