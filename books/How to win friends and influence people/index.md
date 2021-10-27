@@ -157,6 +157,38 @@ i. Keep notes in the back of this book showing how and when you have applied the
 
 ### 1 ‘If You Want to Gather Honey, Don’t Kick Over the Beehive’
 
+> ‘I have spent the best years of my life giving people the lighter pleasures, helping them have a good time, and all I get is abuse, the existence of a hunted man.’ - Al Capone
+
+Capone didn’t condemn himself. He actually regarded himself as a public benefactor – an unappreciated and misunderstood public benefactor.
+
+Ninety-nine times out of a hundred, people don’t criticise themselves for anything no matter how wrong it may be.
+
+B.F. Skinner, the world-famous psychologist, proved through his experiments that an animal rewarded for good behaviour will learn much more rapidly and retain what it learns far more effectively than an animal punished for bad behaviour. Later studies have shown that the same applies to humans. By criticising, we do not make lasting changes and often incur resentment.
+
+The resentment that criticism engenders can demoralise employees, family members and friends, and still not correct the situation that has been condemned.
+
+> ‘Judge not, that ye be not judged.’ - Lincoln
+
+Lincoln saw that. Here was a golden, heaven-sent opportunity – the opportunity to capture Lee’s army and end the war immediately. So, with a surge of hope, Lincoln ordered Meade not to call a council of war but to attack Lee immediately... ...And what did General Meade do? He did the very opposite of what he was told to do... ...In bitter disappointment, Lincoln sat down and wrote Meade this letter... ..."My dear General, I do not believe you appreciate the magnitude of the misfortune involved in Lee’s escape... ...Your golden opportunity is gone, and I am distressed immeasurably because of it."... ...Meade never saw that letter. Lincoln never mailed it... ...it is water under the bridge now. If I send this letter, it will relieve my feelings, but it will make Meade try to justify himself. It will make him condemn me. It will arouse hard feelings, impair all his further usefulness as a commander, and perhaps force him to resign from the army.’
+
+Do you know someone you would like to change and regulate and improve? Good! That is fine. I am all in favour of it. But why not begin on yourself? From a purely selfish standpoint, that is a lot more profitable than trying to improve others – yes, and a lot less dangerous.
+
+> ‘Don’t complain about the snow on your neighbour’s roof, when your own doorstep is unclean.’ - Confucious
+
+If you and I want to stir up a resentment tomorrow that may rankle across the decades and endure until death, just let us indulge in a little stinging criticism – no matter how certain we are that it is justified.
+
+When dealing with people, let us remember we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity.
+
+> ‘I will speak ill of no man, and speak all the good I know of everybody.’ - Benjamin Franklin.
+
+Any fool can criticise, condemn and complain – and most fools do. But it takes character and self-control to be understanding and forgiving.
+
+> ‘A great man shows his greatness, by the way he treats little men.’ - Carlyle.
+
+Instead of condemning people, let’s try to understand them. Let’s try to figure out why they do what they do. That’s a lot more profitable and intriguing than criticism; and it breeds sympathy, tolerance and kindness. ‘To know all is to forgive all.’
+
+PRINCIPLE 1: Don’t criticise, condemn or complain.
+
 ### 2 The Big Secret of Dealing with People
 
 ### 3 ‘He Who Can Do This Has the Whole World with Him. He Who Cannot Walks a Lonely Way’
