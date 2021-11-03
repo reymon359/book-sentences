@@ -300,13 +300,81 @@ Arouse in the other person an eager want.
 
 ## PART TWO: SIX WAYS TO MAKE PEOPLE LIKE YOU
 
-
-
 ### 1 Do This and You’ll Be Welcome Anywhere
+
+A dog makes his living by giving you nothing but love.
+
+You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.
+
+I know and you know people who blunder through life trying to wigwag other people into becoming interested in them. Of course, it doesn’t work. People are not interested in you. They are not interested in me. They are interested in themselves – morning, noon and after dinner.
+
+If we merely try to impress people and get people interested in us, we will never have many true, sincere friends. Friends, real friends, are not made that way.
+
+> ‘It is the individual who is not interested in his fellow men who has the greatest difficulties in life and provides the greatest injury to others. It is from among such individuals that all human failures spring.’ - Alfred Adler, the famous Viennese psychologist.
+
+Many magicians would look at the audience and say to themselves, ‘Well, there is a bunch of suckers out there, a bunch of hicks; I’ll fool them all right.’ But Thurston’s method was totally different. He told me that every time he went on stage he said to himself: ‘I am grateful because these people come to see me. They make it possible for me to make my living in a very agreeable way. I’m going to give them the very best I possibly can.’
+
+To be genuinely interested in other people is a most important quality for a salesperson to possess – for any person, for that matter.’
+
+All of us, be we workers in a factory, clerks in an office or even a king upon his throne – all of us like people who admire us. 
+
+At the close of World War I... ...one little boy wrote the Kaiser a simple, sincere letter glowing with kindliness and admiration... ...The Kaiser was deeply touched by this letter and invited the little boy to come to see him. The boy came, so did his mother – and the Kaiser married her.
+
+If we want to make friends, let’s put ourselves out to do things for other people – things that require time, energy, unselfishness and thoughtfulness.
+
+> ‘We are interested in others when they are interested in us.’ - a famous old Roman poet, Publilius Syrus
+
+If you want others to like you, if you want to develop real friendships, if you want to help others at the same time as you help yourself, keep this principle in mind
+
+PRINCIPLE 1: Become genuinely interested in other people.
 
 ### 2 A Simple Way to Make a Good First Impression
 
+The expression one wears on one’s face is far more important than the clothes one wears on one’s back.
+
+Actions speak louder than words, and a smile says, ‘I like you. You make me happy. I am glad to see you.’
+
+An insincere grin? No. That doesn’t fool anybody. We know it is mechanical and we resent it. I am talking about a real smile, a heartwarming smile, a smile that comes from within, the kind of smile that will bring a good price in the marketplace.
+
+> ‘People who smile,’ he said, ‘tend to manage, teach and sell more effectively, and to raise happier children. There’s far more information in a smile than a frown. That’s why encouragement is a much more effective teaching device than punishment.’- Professor James V. McConnell,
+
+You must have a good time meeting people if you expect them to have a good time meeting you.
+
+Act as if you were already happy, and that will tend to make you happy.
+
+> Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not - philosopher William James
+
+Everybody in the world is seeking happiness – and there is one sure way to find it. That is by controlling your thoughts. Happiness doesn’t depend on outward conditions. It depends on inner conditions.
+
+It isn’t what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.
+
+‘There is nothing either good or bad,’ said Shakespeare, ‘but thinking makes it so.’
+
+> Whenever you go out-of-doors, draw the chin in, carry the crown of the head high, and fill the lungs to the utmost; drink in the sunshine; greet your friends with a smile, and put soul into every handclasp. Do not fear being misunderstood and do not waste a minute thinking about your enemies. Try to fix firmly in your mind what you would like to do; and then, without veering off direction, you will move straight to the goal. Keep your mind on the great and splendid things you would like to do, and then, as the days go gliding away, you will find yourself unconsciously seizing upon the opportunities that are required for the fulfillment of your desire, just as the coral insect takes from the running tide the element it needs. Picture in your mind the able, earnest, useful person you desire to be, and the thought you hold is hourly transforming you into that particular individual . . . Thought is supreme. Preserve a right mental attitude – the attitude of courage, frankness, and good cheer. To think rightly is to create. All things come through desire and every sincere prayer is answered. We become like that on which our hearts are fixed. Carry your chin in and the crown of your head high. We are gods in the chrysalis. - Elbert Hubbard 
+
+> ‘A man without a smiling face must not open a shop.’ - ancient Chinese
+
+Nobody needs a smile so much as those who have none left to give!
+
+PRINCIPLE 2: Smile.
+
 ### 3 If You Don’t Do This, You Are Headed for Trouble
+
+The average person is more interested in his or her own name than in all the other names on earth put together. Remember that name and call it easily, and you have paid a subtle and very effective compliment. But forget it or misspell it – and you have placed yourself at a sharp disadvantage.
+
+This policy of remembering and honouring the names of his friends and business associates was one of the secrets of Andrew Carnegie’s leadership.
+
+Benton Love, chairman of Texas Commerce Bancshares, believes that the bigger a corporation gets, the colder it becomes. ‘One way to warm it up,’ he said, ‘is to remember people’s names. The executive who tells me he can’t remember names is at the same time telling me he can’t remember a significant part of his business and is operating on quicksand.’
+
+Half the time we are introduced to a stranger, we chat a few minutes and can’t even remember his or her name by the time we say goodbye.
+
+We should be aware of the magic contained in a name and realise that this single item is wholly and completely owned by the person with whom we are dealing . . .and nobody else.
+
+The name sets the individual apart; it makes him or her unique among all others. The information we are imparting or the request we are making takes on a special importance when we approach the situation with the name of the individual. 
+
+PRINCIPLE 3: Remember that a person’s name is to that person the sweetest and most important sound in any language.
+
+
 
 ### 4 An Easy Way to Become a Good Conversationalist
 
