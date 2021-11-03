@@ -260,7 +260,47 @@ Every act you have ever performed since the day you were born was performed beca
 
 > ‘Action springs out of what we fundamentally desire . . . and the best piece of advice which can be given to would-be persuaders, whether in business, in the home, in the school, in politics, is: First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way.’ - Harry A. Overstreet in Influencing Human Behaviour
 
+Tomorrow you may want to persuade somebody to do something. Before you speak, pause and ask yourself: ‘How can I make this person want to do it?’ That question will stop us from rushing into a situation heedlessly, with futile chatter about our desires.
+
+> ‘If there is any one secret of success, it lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own.’ -  Henry Ford
+
+In other words, that in which we are most interested is mentioned last, and the whole effect is one of raising a spirit of antagonism rather than of cooperation.
+
+If salespeople can show us how their services or merchandise will help us solve our problems, they won’t need to sell us. We’ll buy.
+
+Customers like to feel that they are buying – not being sold.
+
+The world is full of people who are grabbing and self-seeking. So the rare individual who unselfishly tries to serve others has an enormous advantage. He has little competition.
+
+> ‘People who can put themselves in the place of other people, who can understand the workings of their minds, need never worry about what the future has in store for them.’ - Owen D. Young
+
+Looking at the other person’s point of view and arousing in him an eager want for something is not to be construed as manipulating that person so that he will do something that is only for your benefit and his detriment. Each party should gain from the negotiation.
+
+> First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way. - Professor Overstreet
+
+> ‘Self-expression is the dominant necessity of human nature.’ - William Winter
+
+PRINCIPLE 3: Arouse in the other person an eager want.
+
+IN A NUTSHELL
+
+FUNDAMENTAL TECHNIQUES IN HANDLING PEOPLE
+
+PRINCIPLE 1
+
+Don’t criticise, condemn or complain.
+
+PRINCIPLE 2
+
+Give honest and sincere appreciation.
+
+PRINCIPLE 3
+
+Arouse in the other person an eager want.
+
 ## PART TWO: SIX WAYS TO MAKE PEOPLE LIKE YOU
+
+
 
 ### 1 Do This and You’ll Be Welcome Anywhere
 
