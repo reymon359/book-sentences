@@ -308,11 +308,11 @@ The Party was trying to kill the sex instinct, or, if it could not be killed, th
 
 He thought again of Katharine... ...It was curious how seldom he thought of her. For days at a time he was capable of forgetting that he had ever been married... ...She had not a thought in her head that was not a slogan, and there was no imbecility, absolutely none that she was not capable of swallowing if the Party handed it out to her. “The human sound-track” he nicknamed her in his own mind. Yet he could have endured living with her if it had not been for just one thing -- sex. As soon as he touched her she seemed to wince and stiffen.
 
+He could have borne living with her if it had been agreed that they should remain celibate. But curiously enough it was Katharine who refused this. They must, she said, produce a child if they could... ...She had two names for it. One was “making a baby”, and the other was “our duty to the Party” (yes, she had actually used that phrase)... ...no child appeared, and in the end she agreed to give up trying, and soon afterwards they parted.
 
+A real love affair was an almost unthinkable event. The women of the Party were all alike.
 
-
-
-
+What he wanted, more even than to be loved, was to break down that wall of virtue, even if it were only once in his whole life. The sexual act, successfully performed, was rebellion. Desire was thoughtcrime. Even to have awakened Katharine, if he could have achieved it, would have been like a seduction, although she was his wife.
 
 ### Chapter 7
 
