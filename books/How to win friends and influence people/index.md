@@ -374,13 +374,64 @@ The name sets the individual apart; it makes him or her unique among all others.
 
 PRINCIPLE 3: Remember that a person’s name is to that person the sweetest and most important sound in any language.
 
-
-
 ### 4 An Easy Way to Become a Good Conversationalist
+
+All she wanted was an interested listener, so she could expand her ego and tell about where she had been. Was she unusual? No. Many people are like that.
+
+And so I had him thinking of me as a good conversationalist when, in reality, I had been merely a good listener and had encouraged him to talk.
+
+Listening is just as important in one’s home life as in the world of business.
+
+Isaac F. Marcosson, a journalist who interviewed hundreds of celebrities, declared that many people fail to make a favourable impression because they don’t listen attentively. ‘They have been so much concerned with what they are going to say next that they do not keep their ears open . . . Very important people have told me that they prefer good listeners to good talkers, but the ability to listen seems rarer than almost any other good trait.’
+
+Lincoln hadn’t wanted advice. He had wanted merely a friendly, sympathetic listener to whom he could unburden himself. That’s what we all want when we are in trouble.
+
+People who talk only of themselves think only of themselves. And ‘those people who think only of themselves,’ Dr. Nicholas Murray Butley, longtime president of Columbia University, said, ‘are hopelessly uneducated.
+
+If you aspire to be a good conversationalist, be an attentive listener. To be interesting, be interested. Ask questions that other persons will enjoy answering. Encourage them to talk about themselves and their accomplishments.
+
+People you are talking to are a hundred times more intested in themselves and their wants and problems than they are in you and your problems.
+
+PRINCIPLE 4: Be a good listener. Encourage others to talk about themselves.
 
 ### 5 How to Interest People
 
+The royal road to a person’s heart is to talk about the things he or she treasures most.
+
+“Because he is a gentleman. He saw you were interested in boats, and he talked about the things he knew would interest and please you. He made himself agreeable.”
+
+Talking in terms of the other person’s interests pays off for both parties.
+
+PRINCIPLE 5: Talk in terms of the other person’s interests.
+
 ### 6 How to Make People Like You Instantly
+
+So I said to myself: ‘I am going to try to make that clerk like me. Obviously to make him like me, I must say something nice, not about myself, but about him. So I asked myself, “What is there about him that I can honestly admire?” ’ That is sometimes a hard question to answer, especially with strangers
+
+If we are so contemptibly selfish that we can’t radiate a little happiness and pass on a bit of honest appreciation without trying to get something out of the other person in return – if our souls are no bigger than sour crab apples, we shall meet with the failure we so richly deserve.
+
+I did want something out of that chap. I wanted something priceless. And I got it. I got the feeling that I had done something for him without his being able to do anything whatever in return for me. That is a feeling that flows and sings in your memory long after the incident is past.
+
+Always make the other person feel important.
+
+John Dewey, as we have already noted, said that the desire to be important is the deepest urge in human nature
+
+> ‘The deepest principle in human nature is the craving to be appreciated.’ - William James
+
+probably the most important rule in the world: ‘Do unto others as you would have others do unto you.’ You want the approval of those with whom you come in contact. You want recognition of your true worth. You want a feeling that you are important in your little world. You don’t want to listen to cheap, insincere flattery, but you do crave sincere appreciation. You want your friends and associates to be, as Charles Schwab put it, ‘hearty in their approbation and lavish in their praise.’ All of us want that. So let’s obey the Golden Rule, and give unto others what we would have others give unto us. How? When? Where? The answer is: All the time, everywhere.
+
+Little phrases such as ‘I’m sorry to trouble you,’ ‘Would you be so kind as to – ?’ ‘Won’t you please?’ ‘Would you mind?’ ‘Thank you’ – little courtesies like these oil the cogs of the monotonous grind of everyday life – and incidentally, they are the hallmark of good breeding.
+
+Almost everyone considers himself important, very important.
+
+The unvarnished truth is that almost all the people you meet feel themselves superior to you in some way, and a sure way to their hearts is to let them realise in some subtle way that you realise their importance, and recognise it sincerely.
+
+Emerson said: ‘Every man I meet is my superior in some way. In that, I learn of him.’
+
+
+
+
+
 
 ## PART THREE: HOW TO WIN PEOPLE TO YOUR WAY OF THINKING
 
