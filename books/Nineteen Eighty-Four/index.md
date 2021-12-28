@@ -314,33 +314,197 @@ A real love affair was an almost unthinkable event. The women of the Party were 
 
 What he wanted, more even than to be loved, was to break down that wall of virtue, even if it were only once in his whole life. The sexual act, successfully performed, was rebellion. Desire was thoughtcrime. Even to have awakened Katharine, if he could have achieved it, would have been like a seduction, although she was his wife.
 
+I turned up the lamp. When I saw her in the light-... ...It had got to be written down, it had got to be confessed. What he had suddenly seen in the lamplight was that the woman was old. The paint was plastered so thick on her face that it looked as though it might crack like a cardboard mask. There were streaks of white in her hair; but the truly dreadful detail was that her mouth had fallen a little open, revealing nothing except a cavernous blackness. She had no teeth at all.
+
+He had written it... ...down at last, but it made no difference. The therapy had not worked. The urge to shout filthy words at the top of his voice was as strong as ever.
+
 ### Chapter 7
 
+If there is hope, wrote Winston, it lies in the proles.
 
+Only there in those swarming disregarded masses, 85 per cent of the population of Oceania, could the force to destroy the Partyever be generated. The Party could not be overthrown from within
+
+Until they become conscious they will never rebel, and until after they haverebelled they cannot become conscious.
+
+The Party claimed, of course, to have liberated the proles from bondage... ...But simultaneously, true to the Principles of doublethink, the Party taught that the proles were natural inferiors who must be kept insubjection, like animals, by the application of a few simple rules.
+
+In reality very little was known about the proles. It was not necessary to know much. So long as they continued to work and breed,their other activities were without importance.
+
+No attempt was made to indoctrinate them with the ideology of the Party. It was not desirable that the proles should have strong political feelings.
+
+All that was required of them was a primitive patriotism which could be appealed to whenever it was necessary to make them accept longer working-hours or shorter rations. And even when they became discontented, as they sometimes did, their discontentled nowhere, because being without general ideas, they could only focus it on petty specific grievances.
+
+The sexual puritanism of the Party was not imposed upon them. Promiscuity went unpunished, divorce was permitted. For that matter, even religious worship would have been permitted if the proles had shown any sign of needing or wanting it.
+
+The Party slogan put it: “Proles and animals are free.”
+
+He took out of the drawer a copy of a children’s history textbook... ...and began copying a passage into the diary: In the old days (it ran), before the glorious Revolution, London was not thebeautiful city that we know today... ...thousands of poor people hadno boots on their feet and not even a roof to sleep under. Children no older than youhad to work twelve hours a day for cruel masters who flogged them... ...The capitalists owned everything in the world, andeveryone else was their slave.
+
+There was also something called the jus primae noctis, which would probably not be mentioned in a textbook for children. Itwas the law by which every capitalist had the right to sleep with any woman working in one of his factories.
+
+It struck him that the truly characteristic thing about modern life was not its cruelty and insecurity, but simply its bareness, its dinginess, its listlessness.
+
+The reality was decaying, dingy cities where underfed people shuffled to and fro in leaky shoes, in patched-up nineteenth-century houses that smelt always of cabbage and bad lavatories... ...Day and night the telescreens bruised your ears with statistics proving that people today had more food, more clothes, better houses, better recreations -- that they lived longer, worked shorter hours, were bigger, healthier, stronger, happier, more intelligent, better educated, than the people of fifty years ago.
+
+Everything faded into mist. The past was erased, the erasure was forgotten, the lie became truth.
+
+The story really began in the middle sixties, the period of the great purges in which theoriginal leaders of the Revolution were wiped out once and for all. By 1970 none of them was left, except Big Brother himself. All the rest had by that time been exposed as traitors and counterrevolutionaries.
+
+Among the last survivors were three men named Jones, Aaronson, and Rutherford. It must have been in 1965 that these three had been arrested... ...They had confessed... ...After confessing to these thingsthey had been pardoned, reinstated in the Party, and given posts which were in fact sinecures but which sounded important... ...they were outlaws, enemies, untouchables, doomed with absolute certainty to extinction within a year or two. No one who had once fallen into the hands of the Thought Police ever escaped in the end. They were corpses waiting to be sent back to the grave.
+
+It was the lonely hour of fifteen. Winston could not now remember how he had come to be in the café at such a time... ...a voice from the telescreen was singing: Under the spreading chestnut tree I sold you and you sold me: There lie they, and here lie we Under the spreading chestnut tree. The three men never stirred. But when Winston glanced again at Rutherford’s ruinous face, he saw that his eyes were full of tears... ...A little later all three were re-arrested... ...They were executed, and their fate was recorded in the Party histories, a warning to posterity.
+
+In 1973, Winston was unrolling... ...of the delegates at some Party function in New York. Prominent in the middle of the group were Jones, Aaronson, and Rutherford... ...The point was that at both trials all three men had confessed that on that date they had been on Eurasian soil... ...the confessions were lies... ...it was a fragment of the abolished past, like a fossilbone which turns up in the wrong stratum and destroys a geological theory.
+
+The past not only changed, but changed continuously.
+
+He had never clearly understood why the huge imposture was undertaken. The immediate advantages of falsifying the past were obvious, but the ultimate motive was mysterious. He took up his pen again and wrote: I understand HOW: I do not understand WHY.
+
+The heresy of heresies was common sense.
+
+What was terrifying was not that they would kill you for thinking otherwise, but that they might be right. For, after all, how do we know that two and two make four? Or that the force of gravity works? Or that the past is unchangeable?
+
+Freedom is the freedom to say that two plus two make four. If that is granted,all else follows.
 
 ### Chapter 8
 
+It was assumed that when he was not working, eating, or sleeping he would be taking part in some kind of communal recreation: to do anything that suggested a taste for solitude, even to go for a walk by yourself, was always slightly dangerous.
+
+On impulse hehad turned away from the bus-stop and wandered off into the labyrinth of London, first south, then east, then north again, losing himself among unknown streets and hardly bothering in which direction he was going.
+
+The blue overalls of the Party could not be a common sight in a street like this. Indeed, it was unwise to be seen in such places, unless you had definite business there. The patrols might stop you if you happened to run into them. ‘May I see your papers,comrade? What are you doing here? What time did you leave work? Is this your usual way home?’ -and so on and so forth. Not that there was any rule against walking home by an unusual route: butit was enough to draw attention to you if the Thought Police heard about it.
+
+“Steamer!” he yelled. “Look out, guv’nor! Bang over’ead! Lay down quick!” “Steamer” was a nickname which, for some reason, the proles applied to rocket bombs. Winston promptly flung himself on his face. The proles were nearly always right when they gave you a warning of this kind. They seemed to possess some kind of instinct which told them severalseconds in advance when a rocket was coming, although the rockets supposedly travelled faster than sound... ...He walked on. The bomb had demolished a group of houses 200 metres up the street.
+
+The Lottery, with its weekly pay-out of enormous prizes, was the one public event to which the proles paid serious attention. It was probable that there were some millions of proles for whom the Lottery was the principal if not the only reason for remaining alive.
+
+At this moment Winston remembered where he was. The alleyled out into the main street, and down the next turning, not five minutes away, was the junk-shop where he had bought the blank book which was now his diary. 
+
+The older generation had mostly been wiped out in the great purges of the fifties and sixties, and the few who survived had long ago been terrified into complete intellectualsurrender.
+
+He would say to him: “Tell me about your life when you were a boy. What was it like in those days? Were things better than they are now, or were they worse?”
+
+“May I offer you a drink?” he said. “You’re a gent,” said the other, straightening his shoulders again. He appeared not to have noticed Winston’s blue overalls. “Pint!” he added aggressively to the barman. “Pint of wallop.”
+
+The barman swished two half-litres of dark-brown beer into thick glasses which he had rinsed in a bucket under the counter. Beer was the only drink you could get in prole pubs. The proles were supposed not to drink gin, though in practice they could get hold of it easily enough.
+
+“You are very much older than I am,” said Winston. “You must have been a grown man before I was born. You can remember what it was like in the old days, before the Revolution. People of my age don’t really know anything about those times. We can only read about them in books, and what it says in the books may not be true. I should like your opinion on that. The history books say that life before the Revolution was completely different from what it is now.
+
+A sense of helplessness took hold of Winston. The old man’s memory was nothing but arubbish-heap of details. One could question him all day without getting any real information. The party histories might still be true, after a fashion: they might even be completely true.
+
+Within twenty years at the most, he reflected, the huge and simple question, “Was life better before the Revolution than it is now?” would have ceased once and for all to be answerable. But in effect it was unanswerable even now, since the few scattered survivors from the ancient world were incapable of comparing one age with another.
+
+When memory failed and written records were falsified --when that happened, the claim of the Party to have improved the conditions of human life had got to be accepted, because there did not exist, and never again could exist, any standard against which it could be tested.
+
+He was standing outside the junk-shop where he had bought the diary... ...although it was nearly twenty-one hours the shop was still open... ...The proprietor had just lighted a hanging oil lamp which gave off an unclean but friendly smell. He was a man of perhaps sixty,... ...His voice was soft, as though faded, and his accent less debased than that of the majority of proles. “I recognized you on the pavement,” he said immediately. “You’re the gentleman that bought the young lady’s keepsake album. That was a beautiful bit of paper, that was. Cream-laid, itused to be called. There’s been no paper like that made for --oh, I dare say fifty years.”
+
+“What is it?” said Winston, fascinated. “That’s coral, that is,” said the old man. “It must have come from the Indian Ocean. They used to kind of embed it in the glass. That wasn’t made less than a hundred years ago. More, by thelook of it.” “It’s a beautiful thing,” said Winston. “It is a beautiful thing,” said the other appreciatively.
+
+It seemed to him that he knew exactly what it felt like to sit in a room like this, in an arm-chair beside an open fire with your feet in the fender and a kettle on the hob; utterly alone, utterly secure, with nobody watching you, no voice pursuing you, no sound except the singing of the kettle and the friendly ticking of the clock. “There’s no telescreen!” he could not help murmuring. “Ah,” said the old man, “I never had one of those things. Too expensive. And I never seemed to feel the need of it, somehow.
+
+It was very unlikely that there existed anywhere in Oceania a copy of a book printed earlier than 1960.
+
+“Oranges and lemons, say the bells of St. Clement’s!” “What’s that?” said Winston. “Oh -- ‘Oranges and lemons, say the bells of St. Clement’s.’ That was a rhyme we had when I was a little boy. How it goes on I don’t remember, but I do know it ended up, ‘Here comes a candleto light you to bed, Here comes a chopper to chop off your head.’ It was a kind of a dance. They held out their arms for you to pass under, and when they came to ‘Here comes a chopper to chopoff your head’ they brought their arms down and caught you. It was just names of churches. All the London churches were in it -- all the principal ones, that is.”
+
+It was always difficult to determine the age of a London building. Anything large and impressive, if it was reasonably new in appearance, was automatically claimed as having been built since the Revolution, while anything that was obviously of earlier date was ascribed to some dim period called the Middle Ages.
+
+Statues, inscriptions, memorial stones, the names of streets --anything that might throw light upon the past had been systematically altered.
+
+Oranges and lemons say the bells of St. Clement’s, You owe me three farthings, say the bells of St. Martin’s! It was curious, but when you said it to yourself you had the illusion of actually hearing bells, the bells of a lost London that still existed somewhere orother, disguised and forgotten... ...Yet so far as he could remember he had never in real life heard church bells ringing.
+
+He stepped out on to the pavement without so much as a preliminary glance through the window... ...Suddenly his heart seemed to turn to ice and his bowels to water. A figure in blue overalls was coming down the pavement, not ten metres away. It was the girl from the Fiction Department, the girl with dark hair... ...There was no doubting any longer that the girl was spying on him.
+
+But it needed desperate courage to kill yourself in a world where firearms, or any quick and certain poison, were completely unprocurable. He thought with a kind of astonishment of the biological uselessness of pain and fear, the treachery of the human body which always freezes into inertia at exactly the moment when a special effort is needed.
+
+He opened the diary. It was important to write something down... ...but instead he began thinking of the things that would happen to him after the Thought Police took him away. It would not matter if they killed you at once. To be killed was what you expected. But before death (nobody spoke of such things, yet everybody knew of them) there was the routine of confession that had to be gone through: the grovelling on the floor and screaming for mercy, the crack of brokenbones, the smashed teeth, and bloody clots of hair.
 
 ## PART TWO
 
 ### Chapter 1
 
+A solitary figure was coming towards him from the other end of the long, brightly-lit corridor. It was the girl with dark hair... ...They were perhaps four metres apart when the girl stumbled and fell almost flat on her face. A sharp cry of pain was wrung out of her... ...A curious emotion stirred in Winston’s heart. In front of him was an enemy who was trying to kill him: in front of him, also, was a human creature, in pain and perhaps with a broken bone.
 
+In the two or three seconds while he was helping her up the girl had slipped something into his hand. There was no question that she had done it intentionally. It was something small and flat. As he passed through the lavatory door he transferred it to his pocket and felt it with the tips of his fingers. It was a scrap of paper folded into a square... ...On it was written, in a large unformed handwriting: I love you.
+
+It was not till twenty-three hours, when he was home and in bed --in the darkness, where you were safe even from the telescreen so long as you kept silent --that he was able to think continuously. It was a physical problem that had to be solved: how to get in touch with the girl andarrange a meeting. He did not consider any longer the possibility that she might be laying some kind of trap for him.
+
+As for sending a letter through the mails, it was out of the question. By a routine that was not even secret, all letters were opened in transit. Actually, few people ever wrote letters. For the messages that it was occasionally necessary to send, there were printed postcards with long lists of phrases, and you struck out the ones that were inapplicable. In any case he did not know the girl’s name, let aloneher address. 
+
+Finally he decided that the safest place was the canteen. If he could get her at a table by herself, somewhere in the middle of the room, not too near the telescreens, and with a sufficientbuzz of conversation all round --if these conditions endured for, say, thirty seconds, it might be possible to exchange a few words.
+
+At thismoment there was a tremendous crash. The little man was sprawling on all fours, his tray had gone flying, two streams of soup and coffee were flowing across the floor. He started to his feet with a malignant glance at Winston, whom he evidently suspected of having tripped him up. But it was all right. Five seconds later, with a thundering heart, Winston was sitting at the girl’s table. He did not look at her. He unpacked his tray and promptly began eating. It was all-important to speak at once, before anyone else came, but now a terrible fear had taken possession of him. A week had gone by since she had first approached him.
+
+Between spoonfuls exchanged the few necessary words in low expressionless voices. “What time do you leave work?” “Eighteen-thirty.” “Where can we meet?” “Victory Square, near the monument.” “It’s full of telescreens.” “It doesn’t matter if there’s a crowd.” “Any signal?” “No. Don’t come up to me until you see me among a lot of people. And don’t look at me. Justkeep somewhere near me.” “What time?” “Nineteen hours.” “All right.”
+
+As he ran, he gathered from some shouted remarks that a convoy of Eurasian prisoners was passing. Already a dense mass of people was blocking the south side of the square. Winston, at normal times the kind of person who gravitates to the outer edge of any kind of scrimmage,shoved, butted, squirmed his way forward into the heart of the crowd. Soon he was within arm’s length of the girl, 
+
+“Then listen carefully. You’ll have to remember this. Go to Paddington Station--” With a sort of military precision that astonished him, she outlined the route that he was to follow. A half-hour railway journey; turn left outside the station; two kilometres along the road: agate with the top bar missing; a path across a field; a grass-grown lane; a track between bushes; a dead tree with moss on it. It was as though she had a map inside her head. “Can you remember allthat?” she murmured finally. “Yes.” “You turn left, then right, then left again. And the gate’s got no top bar.” “Yes. What time?” “About fifteen. You may have to wait. I’ll get there by another way. Are you sure you remember everything?” “Yes.” “Then get away from me as quick as you can.”
+
+Foreigners, whether from Eurasia orfrom Eastasia, were a kind of strange animal. One literally never saw them except in the guise of prisoners, and even as prisoners one never got more than a momentary glimpse of them. Nor did one know what became of them, apart from the few who were hanged as war-criminals: the others simply vanished, presumably into forced-labour camps. 
+
+It could not have been ten seconds, and yet it seemed a long time that their hands were clasped together. He had time to learn every detail of her hand. He explored the long fingers, theshapely nails, the work-hardened palm with its row of callouses, the smooth flesh under the wrist.
 
 ### Chapter 2
 
+In general you could not assume that you were much safer in the country than in London. There were no telescreens, of course, but there was always the danger of concealed microphones by which your voice might be picked up and recognized.
 
+The train was full of proles, in holiday mood because of the summery weather. The wooden-seated carriage in which he travelled was filled to overflowing by a single enormous family, ranging from a toothless great-grandmother to a month-old baby, going out to spend an afternoon with “in-laws” in the country, and, as they freely explained to Winston, to get hold of a little blackmarket butter.
+
+He knelt down and began picking some partly to pass the time away, but also from a vague idea that he would like to have a bunch of flowers to offer to the girl when they met. He had got together a big bunch and was smelling their faint sickly scent when a sound at his back froze him, the unmistakable crackle of a foot on twigs. He went on picking bluebells. It was the best thing to do. It might be the girl, orhe might have been followed after all. To look round was to show guilt.
+
+He still had not the courage to approach her. “We’re all right here?” he repeated stupidly. “Yes. Look at the trees.” They were small ashes, which at some time had been cut down and had sprouted up again into a forest of poles, none of them thicker than one’s wrist. “There’s nothingbig enough to hide a mike in. Besides, I’ve been here before.”
+
+“I’m thirty-nine years old. I’ve got a wife that I can’t get rid of. I’ve got varicose veins. I’ve got five false teeth.” “I couldn’t care less,” said the girl.
+
+Tell me, what did you think ofme before that day I gave you the note?” He did not feel any temptation to tell lies to her. It was even a sort of love-offering to start off by telling the worst. “I hated the sight of you,” he said. “I wanted to rape you and then murder you afterwards. Two weeks ago I thought seriously of smashing your head in with a cobblestone. If you really want to know, I imagined that you had something to do with the Thought Police.” The girl laughed delightedly, evidently taking this as a tribute to the excellence of her disguise.
+
+She felt in the pocket of her overalls and produced a small slab of chocolate. She broke it in half and gave one of the pieces to Winston. Even before he had taken it he knew by the smell that it was very unusual chocolate. It was dark and shiny, and was wrapped in silver paper. Chocolate normally was dull-brown crumbly stuff that tasted, as nearly as one could describe it, like the smoke of a rubbish fire. But at some time or another he had tasted chocolate like the piece shehad given him. The first whiff of its scent had stirred up some memory which he could not pin down, but which was powerful and troubling. “Where did you get this stuff?” he said. “Black market,” she said indifferently.
+
+A thing that astonished him about her was the coarseness of her language. Party members were supposed not to swear, and Winston himself very seldom did swear, aloud, at any rate. Julia, however, seemed unable to mention the Party, and especially the Inner Party, without using the kind of words that you saw chalked up in dripping alley-ways.
+ 
+“It’s the Golden Country -- almost,” he murmured. “The Golden Country?” “It’s nothing, really. A landscape I’ve seen sometimes in a dream.”
+
+Who knew, perhaps the Party was rotten under the surface, its cult of strenuousness and self-denial simply a sham concealing iniquity.
+
+“Listen. The more men you’ve had, the more I love you. Do you understand that?” “Yes, perfectly.” “I hate purity, I hate goodness! I don’t want any virtue to exist anywhere. I want everyone to be corrupt to the bones.” “Well then, I ought to suit you, dear. I’m corrupt to the bones.” “You like doing this? I don’t mean simply me: I mean the thing in itself?” “I adore it.” That was above all what he wanted to hear. Not merely the love of one person but the animal instinct, the simple undifferentiated desire: that was the force that would tear the Party to pieces. 
+
+In the old days, he thought, a man looked at a girl’s body and saw that it was desirable, and that was the end of the story. But you could not have pure love or pure lust nowadays. No emotion was pure, becauseeverything was mixed up with fear and hatred. Their embrace had been a battle, the climax a victory. It was a blow struck against the Party. It was a political act.
 
 ### Chapter 3
 
+They carried on a curious, intermittent conversation which flicked on and off like the beams of a lighthouse, suddenly nipped into silence by the approach of a Party uniform or the proximity of a telescreen, then taken up again minuteslater in the middle of a sentence, then abruptly cut short as they parted at the agreed spot, then continued almost without introduction on the following day. Julia appeared to be quite used to this kind of conversation, which she called “talking by instalments”. She was also surprisingly adept at speaking without moving her lips.
 
+Just once in almost a month of nightly meetings they managed to exchange a kiss. They were passing in silence down a side-street (Julia would never speak when they were away from the main streets) when there was a deafening roar, the earth heaved, and the air darkened, and Winston found himself lying on his side, bruised and terrified. A rocket bomb must have dropped quite near at hand. Suddenly he became aware of Julia’s face a few centimetres from his own, deathly white, as white as chalk. Even her lips were white. She was dead! He clasped her against him and found that he was kissing a live warm face. But there was some powdery stuff thatgot in the way of his lips. Both of their faces were thickly coated with plaster.
+
+It paid, she said, it was camouflage. If you kept the small rules, you could break the big ones.
+
+Julia was twenty-six years old. She lived in a hostel with thirty other girls (“Always in the stink of women! How I hate women!” she said parenthetically), and she worked, as he had guessed, on the novel-writing machines in the Fiction Department... ...She had no memories of anything before the early ’sixties and the only person she had ever known who talked frequently of the days before the Revolution was a grandfather who had disappeared when she was eight.
+
+Any kind of organized revolt against the Party, which was bound to be a failure, struck her as stupid. The clever thing was to break the rules and stay alive all the same. He wondered vaguely how many others like her there might be in the younger generation people who had grown up in the world of the Revolution, knowing nothing else, accepting the Party as something unalterable, like the sky, not rebelling against its authority butsimply evading it, as a rabbit dodges a dog.
+
+There was a direct intimate connexion between chastity and political orthodoxy. For how could the fear, the hatred, and the lunatic credulity which the Partyneeded in its members be kept at the right pitch, except by bottling down some powerful instinct and using it as a driving force? The sex impulse was dangerous to the Party, and the Party hadturned it to account. They had played a similar trick with the instinct of parenthood. The family could not actually be abolished, and, indeed, people were encouraged to be fond of their children, in almost the old-fashioned way. The children, on the other hand, were systematically turned against their parents and taught to spy on them and report their deviations. The family had become in effect an extension of the Thought Police. It was a device by means of which everyone could be surrounded night and day by informers who knew him intimately.
+
+“Only because I prefer a positive to a negative. In this game that we’re playing, we can’t win. Some kinds of failure are better than other kinds, that’s all.”
+
+So long as human beings stay human, death and life are the same thing.”
 
 ### Chapter 4
 
+As he had foreseen, Mr. Charrington had made no difficulty about letting the room. He was obviously glad of the few dollars that it would bring him. Nor did he seem shocked or become offensively knowing when it was made clear that Winston wanted the room for the purpose of a love-affair. 
 
+The tune had been haunting London for weeks past. It was one of countless similar songspublished for the benefit of the proles by a sub-section of the Music Department. The words of these songs were composed without any human intervention whatever on an instrument known as aversificator. But the woman sang so tunefully as to turn the dreadful rubbish into an almost pleasant sound.
+
+Their first love-making had been simply an act of the will. But after the second time it was different. The smell of her hair, the taste of her mouth, the feeling of her skin seemed to have got inside him, or into the air all round him. She had become a physical necessity, something that he not only wanted but felt that he had a right to.
+
+He wondered vaguely whether in the abolished past it had been a normal experience to lie in bed like this, in the cool of a summer evening, a man and a woman with no clothes on, making love when they chose, talking of what they chose, not feeling any compulsion to get up, simply lying there and listening to peaceful sounds outside. Surely there could never have been a time whenthat seemed ordinary?
+
+“I can’t remember how it goes on after that. But anyway I remember it ends up, ‘Here comesa candle to light you to bed, here comes a chopper to chop off your head!’”
+
+“I can remember lemons,” said Winston. “They were quite common in the fifties. They were so sour that it set your teeth on edge even to smell them.”
 
 ### Chapter 5
 
+Syme had vanished. A morning came, and he was missing from work: a few thoughtless people commented on his absence. On the next day nobody mentioned him. On the third dayWinston went into the vestibule of the Records Department to look at the notice-board... ...It looked almost exactly as it had looked before --nothing had been crossed out --but it was one name shorter. It was enough. Syme had ceased to exist: he had never existed.
 
 
 ### Chapter 6
