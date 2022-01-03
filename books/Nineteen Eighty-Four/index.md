@@ -506,20 +506,89 @@ He wondered vaguely whether in the abolished past it had been a normal experienc
 
 Syme had vanished. A morning came, and he was missing from work: a few thoughtless people commented on his absence. On the next day nobody mentioned him. On the third dayWinston went into the vestibule of the Records Department to look at the notice-board... ...It looked almost exactly as it had looked before --nothing had been crossed out --but it was one name shorter. It was enough. Syme had ceased to exist: he had never existed.
 
+The preparations for Hate Week were in full swing... ...Processions, meetings, military parades, lectures, waxworks, displays, film shows, telescreen programmes all had to be organized; stands had to be erected, effigies built, slogans coined, songs written, rumours circulated, photographs faked... ...The rocket bombs crashed oftener than ever, and sometimes in the far distance there were enormous explosions which no one could explain and about which there were wild rumours. The new tune which was to be the theme-song of Hate Week (the Hate Song, it was called) had already been composed and was being endlessly plugged on the telescreens. It had a savage, barking rhythm which could not exactly be called music, but resembled the beating of a drum.
+
+The proles, normally apathetic about the war, were being lashed into one of their periodical frenzies of patriotism. As though to harmonize with the general mood, the rocket bombs had been killing larger numbers of people than usual.
+
+Four, five, six --seven times they met during the month of June. Winston had dropped his habit of drinking gin at all hours. He seemed to have lost the need for it. He had grown fatter, his varicose ulcer had subsided, leaving only a brown stain on the skin above his ankle, his fits of coughing in the early morning had stopped. The process of life had ceased to be intolerable.
+
+In any case the Party was invincible. It would always exist, and it would always be the same. You could only rebel against it by secret disobedience or, at most, by isolated acts of violence such as killing somebody or blowing something up.
+
+In some ways she was far more acute than Winston, and far less susceptible to Party propaganda. Once when he happened in some connexion to mention the war against Eurasia, shestartled him by saying casually that in her opinion the war was not happening. The rocket bombs which fell daily on London were probably fired by the Government of Oceania itself, “just to keeppeople frightened”. This was an idea that had literally never occurred to him.
+
+The issue still struck her as unimportant. “Who cares?” she said impatiently. “It’s always one bloody war after another, and one knows the news is all lies anyway.”
+
+History has stopped. Nothing exists except an endless present in which the Party is always right.
+
+“I’m not interested in the next generation, dear. I’m interested in us.” “You’re only a rebel from the waist downwards,” he told her. She thought this brilliantly witty and flung her arms round him in delight.
 
 ### Chapter 6
 
+It had happened at last. The expected message had come. All his life, it seemed to him, he had been waiting for this to happen... ...he became aware that someone larger than himself was walking just behind him... ...Winston stopped abruptly and turned. It was O’Brien.
 
+Have you seen the tenth edition of the Newspeak Dictionary?” “No,” said Winston. “I didn’t think it had been issued yet. We are still using the ninth in the Records Department.” “The tenth edition is not due to appear for some months, I believe. But a few advance copies have been circulated. I have one myself. It might interest you to look at it, perhaps?” “Very much so,” said Winston, immediately seeing where this tended. “Some of the new developments are most ingenious. The reduction in the number of verbs -that is the point that will appeal to you, I think. Let me see, shall I send a messenger to you with thedictionary? But I am afraid I invariably forget anything of that kind. Perhaps you could pick it up at my flat at some time that suited you? Wait. Let me give you my address.”
+
+Even while he was speaking to O’Brien, when the meaning of the words had sunk in, a chilly shuddering feeling had taken possession of his body. Hehad the sensation of stepping into the dampness of a grave, and it was not much better because he had always known that the grave was there and waiting for him.
 
 ### Chapter 7
 
+Winston had woken up with his eyes full of tears. Julia rolled sleepily against him, murmuring something that might have been “What’s the matter?”... ...“Do you know,” he said, “that until this moment I believed I had murdered my mother?”
 
+In the dream he had remembered his last glimpse of his mother... ...His father had disappeared some time earlier, how much earlier he could not remember. He remembered... ...the periodical panics about air-raids and the sheltering in Tube stations, the piles of rubble everywhere, the unintelligible proclamations posted at street corners, the gangs of youths in shirts all the same colour, the enormous queues outside the bakeries, the intermittent machine-gun fire in the distance --above all, the fact that there was never enough to eat.
+
+Very occasionally she would take Winston in her arms and press him against her for a long time without saying anything. He was aware, in spite of his youthfulness and selfishness, that this was somehow connected with the never-mentioned thing that was about to happen. He remembered the room where they lived, a dark, close-smelling room that seemed half filled by a bed with a white counterpane. There was a gas ring in the fender, and a shelf where foodwas kept, and on the landing outside there was a brown earthenware sink, common to several rooms.
+
+She took it for granted that he, “the boy”, should have the biggest portion; but however much she gave him he invariably demanded more. At every meal she would beseech him not to be selfish and to remember that his little sister was sick and also needed food, but it was no use. He would cry out with rage when she stopped ladling, he would try to wrench the saucepan and spoon out of her hands, he would grab bits from his sister’s plate. Heknew that he was starving the other two, but he could not help it; he even felt that he had a right to do it. The clamorous hunger in his belly seemed to justify him.
+
+One day a chocolate-ration was issued. There had been no such issue for weeks or months past... ...It was obvious that it ought to be divided into three equal parts... ...The little girl took hold of it and looked at it dully, perhaps not knowing what it was. Winston stood watching her for a moment. Then with a sudden swift spring he had snatched the piece of chocolate out of his sister’s hand and was fleeing for the door. "Winston, Winston!” his mother called after him. “Come back! Give your sister back her chocolate!”... ...His sister, conscious of having been robbed of something, had set up a feeble wail. His mother drew her arm round the child and pressed its face against her breast. Something in thegesture told him that his sister was dying... ...He never saw his mother again... ...When he came back his mother had disappeared.
+
+If you loved someone, you loved him, and when you had nothing else to give, you still gave him love.
+
+The terrible thing that the Party had done was to persuade you that mere impulses, mere feelings, were of no account, while at the same time robbing you of all power over the material world. When once you were in the grip of the Party, what you felt or did not feel, what you did or refrained from doing, made literally no difference. Whatever happened you vanished, and neither you nor your actions were ever heard of again. You were lifted clean out of the stream of history.
+
+“We may be together for another six months --a year --there’s no knowing. At the end we’re certain to be apart.
+
+“I don’t mean confessing. Confession is not betrayal. What you say or do doesn’t matter: only feelings matter. If they could make me stop loving you --that would be the real betrayal.” She thought it over. “They can’t do that,” she said finally. “It’s the one thing they can’t do. They can make you say anything --anything --but they can’t make you believe it. They can’t get inside you.”
+
+But if the object was not to stay alive but to stay human, what difference did it ultimately make? They could not alter your feelings: for that matter you could not alter them yourself, even if you wanted to. They could lay bare in the utmost detail everything that you had done or said or thought; but the inner heart, whose workings were mysterious even to yourself, remained impregnable.
 
 ### Chapter 8
 
+O’Brien was sitting at a table under a green-shaded lamp, with a mass of papers on either side of him. He had not bothered to look up when the servant showed Julia and Winston in... ...It had been a rash act to come here at all, and sheer folly to arrive together; though it was true that they had come by differentroutes and only met on O’Brien’s doorstep.
 
+The whole atmosphere of the huge block of flats, the richness and spaciousness of everything, the unfamiliar smells of good food and good tobacco, the silent and incredibly rapid lifts sliding up and down, the white-jacketed servants hurrying to and fro --everything was intimidating.
+ 
+As O’Brien passed the telescreen a thought seemed to strike him. He stopped, turned aside and pressed a switch on the wall. There was a sharp snap. The voice had stopped. Julia uttered a tiny sound, a sort of squeak of surprise. Even in the midst of his panic, Winston was too much taken aback to be able to hold his tongue. “You can turn it off!” he said. “Yes,” said O’Brien, “we can turn it off. We have that privilege.” 
+
+“Shall I say it, or will you?” he said. “I will say it,” said Winston promptly. “That thing is really turned off?” “Yes, everything is turned off. We are alone.” “We have come here because--” He paused, realizing for the first time the vagueness of his own motives. Since he did not in fact know what kind of help he expected from O’Brien, it was not easy to say why he had come here. He went on, conscious that what he was saying must sound both feeble and pretentious: “We believe that there is some kind of conspiracy, some kind of secret organization working against the Party, and that you are involved in it. We want to join it and work for it. We are enemiesof the Party. We disbelieve in the principles of Ingsoc. We are thought-criminals. We are also adulterers. I tell you this because we want to put ourselves at your mercy. If you want us to incriminate ourselves in any other way, we are ready.”
+
+Seen from the top the stuff looked almost black, but in the decanter it gleamed like a ruby. It had a sour-sweet smell. He saw Julia pick up her glass and sniff at it with frank curiosity. “It is called wine,” said O’Brien with a faint smile. “You will have read about it in books, no doubt. Not much of it gets to the Outer Party, I am afraid.” His face grew solemn again, and he raised his glass: “I think it is fitting that we should begin by drinking a health. To our Leader: To Emmanuel Goldstein.”
+
+Winston took up his glass with a certain eagerness. Wine was a thing he had read and dreamed about. “You are prepared to give your lives?” “Yes.” “You are prepared to commit murder?” “Yes.” “To commit acts of sabotage which may cause the death of hundreds of innocent people?” “Yes.” “To betray your country to foreign powers?” “Yes.” “You are prepared to cheat, to forge, to blackmail, to corrupt the minds of children, to distribute habit-forming drugs, to encourage prostitution, to disseminate venereal diseases --to do anything which is likely to cause demoralization and weaken the power of the Party?” “Yes.” “If, for example, it would somehow serve our interests to throw sulphuric acid in a child’s face --are you prepared to do that?” “Yes.” “You are prepared to lose your identity and live out the rest of your life as a waiter or a dockworker?” “Yes.” “You are prepared to commit suicide, if and when we order you to do so?” “Yes.” “You are prepared, the two of you, to separate and never see one another again?” “No!” broke in Julia. It appeared to Winston that a long time passed before he answered. For a moment he seemed even to have been deprived of the power of speech. His tongue worked soundlessly, forming the opening syllables first of one word, then of the other, over and over again. Until he had said it, he did not know which word he was going to say. “No,” he said finally. “You did well to tell me,” said O’Brien. “It is necessary for us to know everything.” He turned himself toward Julia and added in a voice with somewhat more expression in it: “Do you understand that even if he survives, it may be as a different person? We may beobliged to give him a new identity. His face, his movements, the shape of his hands, the colour of his hair --even his voice would be different. And you yourself might have become a differentperson. Our surgeons can alter people beyond recognition. Sometimes it is necessary. Sometimes we even amputate a limb.”
+
+When you are finally caught, you will confess. That is unavoidable. But you will have very little to confess, other than your own actions. You will not be able to betray more than a handful of unimportant people. Probably you will not even betray me. By that time I may be dead, or I shall have become a different person, with a different face.”
+
+The members of the Brotherhoodhave no way of recognizing one another, and it is impossible for any one member to be aware of the identity of more than a few others. Goldstein himself, if he fell into the hands of the Thought Police, could not give them a complete list of members, or any information that would lead them to a complete list. 
+
+The Brotherhood cannot be wiped out because it is not an organization in the ordinary sense. Nothing holds it together except an idea which is indestructible.
+
+At present nothing is possible except to extend the area of sanity little by little. We cannot act collectively. We can only spread our knowledge outwards from individual to individual, generation after generation. In the face of the Thought Police there is no other way.”
+
+He filled the glasses and raised his own glass by the stem. “What shall it be this time?” he said, still with the same faint suggestion of irony. “To theconfusion of the Thought Police? To the death of Big Brother? To humanity? To the future?” “To the past,” said Winston. “The past is more important,” agreed O’Brien gravely.
+
+I shall send you a copy of the book” --even O’Brien, Winston noticed, seemed to pronounce the words as though they were in italics -“Goldstein’s book, you understand, as soon as possible. It may be some days before I can get hold of one. There are not many in existence, as you can imagine.
+
+“Did you ever happen to hear an old rhyme that begins ‘Oranges and lemons, say the bells of St Clement’s’?” Again O’Brien nodded. With a sort of grave courtesy he completed the stanza: “‘Oranges and lemons, say the bells of St. Clement’s, You owe me three farthings, say the bells of St. Martin’s, When will you pay me? say the bells of Old Bailey, When I grow rich, say the bells of Shoreditch.’”
 
 ### Chapter 9
+
+Winston was gelatinous with fatigue. Gelatinous was the right word. It had come into his head spontaneously. His body seemed to have not only the weakness of a jelly, but its translucency. He felt that if he held up his hand he would be able to see the light through it. All the blood and lymph had been drained out of him by an enormous debauch of work... ...The heavy brief-case that he was carrying bumpedagainst his knee at each step, sending a tingling sensation up and down the skin of his leg. Inside it was the book, which he had now had in his possession for six days and had not yet opened, nor even looked at.
+
+It had been announced that Oceania was not after all at war with Eurasia. Oceania was at war with Eastasia. Eurasia was an ally... ...The banners and posters with which the square was decorated were all wrong! Quite half of them had the wrong faces on them. It was sabotage! The agents of Goldstein had been at work! There was a riotous interlude while posters were ripped from the walls, banners torn to shreds and trampled underfoot... ...One minute more, and the feral roars of rage were again bursting from the crowd. The Hate continued exactly as before, except that the target had been changed.
+
+Oceania was at war with Eastasia: Oceania had always been at war with Eastasia. A large part of the political literature of five years was now completely obsolete. Reports and records of all kinds, newspapers, books, pamphlets, films, sound-tracks, photographs --all had to be rectified at lightning speed. 
+
+A heavy black volume, amateurishly bound, with no name or title on the cover. The print also looked slightly irregular. The pages were worn at the edges, and fell apart, easily, as thoughthe book had passed through many hands. The inscription on the title-page ran: THE THEORY AND PRACTICE OF OLIGARCHICAL COLLECTIVISM by Emmanuel Goldstein. Winston began reading: Chapter I Ignorance is Strength
 
 ## PART THREE
 
