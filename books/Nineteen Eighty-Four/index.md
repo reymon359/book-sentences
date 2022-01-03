@@ -590,13 +590,167 @@ Oceania was at war with Eastasia: Oceania had always been at war with Eastasia. 
 
 A heavy black volume, amateurishly bound, with no name or title on the cover. The print also looked slightly irregular. The pages were worn at the edges, and fell apart, easily, as thoughthe book had passed through many hands. The inscription on the title-page ran: THE THEORY AND PRACTICE OF OLIGARCHICAL COLLECTIVISM by Emmanuel Goldstein. Winston began reading: Chapter I Ignorance is Strength
 
+Chapter III War is Peace... ...Eurasia comprises the whole of the northern part of the European and Asiatic land-mass, from Portugal to the Bering Strait. Oceania comprises the Americas, the Atlantic islands including the British Isles, Australasia, and the southern portion of Africa. Eastasia, smaller than the others and with a less definite western frontier, comprises China and the countries to the south of it, the Japanese islands and a large but fluctuating portion of Manchuria, Mongolia, and Tibet. In one combination or another, these three super-states are permanently at war, and havebeen so for the past twenty-five years.
+
+It is impossible for it to be decisive. None of the three super-states could be definitively conquered even by the other two in combination. They are too evenly matched, and their natural defences are too formidable.
+
+Whichever power controls equatorial Africa, or the countries of the Middle East, or Southern India,or the Indonesian Archipelago, disposes also of the bodies of scores or hundreds of millions of ill-paid and hard-working coolies. The inhabitants of these areas, reduced more or less openly to the status of slaves, pass continually from conqueror to conqueror, and are expended like so much coal or oil in the race to turn out more armaments, to capture more territory, to control more labour power, to turn out more armaments, to capture more territory, and so on indefinitely.
+
+The world of today is a bare, hungry, dilapidated place compared with the world that existed before 1914, and still more so if compared with the imaginary future to which the people of that period looked forward. In the early twentieth century, the vision of a future society unbelievably rich, leisured, orderly, and efficient -- a glittering antiseptic world of glass and steel and snow-white concrete --was part of the consciousness of nearly every literate person. Science and technology were developing at a prodigious speed, and it seemed natural to assume that they would go on developing. This failed to happen.
+
+From the moment when the machine first made its appearance it was clear to all thinking people that the need for humandrudgery, and therefore to a great extent for human inequality, had disappeared. If the machine were used deliberately for that end, hunger, overwork, dirt, illiteracy, and disease could be eliminated within a few generations.
+
+It was possible, no doubt, to imagine a society in which wealth, in the sense of personal possessions and luxuries, should be evenly distributed, while power remained in the hands of a small privileged caste. But in practice such a society could not long remain stable. For if leisure and security were enjoyed by all alike, the great mass of human beings who are normally stupefied by poverty would become literate and would learn to think for themselves; and when once they had done this, they would sooner or later realize that the privileged minority had no function, and they would sweep it away. In the long run, a hierarchical society was only possible on a basis of poverty and ignorance.
+
+War is a way of shattering to pieces, or pouring into the stratosphere, or sinking in the depths of the sea, materials which might otherwise be used to make the masses too comfortable, and hence, in the long run, too intelligent.
+
+The social atmosphere is that of a besieged city, where the possession of a lump of horseflesh makes the difference between wealth and poverty. And at the same time the consciousness of being at war, and therefore in danger, makes the handing-over of all power to a small caste seem the natural, unavoidable condition of survival.
+
+War, it will be seen, accomplishes the necessary destruction, but accomplishes it in a psychologically acceptable way. 
+
+What is concerned here is not themorale of masses, whose attitude is unimportant so long as they are kept steadily at work, but the morale of the Party itself. Even the humblest Party member is expected to be competent,industrious, and even intelligent within narrow limits, but it is also necessary that he should be a credulous and ignorant fanatic whose prevailing moods are fear, hatred, adulation, and orgiastic triumph.
+
+In Oceania at the present day, Science, in the old sense, has almost ceased to exist. In Newspeak there is no word for “Science”. The empirical method of thought, on which all the scientific achievements of the pastwere founded, is opposed to the most fundamental principles of Ingsoc. And even technological progress only happens when its products can in some way be used for the diminution of humanliberty.
+
+The two aims of the Party are to conquer the whole surface of the earth and to extinguish once and for all the possibility of independent thought. There are therefore two great problems which the Party is concerned to solve. One is how to discover, against his will, what another human being is thinking, and the other is how to kill several hundred million people in a few seconds without giving warning beforehand.
+
+In the vast laboratories of the Ministry of Peace, and in the experimental stations hidden in the Brazilian forests, or in the Australian desert, or on lost islands of the Antarctic, the teams of experts are indefatigably at work.
+
+All three powers already possess, in the atomic bomb, a weapon far more powerful than any that their present researches are likely to discover. Although the Party, according to its habit, claims the invention for itself, atomic bombs first appeared as early as the nineteen-forties, and were first used on a large scale about ten years later... ...to convince the ruling groups of all countries that a few more atomic bombs would mean the end of organized society, and hence of their own power... ...All three powers merely continue to produce atomic bombs and store them up against the decisive opportunity which they all believe will come sooner or later.
+
+War prisoners apart, the average citizen of Oceania never sets eyes on a citizen of either Eurasia or Eastasia, and he is forbidden the knowledge of foreign languages. If he were allowed contact with foreigners he would discover that they are creatures similar to himself and that most of what he has been told about them is lies. The sealed world in which he lives would be broken, and the fear, hatred, and self-righteousness on which his morale depends might evaporate.
+
+That the conditions of life in all three super-states are very much the same... ...The citizen of Oceania is not allowed to know anything of the tenets of the other two philosophies, but he is taught to execrate them as barbarous outrages upon morality and common sense. Actually the three philosophies are barely distinguishable, and the social systems which they support are not distinguishable at all. Everywhere there is the same pyramidal structure, the same worship of semi-divine leader, the same economy existing by and for continuous warfare.
+
+The fact that there IS no danger of conquest makes possible the denial of reality which is the special feature of Ingsoc and its rival systems of thought.
+
+Physical facts could not be ignored. In philosophy, or religion, or ethics, or politics, two and two might make five, but when one was designing a gun or an aeroplane they had to make four. Inefficient nations were always conquered sooner or later, and the struggle forefficiency was inimical to illusions.
+
+To be efficient it was necessary to be able to learn from the past, which meant having a fairly accurate idea of what had happened in the past.
+
+But when war becomes literally continuous, it also ceases to be dangerous. When war is continuous there is no such thing as military necessity. Technical progress can cease and the most palpable facts can be denied or disregarded.
+
+Cut off from contact with the outer world, and with the past, the citizen of Oceania is like a man in interstellar space, who has no way of knowing which direction is up and which is down. 
+
+The rulers of such a state are absolute, as the Pharaohs or the Caesars could not be. They are obliged to prevent their followers from starving to death in numbers large enough to be inconvenient, and they are obliged to remain at the same low level of military technique as their rivals; but once that minimum is achieved, they can twist reality into whatever shape they choose.
+
+The war is waged by each ruling group against its own subjects, and the object of the war is not to make or prevent conquests of territory, but to keep the structure of society intact. 
+
+The very word “war”, therefore, has become misleading. It would probably be accurate to say that by becoming continuous war has ceased to exist.
+
+The book fascinated him, or more exactly it reassured him. In a sense it toldhim nothing that was new, but that was part of the attraction. It said what he would have said, if it had been possible for him to set his scattered thoughts in order. It was the product of a mind similarto his own, but enormously more powerful, more systematic, less fear-ridden. 
+
+The best books, he perceived, are those that tell you what you know already.
+
+Thus throughout history a struggle which is the same in its main outlines recurs over and over again. For long periods the High seem to be securely in power, but sooner or later there always comes a moment when they lose either their belief in themselves or their capacity to govern efficiently, or both. They are then overthrown by the Middle, who enlist the Low on their side by pretending to them that they are fighting for liberty and justice. As soon as they have reached their objective, the Middle thrust the Low back into their old position of servitude, and themselves become the High. Presently a new Middle group splits off from one of the other groups, or from both of them, and the struggle begins over again.
+
+From the point of view of the Low, no historic change has ever meant much more than a change in the name of their masters.
+
+In the past the need for a hierarchical form of society had been the doctrine specifically of the High. It had been preached by kings and aristocrats and by the priests, lawyers, and the like who were parasitical upon them, and it had generally been softened by promises of compensationin an imaginary world beyond the grave.
+
+In each variant of Socialism that appeared from about 1900 onwards the aim of establishing liberty and equality was more and more openly abandoned.
+
+The purpose of all of them was to arrest progress and freeze history at a chosen moment. The familiar pendulum swing was to happen once more, and then stop. As usual,the High were to be turned out by the Middle, who would then become the High; but this time, by conscious strategy, the High would be able to maintain their position permanently... ...The cyclical movement of history was now intelligible, or appeared to be so; and if it was intelligible, then it was alterable.
+
+The principal, underlying cause was that, as early as the beginning of the twentieth century, human equality had become technically possible. It was still true that men were not equal in their native talents and that functions had to be specialized in ways that favoured some individuals against others; but there was no longer any real need for class distinctions or for large differences of wealth. In earlier ages, class distinctions had been not only inevitable but desirable.
+
+Inequality was the price of civilization.
+
+Human equality was no longer anideal to be striven after, but a danger to be averted.
+
+The idea of an earthly paradise in which men should live together in a state of brotherhood, without laws and without brute labour, had haunted the human imagination for thousands of years... ...had been discredited at exactly the moment when it became realizable.
+
+It was only after a decade of national wars, civil wars, revolutions, and counter-revolutions in all parts of the world that Ingsoc and its rivals emerged as fully worked-out political theories.
+
+As compared with their opposite numbers in past ages, they were less avaricious, less tempted by luxury, hungrier for pure power, and, above all, more conscious of what they were doing and more intent on crushing opposition. This last difference was cardinal. By comparison with that existing today, all the tyrannies of the past were half-hearted and inefficient. The ruling groups were always infected to some extent by liberal ideas, and were content to leave loose ends everywhere, to regard only the overt act and to be uninterested in what their subjects were thinking.
+
+The invention of print, however, made iteasier to manipulate public opinion, and the film and the radio carried the process further.
+
+Every citizen, or at least every citizen important enough to be worth watching, could be kept for twentyfour hours a day under the eyes of the police and in the sound of official propaganda, with all other channels of communication closed. The possibility of enforcing not only complete obedience to the will of the State, but complete uniformity of opinion on all subjects, now existed for the first time.
+
+The so-called “abolition of private property” which took place in the middle years of the century meant, in effect, the concentration of property in far fewer hands than before: but with this difference, that the new owners were a group instead of a mass of individuals. Individually, no member of the Party owns anything, except petty personal belongings. Collectively,the Party owns everything in Oceania.
+
+There are only four ways in which a ruling group can fall from power. Either it is conquered from without, or itgoverns so inefficiently that the masses are stirred to revolt, or it allows a strong and discontented Middle group to come into being, or it loses its own self-confidence and willingness to govern. Thesecauses do not operate singly, and as a rule all four of them are present in some degree. A ruling class which could guard against all of them would remain in power permanently.
+
+Big Brother is the guise in which the Party chooses to exhibit itself to the world. His function is to act as a focusing point for love, fear, and reverence, emotions which are more easily felt towards an individual than towards an organization. 
+
+Below Big Brother comes the Inner Party. Its numbers limited to six millions, or something less than 2 per cent of the population of Oceania. Below the Inner Party comes the Outer Party, which, if the Inner Party is described as the brain of the State, may be justly likened to the hands. Below that come the dumb masses whom we habitually refer to as “the proles”, numbering perhaps 85 per cent of the population.
+
+Oceania has no capital, and its titular head is a person whose whereabouts nobody knows. Except that English is its chief lingua franca and Newspeak its official language, it is not centralized in any way. Its rulers are not held together by blood-ties but by adherence to a common doctrine.
+
+The essence of oligarchical rule is not father-to-son inheritance,but the persistence of a certain world-view and a certain way of life, imposed by the dead upon the living. 
+
+A ruling group is a ruling group so long as it can nominate its successors.
+
+Who wields power is not important, provided that the hierarchical structure remains always the same.
+
+A Party member lives from birth to death under the eye of the Thought Police. Even when he is alone he can never be sure that he is alone.
+
+A person naturally orthodox (in Newspeak a goodthinker), he will in all circumstances know, without taking thought, what is the true belief or the desirable emotion. But in any case anelaborate mental training, undergone in childhood and grouping itself round the Newspeak words crimestop, blackwhite, and doublethink, makes him unwilling and unable to think too deeply on any subject whatever.
+
+Crimestop means the faculty of stopping short, as though by instinct, at the threshold of any dangerous thought. It includes the power of not grasping analogies, of failing to perceive logical errors, of misunderstanding the simplest arguments if they are inimical to Ingsoc, and of being bored or repelled by any train of thought which is capable of leading in a heretical direction. Crimestop, in short, means protective stupidity.
+
+The alteration of the past is necessary for two reasons, one of which is subsidiary and, so to speak, precautionary. The subsidiary reason is that the Party member, like the proletarian, toleratespresent-day conditions partly because he has no standards of comparison... ...But by far the more important reason for the readjustment of the past is the need to safeguard the infallibility of the Party. It is not merely that speeches, statistics, and records of every kind must be constantly brought up to date in order to show that the predictions of the Party were in all cases right. It is also that no change in doctrine or in political alignment can ever be admitted.
+
+Past events, it is argued, have no objective existence, but survive only in written records and in human memories. The past is whatever the records and the memories agree upon.
+
+Though the past is alterable, it never has been altered in any specific instance. For when it has been recreated in whatever shape is needed at the moment, then this new version is the past, and no different past can ever have existed.
+
+The Party intellectual knows in which direction his memories must be altered; he therefore knows that he is playing tricks with reality; but by theexercise of doublethink he also satisfies himself that reality is not violated. The process has to be conscious, or it would not be carried out with sufficient precision, but it also has to be unconscious,or it would bring with it a feeling of falsity and hence of guilt.
+
+To tell deliberate lies while genuinely believing in them, to forget any fact that has become inconvenient, and then, when it becomes necessary again, to draw it back from oblivion for just so long as it is needed, to deny the existence of objective reality and all the while to take account of the reality which one denies --all this is indispensably necessary. 
+
+Even in using the word doublethink it is necessary to exercise doublethink.
+
+Ultimately it is by means of doublethink that the Party has been able... ...to arrest the course of history.
+
+The secret of rulership is to combine a belief in one’s own infallibility with the Power to learn from past mistakes.
+
+World-conquest is believed in most firmly by those who know it to be impossible. This peculiar linking-together of opposites --knowledge with ignorance, cynicism with fanaticism --is one of the chief distinguishing marks of Oceanic society.
+
+Contradictions are not accidental, nor do they result from ordinary hypocrisy; they are deliberate exercises in doublethink. For it is only by reconciling contradictions that power can be retained indefinitely.
+
+Why should human equality be averted? Supposing that the mechanics of the process have been rightly described, what is the motive for this huge, accurately planned effort to freeze history at a particular moment of time?... ...the original motive, the never-questioned instinct that first led to the seizure of power and brought doublethink, the Thought Police, continuous warfare, and all the other necessary paraphernalia into existence afterwards. This motive really consists... ...He had still, he reflected, not learned the ultimate secret. He understood how; he did not understand why.
+
+Being in a minority, even a minority of one, did not make you mad. There was truth and there was untruth, and if you clung to the truth even against the whole world, you were not mad.
+
+It was curious to think that the sky was the same for everybody, in Eurasia or Eastasia as well as here. And the people under the sky were also very much the same --everywhere, all over the world, hundreds of thousands of millions of people just like this, people ignorant of one another’s existence, held apart by walls of hatred and lies, and yet almost exactly the same.
+
+Where there is equality there can be sanity. Sooner or later it would happen, strength would change into consciousness.
+
+“We are the dead,” he said. “We are the dead,” echoed Julia dutifully. “You are the dead,” said an iron voice behind them.
+
+“The house is surrounded,” said Winston. “The house is surrounded,” said the voice. He heard Julia snap her teeth together. “I suppose we may as well say good-bye,” she said. “You may as well say good-bye,” said the voice. And then another quite different voice, a thin, cultivated voice which Winston had the impression of having heard before, struck in; “And by the way, while we are on the subject, Here comes a candle to light you to bed, here comes a chopper to chop off your head!”
+
+Winston had a glimpse of her face, upside down, yellowand contorted, with the eyes shut, and still with a smear of rouge on either cheek; and that was the last he saw of her.
+
+Winston suddenly realized whose voice it was that he had heard a few moments ago on the telescreen. Mr. Charrington was still wearing his old velvet jacket, but his hair, which had been almost white, had turned black. Also he was not wearing his spectacles. He gave Winston a single sharp glance, as though verifying his identity, and then paid no more attention to him... ...It was the alert, cold face of a man of about five-and-thirty.It occurred to Winston that for the first time in his life he was looking, with knowledge, at a member of the Thought Police.
+
 ## PART THREE
-
-
 
 ### Chapter 1
 
+He did not know where he was. Presumably he was in the Ministry of Love, but there was no way of making certain... ...There was a dull aching in his belly... ...It might be twenty-four hours since he had eaten, it might be thirty-six... ...In the end the temptation to find out overcame his fear; he slipped a hand into his pocket. “Smith!” yelled a voice from the telescreen. “6079 Smith W! Hands out of pockets in the cells!”
 
+There was much talk about the forced-labour camps to which most of the prisoners expected to be sent. It was “all right” in the camps, he gathered, so long as you had good contactsand knew the ropes. There was bribery, favouritism, and racketeering of every kind, there was homosexuality and prostitution, there was even illicit alcohol distilled from potatoes. The positionsof trust were given only to the common criminals, especially the gangsters and the murderers, who formed a sort of aristocracy. All the dirty jobs were done by the politicals.
+
+She leant forward and vomited copiously on the floor. “Thass better,” she said, leaning back with closed eyes. “Never keep it down, thass what I say. Get it up while it’s fresh on your stomach, like.”
+
+The Party prisoners seemed terrified of speaking to anybody, and above all of speaking to one another.
+
+He was not certain that he would use the razor blade even if he got the chance. It was more natural to exist from moment to moment, accepting another ten minutes’ life even with the certainty that there was torture at theend of it.
+
+In this place, he knew instinctively, the lights would never be turned out. It was the place with no darkness: he saw now why O’Brien had seemed to recognize the allusion. In the Ministry of Love there were no windows.
+
+Winston roused hirnself a little from his lethargy. He must speak to Ampleforth, and risk the yell from the telescreen. It was even conceivable that Ampleforth was the bearer of the razor blade. “Ampleforth,” he said... ...“These things happen,” he began vaguely. “I have been able to recall one instance --a possible instance. It was an indiscretion, undoubtedly. We were producing a definitive edition of the poems of Kipling. I allowed the word ‘God’ to remain at the end of a line. I could not help it!”
+
+“Has it ever occurred to you,” he said, “that the whole history of English poetry has been determined by the fact that the English language lacks rhymes?”
+
+His mind sagged round and round on the same trick, like a ball falling again and again into the same series of slots. He had only six thoughts. The pain in his belly; a piece of bread; the blood and the screaming; O’Brien; Julia; the razor blade.
+
+“What are you in for?” said Winston. “Thoughtcrime!” said Parsons... ...I started talking in my sleep. Do you know what they heard me saying?” He sank his voice, like someone who is obliged for medical reasons to utter an obscenity. “‘Down with Big Brother!’ Yes, I said that! Said it over and over again, it seems... ...“Who denounced you?” said Winston. “It was my little daughter,”... ...I don’t bear her any grudge for it. In fact I’m proud of her. It shows I brought her up in the right spirit, anyway.”
+
+“Room 101,” said the officer. The man’s face, already very pale, turned a colour Winston would not have believed possible. It was definitely, unmistakably, a shade of green. “Do anything to me!” he yelled. “You’ve been starving me for weeks. Finish it off and let me die. Shoot me. Hang me. Sentence me to twenty-five years. Is there somebody else you want me to give away? Just say who it is and I’ll tell you anything you want. I don’t care who it is or what you do to them. I’ve got a wife and three children. The biggest of them isn’t six years old. You can take the whole lot of them and cut their throats in front of my eyes, and I’ll stand by and watch it. But not Room 101!” “Room 101,” said the officer.
 
 ### Chapter 2
 
