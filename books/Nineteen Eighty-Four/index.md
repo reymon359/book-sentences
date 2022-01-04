@@ -752,9 +752,61 @@ His mind sagged round and round on the same trick, like a ball falling again and
 
 “Room 101,” said the officer. The man’s face, already very pale, turned a colour Winston would not have believed possible. It was definitely, unmistakably, a shade of green. “Do anything to me!” he yelled. “You’ve been starving me for weeks. Finish it off and let me die. Shoot me. Hang me. Sentence me to twenty-five years. Is there somebody else you want me to give away? Just say who it is and I’ll tell you anything you want. I don’t care who it is or what you do to them. I’ve got a wife and three children. The biggest of them isn’t six years old. You can take the whole lot of them and cut their throats in front of my eyes, and I’ll stand by and watch it. But not Room 101!” “Room 101,” said the officer.
 
+He thought: “If I could save Julia by doubling my own pain, would I do it? Yes, I would.” But that was merely an intellectual decision, taken because he knew that he ought to take it. He did not feel it. In this place you could not feel anything, except pain and foreknowledge of pain. Besides, was it possible, when you were actually suffering it, to wish for any reason that yourown pain should increase? But that question was not answerable yet.
+
+Never, for any reason on earth, could you wish for an increase of pain. Of pain you could wish only one thing: that it should stop.
+
+In the face of pain there are no heroes, no heroes, he thought over and over as he writhed on the floor.
+
 ### Chapter 2
 
+He was lying on something that felt like a camp bed, except that it was higher off the ground and that he was fixed down in some way so that he could not move. Light that seemed stronger than usual was falling on his face. O’Brien was standing at his side, looking down at himintently. At the other side of him stood a man in a white coat, holding a hypodermic syringe.
 
+There was a long range of crimes --espionage, sabotage, and the like --to which everyone had to confess as a matter of course. The confession was a formality, though the torturewas real. How many times he had been beaten, how long the beatings had continued, he could not remember.
+
+The beatings grew less frequent, and became mainly a threat, a horror to which he could besent back at any moment when his answers were unsatisfactory. His questioners now were not ruffians in black uniforms but Party intellectuals, little rotund men with quick movements and flashing spectacles, who worked on him in relays over periods.
+
+Their real weapon was the merciless questioning that went on and on, hour after hour, tripping him up, laying traps for him, twisting everything that he said, convicting him at every step of lies and self-contradiction until he began weeping as much fromshame as from nervous fatigue Sometimes he would weep half a dozen times in a single session.
+
+His sole concern was to find out what they wanted him to confess, and then confess it quickly, before the bullying started anew.
+
+In the eyes of the Party there was no distinction between the thought and the deed.
+
+He was rolling down a mighty corridor, a kilometre wide, full of glorious, golden light, roaring with laughter and shouting out confessions at the top of his voice. He was confessing everything, even the things he had succeeded in holding back under the torture. He was relating the entire history of his life to an audience who knew it already. With him were the guards, the other questioners, the men in white coats, O’Brien, Julia, Mr Charrington, all rolling down the corridor together and shouting with laughter. Some dreadful thing which had lain embedded in the future had somehow been skipped over and had not happened. Everything was all right, there was nomore pain, the last detail of his life was laid bare, understood, forgiven.
+
+And once --Winston could not remember whether it was in drugged sleep, or in normal sleep, or even in a moment of wakefulness --a voice murmured in his ear: “Don’t worry, Winston; you are in my keeping. For seven years I have watched over you. Now the turning-point has come. I shall save you, I shall make you perfect.” He was not sure whether it wasO’Brien’s voice; but it was the same voice that had said to him, “We shall meet in the place where there is no darkness,” in that other dream, seven years ago.
+
+“I told you,” said O’Brien, “that if we met again it would be here.” “Yes,” said Winston. Without any warning except a slight movement of O’Brien’s hand, a wave of pain flooded hisbody.
+
+“You are afraid,” said O’Brien, watching his face, “that in another moment something is going to break. Your especial fear is that it will be your backbone. You have a vivid mental picture of the vertebrae snapping apart and the spinal fluid dripping out of them. That is what you are thinking, is it not, Winston?” Winston did not answer. O’Brien drew back the lever on the dial. The wave of pain receded almost as quickly as it had come.
+
+You believed that you had actually held it in your hands. It was a photograph something like this.” An oblong slip of newspaper had appeared between O’Brien’s fingers... ...It was THE photograph... ...“It exists!” he cried. “No,” said O’Brien. He stepped across the room. There was a memory hole in the opposite wall... ...“Ashes,” he said. “Not even identifiable ashes. Dust. It does not exist. It never existed.” “But it did exist! It does exist! It exists in memory. I remember it. You remember it.” “I do not remember it,” said O’Brien. Winston’s heart sank. That was doublethink. He had a feeling of deadly helplessness. If hecould have been certain that O’Brien was lying, it would not have seemed to matter. But it was perfectly possible that O’Brien had really forgotten the photograph. And if so, then already he wouldhave forgotten his denial of remembering it, and forgotten the act of forgetting. How could one be sure that it was simple trickery? Perhaps that lunatic dislocation in the mind could really happen: that was the thought that defeated him.
+
+“Is it your opinion, Winston, that the past has real existence?” Again the feeling of helplessness descended upon Winston. His eyes flitted towards the dial. He not only did not know whether “yes” or “no” was the answer that would save him from pain;... ...O’Brien smiled faintly. “You are no metaphysician, Winston,” he said. “Until this moment youhad never considered what is meant by existence. I will put it more precisely. Does the past exist concretely, in space? Is there somewhere or other a place, a world of solid objects, where the past is still happening?” “No.” “Then where does the past exist, if at all?” “In records. It is written down.” “In records. And--?” “In the mind. In human memories.” “In memory. Very well, then. We, the Party, control all records, and we control all memories. Then we control the past, do we not?” “But how can you stop people remembering things?”
+
+How can you control memory? You havenot controlled mine!” O’Brien’s manner grew stern again. He laid his hand on the dial. “On the contrary,” he said, “you have not controlled it. That is what has brought you here. You are here because you have failed in humility, in self-discipline. 
+
+When you delude yourself into thinking that you see something, you assume that everyone else sees the same thing as you.
+
+“You are a slow learner, Winston,” said O’Brien gently. “How can I help it?” he blubbered. “How can I help seeing what is in front of my eyes? Twoand two are four.” “Sometimes, Winston. Sometimes they are five. Sometimes they are three. Sometimes they are all of them at once. You must try harder. It is not easy to become sane.”
+
+Perhaps one did not want to be loved so much as to be understood.
+
+We do not merely destroy our enemies, we change them. Do you understand what I mean by that?”
+
+All the confessions that are uttered here are true. We make them true. And above all we do not allow the dead to rise up against us. You must stop imagining that posterity will vindicate you, Winston. Posterity will never hear of you. 
+
+You will be lifted clean out from the stream of history. We shall turn you into gas and pour you into the stratosphere. Nothing will remain of you,not a name in a register, not a memory in a living brain. You will be annihilated in the past as well as in the future. You will never have existed.”
+
+We do not destroy the heretic because he resists us: so long as he resists us we never destroy him.
+
+The command of the totalitarians was ‘Thou shalt’. Our command is ‘Thou art’. No one whom we bring to this place ever stands out against us. Everyone is washed clean.
+
+They begged to be shot quickly, so that they could die while their minds were still clean.”
+
+“Do not imagine that you will save yourself, Winston, however completely you surrender tous. No one who has once gone astray is ever spared. And even if we chose to let you live out the natural term of your life, still you would never escape from us. What happens to you here is for ever.Understand that in advance. We shall crush you down to the point from which there is no coming back. Things will happen to you from which you could not recover, if you lived a thousand years. Never again will you be capable of ordinary human feeling. Everything will be dead inside you. Never again will you be capable of love, or friendship, or joy of living, or laughter, or curiosity, or courage, or integrity. You will be hollow. We shall squeeze you empty, and then we shall fill you with ourselves.”
+
+“This time it will not hurt,” he said. “Keep your eyes fixed on mine.” At this moment there was a devastating explosion, or what seemed like an explosion, though it was not certain whether there was any noise. 
 
 ### Chapter 3
 
