@@ -806,17 +806,108 @@ They begged to be shot quickly, so that they could die while their minds were st
 
 “Do not imagine that you will save yourself, Winston, however completely you surrender tous. No one who has once gone astray is ever spared. And even if we chose to let you live out the natural term of your life, still you would never escape from us. What happens to you here is for ever.Understand that in advance. We shall crush you down to the point from which there is no coming back. Things will happen to you from which you could not recover, if you lived a thousand years. Never again will you be capable of ordinary human feeling. Everything will be dead inside you. Never again will you be capable of love, or friendship, or joy of living, or laughter, or curiosity, or courage, or integrity. You will be hollow. We shall squeeze you empty, and then we shall fill you with ourselves.”
 
-“This time it will not hurt,” he said. “Keep your eyes fixed on mine.” At this moment there was a devastating explosion, or what seemed like an explosion, though it was not certain whether there was any noise. 
+“This time it will not hurt,” he said. “Keep your eyes fixed on mine.” At this moment there was a devastating explosion, or what seemed like an explosion, though it was not certain whether there was any noise... ...Then everything was normal again, and the old fear, thehatred, and the bewilderment came crowding back again. But there had been a moment --he did not know how long, thirty seconds, perhaps --of luminous certainty, when each new suggestion ofO’Brien’s had filled up a patch of emptiness and become absolute truth, and when two and two could have been three as easily as five, if that were what was needed.
+
+“Does Big Brother exist?” “Of course he exists. The Party exists. Big Brother is the embodiment of the Party.” “Does he exist in the same way as I exist?” “You do not exist,” said O’Brien.
+
+“What is in Room 101?” The expression on O’Brien’s face did not change. He answered drily: “You know what is in Room 101, Winston. Everyone knows what is in Room 101.”
 
 ### Chapter 3
 
+You have read the book, Goldstein’s book, or parts of it, at least. Did it tell you anything that you did not know already?” “You have read it?” said Winston. “I wrote it. That is to say, I collaborated in writing it. No book is produced individually, as you know.” “Is it true, what it says?” “A description, yes. The programme it sets forth is nonsense. The secret accumulation of knowledge -- a gradual spread of enlightenment -- ultimately a proletarian rebellion -- the overthrow of the Party. You foresaw yourself that that was what it would say. It is all nonsense. The proletarians will never revolt, not in a thousand years or a million. They cannot. I do not have to tell you the reason: you know it already. If you have ever cherished any dreams of violent insurrection, you must abandon them. There is no way in which the Party can be overthrown. The rule of the Party is for ever. Make that the starting-point of your thoughts.” He came closer to the bed. “For ever!” he repeated.
 
+The choice for mankind lay between freedom and happiness, and that, for the great bulk of mankind, happiness was better.
+
+What can you do, thought Winston, against the lunatic who is more intelligent than yourself, who gives your arguments a fair hearing and then simply persists in his lunacy?
+
+The Party seeks power entirely forits own sake. We are not interested in the good of others; we are interested solely in power. Not wealth or luxury or long life or happiness: only power, pure power.
+
+We are different from all the oligarchies of the past, in that we know what we are doing. All the others, even those who resembled ourselves, were cowards and hypocrites. The German Nazis and the Russian Communists came very close to us in their methods, but they never had the courage to recognize their own motives. They pretended, perhaps they even believed, that they had seized power unwillingly and for a limited time, and that just round the corner there lay a paradise where human beings would be free and equal. We are not like that. We know that no one ever seizes power with the intention of relinquishing it.
+
+Power is not a means, it is an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order toestablish the dictatorship. The object of persecution is persecution. The object of torture is torture. The object of power is power.
+
+“We are the priests of power,” he said. “God is power. But at present power is only a word so far as you are concerned.
+
+Power is collective. The individual only has power in so far as heceases to be an individual.
+
+Slavery is freedom. Alone --free --the human being is always defeated. Itmust be so, because every human being is doomed to die, which is the greatest of all failures. But if he can make complete, utter submission, if he can escape from his identity, if he can merge himself in the Party so that he is the Party, then he is all-powerful and immortal.
+
+Power is power over human beings. Over the body but, above all, over the mind. Power over matter --external reality, as you would call it --is not important. Already our control over matter is absolute.”
+
+“But how can you control matter?” he burst out. “You don’t even control the climate or the law of gravity. And there are disease, pain, death--” O’Brien silenced him by a movement of his hand. “We control matter because we control the mind. Reality is inside the skull. You will learn by degrees, Winston. There is nothing that we couldnot do. Invisibility, levitation -- anything. I could float off this floor like a soap bubble if I wish to. I do not wish to, because the Party does not wish it. You must get rid of those nineteenth-century ideas about the laws of Nature. We make the laws of Nature.” “But you do not! You are not even masters of this planet. What about Eurasia and Eastasia? You have not conquered them yet.” “Unimportant. We shall conquer them when it suits us. And if we did not, what difference would it make? We can shut them out of existence. Oceania is the world.”
+
+“Nonsense. The earth is as old as we are, no older. How could it be older? Nothing existsexcept through human consciousness.” “But the rocks are full of the bones of extinct animals --mammoths and mastodons and enormous reptiles which lived here long before man was ever heard of.” “Have you ever seen those bones, Winston? Of course not. Nineteenth-century biologists invented them. Before man there was nothing. After man, if he could come to an end, there would be nothing. Outside man there is nothing.”
+
+The stars can be near or distant, according as we need them. Do you suppose our mathematicians are unequal to that? Have you forgotten doublethink?”
+
+The belief that nothing exists outside your own mind... ...solipsism.
+
+“The real power, the power we have to fight for night and day, is not power over things, but over men.” 
+
+“How does one man assert his power over another, Winston?” Winston thought. “By making him suffer,” he said. “Exactly. By making him suffer. Obedience is not enough. Unless he is suffering, how can you be sure that he is obeying your will and not his own? Power is in inflicting pain and humiliation.
+
+Power is in tearing human minds to pieces and putting them together again in new shapes of your own choosing.
+
+Progress in our world will be progress towards more pain... ...In our world there will be no emotions except fear, rage, triumph, and self-abasement... ...We have cut the links between child and parent,and between man and man, and between man and woman. No one dares trust a wife or a child or a friend any longer. But in the future there will be no wives and no friends. Children will be taken from their mothers at birth, as one takes eggs from a hen. The sex instinct will be eradicated. Procreation will be an annual formality like the renewal of a ration card.
+
+We shall abolish the orgasm.
+
+There will be no art, no literature, no science. When we are omnipotent we shall have no more need of science.
+
+There will be no curiosity, no enjoyment of the process of life.
+
+If you want a picture ofthe future, imagine a boot stamping on a human face --for ever.
+
+Goldstein and his heresies will live for ever. Every day, at every moment, they will be defeated, discredited, ridiculed, spat upon and yet they will always survive. This drama that I haveplayed out with you during seven years will be played out over and over again generation after generation, always in subtler forms. Always we shall have the heretic here at our mercy, screaming with pain, broken up, contemptible --and in the end utterly penitent, saved from himself, crawling to our feet of his own accord.
+
+In the end you will do more than understand it. You will accept it, welcome it, become part of it.
+
+“Do you believe in God, Winston?” “No.” “Then what is it, this principle that will defeat us?” “I don’t know. The spirit of Man.” “And do you consider yourself a man?.” “Yes.” “If you are a man, Winston, you are the last man. Your kind is extinct; we are the inheritors. Do you understand that you are alone? You are outside history, you are non-existent.”
+
+“Open your mouth. Nine, ten, eleven teeth left. How many had you when you came to us? And the few you have left are dropping out of your head. Look here!” He seized one of Winston’s remaining front teeth between his powerful thumb and forefinger. A twinge of pain shot through Winston’s jaw. O’Brien had wrenched the loose tooth out by the roots. He tossed it across the cell. “You are rotting away,” he said; “you are falling to pieces. What are you? A bag of filth. Nowturn around and look into that mirror again. Do you see that thing facing you? That is the last man. If you are human, that is humanity. Now put your clothes on again.”
+
+“You did it!” sobbed Winston. “You reduced me to this state.’ “No, Winston, you reduced yourself to it. This is what you accepted when you set yourself up against the Party. It was all contained in that first act. Nothing has happened that you did not foresee.” He paused, and then went on: “We have beaten you, Winston. We have broken you up. You have seen what your body is like. Your mind is in the same state. I do not think there can be much pride left in you. You have been kicked and flogged and insulted, you have screamed with pain, you have rolled on the floor in your own blood and vomit. You have whimpered for mercy, you have betrayed everybody and everything. Can you think of a single degradation that has not happened to you?”
 
 ### Chapter 4
 
+He was much better. He was growing fatter and stronger every day, if it was proper to speak of days... ...They had dressed his varicose ulcer with soothing ointment. They had pulled out the remnants of his teeth and given him a new set of dentures... ...He was getting, he judged, three meals in the twenty-four hours; sometimes he wondered dimly whether he was getting them by night or by day. The food was surprisingly good, with meat at every third meal. Once there was even a packet of cigarettes. 
 
+He had long grown used to sleeping with a strong light on his face. It seemed to make no difference, except that one’s dreams were more coherent.
+
+He was not bored, he had no desire for conversation or distraction. Merely to be alone, not to be beaten or questioned, to have enough to eat, and to be clean all over, was completely satisfying.
+
+He could not fight against the Party any longer. Besides, the Party was in the right. It must be so; how could the immortal, collective brain be mistaken? By what external standard could you check its judgements? Sanity was statistical. It was merely a question of learning to think as they thought. Only--! The pencil felt thick and awkward in his fingers. He began to write down the thoughts that came into his head. He wrote first in large clumsy capitals: FREEDOM IS SLAVERY Then almost without a pause he wrote beneath it: TWO AND TWO MAKE FIVE But then there came a sort of check. His mind, as though shying away from something, seemedunable to concentrate. He knew that he knew what came next, but for the moment he could not recall it. When he did recall it, it was only by consciously reasoning out what it must be: it did not come of its own accord. He wrote: GOD IS POWER. He accepted everything. 
+
+The law of gravity was nonsense. “If I wished,” O’Brien had said, “I could float off this floor like a soap bubble.” Winston worked it out. “If he thinks he floats off the floor, and if I simultaneously think I see him do it, then the thing happens.” Suddenly, like a lump of submerged wreckage breaking the surface of water, the thought burst into his mind: “It doesn’t really happen. We imagine it. It is hallucination.”
+
+What knowledge have we of anything, save through our own minds? All happenings are in the mind. Whatever happens in all minds, truly happens.
+
+The arithmetical problems raised, for instance, by such a statement as “two and two make five” were beyond his intellectual grasp. It needed also a sort of athleticism of mind, an ability at one moment to make the most delicate use of logic and at the next to be unconscious of the crudest logical errors. Stupidity was as necessary as intelligence, and as difficult to attain.
+
+The unspoken tradition: somehow you knew it, though you never heard it said -- was that they shot you from behind; always in the back of the head, without warning, as you walked down a corridor from cell to cell.
+
+He was breaking the agreement he had made with them. He obeyed the Party, but he still hated the Party. In the old days he had hidden a heretical mind beneath an appearance of conformity. Now he had retreated a step further: in the mind he had surrendered, but he had hoped to keep the inner heart inviolate.
+
+For the first time heperceived that if you want to keep a secret you must also hide it from yourself. You must know all the while that it is there, but until it is needed you must never let it emerge into your consciousness in any shape that could be given a name.
+
+In the same instant bang! would go the bullet, too late, or too early. They would have blown his brain to pieces before they couldreclaim it. The heretical thought would be unpunished, unrepented, out of their reach for ever. They would have blown a hole in their own perfection. To die hating them, that was freedom.
+
+Tell me, what are your true feelings towards Big Brother?” “I hate him.” “You hate him. Good. Then the time has come for you to take the last step. You must loveBig Brother. It is not enough to obey him: you must love him.” He released Winston with a little push towards the guards. “Room 101,” he said.
 
 ### Chapter 5
+
+“You asked me once,” said O’Brien, “what was in Room 101. I told you that you knew the answer already. Everyone knows it. The thing that is in Room 101 is the worst thing in the world.”
+
+“The worst thing in the world,” said O’Brien, “varies from individual to individual. It may be burial alive, or death by fire, or by drowning, or by impalement, or fifty other deaths. There are cases where it is some quite trivial thing, not even fatal.”
+
+The cage was divided lengthways into two compartments, and that there was some kind of creature in each. They were rats. “In your case,” said O’Brien, “the worst thing in the world happens to be rats.”
+
+“The rat,” said O’Brien, still addressing his invisible audience, “although a rodent, is carnivorous. You are aware of that. You will have heard of the things that happen in the poorquarters of this town. In some streets a woman dare not leave her baby alone in the house, even for five minutes. The rats are certain to attack it. Within quite a small time they will strip it to thebones. They also attack sick or dying people. They show astonishing intelligence in knowing when a human being is helpless.”
+
+
+
+
+
 
 
 
