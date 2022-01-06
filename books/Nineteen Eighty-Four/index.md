@@ -8,7 +8,33 @@ Genre: ['Science fiction', 'Novel', 'Dystopian fiction']
 
 # Nineteen Eighty-Four
 
-George Orwell - 1949
+- [PART ONE](#part-one)
+  - [Chapter 1](#chapter-1)
+  - [Chapter 2](#chapter-2)
+  - [Chapter 3](#chapter-3)
+  - [Chapter 4](#chapter-4)
+  - [Chapter 5](#chapter-5)
+  - [Chapter 6](#chapter-6)
+  - [Chapter 7](#chapter-7)
+  - [Chapter 8](#chapter-8)
+- [PART TWO](#part-two)
+  - [Chapter 1](#chapter-1-1)
+  - [Chapter 2](#chapter-2-1)
+  - [Chapter 3](#chapter-3-1)
+  - [Chapter 4](#chapter-4-1)
+  - [Chapter 5](#chapter-5-1)
+  - [Chapter 6](#chapter-6-1)
+  - [Chapter 7](#chapter-7-1)
+  - [Chapter 8](#chapter-8-1)
+  - [Chapter 9](#chapter-9)
+- [PART THREE](#part-three)
+  - [Chapter 1](#chapter-1-2)
+  - [Chapter 2](#chapter-2-2)
+  - [Chapter 3](#chapter-3-2)
+  - [Chapter 4](#chapter-4-2)
+  - [Chapter 5](#chapter-5-2)
+  - [Chapter 6](#chapter-6-2)
+- [Appendix THE PRINCIPLES OF NEWSPEAK](#appendix-the-principles-of-newspeak)
 
 ## Table of Contents
 
