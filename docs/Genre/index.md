@@ -1,6 +1,8 @@
 # Genre
 
 
+ - [Ancient](Genre/Ancient.md)
+    
  - [Biography](Genre/Biography.md)
     
  - [Dystopian fiction](Genre/Dystopian%20fiction.md)
@@ -17,11 +19,17 @@
     
  - [Literary](Genre/Literary.md)
     
+ - [Military Science](Genre/Military%20Science.md)
+    
  - [Mystery](Genre/Mystery.md)
     
  - [Novel](Genre/Novel.md)
     
  - [Personal Growth](Genre/Personal%20Growth.md)
+    
+ - [Philosophy](Genre/Philosophy.md)
+
+ - [Productivity](Genre/Productivity.md)
     
  - [Psychology](Genre/Psychology.md)
     

@@ -20,6 +20,8 @@ I have read other books before these (not as many as I would have liked), howeve
 ## Content: books
 
 
+ - [Atomic Habits](Atomic%20Habits/index.md)
+    
  - [Brave New World](Brave%20New%20World/index.md)
     
  - [Clean Architecture](Clean%20Architecture/index.md)
@@ -35,6 +37,8 @@ I have read other books before these (not as many as I would have liked), howeve
  - [The 7 habits of highly effective people Personal Workbook](The%207%20habits%20of%20highly%20effective%20people%20Personal%20Workbook/index.md)
     
  - [The Angel's Game](The%20Angel's%20Game/index.md)
+    
+ - [The Art of War](The%20Art%20of%20War/index.md)
     
  - [The Clean Coder](The%20Clean%20Coder/index.md)
     
