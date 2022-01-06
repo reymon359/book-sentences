@@ -8,6 +8,8 @@ Genre: ['Science fiction', 'Novel', 'Dystopian fiction']
 
 # Nineteen Eighty-Four
 
+## Table of Contents
+
 - [PART ONE](#part-one)
   - [Chapter 1](#chapter-1)
   - [Chapter 2](#chapter-2)
@@ -36,9 +38,6 @@ Genre: ['Science fiction', 'Novel', 'Dystopian fiction']
   - [Chapter 6](#chapter-6-2)
 - [Appendix THE PRINCIPLES OF NEWSPEAK](#appendix-the-principles-of-newspeak)
 
-## Table of Contents
-
-TODO: TOC
 
 ## PART ONE
 
