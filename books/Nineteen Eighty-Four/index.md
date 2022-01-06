@@ -904,12 +904,43 @@ The cage was divided lengthways into two compartments, and that there was some k
 
 “The rat,” said O’Brien, still addressing his invisible audience, “although a rodent, is carnivorous. You are aware of that. You will have heard of the things that happen in the poorquarters of this town. In some streets a woman dare not leave her baby alone in the house, even for five minutes. The rats are certain to attack it. Within quite a small time they will strip it to thebones. They also attack sick or dying people. They show astonishing intelligence in knowing when a human being is helpless.”
 
+“You understand the construction of this cage.The mask will fit over your head, leaving no exit. When I press this other lever, the door of the cage will slide up. These starving brutes will shoot out of it like bullets. Have you ever seen a rat leapthrough the air? They will leap on to your face and bore straight into it. Sometimes they attack the eyes first. Sometimes they burrow through the cheeks and devour the tongue.”
 
-
-
-
-
-
+“Do it to Julia! Do it to Julia! Not me! Julia! I don’t care what you do to her. Tear her face off, strip her to the bones. Not me! Julia! Not me!”... ...he heard another metallic click, and knew that the cage door had clicked shut and not open.
 
 ### Chapter 6
+
+Winston was listening to the telescreen. At present only music was coming out of it, but there was a possibility that at any moment there might be a special bulletin from the Ministry of Peace. The news from the African front was disquieting in the extreme. On and off he had been worrying about it all day. A Eurasian army (Oceania was at war with Eurasia: Oceania had always been at war with Eurasia) was moving southward at terrifying speed. The mid-day bulletin had not mentioned any definite area, but it was probable that already the mouth of the Congo was a battlefield.
+
+A waiter, again unbidden, brought the chessboard and the current issue of the Times, with the page turned down at the chess problem. Then, seeing that Winston’s glass was empty, he brought the gin bottle and filled it. There was no need to give orders. They knew his habits.
+
+He had the impression that they always undercharged him. It would have made no difference if it had been the other way about. He had always plenty of money nowadays.
+
+“They can’t get inside you,” she had said. But they could get inside you. “What happens to you here is for ever,” O’Brien had said. That was a true word. There were things, your own acts, from which you could never recover. Something was killed in your breast: burnt out, cauterized out.
+
+There was no telescreen, but there must be hidden microphones: besides, they could be seen. It did not matter, nothing mattered. They could have lain down on the ground and done that if they had wanted to.
+
+“Sometimes,” she said, “they threaten you with something something you can’t stand up to, can’t even think about. And then you say, ‘Don’t do it to me, do it to somebody else, do it to Soand-so.’ And perhaps you might pretend, afterwards, that it was only a trick and that you just said it to make them stop and didn’t really mean it. But that isn’t true. At the time when it happens you do mean it. You think there’s no other way of saving yourself, and you’re quite ready to save yourself that way. You want it to happen to the other person. You don’t give a damn what they suffer. All you care about is yourself.” “All you care about is yourself,” he echoed. “And after that, you don’t feel the same towards the other person any longer.” “No,” he said, “you don’t feel the same.”
+
+“At the time when it happens,” she had said, “you do mean it.” He had meant it. He had not merely said it, he had wished it. He had wished that she and not he should be delivered over to the- Something changed in the music that trickled from the telescreen. A cracked and jeering note, a yellow note, came into it. And then --perhaps it was not happening, perhaps it was only amemory taking on the semblance of sound --a voice was singing: “Under the spreading chestnut tree I sold you and you sold me--” The tears welled up in his eyes. A passing waiter noticed that his glass was empty and came back with the gin bottle.
+
+Occasionally, perhaps twice a week, he went to a dusty, forgotten-looking office in the Ministry of Truth and did a little work, or what was called work. He had been appointed to a sub-committee of a sub-committee which had sprouted from one of the innumerable committees dealing with minor difficulties that arose in the compilation of the Eleventh Edition of the Newspeak Dictionary.
+
+Soon he was wildly excited and shouting with laughter as the tiddly-winks climbed hopefully up the ladders and then came slithering down the snakes again, almost to the starting-point. They played eight games, winning four each. His tiny sister, too young to understand what the game was about, had sat propped up against a bolster, laughing because the others were laughing. For a whole afternoon they had all been happy together, as in his earlier childhood. He pushed the picture out of his mind. It was a false memory. He was troubled by false memories occasionally. They did not matter so long as one knew them for what they were.
+
+He could hear just enough of what was issuing from the telescreen to realize that it had all happened, as he had foreseen; a vast seaborne armada had secretly assembled a sudden blow in the enemy’s rear, the white arrow tearing across the tail of the black. Fragments of triumphant phrases pushed themselves through the din: “Vast strategic manoeuvre --perfect co-ordination --utter rout --half a million prisoners --complete demoralization --control of the whole of Africa --bring the war within measurable distance of its endvictory --greatest victory in human history --victory, victory, victory!”
+
+He thought how ten minutes ago --yes, only ten minutes --there had still been equivocation in his heart as he wondered whether the news from the front would be of victory or defeat. Ah, it was more than a Eurasian army that had perished! Much had changed in him since that first day in the Ministry of Love, but the final, indispensable, healing change had never happened, until this moment.
+
+He gazed up at the enormous face. Forty years it had taken him to learn what kind of smile was hidden beneath the dark moustache. O cruel, needless misunderstanding! O stubborn, self-willed exile from the loving breast! Two gin-scented tears trickled down the sides of his nose. But it was all right, everything was all right, the struggle was finished. He had won the victory over himself. He loved Big Brother. 
+
+THE END
+
+## Appendix THE PRINCIPLES OF NEWSPEAK
+
+
+
+
+
+
 
