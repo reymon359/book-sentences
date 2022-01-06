@@ -938,6 +938,91 @@ THE END
 
 ## Appendix THE PRINCIPLES OF NEWSPEAK
 
+The purpose of Newspeak was not only to provide a medium of expression for the world-view and mental habits proper to the devotees of Ingsoc, but to make all other modes of thought impossible.
+
+It was intended that when Newspeak had been adopted once and for all and Oldspeak forgotten, a heretical thought --that is, a thought diverging from the principles of Ingsoc --shouldbe literally unthinkable, at least so far as thought is dependent on words.
+
+The word free still existed in Newspeak, but it could only be used in such statements as “This dog is free from lice” or “This field is free from weeds”. It could not be used in its old sense of “politically free” or “intellectually free” since political and intellectual freedom no longer existed even as concepts, and were therefore of necessity nameless.
+
+Newspeak was designed not to extend but to diminish the range of thought, and this purpose was indirectly assisted by cutting the choice of words down to a minimum.
+
+Newspeak words were divided into three distinct classes, known as the A vocabulary, the B vocabulary (also called compound words), and the C vocabulary.
+
+The A vocabulary. The A vocabulary consisted of the words needed for the business of everyday life... ...It was composed almost entirely of words that we already possess words like hit, run, dog, tree, sugar, house, field -- but in comparison with the present-day English vocabulary their number was extremely small, while their meanings were far more rigidly defined.
+
+Complete interchangeability between different parts of speech. Any word in the language (inprinciple this applied even to very abstract words such as if or when) could be used either as verb, noun, adjective, or adverb.
+
+The word thought, for example, did not exist in Newspeak. Its place was taken by think, which did duty for both noun and verb.
+
+Adjectives were formed by adding the suffix -ful to the noun-verb, and adverbs by adding -wise. Thus for example, speedful meant “rapid” and speedwise meant “quickly”. 
+
+Certain of our present-day adjectives, such as good, strong, big, black, soft, were retained, but their total number was very small.
+
+Any word --this again applied in principle to every word in the language --could be negatived by adding the affix un-, or could be strengthened by the affix plus-, or, for still greater emphasis, doubleplus-. Thus, for example, uncold meant “warm”, while pluscold and doublepluscold meant, respectively, “very cold” and “superlatively cold”.
+
+in all verbs the preterite and the past participle were the same and ended in -ed. The preterite of steal was stealed, the preterite of think was thinked, and so on throughout the language, all such forms as swam, gave, brought, spoke, taken, etc., being abolished. 
+
+All plurals were made by adding -s or -es as the case might be. The plurals of man, ox, life, were mans, oxes, lifes.
+
+Comparison of adjectives was invariably made by adding -er,-est (good, gooder, goodest)
+
+A word which was difficult to utter, or was liable to be incorrectly heard, was held to be ipso facto a bad word: occasionally therefore, for the sake of euphony, extra letters were inserted into a word or an archaic formation was retained.
+
+The B vocabulary. The B vocabulary consisted of words which had been deliberately constructed for political purposes: words, that is to say, which not only had in every case a political implication, but were intended to impose a desirable mental attitude upon the person using them.
+
+The B words were a sort of verbal shorthand, often packing whole ranges of ideas into a few syllables, and at the same time more accurate and forcible than ordinary language.
+
+The B words were in all cases compound words. They consisted of two or more words, or portions of words, welded together in an easily pronounceable form... ...the word goodthink, meaning, very roughly, “orthodoxy”, or, if one chose to regard it as a verb, “to think in an orthodox manner”. This inflected as follows: noun-verb, goodthink; past tense and past participle, goodthinked; present participle, goodthinking; adjective, goodthinkful; adverb, goodthinkwise; verbal noun, goodthinker.
+
+The B words were not constructed on any etymological plan. The words of which they were made up could be any parts of speech, and could be placed in any order and mutilated in any way which made them easy to pronounce while indicating their derivation. In the word crimethink (thoughtcrime), for instance, the think came second, whereas in thinkpol (Thought Police) it came first, and in the latter word police had lost its second syllable.
+
+Some of the B words had highly subtilized meanings, barely intelligible to anyone who hadnot mastered the language as a whole.
+
+The special function of certain Newspeak words, of which oldthink was one, was not so much to express meanings as todestroy them.
+
+The greatest difficulty facing the compilers of the Newspeak Dictionary was not to invent new words, but, having invented them, to make sure what they meant: to make sure, that is to say, what ranges of words they cancelled by their existence.
+
+His sexual life, for example, was entirely regulated by the two Newspeak words sexcrime (sexual immorality) and goodsex (chastity). Sexcrime covered all sexual misdeeds whatever. It covered fornication, adultery, homosexuality, and other perversions, and, in addition, normal intercourse practised for its ownsake. There was no need to enumerate them separately, since they were all equally culpable, and, in principle, all punishable by death. 
+
+In the C vocabulary, which consisted of scientific and technicalwords, it might be necessary to give specialized names to certain sexual aberrations, but the ordinary citizen had no need of them. He knew what was meant by goodsex -- that is to say, normal intercourse between man and wife, for the sole purpose of begetting children.
+
+In Newspeak it was seldom possible to follow a heretical thought further than the perception that it was heretical: beyond that point the necessary words were nonexistent.
+
+So far as it could be contrived, everything that had or might have political significance of any kind was fitted into the B vocabulary. The name of every organization, or body of people, or doctrine, or country, or institution, or public building, was invariably cut down into the familiar shape; that is, a single easily pronounced word with the smallest number of syllables that would preserve the original derivation.
+
+Even in the early decades of the twentieth century, telescoped words and phrases had been one of the characteristic features of political language; and it had been noticed that the tendency to use abbreviations of this kind was most marked in andtotalitarian organizations. Examples were such words as Nazi, Gestapo, Comintern, Inprecorr, Agitprop. In the beginning the practice had been adopted as it were instinctively, but in Newspeak it was used with a conscious purpose.
+
+In Newspeak, euphony outweighed every consideration other than exactitude of meaning. Regularity of grammar was always sacrificed to it when it seemed necessary.
+
+And this was exactly what was aimed at. The intention was to make speech, and especially speech on any subject not ideologicallyneutral, as nearly as possible independent of consciousness.
+
+Relative to our own, the Newspeak vocabulary was tiny, and new ways of reducing it were constantly being devised.
+
+Each reduction was a gain, since the smaller the area of choice, the smaller the temptation to take thought. 
+
+Ultimately it was hoped to make articulate speech issue from the larynxwithout involving the higher brain centres at all. This aim was frankly admitted in the Newspeak word duckspeak, meaning “to quack like a duck”. Like various other words in the B vocabulary, duckspeak was ambivalent in meaning. Provided that the opinions which were quacked out were orthodox ones, it implied nothing but praise, and when the Times referred to one of the orators of the Party as a doubleplusgood duckspeaker it was paying a warm and valued compliment.
+
+The C vocabulary. The C vocabulary was supplementary to the others and consisted entirely of scientific and technical terms. These resembled the scientific terms in use today, and wereconstructed from the same roots, but the usual care was taken to define them rigidly and strip them of undesirable meanings. They followed the same grammatical rules as the words in the other twovocabularies.
+
+There was, indeed, no word for “Science”, any meaning that it could possibly bear being already sufficiently covered by the word Ingsoc.
+
+All mans are equal was a possible Newspeak sentence, but only in the same sense in which All men are redhaired is a possible Oldspeak sentence. It did not contain a grammatical error, but it expressed a palpable untruth --i.e. that all men are of equal size, weight, or strength. The concept of political equality no longer existed, and this secondary meaning had accordingly been purged out of the word equal.
+
+A person growing up with Newspeak as his sole language would no more know that equal had once had the secondary meaning of “politically equal”, or that free had once meant “intellectually free”... ...There would be many crimes and errors which it would be beyond his power to commit, simply because they were nameless and therefore unimaginable.
+
+It was to be foreseen that with the passage of time the distinguishing characteristics of Newspeak would become more and more pronounced --its words growing fewer and fewer, their meanings more and more rigid, and the chance of putting them to improper uses always diminishing.
+
+When Oldspeak had been once and for all superseded, the last link with the past would havebeen severed.
+
+no book written before approximately 1960 could be translated as a whole. Pre-revolutionary literature could only be subjected to ideological translation --that is, alteration in sense as well as language. Take for example the well-known passage from the Declaration of Independence:
+
+> We hold these truths to be self-evident, that all men are created equal, thatthey are endowed by their creator with certain inalienable rights, that among these are life, liberty, and the pursuit of happiness. That to secure these rights,Governments are instituted among men, deriving their powers from the consent ofthe governed. That whenever any form of Government becomes destructive of thoseends, it is the right of the People to alter or abolish it, and to institute new Government...
+
+It would have been quite impossible to render this into Newspeak while keeping to the sense of the original.
+
+It was chiefly in order to allow time for the preliminary work of translation that the final adoption of Newspeak had been fixed for so late a date as 2050.
+
+THE END
 
 
 
