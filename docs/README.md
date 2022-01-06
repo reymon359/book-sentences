@@ -32,6 +32,8 @@ I have read other books before these (not as many as I would have liked), howeve
     
  - [Man's Search For Meaning](Man's%20Search%20For%20Meaning/index.md)
     
+ - [Nineteen Eighty-Four](Nineteen%20Eighty-Four/index.md)
+    
  - [The 7 habits of highly effective people](The%207%20habits%20of%20highly%20effective%20people/index.md)
     
  - [The 7 habits of highly effective people Personal Workbook](The%207%20habits%20of%20highly%20effective%20people%20Personal%20Workbook/index.md)
