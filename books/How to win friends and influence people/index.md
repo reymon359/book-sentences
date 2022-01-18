@@ -428,44 +428,335 @@ The unvarnished truth is that almost all the people you meet feel themselves sup
 
 Emerson said: ‘Every man I meet is my superior in some way. In that, I learn of him.’
 
+Disraeli, one of the shrewdest men who ever ruled the British Empire. ‘Talk to people about themselves and they will listen for hours.’
 
+PRINCIPLE 6: Make the other person feel important – and do it sincerely.
 
+IN A NUTSHELL SIX WAYS TO MAKE PEOPLE LIKE YOU
 
+PRINCIPLE 1: Become genuinely interested in other people.
 
+PRINCIPLE 2: Smile.
+
+PRINCIPLE 3: Remember that a person’s name is to that person the sweetest and most important sound in any language.
+
+PRINCIPLE 4: Be a good listener. Encourage others to talk about themselves.
+
+PRINCIPLE 5: Talk in terms of the other person’s interests.
+
+PRINCIPLE 6: Make the other person feel important – and do it sincerely.
 
 ## PART THREE: HOW TO WIN PEOPLE TO YOUR WAY OF THINKING
 
 ### 1 You Can’t Win an Argument
 
+Why prove to a man he is wrong? Is that going to make him like you? Why not let him save his face? He didn’t ask for your opinion. He didn’t want it. Why argue with him? Always avoid the acute angle.’
+
+There is only one way under high heaven to get the best of an argument – and that is to avoid it
+
+Nine times out of ten, an argument ends with each of the contestants more firmly convinced than ever that he is absolutely right.
+
+You can’t win an argument. You can’t because if you lose it, you lose it; and if you win it, you lose it.
+
+A man convinced against his will Is of the same opinion still.
+
+Ben Franklin used to say: If you argue and rankle and contradict, you may achieve a victory sometimes; but it will be an empty victory because you will never get your opponent’s good will.
+
+You may be right, dead right, as you speed along in your argument; but as far as changing another’s mind is concerned, you will probably be just as futile as if you were wrong.
+
+Buddha said: ‘Hatred is never ended by hatred but by love,’
+
+In an article in Bits and Pieces,1 some suggestions are made on how to keep a disagreement from becoming an argument:
+
+Welcome the disagreement. Remember the slogan, ‘When two partners always agree, one of them is not necessary.’ If there is some point you haven’t thought about, be thankful if it is brought to your attention. Perhaps this disagreement is your opportunity to be corrected before you make a serious mistake.
+
+Distrust your first instinctive impression. Our first natural reaction in a disagreeable situation is to be defensive. Be careful. Keep calm and watch out for your first reaction. It may be you at your worst, not your best.
+
+Control your temper. Remember, you can measure the size of a person by what makes him or her angry.
+
+Listen first. Give your opponents a chance to talk. Let them finish. Do not resist, defend or debate. This only raises barriers. Try to build bridges of understanding. Don’t build higher barriers of misunderstanding.
+
+Look for areas of agreement. When you have heard your opponents out, dwell first on the points and areas on which you agree.
+
+Be honest. Look for areas where you can admit error and say so. Apologize for your mistakes. It will help disarm your opponents and reduce defensiveness.
+
+Promise to think over your opponents’ ideas and study them carefully. And mean it. Your opponents may be right. It is a lot easier at this stage to agree to think about their points than to move rapidly ahead and find yourself in a position where your opponents can say: ‘We tried to tell you, but you wouldn’t listen.’
+
+Thank your opponents sincerely for their interest. Anyone who takes the time to disagree with you is interested in the same things you are. Think of them as people who really want to help you, and you may turn your opponents into friends.
+
+Postpone action to give both sides time to think through the problem. Suggest that a new meeting be held later that day or the next day, when all the facts may be brought to bear. In preparation for this meeting, ask yourself some hard questions:
+
+Could my opponents be right? Partly right? Is there truth or merit in their position or argument? Is my reaction one that will relieve the problem, or will it just relieve any frustration? Will my reaction drive my opponents further away or draw them closer to me? Will my reaction elevate the estimation good people have of me? Will I win or lose? What price will I have to pay if I win? If I am quiet about it, will the disagreement blow over? Is this difficult situation an opportunity for me?
+
+PRINCIPLE 1: The only way to get the best of an argument is to avoid it.
+
 ### 2 A Sure Way of Making Enemies – and How to Avoid It
+
+If you tell them they are wrong, do you make them want to agree with you? Never! For you have struck a direct blow at their intelligence, judgement, pride and self-respect. That will make them want to strike back. But it will never make them want to change their minds. 
+
+Never begin by announcing ‘I am going to prove so-and-so to you.’ That’s bad. That’s tantamount to saying: ‘I’m smarter than you are. I’m going to tell you a thing or two and make you change your mind.’
+
+It is difficult, under even the most benign conditions, to change people’s minds. So why make it harder? Why handicap yourself? If you are going to prove anything, don’t let anybody know it. Do it so subtly, so adroitly, that no one will feel that you are doing it.
+
+> Men must be taught as if you taught them not. And things unknown proposed as things forgot.
+> - Alexander Pope
+
+> You cannot teach a man anything, You can only help him to find it within himself.
+> - Galileo
+
+> Be wiser than other people if you can, but do not tell them so.
+> - Lord Chesterfield
+
+If a person makes a statement that you think is wrong – yes, even that you know is wrong – isn’t it better to begin by saying: ‘Well, now, look. I thought otherwise but I may be wrong. I frequently am. And if I am wrong, I want to be put right. Let’s examine the facts.’ There’s magic, positive magic, in such phrases as: ‘I may be wrong, I frequently am. Let’s examine the facts.’
+
+Nobody in the heavens above or on the earth beneath or in the waters under the earth will ever object to your saying: ‘I may be wrong. Let’s examine the facts.’
+
+You will never get into trouble by admitting that you may be wrong. That will stop all argument and inspire your opponent to be just as fair and open and broad-minded as you are. It will make him want to admit that he, too, may be wrong.
+
+We are incredibly heedless in the formation of our beliefs, but find ourselves filled with an illicit passion for them when anyone proposes to rob us of their companionship. It is obviously not the ideas themselves that are dear to us, but our self-esteem which is threatened
+
+We like to continue to believe what we have been accustomed to accept as true, and the resentment aroused when doubt is cast upon any of our assumptions leads us to seek every manner of excuse for clinging to it.
+
+Most of our so-called reasoning consists in finding arguments for going on believing as we already do.
+
+Carl Rogers, the eminent psychologist, wrote in his book On Becoming a Person: I have found it of enormous value when I can permit myself to understand the other person. The way in which I have worded this statement may seem strange to you. Is it necessary to permit oneself to understand another? I think it is. Our first reaction to most of the statements (which we hear from other people) is an evaluation or judgment, rather than an understanding of it. When someone expresses some feeling, attitude or belief, our tendency is almost immediately to feel ‘that’s right,’ or ‘that’s stupid,’ ‘that’s abnormal,’ ‘that’s unreasonable,’ ‘that’s incorrect,’ ‘that’s not nice.’ Very rarely do we permit ourselves to understand precisely what the meaning of the statement is to the other person.
+
+‘I made it a rule,’ said Franklin, ‘to forbear all direct contradiction to the sentiment of others, and all positive assertion of my own. I even forbade myself the use of every word or expression in the language that imported a fix’d opinion, such as “certainly,” “undoubtedly,” etc., and I adopted, instead of them, “I conceive,” “I apprehend,” or “I imagine” a thing to be so or so, or “it so appears to me at present.” When another asserted something that I thought an error, I deny’d myself the pleasure of contradicting him abruptly, and of showing immediately some absurdity in his proposition: and in answering I began by observing that in certain cases or circumstances his opinion would be right, but in the present case there appear’d or seem’d to me some difference, etc.
+
+‘I am convinced now that nothing good is accomplished and a lot of damage can be done if you tell a person straight out that he or she is wrong. You only succeed in stripping that person of self-dignity and making yourself an unwelcome part of any discussion.’
+
+Martin Luther King was asked how, as a pacifist, he could be an admirer of Air Force General Daniel ‘Chappie’ James, then the nation’s highest-ranking black officer. Dr. King replied, ‘I judge people by their own principles – not by my own.’
+
+Don’t argue with your customer or your spouse or your adversary. Don’t tell them they are wrong, don’t get them stirred up. Use a little diplomacy.
+
+PRINCIPLE 2: Show respect for the other person’s opinions. Never say, ‘You’re wrong.’
 
 ### 3 If You’re Wrong, Admit It
 
+Instead of breaking lances with him, I admitted that he was absolutely right and I was absolutely wrong; I admitted it quickly, openly, and with enthusiasm. The affair terminated graciously in my taking his side and his taking my side. 
+
+If we know we are going to be rebuked anyhow, isn’t it far better to beat the other person to it and do it ourselves?
+
+Say about yourself all the derogatory things you know the other person is thinking or wants to say or intends to say – and say them before that person has a chance to say them. The chances are a hundred to one that a generous, forgiving attitude will be taken and your mistakes will be minimised
+
+Any fool can try to defend his or her mistakes – and most fools do – but it raises one above the herd and gives one a feeling of nobility and exultation to admit one’s mistakes.
+
+Sometimes it is necessary to recognise that the benefit of applying a principle may be more advantageous than maintaining an old tradition.
+
+When we are right, let’s try to win people gently and tactfully to our way of thinking, and when we are wrong – and that will be surprisingly often, if we are honest with ourselves – let’s admit our mistakes quickly and with enthusiasm.
+
+‘By fighting you never get enough, but by yielding you get more than you expected.’
+
+PRINCIPLE 3: If you are wrong, admit it quickly and emphatically.
+
 ### 4 A Drop of Honey
+
+‘If you come at me with your fists doubled,’ said Woodrow Wilson, ‘I think I can promise you that mine will double as fast as yours; but if you come to me and say, “Let us sit down and take counsel together, and, if we differ from each other, understand why it is that we differ, just what the points at issue are,” we will presently find that we are not so far apart after all, that the points on which we differ are few and the points on which we agree are many, and that if we only have the patience and the candour and the desire to get together, we will get together.’
+
+> It is an old and true maxim that ‘a drop of honey catches more flies than a gallon of gall.’ So with men, if you would win a man to your cause, first convince him that you are his sincere friend. Therein is a drop of honey that catches his heart; which, say what you will, is the great high road to his reason.
+> Lincoln
+
+A fable about the sun and the wind. They quarrelled about which was the stronger, and the wind said, ‘I’ll prove I am. See the old man down there with a coat? I bet I can get his coat off him quicker than you can.’ So the sun went behind a cloud, and the wind blew until it was almost a tornado, but the harder it blew, the tighter the old man clutched his coat to him. Finally, the wind calmed down and gave up, and then the sun came out from behind the clouds and smiled kindly on the old man. Presently, he mopped his brow and pulled off his coat. The sun then told the wind that gentleness and friendliness were always stronger than fury and force.
+
+> ‘A drop of honey catches more flies than a gallon of gall.’
+> Lincoln
+
+PRINCIPLE 4: Begin in a friendly way.
 
 ### 5 The Secret of Socrates
 
+IN TALKING WITH people, don’t begin by discussing the things on which you differ. Begin by emphasising – and keep on emphasising – the things on which you agree. Keep emphasising, if possible, that you are both striving for the same end and that your only difference is one of method and not of purpose.
+
+Keep your opponent, if possible, from saying ‘No.’ A ‘No’ response, according to Professor Overstreet,1 is a most difficult handicap to overcome. When you have said ‘No,’ all your pride of personality demands that you remain consistent with yourself. You may later feel that the ‘No’ was ill-advised; nevertheless, there is your precious pride to consider! Once having said a thing, you feel you must stick to it. Hence it is of the very greatest importance that a person be started in the affirmative direction.
+
+The skilful speaker gets, at the outset, a number of ‘Yes’ responses.
+
+When a person says ‘No’ and really means it, he or she is doing far more than saying a word of two letters. The entire organism – glandular, nervous, muscular – gathers itself together into a condition of rejection. There is, usually in minute but sometimes in observable degree, a physical withdrawal or readiness for withdrawal. The whole neuromuscular system, in short, sets itself on guard against acceptance.
+
+When, to the contrary, a person says ‘Yes,’ none of the withdrawal activities takes place. The organism is in a forward-moving, accepting, open attitude.
+
+The more ‘Yeses’ we can, at the very outset, induce, the more likely we are to succeed in capturing the attention for our ultimate proposal.
+
+It often seems as if people get a sense of their own importance by antagonising others at the outset.
+
+Get a... ...‘No’ at the beginning... ...and it takes the wisdom and the patience of angels to transform that bristling negative into an affirmative.
+
+The next time we are tempted to tell someone he or she is wrong... ...ask a gentle question – a question that will get the ‘yes, yes’ response.
+
+PRINCIPLE 5: Get the other person saying ‘yes, yes’ immediately.
+
 ### 6 The Safety Valve in Handling Complaints
+
+Let the other people talk themselves out. They know more about their business and problems than you do. So ask them questions.
+
+If you disagree with them you may be tempted to interrupt. But don’t. It is dangerous. They won’t pay attention to you while they still have a lot of ideas of their own crying for expression. So listen patiently and with an open mind. Be sincere about it. Encourage them to express their ideas fully.
+
+How richly it sometimes pays to let the other person do the talking.
+
+La Rochefoucauld, the French philosopher, said: ‘If you want enemies, excel your friends; but if you want friends, let your friends excel you.’
+
+I started to talk about myself less and listen more to my associates. They also had things to boast about and were more excited about telling me about their accomplishments than about listening to my boasting. Now, when we have some time to chat, I ask them to share their joys with me, and I only mention my achievements when they ask.’
+
+PRINCIPLE 6: Let the other person do a great deal of the talking.
 
 ### 7 How to Get Cooperation
 
+DON’T YOU HAVE much more faith in ideas that you discover for yourself than in ideas that are handed to you on a silver platter? If so, isn’t it bad judgement to try to ram your opinions down the throats of other people? Isn’t it wiser to make suggestions – and let the other person think out the conclusion?
+
+No one likes to feel that he or she is being sold something or told to do a thing. We much prefer to feel that we are buying of our own accord or acting on our own ideas. We like to be consulted about our wishes, our wants, our thoughts.
+
+‘I had urged him to buy what I thought he ought to have. Then I changed my approach completely. I urged him to give me his ideas. This made him feel that he was creating the designs. And he was. I didn’t have to sell him. He bought.’
+
+Ralph Waldo Emerson in his essay ‘Self-Reliance’ stated: ‘In every work of genius we recognise our own rejected thoughts; they come back to us with a certain alienated majesty.’
+
+‘The reason why rivers and seas receive the homage of a hundred mountain streams is that they keep below them. Thus they are able to reign over all the mountain streams. So the sage, wishing to be above men, putteth himself below them; wishing to be before them, he putteth himself behind them. Thus, though his place be above men, they do not feel his weight; though his place be before them, they do not count it an injury.’
+
+PRINCIPLE 7: Let the other person feel that the idea is his or hers.
+
 ### 8 A Formula That Will Work Wonders for You
+
+OTHER people may be totally wrong. But they don’t think so. Don’t condemn them. Any fool can do that. Try to understand them. Only wise, tolerant, exceptional people even try to do that.
+
+There is a reason why the other man thinks and acts as he does. Ferret out that reason – and you have the key to his actions, perhaps to his personality.
+
+If you say to yourself, ‘How would I feel, how would I react if I were in his shoes?’ you will save yourself time and irritation, for ‘by becoming interested in the cause, we are less likely to dislike the effect.’ And, in addition, you will sharply increase your skill in human relationships.
+
+Kenneth M. Goode in his book How to Turn People Into Gold, ‘stop a minute to contrast your keen interest in your own affairs with your mild concern about anything else. Realise then, that everybody else in the world feels exactly the same way! Then, along with Lincoln and Roosevelt, you will have grasped the only solid foundation for interpersonal relationships; namely, that success in dealing with people depends on a sympathetic grasp of the other person’s viewpoint.’
+
+Dr. Gerald S. Nirenberg commented: ‘Cooperativeness in conversation is achieved when you show that you consider the other person’s ideas and feelings as important as your own.
+
+Starting your conversation by giving the other person the purpose or direction of your conversation, governing what you say by what you would want to hear if you were the listener, and accepting his or her viewpoint will encourage the listener to have an open mind to your ideas.’
+
+Seeing things through another person’s eyes may ease tensions when personal problems become overwhelming
+
+‘I would rather walk the sidewalk in front of a person’s office for two hours before an interview,’ said Dean Donham of the Harvard business school, ‘than step into that office without a perfectly clear idea of what I was going to say and what that person – from my knowledge of his or her interests and motives – was likely to answer.’
+
+PRINCIPLE 8: Try honestly to see things from the other person’s point of view.
 
 ### 9 What Everybody Wants
 
+A magic phrase that would stop arguments, eliminate ill feeling, create good will, and make the other person listen attentively? Yes? All right. Here it is: ‘I don’t blame you one iota for feeling as you do. If I were you I would undoubtedly feel just as you do.’
+
+You deserve very little credit for being what you are – and remember, the people who come to you irritated, bigoted, unreasoning, deserve very little discredit for being what they are. Feel sorry for the poor devils. Pity them. Sympathise with them. Say to yourself: ‘There, but for the grace of God, go I.’
+
+Three-fourths of the people you will ever meet are hungering and thirsting for sympathy. Give it to them, and they will love you.
+
+So, because I had apologised and sympathised with her point of view, she began apologising and sympathising with my point of view. I had the satisfaction of controlling my temper, the satisfaction of returning kindness for an insult. I got infinitely more fun out of making her like me than I could ever have gotten out of telling her to go and take a jump in the Shuylkill River.
+
+‘When you get a letter like that, the first thing you do is to think how you can be severe with a person who has committed an impropriety, or even been a little impertinent. Then you may compose an answer. Then if you are wise, you will put the letter in a drawer and lock the drawer. Take it out in the course of two days – such communications will always bear two days’ delay in answering – and when you take it out after that interval, you will not send it.
+
+Dr. Arthur I. Gates said in his splendid book Educational Psychology: ‘Sympathy the human species universally craves. The child eagerly displays his injury; or even inflicts a cut or bruise in order to reap abundant sympathy. For the same purpose adults . . . show their bruises, relate their accidents, illness, especially details of surgical operations. “Self-pity” for misfortunes real or imaginary is, in some measure, practically a universal practice.’
+
+PRINCIPLE 9: Be sympathetic with the other person’s ideas and desires.
+
 ### 10 An Appeal That Everybody Likes
+
+The fact is that all people you meet have a high regard for themselves and like to be fine and unselfish in their own estimation.
+
+> A person usually has two reasons for doing a thing: one that sounds good and a real one.
+> J. Pierpont Morgan
+
+In order to change people, appeal to the nobler motives.
+
+When John D. Rockefeller, Jr., wished to stop newspaper photographers from snapping pictures of his children, he too appealed to the nobler motives. He didn’t say: ‘I don’t want their pictures published.’ No, he appealed to the desire, deep in all of us, to refrain from harming children. He said: ‘You know how it is, boys. You’ve got children yourselves, some of you. And you know it’s not good for youngsters to get too much publicity.’
+
+Nothing will work in all cases – and nothing will work with all people. If you are satisfied with the results you are now getting, why change? If you are not satisfied, why not experiment?
+
+People are honest and want to discharge their obligations. The exceptions to that rule are comparatively few, and I am convinced that the individuals who are inclined to chisel will in most cases react favourably if you make them feel that you consider them honest, upright and fair.’
+
+PRINCIPLE 10: Appeal to the nobler motives.
 
 ### 11 The Movies Do It. TV Does It. Why Don’t You Do It?
 
+Merely stating a truth isn’t enough. The truth has to be made vivid, interesting, dramatic. You have to use showmanship. The movies do it. Television does it. And you will have to do it if you want attention.
+
+Dramatise your ideas in business or in any other aspect of your life.
+ 
+We don’t propose on our knees any more, but many suitors still set up a romantic atmosphere before they pop the question. Dramatising what you want works 
+
+‘I was presenting the same facts this time that I had presented previously. But this time I was using dramatisation, showmanship – and what a difference it made.’
+
+PRINCIPLE 11: Dramatise your ideas.
+ 
 ### 12 When Nothing Else Works, Try This
+
+The way to get things done,’ says Schwab, ‘is to stimulate competition. I do not mean in a sordid money-getting way, but in the desire to excel.’ The desire to excel! The challenge! Throwing down the gauntlet! An infallible way of appealing to people of spirit.
+
+‘All men have fears, but the brave put down their fears and go forward, sometimes to death, but always to victory’ was the motto of the King’s Guard in ancient Greece.
+
+What do you think he found to be the most motivating factor – the one facet of the jobs that was most stimulating? Money? Good working conditions? Fringe benefits? No – not any of those. The one major factor that motivated people was the work itself. If the work was exciting and interesting, the worker looked forward to doing it and was motivated to do a good job.
+
+That is what every successful person loves: the game. The chance for self-expression. The chance to prove his or her worth, to excel, to win... ...The desire to excel. The desire for a feeling of importance.
+
+PRINCIPLE 12: Throw down a challenge.
+
+IN A NUTSHELL WIN PEOPLE TO YOUR WAY OF THINKING
+
+PRINCIPLE 1: The only way to get the best of an argument is to avoid it.
+
+PRINCIPLE 2: Show respect for the other person’s opinions. Never say, ‘You’re wrong.’
+
+PRINCIPLE 3: If you are wrong, admit it quickly and emphatically.
+
+PRINCIPLE 4: Begin in a friendly way.
+
+PRINCIPLE 5: Get the other person saying ‘yes, yes’ immediately.
+
+PRINCIPLE 6: Let the other person do a great deal of the talking.
+
+PRINCIPLE 7: Let the other person feel that the idea is his or hers.
+
+PRINCIPLE 8: Try honestly to see things from the other person’s point of view.
+
+PRINCIPLE 9: Be sympathetic with the other person’s ideas and desires.
+
+PRINCIPLE 10: Appeal to the nobler motives.
+
+PRINCIPLE 11: Dramatise your ideas.
+
+PRINCIPLE 12: Throw down a challenge.
 
 ## PART FOUR: BE A LEADER: HOW TO CHANGE PEOPLE WITHOUT GIVING OFFENCE OR AROUSING RESENTMENT
 
 ### 1 If You Must Find Fault, This Is the Way to Begin
 
+It is always easier to listen to unpleasant things after we have heard some praise of our good points.
+
+A barber lathers a man before he shaves him;
+
+You have confidence in yourself, which is a valuable if not an indispensable quality.
+
+Beginning with praise is like the dentist who begins his work with Novocain. The patient still gets a drilling, but the Novocain is pain-killing. A leader will use...
+
+PRINCIPLE 1: Begin with praise and honest appreciation.
+
 ### 2 How to Criticise – and Not Be Hated for It
 
+They knew that he knew that they had broken a rule – and they admired him because he said nothing about it and gave them a little present and made them feel important. Couldn’t keep from loving a man like that, could you?
+
+Simply changing one three-letter word can often spell the difference between failure and success in changing people without giving offence or arousing resentment.
+
+‘We’re really proud of you, Johnnie, for raising your grades this term. But if you had worked harder on your algebra, the results would have been better.’ In this case, Johnnie might feel encouraged until he heard the word ‘but.’ He might then question the sincerity of the original praise. To him, the praise seemed only to be a contrived lead-in to a critical inference of failure. Credibility would be strained, and we probably would not achieve our objectives of changing Johnnie’s attitude toward his studies. This could be easily overcome by changing the word ‘but’ to ‘and.’ ‘We’re really proud of you, Johnnie, for raising your grades this term, and by continuing the same conscientious efforts next term, your algebra grade can be up with all the others.’ Now, Johnnie would accept the praise because there was no follow-up of an inference of failure.
+
+We have called his attention to the behaviour we wished to change indirectly, and the chances are he will try to live up to our expectations.
+
+Calling attention to one’s mistakes indirectly works wonders with sensitive people who may resent bitterly any direct criticism.
+
+An effective way to correct others’ mistakes is...
+
+PRINCIPLE 2: Call attention to people’s mistakes indirectly.
+
 ### 3 Talk About Your Own Mistakes First
+
+It isn’t nearly so difficult to listen to a recital of your faults if the person criticising begins by humbly admitting that he, too, is far from impeccable.
+
+Von Bülow knew that he ought to have praised before he condemned; but since that was too late, he did the next best thing. He praised after he had criticised. And it worked a miracle.
+
+He should have begun by talking about his own shortcomings and Wilhelm’s superiority – not by intimating that the Kaiser was a half-wit in need of a guardian.
+
+Admitting one’s own mistakes – even when one hasn’t corrected them – can help convince somebody to change his behaviour.
+
+PRINCIPLE 3: Talk about your own mistakes before criticising the other person.
 
 ### 4 No One Likes to Take Orders
 
