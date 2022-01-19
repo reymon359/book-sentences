@@ -760,9 +760,33 @@ PRINCIPLE 3: Talk about your own mistakes before criticising the other person.
 
 ### 4 No One Likes to Take Orders
 
+He always gave suggestions, not orders. Owen D. Young never said, for example, ‘Do this or do that,’ or ‘Don’t do this or don’t do that.’ He would say, ‘You might consider this,’ or ‘Do you think that would work?’... ...He always gave people the opportunity to do things themselves; he never told his assistants to do things; he let them do them, let them learn from their mistakes.
+
+A technique like that makes it easy for a person to correct errors. A technique like that saves a person’s pride and gives him or her a feeling of importance. It encourages cooperation instead of rebellion.
+
+Resentment caused by a brash order may last a long time – even if the order was given to correct an obviously bad situation. 
+
+Asking questions not only makes an order more palatable; it often stimulates the creativity of the persons whom you ask. People are more likely to accept an order if they have had a part in the decision that caused the order to be issued.
+
+PRINCIPLE 4: Ask questions instead of giving direct orders.
+
 ### 5 Let the Other Person Save Face
 
+Letting one save face! How important, how vitally important that is! And how few of us ever stop to think of it! We ride roughshod over the feelings of others, getting our own way, finding fault, issuing threats, criticising a child or an employee in front of others, without even considering the hurt to the other person’s pride. Whereas a few minutes’ thought, a considerate word or two, a genuine understanding of the other person’s attitude, would go so far toward alleviating the sting!
+
+Even if we are right and the other person is definitely wrong, we only destroy ego by causing someone to lose face.
+
+Antoine de Saint-Exupéry wrote: ‘I have no right to say or do anything that diminishes a man in his own eyes. What matters is not what I think of him, but what he thinks of himself. Hurting a man in his dignity is a crime.’
+
+PRINCIPLE 5: Let the other person save face.
+
 ### 6 How to Spur People On to Success
+
+Why don’t we use praise instead of condemnation? Let us praise even the slightest improvement. That inspires the other person to keep on improving.
+
+The psychologist Jess Lair comments: ‘Praise is like sunlight to the warm human spirit; we cannot flower and grow without it. And yet, while most of us are only too ready to apply to others the cold wind of criticism, we are somehow reluctant to give our fellow the warm sunshine of praise.’
+
+Use of praise instead of criticism is the basic concept of B.F. Skinner’s teachings. This great contemporary psychologist has shown by experiments with animals and with humans that when criticism is minimised and praise emphasised, the good things people do will be reinforced and the poorer things will atrophy for lack of attention.
 
 ### 7 Give a Dog a Good Name
 
