@@ -804,9 +804,37 @@ PRINCIPLE 6: Praise the slightest improvement and praise every improvement. Be �
 
 ### 7 Give a Dog a Good Name
 
+> ‘The average person, can be led readily if you have his or her respect and if you show that you respect that person for some kind of ability.’ - Samuel Vauclain
+
+If you want to improve a person in a certain respect, act as though that particular trait were already one of his or her outstanding characteristics. Shakespeare said ‘Assume a virtue, if you have it not.’ 
+
+It might be well to assume and state openly that other people have the virtue you want them to develop. Give them a fine reputation to live up to, and they will make prodigious efforts rather than see you disillusioned.
+
+‘Give a dog a bad name and you may as well hang him.’ But give him a good name – and see what happens!
+
+If you want to excel in that difficult leadership role of changing the attitude or behaviour of others, use...
+
+PRINCIPLE 7: Give the other person a fine reputation to live up to.
+
 ### 8 Make the Fault Seem Easy to Correct
 
+The next teacher may have been lying, but I liked it. She said nonchalantly that my dancing was a bit old-fashioned perhaps, but the fundamentals were all right, and she assured me I wouldn’t have any trouble learning a few new steps. The first teacher had discouraged me by emphasising my mistakes. This new teacher did the opposite. She kept praising the things I did right and minimising my errors. 
+
+At any rate, I know I am a better dancer than I would have been if she hadn’t told me I had a natural sense of rhythm. That encouraged me. That gave me hope. That made me want to improve.
+
+Tell your child, your spouse, or your employee that he or she is stupid or dumb at a certain thing, has no gift for it, and is doing it all wrong, and you have destroyed almost every incentive to try to improve. But use the opposite technique – be liberal with your encouragement, make the thing seem easy to do, let the other person know that you have faith in his ability to do it, that he has an undeveloped flair for it – and he will practise until the dawn comes in the window in order to excel.
+
+And presto, almost before I realised what I was doing, I found myself for the first time at a bridge table. All because I was told I had a natural flair for it and the game was made to seem easy.
+
+If you want to help others to improve, remember...
+
+PRINCIPLE 8: Use encouragement. Make the fault seem easy to correct.
+
 ### 9 Making People Glad to Do What You Want
+
+
+
+
 
 ### A Shortcut to Distinction
 
