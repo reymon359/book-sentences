@@ -788,6 +788,20 @@ The psychologist Jess Lair comments: ‘Praise is like sunlight to the warm huma
 
 Use of praise instead of criticism is the basic concept of B.F. Skinner’s teachings. This great contemporary psychologist has shown by experiments with animals and with humans that when criticism is minimised and praise emphasised, the good things people do will be reinforced and the poorer things will atrophy for lack of attention.
 
+Because he had singled out a specific accomplishment, rather than just making general flattering remarks, his praise became much more meaningful to the person to whom it was given. Everybody likes to be praised, but when praise is specific, it comes across as sincere – not something the other person may be saying just to make one feel good.
+
+we all crave appreciation and recognition, and will do almost anything to get it. But nobody wants insincerity. Nobody wants flattery.
+
+The principles taught in this book will work only when they come from the heart. I am not advocating a bag of tricks. I am talking about a new way of life.
+
+If you and I will inspire the people with whom we come in contact to a realisation of the hidden treasures they possess, we can do far more than change people. We can literally transform them.
+
+William James, one of the most distinguished psychologists and philosophers America has ever produced: Compared with what we ought to be, we are only half awake. We are making use of only a small part of our physical and mental resources. Stating the thing broadly, the human individual thus lives far within his limits. He possesses powers of various sorts which he habitually fails to use.
+
+Abilities wither under criticism; they blossom under encouragement.
+
+PRINCIPLE 6: Praise the slightest improvement and praise every improvement. Be ‘hearty in your approbation and lavish in your praise.
+
 ### 7 Give a Dog a Good Name
 
 ### 8 Make the Fault Seem Easy to Correct
