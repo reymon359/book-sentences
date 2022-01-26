@@ -832,8 +832,21 @@ PRINCIPLE 8: Use encouragement. Make the fault seem easy to correct.
 
 ### 9 Making People Glad to Do What You Want
 
+Always make the other person happy about doing the thing you suggest.
 
+I knew a man who had to refuse many invitations to speak, invitations extended by friends, invitations coming from people to whom he was obligated; and yet he did it so adroitly that the other person was at least contented with his refusal. How did he do it? Not by merely talking about the fact that he was too busy and too-this and too-that. No, after expressing his appreciation of the invitation and regretting his inability to accept it, he suggested a substitute speaker. In other words, he didn’t give the other person any time to feel unhappy about the refusal. He immediately changed the other person’s thoughts to some other speaker who could accept the invitation.
 
+This new responsibility and title changed her attitude completely, and she fulfilled her duties satisfactorily from then on. Childish? Perhaps. But that is what they said to Napoleon when he created the Legion of Honour and distributed 15,000 crosses to his soldiers and made eighteen of his generals ‘Marshals of France’ and called his troops the ‘Grand Army.’ Napoleon was criticised for giving ‘toys’ to war-hardened veterans, and Napoleon replied, ‘Men are ruled by toys.’ This technique of giving titles and authority worked for Napoleon and it will work for you.
+
+The effective leader should keep the following guidelines in mind when it is necessary to change attitudes or behaviour:
+1. Be sincere. Do not promise anything that you cannot deliver. Forget about the benefits to yourself and concentrate on the benefits to the other person.
+2. Know exactly what it is you want the other person to do.
+3. Be empathetic. Ask yourself what is it the other person really wants.
+4. Consider the benefits that person will receive from doing what you suggest.
+5. Match those benefits to the other person’s wants.
+6. When you make your request, put it in a form that will convey to the other person the idea that he personally will benefit.
+
+It is naïve to believe you will always get a favourable reaction from other persons when you use these approaches, but the experience of most people shows that you are more likely to change attitudes this way than by not using these principles – and if you increase your successes by even a mere 10 percent, you have become 10 percent more effective as a leader than you were before – and that is your benefit.
 
 
 ### A Shortcut to Distinction
