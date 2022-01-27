@@ -848,7 +848,51 @@ The effective leader should keep the following guidelines in mind when it is nec
 
 It is naïve to believe you will always get a favourable reaction from other persons when you use these approaches, but the experience of most people shows that you are more likely to change attitudes this way than by not using these principles – and if you increase your successes by even a mere 10 percent, you have become 10 percent more effective as a leader than you were before – and that is your benefit.
 
+People are more likely to do what you would like them to do when you use...
+PRINCIPLE 9: Make the other person happy about doing the thing you suggest.
+
+IN A NUTSHELL BE A LEADER
+
+A leader’s job often includes changing your people’s attitudes and behaviour. Some suggestions to accomplish this:
+
+PRINCIPLE 1 Begin with praise and honest appreciation.
+
+PRINCIPLE 2 Call attention to people’s mistakes indirectly.
+
+PRINCIPLE 3 Talk about your own mistakes before criticising the other person.
+
+PRINCIPLE 4 Ask questions instead of giving direct orders.
+
+PRINCIPLE 5 Let the other person save face.
+
+PRINCIPLE 6 Praise the slightest improvement and praise every improvement. Be ‘hearty in your approbation and lavish in your praise.’
+
+PRINCIPLE 7 Give the other person a fine reputation to live up to.
+
+PRINCIPLE 8 Use encouragement. Make the fault seem easy to correct.
+
+PRINCIPLE 9 Make the other person happy about doing the thing you suggest.
 
 ### A Shortcut to Distinction
+
+This biographical information about Dale Carnegie was written as an introduction to the original edition of How to Win Friends and Influence People. It is reprinted in this edition to give the readers additionaThese people had been lured there by a newspaper ad. Two evenings previously, they had seen this full-page announcement in the New York Sun staring them in the face: Learn to Speak Effectively. Prepare for Leadershipl background on Dale Carnegie.
+
+The fact that these people, ten or twenty years after leaving grade school, high school or college, come and take this training is a glaring commentary on the shocking deficiencies of our educational system. What do adults really want to study? That is an important question; and, in order to answer it, the University of Chicago, the American Association for Adult Education, and the United Y.M.C.A. Schools made a survey over a two-year period. That survey revealed that the prime interest of adults is health. It also revealed that their second interest is in developing skill in human relationships – they want to learn the technique of getting along with and influencing other people.
+
+No working manual had ever been written to help people solve their daily problems in human relationships.
+
+They had seen some of the most important business successes won by men who possessed, in addition to their knowledge, the ability to talk well, to win people to their way of thinking, and to ‘sell’ themselves and their ideas.
+
+The ability to speak is a shortcut to distinction. It puts a person in the limelight, raises one head and shoulders above the crowd. And the person who can speak acceptably is usually given credit for an ability out of all proportion to what he or she really possesses.
+
+Dale Carnegie’s own career, filled with sharp contrasts, was a striking example of what a person can accomplish when obsessed with an original idea and afire with enthusiasm.
+
+As he looked back and evaluated his college work, he saw that his training in public speaking had done more to give him confidence, courage, poise and the ability to meet and deal with people in business than had all the rest of his college courses put together. So he urged the Y.M.C.A. schools in New York to give him a chance to conduct courses in public speaking for people in business.
+
+Almost any person can speak acceptably in public if he or she has self-confidence and an idea that is boiling and stewing within.
+
+The way to develop self-confidence, he said, is to do the thing you fear to do and get a record of successful experiences behind you. 
+
+Professor William James of Harvard used to say that the average person develops only 10 percent of his latent mental ability. 
 
 ### Copyright
