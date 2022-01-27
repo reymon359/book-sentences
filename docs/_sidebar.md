@@ -6,6 +6,8 @@
         
      - [Clean Architecture](Clean%20Architecture/index.md)
         
+     - [How to win friends and influence people](How%20to%20win%20friends%20and%20influence%20people/index.md)
+        
      - [James and the Giant Peach](James%20and%20the%20Giant%20Peach/index.md)
         
      - [Man's Search For Meaning](Man's%20Search%20For%20Meaning/index.md)
@@ -50,6 +52,8 @@
         
      - [2021](./Read/2021.md)
         
+     - [2022](./Read/2022.md)
+        
      - [All](Read/index.md)
         
     
@@ -80,12 +84,14 @@
         
      - [Mystery](./Genre/Mystery.md)
         
+     - [Networking](./Genre/Networking.md)
+        
      - [Novel](./Genre/Novel.md)
         
      - [Personal Growth](./Genre/Personal%20Growth.md)
         
      - [Philosophy](./Genre/Philosophy.md)
-
+        
      - [Productivity](./Genre/Productivity.md)
         
      - [Psychology](./Genre/Psychology.md)
