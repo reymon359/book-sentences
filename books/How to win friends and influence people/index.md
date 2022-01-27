@@ -1,6 +1,6 @@
 ---
 name: 'How to win friends and influence people'
-Read: ['2021']
+Read: ['2022']
 Genre: ['Self-help', 'Personal Growth', 'Networking']
 ---
 
@@ -12,93 +12,49 @@ Dale Carnegie - 1936
 
 ## Table of Contents
 
-Cover
-
-About the Author
-
-Also by Dale Carnegie
-
-Title Page
-
-Dedication
-
-Preface to revised edition
-
-How this book was written – and why
-
-Nine suggestions on how to get the most out of this book
-
-PART ONE: FUNDAMENTAL TECHNIQUES IN HANDLING PEOPLE
-
-1 ‘If You Want to Gather Honey, Don’t Kick Over the Beehive’
-
-2 The Big Secret of Dealing with People
-
-3 ‘He Who Can Do This Has the Whole World with Him. He Who Cannot Walks a Lonely Way’
-
-PART TWO: SIX WAYS TO MAKE PEOPLE LIKE YOU
-
-1 Do This and You’ll Be Welcome Anywhere
-
-2 A Simple Way to Make a Good First Impression
-
-3 If You Don’t Do This, You Are Headed for Trouble
-
-4 An Easy Way to Become a Good Conversationalist
-
-5 How to Interest People
-
-6 How to Make People Like You Instantly
-
-PART THREE: HOW TO WIN PEOPLE TO YOUR WAY OF THINKING
-
-1 You Can’t Win an Argument
-
-2 A Sure Way of Making Enemies – and How to Avoid It
-
-3 If You’re Wrong, Admit It
-
-4 A Drop of Honey
-
-5 The Secret of Socrates
-
-6 The Safety Valve in Handling Complaints
-
-7 How to Get Cooperation
-
-8 A Formula That Will Work Wonders for You
-
-9 What Everybody Wants
-
-10 An Appeal That Everybody Likes
-
-11 The Movies Do It. TV Does It. Why Don’t You Do It?
-
-12 When Nothing Else Works, Try This
-
-PART FOUR: BE A LEADER: HOW TO CHANGE PEOPLE WITHOUT GIVING OFFENCE OR AROUSING RESENTMENT
-
-1 If You Must Find Fault, This Is the Way to Begin
-
-2 How to Criticise – and Not Be Hated for It
-
-3 Talk About Your Own Mistakes First
-
-4 No One Likes to Take Orders
-
-5 Let the Other Person Save Face
-
-6 How to Spur People On to Success
-
-7 Give a Dog a Good Name
-
-8 Make the Fault Seem Easy to Correct
-
-9 Making People Glad to Do What You Want
-
-A Shortcut to Distinction
-
-Copyright
+- [Cover](#cover)
+- [About the Author](#about-the-author)
+- [Also by Dale Carnegie](#also-by-dale-carnegie)
+- [Title Page](#title-page)
+- [Dedication](#dedication)
+- [Preface to revised edition](#preface-to-revised-edition)
+- [How this book was written – and why](#how-this-book-was-written--and-why)
+- [Nine suggestions on how to get the most out of this book](#nine-suggestions-on-how-to-get-the-most-out-of-this-book)
+- [PART ONE: FUNDAMENTAL TECHNIQUES IN HANDLING PEOPLE](#part-one-fundamental-techniques-in-handling-people)
+  - [1 ‘If You Want to Gather Honey, Don’t Kick Over the Beehive’](#1-if-you-want-to-gather-honey-dont-kick-over-the-beehive)
+  - [2 The Big Secret of Dealing with People](#2-the-big-secret-of-dealing-with-people)
+  - [3 He Who Can Do This Has the Whole World with Him. He Who Cannot Walks a Lonely Way](#3-he-who-can-do-this-has-the-whole-world-with-him-he-who-cannot-walks-a-lonely-way)
+- [PART TWO: SIX WAYS TO MAKE PEOPLE LIKE YOU](#part-two-six-ways-to-make-people-like-you)
+  - [1 Do This and You’ll Be Welcome Anywhere](#1-do-this-and-youll-be-welcome-anywhere)
+  - [2 A Simple Way to Make a Good First Impression](#2-a-simple-way-to-make-a-good-first-impression)
+  - [3 If You Don’t Do This, You Are Headed for Trouble](#3-if-you-dont-do-this-you-are-headed-for-trouble)
+  - [4 An Easy Way to Become a Good Conversationalist](#4-an-easy-way-to-become-a-good-conversationalist)
+  - [5 How to Interest People](#5-how-to-interest-people)
+  - [6 How to Make People Like You Instantly](#6-how-to-make-people-like-you-instantly)
+- [PART THREE: HOW TO WIN PEOPLE TO YOUR WAY OF THINKING](#part-three-how-to-win-people-to-your-way-of-thinking)
+  - [1 You Can’t Win an Argument](#1-you-cant-win-an-argument)
+  - [2 A Sure Way of Making Enemies – and How to Avoid It](#2-a-sure-way-of-making-enemies--and-how-to-avoid-it)
+  - [3 If You’re Wrong, Admit It](#3-if-youre-wrong-admit-it)
+  - [4 A Drop of Honey](#4-a-drop-of-honey)
+  - [5 The Secret of Socrates](#5-the-secret-of-socrates)
+  - [6 The Safety Valve in Handling Complaints](#6-the-safety-valve-in-handling-complaints)
+  - [7 How to Get Cooperation](#7-how-to-get-cooperation)
+  - [8 A Formula That Will Work Wonders for You](#8-a-formula-that-will-work-wonders-for-you)
+  - [9 What Everybody Wants](#9-what-everybody-wants)
+  - [10 An Appeal That Everybody Likes](#10-an-appeal-that-everybody-likes)
+  - [11 The Movies Do It. TV Does It. Why Don’t You Do It?](#11-the-movies-do-it-tv-does-it-why-dont-you-do-it)
+  - [12 When Nothing Else Works, Try This](#12-when-nothing-else-works-try-this)
+- [PART FOUR: BE A LEADER: HOW TO CHANGE PEOPLE WITHOUT GIVING OFFENCE OR AROUSING RESENTMENT](#part-four-be-a-leader-how-to-change-people-without-giving-offence-or-arousing-resentment)
+  - [1 If You Must Find Fault, This Is the Way to Begin](#1-if-you-must-find-fault-this-is-the-way-to-begin)
+  - [2 How to Criticise – and Not Be Hated for It](#2-how-to-criticise--and-not-be-hated-for-it)
+  - [3 Talk About Your Own Mistakes First](#3-talk-about-your-own-mistakes-first)
+  - [4 No One Likes to Take Orders](#4-no-one-likes-to-take-orders)
+  - [5 Let the Other Person Save Face](#5-let-the-other-person-save-face)
+  - [6 How to Spur People On to Success](#6-how-to-spur-people-on-to-success)
+  - [7 Give a Dog a Good Name](#7-give-a-dog-a-good-name)
+  - [8 Make the Fault Seem Easy to Correct](#8-make-the-fault-seem-easy-to-correct)
+  - [9 Making People Glad to Do What You Want](#9-making-people-glad-to-do-what-you-want)
+  - [A Shortcut to Distinction](#a-shortcut-to-distinction)
 
 ## Cover
 
@@ -894,5 +850,3 @@ Almost any person can speak acceptably in public if he or she has self-confidenc
 The way to develop self-confidence, he said, is to do the thing you fear to do and get a record of successful experiences behind you. 
 
 Professor William James of Harvard used to say that the average person develops only 10 percent of his latent mental ability. 
-
-### Copyright
