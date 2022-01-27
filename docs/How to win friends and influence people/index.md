@@ -844,5 +844,4 @@ Almost any person can speak acceptably in public if he or she has self-confidenc
 
 The way to develop self-confidence, he said, is to do the thing you fear to do and get a record of successful experiences behind you. 
 
-Professor William James of Harvard used to say that the average person develops only 10 percent of his latent mental ability. 
-<hr/><br/>[Read:](Read/index.md) [2022](Read/2022.md)<br/>[Genre:](Genre/index.md) [Networking](Genre/Networking.md) [Personal Growth](Genre/Personal%20Growth.md) [Self-help](Genre/Self-help.md)
+Professor William James of Harvard used to say that the average person develops only 10 percent of his latent mental ability.<hr/><br/>[Read:](Read/index.md) [2022](Read/2022.md)<br/>[Genre:](Genre/index.md) [Networking](Genre/Networking.md) [Personal Growth](Genre/Personal%20Growth.md) [Self-help](Genre/Self-help.md)
