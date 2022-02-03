@@ -96,17 +96,116 @@ All proposals are managed in the open, on TC39’s Github repository: https://gi
 
 There’s just one JS, the official standard as maintained by TC39 and ECMA.
 
+The Web Rules Everything About (JS)
+
+For the most part, the JS defined in the specification and the JS that runs in browser-based JS engines is the same. But there are some differences that must be considered. Sometimes the JS specification will dictate some new or refined behavior, and yet that won’t exactly match with how it works in browser-based JS engines... ...occasionally, TC39 will decide the specification should stick firm on some point even though it is unlikely that browser-based JS engines will ever conform. The solution? Appendix B, “Additional ECMAScript Features for Web Browsers”.1 The JS specification includes this appendix to detail out any known mismatches between the official JS specification and the reality of JS on the web. In other words, these are exceptions that are allowed only for web JS; other JS environments must stick to the letter of the law... ...additions to JS (syntax and APIs) that web JS includes, again for historical reasons, but which TC39 does not plan to formally specify in the core of JS.
+
+Wherever possible, adhere to the JS specification and don’t rely on behavior that’s only applicable in certain JS engine environments.
+
+Various JS environments (like browser JS engines, Node.js, etc.) add APIs into the global scope of your JS programs that give you environment-specific capabilities, like being able to pop an alert-style box in the user’s browser.
+
+`console.log(..)` (and all the other `console.*` methods!). These are not specified in JS, but because of their universal utility are defined by pretty much every JS environment, according to a roughly agreed consensus.
+
+an `alert(..)` call is JS, but `alert` itself is really just a guest, not part of the official JS specification.
+
+Developer Tools are… tools for developers. Their primary purpose is to make life easier for developers. They prioritize DX (Developer Experience). It is not a goal of such tools to accurately and purely reflect all nuances of strict-spec JS behavior. As such, there’s many quirks that may act as “gotchas” if you’re treating the console as a pure JS environment.
+
+We can’t and shouldn’t expect such tools to always adhere strictly to the way JS programs are handled, because that’s not the purpose of these tools.
+
+some examples of quirks that have been true at various points in different JS console environments, to reinforce my point about not assuming native JS behavior while using them:
+- Whether a `var` or `function` declaration in the top-level “global scope” of the console actually creates a real global variable (and mirrored `window` property, and vice versa!).
+- What happens with multiple `let` and `const` declarations in the top-level “global scope.”
+- Whether `"use strict";` on one line-entry (pressing `<enter>` after) enables strict mode for the rest of that console session, the way it would on the first line of a .js file, as well as whether you can use `"use strict";` beyond the “first line” and still get strict mode turned on for that session.
+- How non-strict mode `this` default-binding works for function calls, and whether the “global object” used will contain expected global variables.
+- How hoisting (see Book 2, Scope & Closures) works across multiple line entries.
+- ...several others
+
+The developer console is not trying to pretend to be a JS compiler that handles your entered code exactly the same way the JS engine handles a .js file. It’s trying to make it easy for you to quickly enter a few lines of code and see the results immediately. These are entirely different use cases, and as such, it’s unreasonable to expect one tool to handle both equally.
+
+Think of the console as a “JS-friendly” environment. That’s useful in its own right.
+
 ### Many Faces
 
+No matter what a program’s individual style may be, the big picture divisions around paradigms are almost always evident at first glance of any program.
 
+Paradigm-level code categories include procedural, object-oriented (OO/classes), and functional (FP):
+- Procedural style organizes code in a top-down, linear progression through a pre-determined set of operations, usually collected together in related units called procedures.
+- OO style organizes code by collecting logic and data together into units called classes.
+- FP style organizes code into functions (pure computations as opposed to procedures), and the adaptations of those functions as values.
+
+Paradigms are neither right nor wrong. They’re orientations that guide and mold how programmers approach problems and solutions, how they structure and maintain their code.
+
+JavaScript is most definitely a multi-paradigm language. You can write procedural, class-oriented, or FP-style code, and you can make those decisions on a line-by-line basis instead of being forced into an all-or-nothing choice.
 
 ### Backwards & Forwards
 
+One of the most foundational principles that guides JavaScript is preservation of backwards compatibility.
 
+Backwards compatibility means that once something is accepted as valid JS, there will not be a future change to the language that causes that code to become invalid JS.
+
+TC39 members often proclaim, “we don’t break the web!”
+
+Maintaining backwards compatibility, stretched out across almost 25 years of the language’s history, creates an enormous burden and a whole slew of unique challenges. You’d be hard pressed to find many other examples in computing of such a commitment to backwards compatibility.
+
+There are some small exceptions to this rule. JS has had some backwards-incompatible changes, but TC39 is extremely cautious in doing so. They study existing code on the web (via browser data gathering) to estimate the impact of such breakage, and browsers ultimately decide and vote on whether they’re willing to take the heat from users for a very small-scale breakage weighed against the benefits of fixing or improving some aspect of the language for many more sites (and users). These kinds of changes are rare, and are almost always in corner cases of usage that are unlikely to be observably breaking in many sites.
+
+Being forwards-compatible means that including a new addition to the language in a program would not cause that program to break if it were run in an older JS engine. JS is not forwards-compatible, despite many wishing such, and even incorrectly believing the myth that it is.
+
+Though JS isn’t, and can’t be, forwards-compatible, it’s critical to recognize JS’s backwards compatibility, including the enduring benefits to the web and the constraints and difficulties it places on JS as a result.
+
+Since JS is not forwards-compatible, it means that there is always the potential for a gap between code that you can write that’s valid JS, and the oldest engine that your site or application needs to support. If you run a program that uses an ES2019 feature in an engine from 2016, you’re very likely to see the program break and crash.
+
+Transpiling is a contrived and community-invented term to describe using a tool to convert the source code of a program from one form to another (but still as textual source code).
+
+A developer may write a snippet of code like:
+```
+if (something) {
+    let x = 3;
+    console.log(x);
+}
+else {
+    let x = 4;
+    console.log(x);
+}
+```
+
+the Babel transpiler might convert that code to look like this:
+
+```
+var x$0, x$1;
+if (something) {
+    x$0 = 3;
+    console.log(x$0);
+}
+else {
+    x$1 = 4;
+    console.log(x$1);
+}
+```
+
+Developers should focus on writing the clean, new syntax forms, and let the tools take care of producing a forwards-compatible version of that code that is suitable to deploy and run on the oldest-supported JS engine environments.
+
+Missing API method that was only recently added, the most common solution is to provide a definition for that missing API method that stands in and acts as if the older environment had already had it natively defined. This pattern is called a polyfill (aka “shim”).
+
+Always write code using the most appropriate features to communicate its ideas and intent effectively.
+
+Avoid negatively impacting the code’s readability by trying to manually adjust for the syntax/API gaps. That’s what tools are for!
 
 ### What’s in an Interpretation?
 
+A long-debated question for code written in JS: is it an interpreted script or a compiled program? The majority opinion seems to be that JS is an interpreted (scripting) language. But the truth is more complicated than that... ...The real reason it matters to have a clear picture on whether JS is interpreted or compiled relates to the nature of how errors are handled.
 
+Historically, scripted or interpreted languages were executed in generally a top-down and line-by-line fashion; there’s typically not an initial pass through the program to process it before execution begins (see Figure 1).
+
+![Fig. 1: Interpreted/Scripted Execution](./assets/figure1.jpg)
+
+an error on line 5 of a program won’t be discovered until lines 1 through 4 have already executed... ...Depending on context, deferring error handling to the line the error occurs on may be a desirable or undesirable effect. Compare that to languages which do go through a processing step (typically, called parsing) before any execution occurs, as illustrated in Figure 2:
+
+![Fig. 2: Parsing + Compilation + Execution](./assets/figure2.jpg)
+
+All compiled languages are parsed. So a parsed language is quite a ways down the road toward being compiled already. In classic compilation theory, the last remaining step after parsing is code generation: producing an executable form.
+
+Parsed languages usually also perform code generation before execution, so it’s not that much of a stretch to say that, in spirit, they’re compiled languages.
 
 ### Strictly Speaking
 
