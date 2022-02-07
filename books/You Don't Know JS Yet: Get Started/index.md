@@ -260,31 +260,247 @@ JS is an implementation of the ECMAScript standard... ...which is guided by the 
 
 ## Chapter 2: Surveying JS
 
+The best way to learn JS is to start writing JS.
 
+We’re just going to survey some of the major topic areas of the language... ...Please don’t expect this chapter to be a quick read. It’s long and there’s plenty of detail to chew on. Take your time.
 
 ### Each File is a Program
 
+In JS, each standalone file is its own separate program.
 
+The reason this matters is primarily around error handling. Since JS treats files as programs, one file may fail (during parse/compile or execution) and that will not necessarily prevent the next file from being processed.
+
+Ensure that each file works properly, and that to whatever extent possible, they handle failure in other files as gracefully as possible.
+
+Many projects use build process tools that end up combining separate files from the project into a single file to be delivered to a web page. When this happens, JS treats this single combined file as the entire program.
+
+The only way multiple standalone .js files act as a single program is by sharing their state (and access to their public functionality) via the “global scope.” They mix together in this global scope namespace, so at runtime they act as as whole.
+
+Though you wouldn’t typically think about a module—a collection of state and publicly exposed methods to operate on that state—as a standalone program, JS does in fact still treat each module separately. Similar to how “global scope” allows standalone files to mix together at runtime, importing a module into another allows runtime interoperation between them.
+
+Regardless of which code organization pattern (and loading mechanism) is used for a file (standalone or module), you should still think of each file as its own (mini) program, which may then cooperate with other (mini) programs to perform the functions of your overall application.
 
 ### Values
 
+The most fundamental unit of information in a program is a value. Values are data. They’re how the program maintains state. 
 
+Values come in two forms in JS: primitive and object.
+
+Values are embedded in programs using literals: `greeting("My name is Kyle.");` In this program, the value `"My name is Kyle."` is a primitive string literal; strings are ordered collections of characters, usually used to represent words and sentences.
+
+The choice of which quote character is entirely stylistic. The important thing, for code readability and maintainability sake, is to pick one and to use it consistently throughout the program.
+
+The better approach is to use `"` or `'` (again, pick one and stick to it!) for strings unless you need interpolation; reserve ` `` ` only for strings that will include interpolated expressions.
+
+Numbers are most often used in programs for counting steps, such as loop iterations, and accessing information in numeric positions (i.e., an array index).
+
+JS array indices are 0-based (0 is the first position).
+
+In addition to strings, numbers, and booleans, two other primitive values in JS programs are null and undefined. While there are differences between them (some historic and some contemporary), for the most part both values serve the purpose of indicating emptiness (or absence) of a value.
+
+#### Arrays And Objects
+
+Arrays are a special type of object that’s comprised of an ordered and numerically indexed list of data
+
+Functions, like arrays, are a special kind (aka, sub-type) of object. 
+
+Objects are more general: an unordered, keyed collection of any various values.
+
+#### Value Type Determination
+
+For distinguishing values, the typeof operator tells you its built-in type, if primitive, or "object" otherwise:
+
+```js
+typeof 42;                  // "number"
+typeof "abc";               // "string"
+typeof true;                // "boolean"
+typeof undefined;           // "undefined"
+typeof null;                // "object" -- oops, bug!
+typeof { "a": 1 };          // "object"
+typeof [1,2,3];             // "object"
+typeof function hello(){};  // "function"
+```
+
+#### Warning
+
+typeof null unfortunately returns "object" instead of the expected "null". Also, typeof returns the specific "function" for functions, but not the expected "array" for arrays.
+
+Converting from one value type to another... ...is referred to in JS as “coercion.” 
 
 ### Declaring and Using Variables
 
+Think of variables as just containers for values... ...There are various syntax forms that declare variables (aka, “identifiers”), and each form has different implied behaviors.
 
+The var keyword declares a variable to be used in that part of the program, and optionally allows initial value assignment.
+
+The let keyword has some differences to var, with the most obvious being that let allows a more limited access to the variable than var. This is called “block scoping” as opposed to regular or function scoping.
+
+```
+var adult = true;
+
+if (adult) {
+    var name = "Kyle";
+    let age = 39;
+    console.log("Shhh, this is a secret!");
+}
+
+console.log(name);
+// Kyle
+
+console.log(age);
+// Error!
+```
+
+The attempt to access age outside of the if statement results in an error, because age was block-scoped to the if, whereas name was not.
+
+Block-scoping is very useful for limiting how widespread variable declarations are in our programs, which helps prevent accidental overlap of their names.
+
+It’s very common to suggest that var should be avoided in favor of let (or const!),... ...I believe this to be overly restrictive advice and ultimately unhelpful. It’s assuming you are unable to learn and use a feature properly in combination with other features. I believe you can and should learn any features available, and use them where appropriate!
+
+const declared variables are not “unchangeable”, they just cannot be re-assigned. It’s ill-advised to use const with object values, because those values can still be changed even though the variable can’t be re-assigned. This leads to potential confusion down the line.
+
+The best semantic use of a const is when you have a simple primitive value that you want to give a useful name to, such as using myBirthday instead of true. This makes programs easier to read.
+
+If you stick to using const only with primitive values, you avoid any confusion of re-assignment (not allowed) vs. mutation (allowed)! That’s the safest and best way to use const.
 
 ### Functions
 
+In JS, we should consider “function” to take the broader meaning of another related term: “procedure.” A procedure is a collection of statements that can be invoked one or more times, may be provided some inputs, and may give back one or more outputs.
 
+```js
+function awesomeFunction(coolThings) {
+    // ..
+    return amazingStuff;
+}
+```
+
+This is called a function declaration because it appears as a statement by itself, not as an expression in another statement. The association between the identifier awesomeFunction and the function value happens during the compile phase of the code, before that code is executed. In contrast to a function declaration statement, a function expression can be defined and assigned like this:
+
+```js
+// let awesomeFunction = ..
+// const awesomeFunction = ..
+var awesomeFunction = function(coolThings) {
+    // ..
+    return amazingStuff;
+};
+```
+
+This function is an expression that is assigned to the variable awesomeFunction. Different from the function declaration form, a function expression is not associated with its identifier until that statement during runtime.
+
+In JS, functions are values that can be assigned (as shown in this snippet) and passed around. In fact, JS functions are a special type of the object value type. Not all languages treat functions as values, but it’s essential for a language to support the functional programming pattern, as JS does.
+
+Since functions are values, they can be assigned as properties on objects:
+```js
+var whatToSay = {
+    greeting() {
+        console.log("Hello!");
+    },
+    question() {
+        console.log("What's your name?");
+    },
+    answer() {
+        console.log("My name is Kyle.");
+    }
+};
+
+whatToSay.greeting();
+// Hello!
+```
 
 ### Comparisons
 
+We must be aware of the nuanced differences between an equality comparison and an equivalence comparison.
 
+Specifically, === disallows any sort of type conversion (aka, “coercion”) in its comparison, where other JS comparisons do allow coercion.
+
+The === operator is designed to lie in two cases of special values: NaN and -0. Consider:
+
+```js
+NaN === NaN;            // false
+0 === -0;               // true
+```
+
+In the case of NaN, the === operator lies and says that an occurrence of NaN is not equal to another NaN. In the case of -0 (yes, this is a real, distinct value you can use intentionally in your programs!), the === operator lies and says it’s equal to the regular 0 value.
+
+You could think of Object.is(..) as the “quadruple-equals” ====, the really-really-strict comparison!
+
+When we consider comparisons of object values (non-primitives). Consider:
+```js
+[ 1, 2, 3 ] === [ 1, 2, 3 ];    // false
+{ a: 42 } === { a: 42 }         // false
+(x => x * 2) === (x => x * 2)   // false
+```
+What’s going on here?... ...JS does not define === as structural equality for object values. Instead, === uses identity equality for object values.
+
+In JS, all object values are held by reference are assigned and passed by reference-copy, and to our current discussion, are compared by reference (identity) equality. Consider:
+```js
+var x = [ 1, 2, 3 ];
+
+// assignment is by reference-copy, so
+// y references the *same* array as x,
+// not another copy of it.
+var y = x;
+
+y === x;              // true
+y === [ 1, 2, 3 ];    // false
+x === [ 1, 2, 3 ];    // false
+```
+In this snippet, y === x is true because both variables hold a reference to the same initial array... ...The array structure and contents don’t matter in this comparison, only the reference identity.
+
+JS doesn’t provide structural equality comparison because it’s almost intractable to handle all the corner cases!
+
+#### Coercive Comparisons
+
+Coercion means a value of one type being converted to its respective representation in another type (to whatever extent possible). 
+
+Few JS features draw more ire in the broader JS community than the == operator, generally referred to as the “loose equality” operator. The majority of all writing and public discourse on JS condemns this operator as poorly designed and dangerous/bug-ridden when used in JS programs. Even the creator of the language himself, Brendan Eich, has lamented how it was designed as a big mistake.
+
+The == operator performs an equality comparison similarly to how the === performs it. In fact, both operators consider the type of the values being compared. And if the comparison is between the same value type, both == and === do exactly the same thing, no difference whatsoever.
+
+If the value types being compared are different, the == differs from === in that it allows coercion before the comparison
+
+Relational comparison operators like <, > (and even <= and >=). Just like ==, these operators will perform as if they’re “strict” if the types being relationally compared already match, but they’ll allow coercion first (generally, to numbers) if the types differ. Consider:
+```js
+var arr = [ "1", "10", "100", "1000" ];
+for (let i = 0; i < arr.length && arr[i] < 500; i++) {
+    // will run 3 times
+}
+```
+
+Relational operators typically use numeric comparisons, except in the case where both values being compared are already strings; in this case, they use alphabetical (dictionary-like) comparison of the strings:
+
+```js
+var x = "10";
+var y = "9";
+
+x < y;      // true, watch out!
+```
+
+There’s no way to get these relational operators to avoid coercion, other than to just never use mismatched types in the comparisons. That’s perhaps admirable as a goal, but it’s still pretty likely you’re going to run into a case where the types may differ.
 
 ### How We Organize in JS
 
+Two major patterns for organizing code (data and behavior) are used broadly across the JS ecosystem: classes and modules.
 
+Being proficient in JS requires understanding both patterns and where they are appropriate (and not!).
+
+#### Classes
+
+A class in a program is a definition of a “type” of custom data structure that includes both data and behaviors that operate on that data. Classes define how such a data structure works, but classes are not themselves concrete values. To get a concrete value that you can use in the program, a class must be instantiated (with the new keyword) one or more times.
+
+Behavior (methods) can only be called on instances (not the classes themselves)
+
+The class mechanism allows packaging data (text and pages) to be organized together with their behaviors... ...The same program could have been built without any class definitions, but it would likely have been much less organized, harder to read and reason about, and more susceptible to bugs and subpar maintenance.
+
+Class Inheritance... ...Another aspect inherent to traditional “class-oriented” design, though a bit less commonly used in JS, is “inheritance” (and “polymorphism”)
+
+The fact that both the inherited and overridden methods can have the same name and co-exist is called polymorphism.
+
+Inheritance is a powerful tool for organizing data/behavior in separate logical units (classes), but allowing the child class to cooperate with the parent by accessing/using its behavior and data.
+
+#### Modules
+
+The module pattern has essentially the same goal as the class pattern, which is to group data and behavior together into logical units. Also like classes, modules can “include” or “access” the data and behaviors of other modules, for cooperation sake. But modules have some important differences from classes. Most notably, the syntax is entirely different.
 
 ### The Rabbit Hole Deepens
 
