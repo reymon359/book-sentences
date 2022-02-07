@@ -207,13 +207,56 @@ All compiled languages are parsed. So a parsed language is quite a ways down the
 
 Parsed languages usually also perform code generation before execution, so it’s not that much of a stretch to say that, in spirit, they’re compiled languages.
 
+So JS is a parsed language, but is it compiled? The answer is closer to yes than no. The parsed JS is converted to an optimized (binary) form, and that “code” is subsequently executed (Figure 2); the engine does not commonly switch back into line-by-line execution (like Figure 2) mode after it has finished all the hard work of parsing—most languages/engines wouldn’t, because that would be highly inefficient. To be specific, this “compilation” produces a binary byte code (of sorts), which is then handed to the “JS virtual machine” to execute. Some like to say this VM is “interpreting” the byte code. But then that means Java, and a dozen other JVM-driven languages, for that matter, are interpreted rather than compiled. Of course, that contradicts the typical assertion that Java/etc are compiled languages. Interestingly, while Java and JavaScript are very different languages, the question of interpreted/compiled is pretty closely related between them!
+
+The entire flow of a JS source program: 
+1. After a program leaves a developer’s editor, it gets transpiled by Babel, then packed by Webpack (and perhaps half a dozen other build processes), then it gets delivered in that very different form to a JS engine.
+2. The JS engine parses the code to an AST.
+3. Then the engine converts that AST to a kind-of byte code, a binary intermediate representation (IR), which is then refined/converted even further by the optimizing JIT compiler.
+4. Finally, the JS VM executes the program.
+To visualize thoses steps, again:
+
+![Fig. 3: Parsing, Compiling, and Executing JS](./assets/figure3.jpg)
+
+In spirit, if not in practice, JS is a compiled language. And again, the reason that matters is, since JS is compiled, we are informed of static errors (such as malformed syntax) before our code is executed. That is a substantively different interaction model than we get with traditional “scripting” programs, and arguably more helpful!
+
+Web Assembly (WASM)... ...In 2013, engineers from Mozilla Firefox demonstrated a port of the Unreal 3 game engine from C to JS... ...the JS version of the Unreal engine’s code used a style of code that favored a subset of the JS language, named “ASM.js”... ...ASM.js was introduced as one way of addressing the pressures on the runtime performance of JS. But it’s important to note that ASM.js was never intended to be code that was authored by developers, but rather a representation of a program having been transpiled from another language (such as C), where these typing “annotations” were inserted automatically by the tooling. Several years after ASM.js demonstrated the validity of tooling-created versions of programs that can be processed more efficiently by the JS engine, another group of engineers (also, initially, from Mozilla) released Web Assembly (WASM).
+
+WASM is similar to ASM.js in that its original intent was to provide a path for non-JS programs (C, etc.) to be converted to a form that could run in the JS engine.
+
+WASM is a representation format more akin to Assembly (hence, its name) that can be processed by a JS engine by skipping the parsing/compilation that the JS engine normally does. The parsing/compilation of a WASM-targeted program happen ahead of time (AOT); what’s distributed is a binary-packed program ready for the JS engine to execute with very minimal processing.
+
+In other words, WASM relieves the pressure to add features to JS that are mostly/exclusively intended to be used by transpiled programs from other languages. That means JS feature development can be judged (by TC39) without being skewed by interests/demands in other language ecosystems, while still letting those languages have a viable path onto the web.
+
+WASM isn’t only for the web, and WASM also isn’t JS. Ironically, even though WASM runs in the JS engine, the JS language is one of the least suitable languages to source WASM programs with, because WASM relies heavily on static typing information.
+
+WASM will not replace JS. WASM significantly augments what the web (including JS) can accomplish. That’s a great thing, entirely orthogonal to whether some people will use it as an escape hatch from having to write JS.
+
 ### Strictly Speaking
 
+Strict mode shouldn’t be thought of as a restriction on what you can’t do, but rather as a guide to the best way to do things so that the JS engine has the best chance of optimizing and efficiently running the code.
 
+Most strict mode controls are in the form of early errors, meaning errors that aren’t strictly syntax errors but are still thrown at compile time (before the code is run). 
+
+The best mindset is that strict mode is like a linter reminding you how JS should be written to have the highest quality and best chance at performance.
+
+Strict mode can alternatively be turned on per-function scope, with exactly the same rules about its surroundings:
+
+```js
+function someOperations() {
+    // whitespace and comments are fine here
+    "use strict";
+    // all this code will run in strict mode
+}
+```
+
+The only valid reason to use a per-function approach to strict mode is when you are converting an existing non-strict mode program file and need to make the changes little by little over time. Otherwise, it’s vastly better to simply turn strict mode on for the entire file/program.
+
+ES6 modules assume strict mode, so all code in such files is automatically defaulted to strict mode.
 
 ### Defined
 
-
+JS is an implementation of the ECMAScript standard... ...which is guided by the TC39 committee and hosted by ECMA. It runs in browsers and other JS environments such as Node.js. JS is a multi-paradigm language, meaning the syntax and capabilities allow a developer to mix and match (and bend and reshape!) concepts from various major paradigms, such as procedural, object-oriented (OO/classes), and functional (FP). JS is a compiled language, meaning the tools (including the JS engine) process and verify a program (reporting any errors!) before it executes.
 
 ## Chapter 2: Surveying JS
 
