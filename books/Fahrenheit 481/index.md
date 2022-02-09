@@ -165,7 +165,65 @@ A fountain of books sprang down upon Montag as he climbed shuddering up the shee
 
 Montag had only an instant to read a line, but it blazed in his mind for the next minute as if stamped there with fiery steel. "Time has fallen asleep in the afternoon sunshine." He dropped the book. Immediately, another fell into his arms.
 
-"Enough of that!" said Beatty. "Where are they?"
+Montag had done nothing. His hand had done it all, his hand, with a brain of its own, with a conscience and a curiosity in each trembling finger, had turned thief.. Now, it plunged the book back under his arm, pressed it tight to sweating armpit, rushed out empty, with a magician's flourish! Look here! Innocent! Look!
+
+"Kerosene! They pumped the cold fluid from the numbered 451 tanks strapped to their shoulders. They coated each book, they pumped rooms full of it.
+
+"You can't ever have my books," she said. "You know the law," said Beatty. "Where's your common sense? None of those books agree with each other. You've been locked up here for years with a regular damned Tower of Babel. Snap out of it! The people in those books never lived. Come on now! " She shook her head... ..."She won't come." "Force her, then!" Beatty raised his hand in which was concealed the igniter. "We're due back at the house. Besides, these fanatics always try suicide; the pattern's familiar."
+
+The fumes of kerosene bloomed up about her. Montag felt the hidden book pound like a heart against his chest. "Go on," said the woman, and Montag felt himself back away and away out of the door, after Beatty, down the steps, across the lawn, where the path of kerosene lay like the track of some evil snail.
+
+"She said, 'Master Ridley.' She said some crazy thing when we came in the door. 'Play the man,'... ...Beatty rubbed his chin. "A man named Latimer said that to a man named Nicholas Ridley, as they were being burnt alive at Oxford, for heresy, on October 16, 1555."
+
+And then the other work his coat free and let it slump to the floor. He held his pants out into an abyss and let them fall into darkness. His hands had been infected, and soon it would be his arms. He could feel the poison working up his wrists and into his elbows and his shoulders, and then the jump-over from shoulder-blade to shoulder-blade like a spark leaping a gap. His hands were ravenous. And his eyes were beginning to feel hunger, as if they must look at something, anything, everything.
+
+Late in the night he looked over at Mildred. She was awake. There was a tiny dance of melody in the air, her Seashell was tamped in her ear again and she was listening to far people in far places, her eyes wide and staring at the fathoms of blackness above her in the ceiling.
+
+why didn't he buy himself an audio-Seashell broadcasting station and talk to his wife late at night, murmur, whisper, shout, scream, yell? But what would he whisper, what would he yell?
+
+And suddenly she was so strange he couldn't believe he knew her at all.
+
+"When did we meet. And where?" 
+"When did we meet for what?" she asked.
+"I mean-originally."
+He knew she must be frowning in the dark.
+He clarified it. "The first time we ever met, where was it, and when?"
+"Why, it was at --"
+She stopped.
+"I don't know," she said.
+He was cold. "Can't you remember?"
+"It's been so long."
+
+"Funny, how funny, not to remember where or when you met your husband or wife."
+
+And he remembered thinking then that if she died, he was certain he wouldn't cry. For it would be the dying of an unknown, a street face, a newspaper image, and it was suddenly so very wrong that he had begun to cry, not at death but at the thought of not crying at death, a silly empty man near a silly empty woman, while the hungry snake made her still more empty.
+
+No matter when he came in, the walls were always talking to Mildred.
+"Something must be done!I"
+"Yes, something must be done!"
+"Well, let's not stand and talk!"
+"Let's do it! "
+"I'm so mad I could SPIT!"
+What was it all about? Mildred couldn't say. Who was mad at whom? Mildred didn't quite know.
+What were they going to do? Well, said Mildred, wait around and see.
+He had waited around to see.
+
+"That's all very well," cried Montag, "but what are they mad about? Who are these people?
+Who's that man and who's that woman? Are they husband and wife, are they divorced, engaged, what? Good God, nothing's connected up."
+"They--" said Mildred. "Well, they-they had this fight, you see. They certainly fight a lot. You should listen. I think they're married. Yes, they're married. Why?"
+
+"What about her?" asked Montag.
+"I meant to tell you. Forgot. Forgot."
+"Tell me now. What is it?"
+"I think she's gone."
+"Gone?"
+"Whole family moved out somewhere. But she's gone for good. I think she's dead."
+"We couldn't be talking about the same girl."
+"No. The same girl. McClellan. McClellan, Run over by a car. Four days ago. I'm not sure. But I think she's dead. The family moved out anyway. I don't know. But I think she's dead."
+
+Outside the house, a shadow moved, an autumn wind rose up and faded away But there was something else in the silence that he heard. It was like a breath exhaled upon the window. It was like a faint drift of greenish luminescent smoke, the motion of a single huge October leaf blowing across the lawn and away.
+The Hound, he thought. It's out there tonight. It's out there now.
+
 
 
 
