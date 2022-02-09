@@ -411,9 +411,9 @@ whatToSay.greeting();
 
 We must be aware of the nuanced differences between an equality comparison and an equivalence comparison.
 
-Specifically, === disallows any sort of type conversion (aka, “coercion”) in its comparison, where other JS comparisons do allow coercion.
+Specifically, `===` disallows any sort of type conversion (aka, “coercion”) in its comparison, where other JS comparisons do allow coercion.
 
-The === operator is designed to lie in two cases of special values: NaN and -0. Consider:
+The `===` operator is designed to lie in two cases of special values: NaN and -0. Consider:
 
 ```js
 NaN === NaN;            // false
@@ -422,7 +422,7 @@ NaN === NaN;            // false
 
 In the case of NaN, the === operator lies and says that an occurrence of NaN is not equal to another NaN. In the case of -0 (yes, this is a real, distinct value you can use intentionally in your programs!), the === operator lies and says it’s equal to the regular 0 value.
 
-You could think of Object.is(..) as the “quadruple-equals” ====, the really-really-strict comparison!
+You could think of `Object.is(..)` as the “quadruple-equals” `====`, the really-really-strict comparison!
 
 When we consider comparisons of object values (non-primitives). Consider:
 ```js
@@ -430,7 +430,7 @@ When we consider comparisons of object values (non-primitives). Consider:
 { a: 42 } === { a: 42 }         // false
 (x => x * 2) === (x => x * 2)   // false
 ```
-What’s going on here?... ...JS does not define === as structural equality for object values. Instead, === uses identity equality for object values.
+What’s going on here?... ...JS does not define `===` as structural equality for object values. Instead, `===` uses identity equality for object values.
 
 In JS, all object values are held by reference are assigned and passed by reference-copy, and to our current discussion, are compared by reference (identity) equality. Consider:
 ```js
@@ -445,7 +445,7 @@ y === x;              // true
 y === [ 1, 2, 3 ];    // false
 x === [ 1, 2, 3 ];    // false
 ```
-In this snippet, y === x is true because both variables hold a reference to the same initial array... ...The array structure and contents don’t matter in this comparison, only the reference identity.
+In this snippet, y `===` x is true because both variables hold a reference to the same initial array... ...The array structure and contents don’t matter in this comparison, only the reference identity.
 
 JS doesn’t provide structural equality comparison because it’s almost intractable to handle all the corner cases!
 
@@ -453,13 +453,13 @@ JS doesn’t provide structural equality comparison because it’s almost intrac
 
 Coercion means a value of one type being converted to its respective representation in another type (to whatever extent possible). 
 
-Few JS features draw more ire in the broader JS community than the == operator, generally referred to as the “loose equality” operator. The majority of all writing and public discourse on JS condemns this operator as poorly designed and dangerous/bug-ridden when used in JS programs. Even the creator of the language himself, Brendan Eich, has lamented how it was designed as a big mistake.
+Few JS features draw more ire in the broader JS community than the `==` operator, generally referred to as the “loose equality” operator. The majority of all writing and public discourse on JS condemns this operator as poorly designed and dangerous/bug-ridden when used in JS programs. Even the creator of the language himself, Brendan Eich, has lamented how it was designed as a big mistake.
 
-The == operator performs an equality comparison similarly to how the === performs it. In fact, both operators consider the type of the values being compared. And if the comparison is between the same value type, both == and === do exactly the same thing, no difference whatsoever.
+The `==` operator performs an equality comparison similarly to how the `===` performs it. In fact, both operators consider the type of the values being compared. And if the comparison is between the same value type, both `==` and `===` do exactly the same thing, no difference whatsoever.
 
-If the value types being compared are different, the == differs from === in that it allows coercion before the comparison
+If the value types being compared are different, the `==` differs from `===` in that it allows coercion before the comparison
 
-Relational comparison operators like <, > (and even <= and >=). Just like ==, these operators will perform as if they’re “strict” if the types being relationally compared already match, but they’ll allow coercion first (generally, to numbers) if the types differ. Consider:
+Relational comparison operators like <, > (and even <= and >=). Just like `==,` these operators will perform as if they’re “strict” if the types being relationally compared already match, but they’ll allow coercion first (generally, to numbers) if the types differ. Consider:
 ```js
 var arr = [ "1", "10", "100", "1000" ];
 for (let i = 0; i < arr.length && arr[i] < 500; i++) {
@@ -502,9 +502,84 @@ Inheritance is a powerful tool for organizing data/behavior in separate logical 
 
 The module pattern has essentially the same goal as the class pattern, which is to group data and behavior together into logical units. Also like classes, modules can “include” or “access” the data and behaviors of other modules, for cooperation sake. But modules have some important differences from classes. Most notably, the syntax is entirely different.
 
+ES6 added a module syntax form to native JS syntax... ...But from the early days of JS, modules was an important and common pattern that was leveraged in countless JS programs, even without a dedicated syntax.
+
+The key hallmarks of a classic module are an outer function (that runs at least once), which returns an “instance” of the module with one or more functions exposed that can operate on the module instance’s internal (hidden) data.
+
+The `class` form stores methods and data on an object instance, which must be accessed with the `this.` prefix. With modules, the methods and data are accessed as identifier variables in scope, without any `this.` prefix. With `class`, the “API” of an instance is implicit in the class definition—also, all data and methods are public. With the module factory function, you explicitly create and return an object with any publicly exposed methods, and any data or other unreferenced methods remain private inside the factory function.
+
+First, there’s no wrapping function to define a module. The wrapping context is a file. ESMs are always file-based; one file, one module. Second, you don’t interact with a module’s “API” explicitly, but rather use the `export` keyword to add a variable or method to its public API definition. If something is defined in a module but not `export`ed, then it stays hidden (just as with classic modules). Third, and maybe most noticeably different from previously discussed patterns, you don’t “instantiate” an ES module, you just `import` it to use its single instance. ESMs are, in effect, “singletons,” in that there’s only one instance ever created, at first `import` in your program, and all other `import`s just receive a reference to that same single instance. If your module needs to support multiple instantiations, you have to provide a classic module-style factory function on your ESM definition for that purpose.
+
+```js
+function printDetails(title,author,pubDate) {
+    console.log(`
+        Title: ${ title }
+        By: ${ author }
+        ${ pubDate }
+    `);
+}
+
+export function create(title,author,pubDate) {
+    var publicAPI = {
+        print() {
+            printDetails(title,author,pubDate);
+
+        }
+    };
+
+    return publicAPI;
+}
+```
+
+To import and use this module, from another ES module like `blogpost.js`:
+
+```js
+import { create as createPub } from "publication.js";
+
+function printDetails(pub,URL) {
+    pub.print();
+    console.log(URL);
+}
+
+export function create(title,author,pubDate,URL) {
+    var pub = createPub(title,author,pubDate);
+
+    var publicAPI = {
+        print() {
+            printDetails(pub,URL);
+        }
+    };
+
+    return publicAPI;
+}
+```
+
+And finally, to use this module, we import into another ES module like `main.js`:
+
+```js
+import { create as newBlogPost } from "blogpost.js";
+
+var forAgainstLet = newBlogPost(
+    "For and against let",
+    "Kyle Simpson",
+    "October 27, 2014",
+    "https://davidwalsh.name/for-and-against-let"
+);
+
+forAgainstLet.print();
+// Title: For and against let
+// By: Kyle Simpson
+// October 27, 2014
+// https://davidwalsh.name/for-and-against-let
+```
+
+ES modules can use classic modules internally if they need to support multiple-instantiation. Alternatively, we could have exposed a `class` from our module instead of a `create(..)` factory function, with generally the same outcome. However, since you’re already using ESM at that point, I’d recommend sticking with classic modules instead of `class`.
+
+If your module only needs a single instance, you can skip the extra layers of complexity: `export` its public methods directly.
+
 ### The Rabbit Hole Deepens
 
-
+In the next chapter, we’re going to dig much deeper into some important aspects of how JS works at its core. But before you follow that rabbit hole deeper, make sure you’ve taken adequate time to fully digest what we’ve just covered here.
 
 ## Chapter 3: Digging to the Roots of JS
 
