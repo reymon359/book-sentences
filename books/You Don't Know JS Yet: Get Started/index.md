@@ -583,22 +583,178 @@ In the next chapter, we’re going to dig much deeper into some important aspect
 
 ## Chapter 3: Digging to the Roots of JS
 
-
+This chapter should begin to answer some of the “Why?” questions that may be cropping up as you explore JS... ...Our goal here is still just to get started, and become more comfortable with, the feel of JS, how it ebbs and flows... ...As I’ve said a dozen times already, take your time. Even still, you’ll probably finish this chapter with remaining questions. That’s OK, because there’s a whole book series ahead of you to keep exploring!
 
 ### Iteration
 
+Since programs are essentially built to process data (and make decisions on that data), the patterns used to step through the data have a big impact on the program’s readability. The iterator pattern has been around for decades, and suggests a “standardized” approach to consuming data from a source one chunk at a time. The idea is that it’s more common and helpful to iterate the data source—to progressively handle the collection of data by processing the first part, then the next, and so on, rather than handling the entire set all at once.
 
+The iterator pattern defines a data structure called an “iterator” that has a reference to an underlying data source (like the query result rows), which exposes a method like `next()`. Calling `next()` returns the next piece of data (i.e., a “record” or “row” from a database query).
+
+The importance of the iterator pattern is in adhering to a standard way of processing data iteratively, which creates cleaner and easier to understand code, as opposed to having every data structure/source define its own custom way of handling its data.
+
+ES6 standardized a specific protocol for the iterator pattern directly in the language. The protocol defines a `next()` method whose return is an object called an iterator result; the object has value and done properties, where done is a boolean that is `false` until the iteration over the underlying data source is complete.
+
+#### Consuming Iterators
+
+This approach is rather manual, so ES6 also included several mechanisms (syntax and APIs) for standardized consumption of these iterators. One such mechanism is the `for..of` loop:
+
+```js
+// given an iterator of some data source:
+var it = /* .. */;
+
+// loop over its results one at a time
+for (let val of it) {
+    console.log(`Iterator value: ${ val }`);
+}
+// Iterator value: ..
+// Iterator value: ..
+// ..
+```
+The `...` operator... ...has two symmetrical forms: spread and rest (or gather, as I prefer). The spread form is an iterator-consumer. To spread an iterator, you have to have something to spread it into.
+
+#### Iterables
+
+The iterator-consumption protocol is technically defined for consuming iterables; an iterable is a value that can be iterated over.
+
+The protocol automatically creates an iterator instance from an iterable, and consumes just that iterator instance to its completion. This means a single iterable could be consumed more than once; each time, a new iterator instance would be created and used.
+
+ES6 defined the basic data structure/collection types in JS as iterables. This includes strings, arrays, maps, sets, and others.
+
+Since arrays are iterables, we can shallow-copy an array using iterator consumption via the `...` spread operator:
+
+```js
+var arrCopy = [ ...arr ];
+```
+
+Maps have a different default iteration than seen here, in that the iteration is not just over the map’s values but instead its entries. An entry is a tuple (2-element array) including both a key and a value.
+
+```js
+// given two DOM elements, `btn1` and `btn2`
+var buttonNames = new Map();
+buttonNames.set(btn1,"Button 1");
+buttonNames.set(btn2,"Button 2");
+
+for (let [btn,btnName] of buttonNames) {
+    btn.addEventListener("click",function onClick(){
+        console.log(`Clicked ${ btnName }`);
+    });
+}
+```
+
+In the `for..of` loop over the default map iteration, we use the `[btn,btnName]` syntax (called “array destructuring”) to break down each consumed tuple into the respective key/value pairs (`btn1` / `"Button 1"` and `btn2` / `"Button 2"`).
+
+if we want to consume only the values of the above `buttonNames` map, we can call `values()` to get a values-only iterator:
+
+```js
+for (let btnName of buttonNames.values()) {
+    console.log(btnName);
+}
+// Button 1
+// Button 2
+```
+
+For the most part, all built-in iterables in JS have three iterator forms available: keys-only (`keys()`), values-only (`values()`), and entries (`entries()`).
+
+We started by talking about consuming **iterators**, but then switched to talking about iterating over **iterables**. The iteration-consumption protocol expects an iterable, but the reason we can provide a direct iterator is that an iterator is just an iterable of itself! When creating an iterator instance from an existing iterator, the iterator itself is returned.
 
 ### Closure
 
+Closure is one of the most pervasive programming functionalities across a majority of languages. It might even be as important to understand as variables or loops; that’s how fundamental it is. Yet it feels kind of hidden, almost magical. And it’s often talked about in either very abstract or very informal terms, which does little to help us nail down exactly what it is.
 
+The presence or lack of closure is sometimes the cause of bugs (or even the cause of performance issues).
+
+Closure is when a function remembers and continues to access variables from outside its scope, even when the function is executed in a different scope.
+
+First, closure is part of the nature of a function. Objects don’t get closures, functions do. Second, to observe a closure, you must execute a function in a different scope than where that function was originally defined.
+
+These closures are not a snapshot of the msg variable’s value; they are a direct link and preservation of the variable itself. That means closure can actually observe (or make!) updates to these variables over time.
+
+```js
+function counter(step = 1) {
+    var count = 0;
+    return function increaseCount(){
+        count = count + step;
+        return count;
+    };
+}
+
+var incBy1 = counter(1);
+var incBy3 = counter(3);
+
+incBy1();       // 1
+incBy1();       // 2
+
+incBy3();       // 3
+incBy3();       // 6
+incBy3();       // 9
+```
+
+Each instance of the inner `increaseCount()` function is closed over both the `count` and `step` variables from its outer `counter(..)` function’s scope. `step` remains the same over time, but `count` is updated on each invocation of that inner function. Since closure is over the variables and not just snapshots of the values, these updates are preserved.
+
+It’s not necessary that the outer scope be a function—it usually is, but not always—just that there be at least one variable in an outer scope accessed from an inner function:
+
+```js
+for (let [idx,btn] of buttons.entries()) {
+    btn.addEventListener("click",function onClick(){
+       console.log(`Clicked on button (${ idx })!`);
+    });
+}
+```
+
+Because this loop is using let declarations, each iteration gets new block-scoped (aka, local) idx and btn variables; the loop also creates a new inner `onClick(..)` function each time. That inner function closes over idx, preserving it for as long as the click handler is set on the `btn`. So when each button is clicked, its handler can print its associated index value, because the handler remembers its respective idx variable.
 
 ### this Keyword
 
+Functions also have another characteristic besides their scope that influences what they can access. This characteristic is best described as an execution context, and it’s exposed to the function via its `this` keyword.
 
+Scope is static and contains a fixed set of variables available at the moment and location you define a function, but a function’s execution context is dynamic, entirely dependent on how it is called (regardless of where it is defined or even called from).
+
+`this` is not a fixed characteristic of a function based on the function’s definition, but rather a dynamic characteristic that’s determined each time the function is called.
+
+One way to think about the execution context is that it’s a tangible object whose properties are made available to a function while it executes. Compare that to scope, which can also be thought of as an object; except, the scope object is hidden inside the JS engine, it’s always the same for that function, and its properties take the form of identifier variables available inside the function.
+
+```js
+function classroom(teacher) {
+    return function study() {
+        console.log(
+            `${ teacher } says to study ${ this.topic }`
+        );
+    };
+}
+var assignment = classroom("Kyle");
+```
+
+The outer `classroom(..)` function makes no reference to a `this` keyword, so it’s just like any other function we’ve seen so far. But the inner `study()` function does reference `this`, which makes it a `this`-aware function. In other words, it’s a function that is dependent on its execution context.
+
+Context-aware functions that are called without any context specified default the context to the global object (`window` in the browser). As there is no global variable named `topic` (and thus no such property on the global object), `this.topic` resolves to `undefined`.
+
+```js
+var otherHomework = {
+    topic: "Math"
+};
+
+assignment.call(otherHomework);
+// Kyle says to study Math
+```
+
+A third way to invoke a function is with the `call(..)` method, which takes an object (`otherHomework` here) to use for setting the `this` reference for the function call. The property reference `this.topic` resolves to `"Math"`.
+
+A function that closes over a scope can never reference a different scope or set of variables. But a function that has dynamic `this` context awareness can be quite helpful for certain tasks.
 
 ### Prototypes
 
+Where `this` is a characteristic of function execution, a prototype is a characteristic of an object, and specifically resolution of a property access. Think about a prototype as a linkage between two objects; the linkage is hidden behind the scenes, though there are ways to expose and observe it. This prototype linkage occurs when an object is created; it’s linked to another object that already exists. A series of objects linked together via prototypes is called the “prototype chain.”
+
+The purpose of this prototype linkage (i.e., from an object B to another object A) is so that accesses against B for properties/methods that B does not have, are delegated to A to handle. Delegation of property/method access allows two (or more!) objects to cooperate with each other to perform a task.
+
+its default prototype linkage connects to the `Object.prototype` object, which has common built-in methods on it like `toString()` and `valueOf()`, among others.
+
+```js
+homework.toString();    // [object Object]
+```
+
+`homework.toString()` works even though homework doesn’t have a `toString()` method defined; the delegation invokes `Object.prototype.toString()` instead.
 
 
 ### Asking “Why?”
