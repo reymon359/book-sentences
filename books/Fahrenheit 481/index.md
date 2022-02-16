@@ -224,8 +224,82 @@ Who's that man and who's that woman? Are they husband and wife, are they divorce
 Outside the house, a shadow moved, an autumn wind rose up and faded away But there was something else in the silence that he heard. It was like a breath exhaled upon the window. It was like a faint drift of greenish luminescent smoke, the motion of a single huge October leaf blowing across the lawn and away.
 The Hound, he thought. It's out there tonight. It's out there now.
 
+"Will you turn it off for a sick man?"
+"I'll turn it down."
+She went out of the room and did nothing to the parlour and came back. "Is that better?"
+"Thanks."
+"That's my favourite programme," she said.
+"What about the aspirin?"
+"You've never been sick before." She went away again.
+"Well, I'm sick now. I'm not going to work tonight. Call Beatty for me."
+... ...
+"Mildred?" he called.
+She returned, singing, snapping her fingers softly.
+"Aren't you going to ask me about last night?" he said.
+"What about it?"
+"We burned a thousand books. We burned a woman."
+"Well?"
+The parlour was exploding with sound.
+"We burned copies of Dante and Swift and Marcus Aurelius."
+"Wasn't he a European?"
+"Something like that."
+"Wasn't he a radical?"
+"I never read him."
+"He was a radical." Mildred fiddled with the telephone. "You don't expect me to call Captain Beatty, do you?"
+"You must! "
 
+"Mildred, how would it be if, well, maybe, I quit my job awhile?"
+"You want to give up everything? After all these years of working, because, one night, some woman and her books--"
+"You should have seen her, Millie! "
+"She's nothing to me; she shouldn't have had books. It was her responsibility, she should have thought of that. I hate her. She's got you going and next thing you know we'll be out, no house, no job, nothing."
+"You weren't there, you didn't see," he said. "There must be something in books, things we can't imagine, to make a woman stay in a burning house; there must be something there. You don't stay for nothing."
 
+A man had to take a long time to put them down on paper. And I'd never even thought that thought before." He got out of bed.
+"It took some man a lifetime maybe to put some of his thoughts down, looking around at the world and life, and then I came along in two minutes and boom! it's all over."
+
+"Let you alone! That's all very well, but how can I leave myself alone? We need not to be let alone. We need to be really bothered once in a while. How long is it since you were really bothered? About something important, about something real?"
+
+Captain Beatty sat down in the most comfortable chair with a peaceful look on his ruddy face. He took time to prepare and light his brass pipe and puff out a great smoke cloud. "Just thought I'd come by and see how the sick man is." "How'd you guess?" Beatty smiled his smile which showed the candy pinkness of his gums and the tiny candy whiteness of his teeth. "I've seen it all. You were going to call for a night off." Montag sat in bed.
+
+Beatty puffed his pipe. "Every fireman, sooner or later, hits this. They only need understanding, to know how the wheels run. Need to know the history of our profession. They don't feed it to rookies like they used to. Damn shame." Puff. "Only fire chiefs remember it now." Puff. "I'll let you in on it."
+
+"When did it all start, you ask, this job of ours, how did it come about, where, when? Well, I'd say it really got started around about a thing called the Civil War. Even though our rule-book claims it was founded earlier. The fact is we didn't get along well until photography came into its own. Then--motion pictures in the early twentieth century. Radio. Television. Things began to have mass."... ...Picture it. Nineteenth-century man with his horses, dogs, carts, slow motion. Then, in the twentieth century, speed up your camera. Books cut shorter. Condensations, Digests. Tabloids. Everything boils down to the gag, the snap ending." "Snap ending." Mildred nodded. "Classics cut to fit fifteen-minute radio shows, then cut again to fill a two-minute book column, winding up at last as a ten- or twelve-line dictionary resume. I exaggerate, of course. The dictionaries were for reference. But many were those whose sole knowledge of Hamlet (you know the title certainly, Montag; it is probably only a faint rumour of a title to you, Mrs. Montag) whose sole knowledge, as I say, of Hamlet was a one-page digest in a book that claimed: 'now at least you can read all the classics; keep up with your neighbours.' Do you see?
+
+Out of the nursery into the college and back to the nursery; there's your intellectual pattern for the past five centuries or more."
+
+"Speed up the film, Montag, quick. Click? Pic? Look, Eye, Now, Flick, Here, There, Swift, Pace, Up, Down, In, Out, Why, How, Who, What, Where, Eh? Uh! Bang! Smack! Wallop, Bing, Bong, Boom! Digest-digests, digest-digest-digests. Politics? One column, two sentences, a headline! Then, in mid-air, all vanishes! Whirl man's mind around about so fast under the pumping hands of publishers, exploiters, broadcasters, that the centrifuge flings off all unnecessary, time-wasting thought!"
+
+"School is shortened, discipline relaxed, philosophies, histories, languages dropped, English and spelling gradually neglected, finally almost completely ignored. Life is immediate, the job counts, pleasure lies all about after work. Why learn anything save pressing buttons, pulling switches, fitting nuts and bolts?"
+
+Mildred's hand had frozen behind the pillow. Her fingers were tracing the book's outline and as the shape became familiar her face looked surprised and then stunned. Her mouth opened to ask a question... ..."What's this?" asked Mildred, almost with delight. Montag heaved back against her arms. "What's this here?" "Sit down!" Montag shouted. She jumped away, her hands empty. "We're talking ! "
+
+Highways full of crowds going somewhere, somewhere, somewhere, nowhere. The gasoline refugee. Towns turn into motels, people in nomadic surges from place to place, following the moon tides, living tonight in the room where you slept this noon and I the night before."
+
+The bigger your market, Montag, the less you handle controversy, remember that!
+
+All the minor minor minorities with their navels to be kept clean. Authors, full of evil thoughts, lock up your typewriters. They did. Magazines became a nice blend of vanilla tapioca. Books, so the damned snobbish critics said, were dishwater. No wonder books stopped selling, the critics said. But the public, knowing what it wanted, spinning happily, let the comic?books survive. And the three?dimensional sex?magazines, of course. There you have it, Montag. It didn't come from the Government down. There was no dictum, no declaration, no censorship, to start with, no! Technology, mass exploitation, and minority pressure carried the trick, thank God. Today, thanks to them, you can stay happy all the time, you are allowed to read comics, the good old confessions, or trade?journals."
+
+The word ìntellectual,' of course, became the swear word it deserved to be.
+
+Not everyone born free and equal, as the Constitution says, but everyone made equal. Each man the image of every other; then all are happy, for there are no mountains to make them cower, to judge themselves against. 
+
+So! A book is a loaded gun in the house next door. Burn it. Take the shot from the weapon.
+
+when houses were finally fireproofed completely,... ...there was no longer need of firemen for the old purposes. They were given the new job, as custodians of our peace of mind, the focus of our understandable and rightful dread of being inferior; official censors, judges, and executors. That's you, Montag, and that's me."
+
+"You must understand that our civilization is so vast that we can't have our minorities upset and stirred. Ask yourself, What do we want in this country, above all? People want to be happy, isn't that right? Haven't you heard it all your life? I want to be happy, people say. Well, aren't they? Don't we keep them moving, don't we give them fun? That's all we live for, isn't it? For pleasure, for titillation? And you must admit our culture provides plenty of these."
+
+"Coloured people don't like Little Black Sambo. Burn it. White people don't feel good about Uncle Tom's Cabin. Burn it. Someone's written a book on tobacco and cancer of the lungs? The cigarette people are weeping? Bum the book.
+
+Heredity and environment are funny things. You can't rid yourselves of all the odd ducks in just a few years. The home environment can undo a lot you try to do at school. That's why we've lowered the kindergarten age year after year until now we're almost snatching them from the cradle.
+
+She didn't want to know how a thing was done, but why. That can be embarrassing. You ask Why to a lot of things and you wind up very unhappy indeed, if you keep at it. The poor girl's better off dead."
+
+If you don't want a man unhappy politically, don't give him two sides to a question to worry him; give him one. Better yet, give him none. Let him forget there is such a thing as war. If the Government is inefficient, top?heavy, and tax?mad, better it be all those than that people worry over it. Peace, Montag. Give the people contests they win by remembering the words to more popular songs or the names of state capitals or how much corn Iowa grew last year. Cram them full of non?combustible data, chock them so damned full of 'facts' they feel stuffed, but absolutely 'brilliant' with information. Then they'll feel they're thinking, they'll get a sense of motion without moving. And they'll be happy, because facts of that sort don't change.
+
+Don't give them any slippery stuff like philosophy or sociology to tie things up with. That way lies melancholy.
+
+Don't let the torrent of melancholy and drear philosophy drown our world. 
 
 
 ## PART II - THE SIEVE AND THE SAND
