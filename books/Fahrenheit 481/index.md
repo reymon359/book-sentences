@@ -301,8 +301,154 @@ Don't give them any slippery stuff like philosophy or sociology to tie things up
 
 Don't let the torrent of melancholy and drear philosophy drown our world. 
 
+"One last thing," said Beatty. "At least once in his career, every fireman gets an itch. What do the books say, he wonders. Oh, to scratch that itch, eh? Well, Montag, take my word for it, I've had to read a few in my time, to know what I was about, and the books say nothing! Nothing you can teach or believe. They're about non?existent people, figments of imagination, if they're fiction.
+
+"Well, then, what if a fireman accidentally, really not, intending anything, takes a book home with him?" Montag twitched. The open door looked at him with its great vacant eye. "A natural error. Curiosity alone," said Beatty. "We don't get over?anxious or mad. We let the fireman keep the book twenty?four hours. If he hasn't burned it by then, we simply come and burn it for him."
+
+My uncle says the architects got rid of the front porches because they didn't look well. But my uncle says that was merely rationalizing it; the real reason, hidden underneath, might be they didn't want people sitting like that, doing nothing, rocking, talking; that was the wrong kind of social life. People talked too much. And they had time to think. So they ran off with the porches. And the gardens, too. Not many gardens any more to sit around in. And look at the furniture. No rocking?chairs any 
+
+more. They're too comfortable. Get people up and running around. My uncle says . . . and . . . my uncle . . . and . . . my uncle . . ." Her voice faded.
+
+Go take the beetle." "No, I don't want to, this time. I want to hold on to this funny thing. God, it's gotten big on me. I don't know what it is. I'm so damned unhappy, I'm so mad, and I don't know why I feel like I'm putting on weight. I feel fat. I feel like I've been saving up a lot of things, and don't know what. I might even start reading books." "They'd put you in jail, wouldn't they?" She looked at him as if he were behind the glass wall.
+
+I should have told you before, but I wasn't even admitting it to myself. I have something I want you to see... ...He kept moving his hand and dropping books, small ones, fairly large ones, yellow, red, green ones. When he was done he looked down upon some twenty books lying at his wife's feet... ...Mildred backed away as if she were suddenly confronted by a pack of mice that had come up out of the floor... ...she ran forward, seized a book and ran toward the kitchen incinerator. He caught her, shrieking. He held her and she tried to fight away from him, scratching.
+
+I want to look at them, at least look at them once. Then if what the Captain says is true, we'll burn them together, believe me, we'll burn them together.
+
+We've got to start somewhere here, figuring out why we're in such a mess, you and the medicine at night, and the car, and me and my work. We're heading right for the cliff, Millie. God, I don't want to go over.
+
+You never talked to her. I talked to her. And men like Beatty are afraid of her. I can't understand it. Why should they be so afraid of someone like her? But I kept putting her alongside the firemen in the house last night, and I suddenly realized I didn't like them at all, and I didn't like myself at all any more. And I thought maybe it would be best if the firemen themselves were burnt."
+
+"Let's see what this is," said Montag. He spoke the words haltingly and with a terrible selfconsciousness. He read a dozen pages here and there and came at last to this: " Ìt is computed that eleven thousand persons have at several times suffered death rather than submit to break eggs at the smaller end."' Mildred sat across the hall from him. "What does it mean? It doesn't mean anything! The Captain was right! " "Here now," said Montag. "We'll start over again, at the beginning."
 
 ## PART II - THE SIEVE AND THE SAND
+
+"We cannot tell the precise moment when friendship is formed. As in filling a vessel drop by drop, there is at last a drop which makes it run over, so in a series of kindnesses there is at last one which makes the heart run over."
+
+He squinted at the wall. "The favourite subject, Myself."' 
+"I understand that one," said Mildred.
+"But Clarisse's favourite subject wasn't herself. It was everyone else, and me. She was the first person in a good many years I've really liked. She was the first person I can remember who looked straight at me as if I counted." He lifted the two books. "These men have been dead a long time, but I know their words point, one way or another, to Clansse."
+
+Think of our investment. Why should I read? What for?"
+"What for! Why!" said Montag. "I saw the damnedest snake in the world the other night. It was dead but it was alive. It could see but it couldn't see. You want to see that snake. It's at Emergency Hospital where they filed a report on all the junk the snake got out of you! Would you like to go and check their file? Maybe you'd look under Guy Montag or maybe under Fear or War. Would you like to go to that house that burnt last night? And rake ashes for the bones of the woman who set fire to her own house! What about Clarisse McClellan, where do we look for her? The morgue! Listen!"
+
+We've started and won two atomic wars since 1960. Is it because we're having so much fun at home we've forgotten the world? Is it because we're so rich and the rest of the world's so poor and we just don't care if they are? I've heard rumours; the world is starving, but we're well-fed. Is it true, the world works hard and we play? Is that why we're hated so much?
+
+Maybe the books can get us half out of the cave. They just might stop us from making the same damn insane mistakes!
+
+Forget it?" He opened the book to read over Mildred's laughter. Poor Millie, he thought. Poor Montag, it's mud to you, too. But where do you get help, where do you find a teacher this late?
+
+Hold on. He shut his eyes. Yes, of course. Again he found himself thinking of the green park a year ago. The thought had been with him many times recently, but now he remembered how it was that day in the city park when he had seen that old man in the black suit hide something, quickly in his coat... ...The old man admitted to being a retired English professor who had been thrown out upon the world forty years ago when the last liberal arts college shut for lack of students and patronage. His name was Faber, and when he finally lost his fear of Montag, he talked in a cadenced voice, looking at the sky and the trees and the green park, and when an hour had passed he said something to Montag and Montag sensed it was a rhymeless poem. Then the old man grew even more courageous and said something else and that was a poem, too.
+
+"I don't talk things, sir," said Faber. "I talk the meaning of things. I sit here and know I'm alive."
+
+He dialled the call on a secondary phone. The phone on the far end of the line called Faber's name a dozen times before the professor answered in a faint voice. Montag identified himself and was met with a lengthy silence. "Yes, Mr. Montag?"
+"Professor Faber, I have a rather odd question to ask. How many copies of the Bible are left in this country?"
+"I don't know what you're talking about! "
+"I want to know if there are any copies left at all."
+"This is some sort of a trap! I can't talk to just anyone on the phone!"
+"How many copies of Shakespeare and Plato?"
+"None ! You know as well as I do. None!"
+Faber hung up.
+
+Montag showed her a book. "This is the Old and New Testament, and-"
+"Don't start that again!"
+"It might be the last copy in this part of the world."
+
+"You've got to hand it back tonight, don't you know? Captain Beatty knows you've got it, doesn't he?" "I don't think he knows which book I stole. But how do I choose a substitute? Do I turn in Mr. Jefferson? Mr. Thoreau? Which is least valuable? If I pick a substitute and Beatty does know which book I stole, he'll guess we've an entire library here!"
+
+"There's only one thing to do," he said. "Some time before tonight when I give the book to Beatty, I've got to have a duplicate made."
+
+"Millie, does--" He licked his lips. "Does your 'family' love you, love you very much, love you with all their heart and soul, Millie?"
+He felt her blinking slowly at the back of his neck.
+"Why'd you ask a silly question like that?"
+He felt he wanted to cry, but nothing would happen to his eyes or his mouth.
+
+Now as the vacuum-underground rushed him through the dead cellars of town, jolting him, he remembered the terrible logic of that sieve, and he looked down and saw that he was carrying the Bible open. There were people in the suction train but he held the book in his hands and the silly thought came to him, if you read fast and read all, maybe some of the sand will stay in the sieve. But he read and the words fell through, and he thought, in a few hours, there will be Beatty, and here will be me handing this over, so no phrase must escape me, each line must be memorized. I will myself to do it.
+
+He ran on the white tiles up through the tunnels, ignoring the escalators, because he wanted to feel his feet-move, arms swing, lungs clench, unclench, feel his throat go raw with air. 
+
+Faber peered out, looking very old in the light and very fragile and very much afraid. The old man looked as if he had not been out of the house in years. He and the white plaster walls inside were much the same. There was white in the flesh of his mouth and his cheeks and his hair was white and his eyes had faded, with white in the vague blueness there.
+
+His gaze returned unsteadily to Montag, who was now seated with the book in his lap. "The book-where did you-?" "I stole it." Faber, for the first time, raised his eyes and looked directly into Montag's face. "You're brave." "No," said Montag. "My wife's dying. A friend of mine's already dead. Someone who may have been a friend was burnt less than twenty-four hours ago. You're the only one I knew might help me. To see. To see. ."
+
+Faber sniffed the book. "Do you know that books smell like nutmeg or some spice from a foreign land? I loved to smell them when I was a boy. Lord, there were a lot of lovely books once, before we let them go."
+
+I'm one of the innocents who could have spoken up and out when no one would listen to thèguilty,' but I did not speak and thus became guilty myself.
+
+"Well--suppose you tell me why you came here?" 
+"Nobody listens any more. I can't talk to the walls because they're yelling at me. I can't talk to my wife; she listens to the walls. I just want someone to hear what I have to say. And maybe if I talk long enough, it'll make sense. And I want you to teach me to understand what I read."
+
+Faber examined Montag's thin, blue-jowled face. "How did you get shaken up? What knocked the torch out of your hands?" 
+"I don't know. We have everything we need to be happy, but we aren't happy. Something's missing. I looked around. The only thing I positively knew was gone was the books I'd burned in ten or twelve years. So I thought books might help."
+
+No, no, it's not books at all you're looking for! Take it where you can find it, in old phonograph records, old motion pictures, and in old friends; look for it in nature and look for it in yourself... ...There is nothing magical in them at all. The magic is only in what books say, how they stitched the patches of the universe together into one garment for us.
+
+Do you know why books such as this are so important? Because they have quality... ...The good writers touch life often. The mediocre ones run a quick hand over her. The bad ones rape her and leave her for the flies.
+
+So now do you see why books are hated and feared? They show the pores in the face of life.
+
+We are living in a time when flowers are trying to live on flowers, instead of growing on good rain and black loam.
+
+The legend of Hercules and Antaeus, the giant wrestler, whose strength was incredible so long as he stood firmly on the earth. But when he was held, rootless, in mid-air, by Hercules, he perished easily. If there isn't something in that legend for us today, in this city, in our time, then I am completely insane. 
+
+The televisor is 'real.' It is immediate, it has dimension. It tells you what to think and blasts it in. It must be, right. It seems so right. It rushes you on so quickly to its own conclusions your mind hasn't time to protest.
+
+"Where do we go from here? Would books help us?" 
+"Only if the third necessary thing could be given us. Number one, as I said, quality of information. Number two: leisure to digest it. And number three: the right to carry out actions based on what we learn from the inter-action of the first two.
+
+"That's the good part of dying; when you've nothing to lose, you run any risk you want."
+
+The only way I could possibly listen to you would be if somehow the fireman structure itself could be burnt.
+
+The books are to remind us what asses and fools we are.
+
+Most of us can't rush around, talking to everyone, know all the cities of the world, we haven't time, money or that many friends. 
+
+The things you're looking for, Montag, are in the world, but the only way the average chap will ever see ninety-nine per cent of them is in a book. Don't ask for guarantees.
+
+Do your own bit of saving, and if you drown, at least die knowing you were headed for shore."
+
+"Oh, there are many actors alone who haven't acted Pirandello or Shaw or Shakespeare for years because their plays are too aware of the world. We could use their anger. And we could use the honest rage of those historians who haven't written a line for forty years. True, we might form classes in thinking and reading."
+
+It isn't as simple as just picking up a book you laid down half a century ago. Remember, the firemen are rarely necessary. The public itself stopped reading of its own accord. You firemen provide a circus now and then at which buildings are set off and crowds gather for the pretty blaze, but it's a small sideshow indeed, and hardly necessary to keep things in line. So few want to be rebels any more. And out of those few, most, like myself, scare easily.
+
+Montag, go home. Go to bed. Why waste your final hours racing about your cage denying you're a squirrel?" Then you don't care
+
+Montag's hands picked up the Bible. He saw what his hands had done and he looked surprised.
+
+"Would you like to own this?"
+
+Faber said, "I'd give my right arm."
+
+Montag stood there and waited for the next thing to happen. His hands, by themselves, like two men working together, began to rip the pages from the book. The hands tore the flyleaf and then the first and then the second page.
+
+"Idiot, what're you doing!" Faber sprang up, as if he had been struck. He fell, against Montag.
+Montag warded him off and let his hands continue. Six more pages fell to the floor. He picked them up and wadded the paper under Faber's gaze.
+"Don't, oh, don't ! " said the old man.
+"Who can stop me? I'm a fireman. I can bum you!"
+The old man stood looking at him. "You wouldn't."
+"I could ! "
+"The book. Don't tear it any more." Faber sank into a chair, his face very white, his mouth trembling. "Don't make me feel any more tired. What do you want?"
+"I need you to teach me."
+
+I remember the newspapers dying like huge moths. No one wanted them back. No one missed them. And the Government, seeing how advantageous it was to have people reading only about passionate lips and the fist in the stomach, circled the situation with your fire-eaters. So, Montag, there's this unemployed printer.
+
+"Those who don't build must burn. It's as old as history and juvenile delinquents."
+"So that's what I am."
+"There's some of it in all of us."
+
+"Montag..." The old man turned at last and said, "Come along. I would actually have let you walk right out of my house. I am a cowardly old fool."
+Faber opened the bedroom door and led Montag into a small chamber where stood a table upon which a number of metal tools lay among a welter of microscopic wire-hairs, tiny coils, bobbins, and crystals.
+
+He picked up a small green-metal object no larger than a .22 bullet... ..."It looks like a Seashell radio." "And something more! It listens! If you put it in your ear, Montag, I can sit comfortably home, warming my frightened bones, and hear and analyse the firemen's world, find its weaknesses, without danger. I'm the Queen Bee, safe in the hive. You will be the drone, the travelling ear.
+
+"Go to the firehouse when it's time. I'll be with you. Let's listen to this Captain Beatty together. He could be one of us. God knows. 
+
+"We all do what we do,"
+
+"Good night, Professor." 
+"Not good night. I'll be with you the rest of the night, a vinegar gnat tickling your ear when you need me. But good night and good luck, anyway."
 
 
 ## PART III - BURNING BRIGHT
