@@ -757,45 +757,181 @@ homework.toString();    // [object Object]
 `homework.toString()` works even though homework doesn’t have a `toString()` method defined; the delegation invokes `Object.prototype.toString()` instead.
 
 
+#### Object Linkage
+
+To define an object prototype linkage, you can create the object using the `Object.create(..)` 
+
+Figure 4 shows how the three objects (`otherHomework`, `homework`, and `Object.prototype`) are linked in a prototype chain:
+
+![Fig. 4: Objects in a prototype chain](./assets/figure4.jpg) 
+
+`Object.create(null)` creates an object that is not prototype linked anywhere, so it’s purely just a standalone object; in some circumstances, that may be preferable.
+
+The assignment to `topic` creates a property of that name directly on `otherHomework`; there’s no effect on the `topic` property on `homework`. The next statement then accesses `otherHomework.topic`, and we see the non-delegated answer from that new property: `"Math"`.
+
+Figure 5 shows the objects/properties after the assignment that creates the otherHomework.topic property:
+
+![Fig. 5: Shadowed property 'topic'](./assets/figure5.jpg) 
+
+The `topic` on `otherHomework` is “shadowing” the property of the same name on the `homework` object in the chain.
+
+#### `this` Revisited
+
+One of the main reasons `this` supports dynamic context based on how the function is called is so that method calls on objects which delegate through the prototype chain still maintain the expected `this`.
+
+```js
+var homework = {
+    study() {
+        console.log(`Please study ${ this.topic }`);
+    }
+};
+
+var jsHomework = Object.create(homework);
+jsHomework.topic = "JS";
+jsHomework.study();
+// Please study JS
+
+var mathHomework = Object.create(homework);
+mathHomework.topic = "Math";
+mathHomework.study();
+// Please study Math
+```
+
+The two objects `jsHomework` and `mathHomework` each prototype link to the single `homework` object, which has the `study()` function. `jsHomework` and `mathHomework` are each given their own `topic` property (see Figure 6).
+
+![Fig. 6: Two objects linked to a common parent](./assets/figure6.jpg) 
+
+The preceding code snippet would be far less useful if `this` was resolved to `homework`. Yet, in many other languages, it would seem `this` would be `homework` because the `study()` method is indeed defined on `homework`. Unlike many other languages, JS’s `this` being dynamic is a critical component of allowing prototype delegation, and indeed `class`, to work as expected!
+
 ### Asking “Why?”
 
-
+Asking the right questions is a critical skill of becoming a better developer.
 
 ## Chapter 4: The Bigger Picture
 
-
+This final chapter divides the organization of the JS language into three main pillars, then offers a brief roadmap of what to expect from the rest of the book series.
 
 ### Pillar 1: Scope and Closure
 
+The organization of variables into units of scope (functions, blocks) is one of the most foundational characteristics of any language; perhaps no other characteristic has a greater impact on how programs behave.
 
+Scopes are like buckets, and variables are like marbles you put into those buckets. The scope model of a language is like the rules that help you determine which color marbles go in which matching-color buckets.
+
+Scopes nest inside each other, and for any given expression or statement, only variables at that level of scope nesting, or in higher/outer scopes, are accessible; variables from lower/inner scopes are hidden and inaccessible. This is how scopes behave in most languages, which is called lexical scope.
+
+It’s an author-time decision: where you locate a function/scope in the program determines what the scope structure of that part of the program will be.
+
+_Hoisting:_ when all variables declared anywhere in a scope are treated as if they’re declared at the beginning of the scope. The other is that var-declared variables are function scoped, even if they appear inside a block.
+
+`let`/`const` declarations have a peculiar error behavior called the “Temporal Dead Zone” (TDZ) which results in observable but unusable variables. Though TDZ can be strange to encounter, it’s also not an invalidation of lexical scoping. 
+
+Closure is a natural result of lexical scope when the language has functions as first-class values, as JS does. When a function makes reference to variables from an outer scope, and that function is passed around as a value and executed in other scopes, it maintains access to its original scope variables; this is closure.
 
 ### Pillar 2: Prototypes
 
+JS is one of very few languages where you have the option to create objects directly and explicitly, without first defining their structure in a class.
 
+The beauty and power of the prototype system: the ability for two objects to simply connect with each other and cooperate dynamically (during function/method execution) through sharing a `this` context.
+
+To simply embrace objects as objects, forget classes altogether, and let objects cooperate through the prototype chain. This is called _behavior delegation._ I think delegation is more powerful than class inheritance, as a means for organizing behavior and data in our programs.
+
+Class inheritance gets almost all the attention. And the rest goes to functional programming (FP), as the sort of “anti-class” way of designing programs. This saddens me, because it snuffs out any chance for exploration of delegation as a viable alternative.
 
 ### Pillar 3: Types and Coercion
 
+Type-aware tooling can help developers, assuming they have gained and used this knowledge in the first place!
 
+We don’t have to follow the “static typing” way to be smart and solid with types in our programs. There are other options, if you’re just willing to go against the grain of the crowd, and with the grain of JS
+
+Even if you love TypeScript/Flow, you are not going to get the most out of those tools or coding approaches if you aren’t deeply familiar with how the language itself manages value types.
 
 ### With the Grain
 
+Consider the _grain_ (as in, wood) of how most people approach and use JS.
 
+If you ever want to break out from the crowd, you’re going to have to break from how the crowd does it!
+
+If you don’t like what the specification says, or my relaying of it, take that up with TC39! If you’re in an interview and they claim you’re wrong on the facts, ask them right then and there if you can look it up in the specification. If the interviewer won’t re-consider, then you shouldn’t want to work there anyway.
+
+Don’t just parrot what I say. Own your opinions. Defend them. And if someone you were hoping to work with disagrees, walk away with your head still held high.
+
+Don’t be afraid to go against the _grain_
+
+There’s a grain you really should pay attention to and follow: the grain of how JS works, at the language level. There are things that work well and naturally in JS, given the right practice and approach, and there are things you really shouldn’t try to do in the language.
+
+You should learn and embrace the JS way, and make your JS programs as JS’y as is practical... ...JS has a lot of patterns and idioms that are recognizably “JS,” and going with that grain is the general path to best success.
+
+Finally, maybe the most important grain to recognize is how the existing program(s) you’re working on, and developers you’re working with, do stuff. Don’t read these books and then try to change all that grain in your existing projects over night. That approach will always fail.
+
+Always keep looking for better ways to use what JS gives us to author more readable code. Everyone who works on your code, including your future self, will thank you!
 
 ### In Order
 
+1. Get started with a solid foundation of JS from Get Started (Book 1) – good news, you’ve already almost finished this book!
+2. In Scope & Closures (Book 2), dig into the first pillar of JS: lexical scope, how that supports closure, and how the module pattern organizes code.
+3. In Objects & Classes (Book 3), focus on the second pillar of JS: how JS’s `this` works, how object prototypes support delegation, and how prototypes enable the `class` mechanism for OO-style code organization.
+4. In Types & Grammar (Book 4), tackle the third and final pillar of JS: types and type coercion, as well as how JS’s syntax and grammar define how we write our code.
+5. With the **three pillars** solidly in place, Sync & Async (Book 5) then explores how we use flow control to model state change in our programs, both synchronously (right away) and asynchronously (over time).
+6. The series concludes with ES.Next & Beyond (Book 6), a forward look at the near- and mid-term future of JS, including a variety of features likely coming to your JS programs before too long.
 
+However you choose to proceed with YDKJSY, check out the appendices of this book first, especially practicing the snippets in Appendix B, “Practice, Practice, Practice!”
+
+There’s no better way to learn code than to write it.
 
 ## Appendix A: Exploring Further
 
-
-
 ### Values vs. References
 
+Two main types of values: primitives and objects... ...how these values are assigned and passed around. In many languages, the developer can choose between assigning/passing a value as the value itself, or as a reference to the value. In JS, however, this decision is entirely determined by the kind of value.
 
+If you assign/pass a value itself, the value is copied... ...Here, the yourName variable has a separate copy of the `"Kyle"` string from the value that’s stored in `myName`. That’s because the value is a primitive, and primitive values are always assigned/passed as **value copies.**
+
+```js
+var myName = "Kyle";
+
+var yourName = myName;
+
+myName = "Frank";
+
+console.log(myName);
+// Frank
+
+console.log(yourName);
+// Kyle
+```
+
+References are the idea that two or more variables are pointing at the same value, such that modifying this shared value would be reflected by an access via any of those references. In JS, only object values (arrays, objects, functions, etc.) are treated as references.
+
+Consider:
+
+```js
+var myAddress = {
+    street: "123 JS Blvd",
+    city: "Austin",
+    state: "TX"
+};
+
+var yourAddress = myAddress;
+
+// I've got to move to a new house!
+myAddress.street = "456 TS Ave";
+
+console.log(yourAddress.street);
+// 456 TS Ave
+```
+
+The value assigned to myAddress is an object, it’s held/assigned by reference, and thus the assignment to the yourAddress variable is a copy of the reference, not the object value itself.
+
+Primitives are held by value, objects are held by reference. There’s no way to override this in JS, in either direction.
 
 ### So Many Function Forms
 
-
+```js
+var awesomeFunction = function(coolThings) {
+    // ..
+    return amazingStuff;
+};
+```
 
 ### Coercive Conditional Comparison
 
