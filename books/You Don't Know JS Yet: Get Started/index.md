@@ -933,28 +933,101 @@ var awesomeFunction = function(coolThings) {
 };
 ```
 
+Even if a name is inferred, it’s still an anonymous function. Why? Because the inferred name is a metadata string value, not an available identifier to refer to the function. An anonymous function doesn’t have an identifier to use to refer to itself from inside itself—for recursion, event unbinding, etc.
+
+Compare the anonymous function expression form to:
+```js
+// let awesomeFunction = ..
+// const awesomeFunction = ..
+var awesomeFunction = function someName(coolThings) {
+    // ..
+    return amazingStuff;
+};
+
+awesomeFunction.name;
+// "someName"
+```
+
+This function expression is a named function expression, since the identifier `someName` is directly associated with the function expression at compile time; the association with the identifier `awesomeFunction` still doesn’t happen until runtime at the time of that statement. Those two identifiers don’t have to match; sometimes it makes sense to have them be different, other times it’s better to have them be the same. Notice also that the explicit function name, the identifier `someName`, takes precedence when assigning a name for the `name` property.
+
+If a function exists in your program, it has a purpose; otherwise, take it out! And if it has a purpose, it has a natural name that describes that purpose.
+
+Even a trivial function body like `x * 2` has to be read to infer a name like “double” or “multBy2”; that brief extra mental work is unnecessary when you could just take a second to name the function “double” or “multBy2” once, saving the reader that repeated mental work every time it’s read in the future.
+
+Keep in mind that arrow function expressions are syntactically anonymous, meaning the syntax doesn’t provide a way to provide a direct name identifier for the function. The function expression may get an inferred name, but only if it’s one of the assignment forms, not in the (more common!) form of being passed as a function call argument (as in the last line of the snippet). Since I don’t think anonymous functions are a good idea to use frequently in your programs, I’m not a fan of using the => arrow function form. This kind of function actually has a specific purpose (i.e., handling the `this` keyword lexically), but that doesn’t mean we should use it for every function we write.
+
+Use the most appropriate tool for each job.
+
 ### Coercive Conditional Comparison
 
+`if` and `? :`-ternary statements, as well as the test clauses in `while` and `for` loops, all perform an implicit value comparison. But what sort? Is it “strict” or “coercive”? Both, actually.
 
+This is the more accurate mental model:
+
+```js
+var x = "hello";
+
+if (Boolean(x) == true) {
+    // will run
+}
+
+// which is the same as:
+
+if (Boolean(x) === true) {
+    // will run
+}
+```
+
+Since the `Boolean(..)` function always returns a value of type boolean, the `==` vs `===` in this snippet is irrelevant; they’ll both do the same thing. But the important part is to see that before the comparison, a coercion occurs, from whatever type `x` currently is, to boolean.
+
+You just can’t get away from coercions in JS comparisons. Buckle down and learn them.
 
 ### Prototypal “Classes”
 
+```js
+function Classroom() {
+    // ..
+}
 
+Classroom.prototype.welcome = function hello() {
+    console.log("Welcome, students!");
+};
+
+var mathClass = new Classroom();
+
+mathClass.welcome();
+// Welcome, students!
+```
+
+All functions by default reference an empty object at a property named `prototype`. Despite the confusing naming, this is not the function’s _prototype_ (where the function is prototype linked to), but rather the prototype object to link to when other objects are created by calling the function with `new`. We add a `welcome` property on that empty object (called `Classroom.prototype`), pointing at the `hello()` function. Then `new Classroom()` creates a new object (assigned to `mathClass`), and prototype links it to the existing `Classroom.prototype` object. Though `mathClass` does not have a `welcome()` property/function, it successfully delegates to the function `Classroom.prototype.welcome()`. This “prototypal class” pattern is now strongly discouraged, in favor of using ES6’s `class` mechanism:
+
+```js
+class Classroom {
+    constructor() {
+        // ..
+    }
+
+    welcome() {
+        console.log("Welcome, students!");
+    }
+}
+
+var mathClass = new Classroom();
+
+mathClass.welcome();
+// Welcome, students!
+```
+
+Under the covers, the same prototype linkage is wired up, but this `class` syntax fits the class-oriented design pattern much more cleanly than “prototypal classes”.
 
 ## Appendix B: Practice, Practice, Practice!
 
-
-
 ### Practicing Comparisons
-
-
 
 ### Practicing Closure
 
-
-
 ### Practicing Prototypes
 
-
-
 ### Suggested Solutions
+
+Just keep coding, because that’s the best way to learn!
