@@ -1,12 +1,12 @@
 ---
-name: "You Don't Know JS Yet: Get Started"
+name: "You Don't Know JS Yet. Get Started"
 Read: ['2022']
 Genre: ['Software Development', 'Good Practices', 'JavaScript']
 ---
 
 ![Cover](./assets/you-dont-know-js-yet-get-started.jpg)
 
-# You Don't Know JS Yet: Get Started
+# You Don't Know JS Yet. Get Started
 
 Kyle Simpson - 2020
 

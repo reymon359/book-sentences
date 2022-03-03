@@ -15,6 +15,8 @@
     
  - [Historical](Genre/Historical.md)
     
+ - [JavaScript](Genre/JavaScript.md)
+    
  - [Juvenile Fiction](Genre/Juvenile%20Fiction.md)
     
  - [Literary](Genre/Literary.md)
@@ -28,7 +30,7 @@
  - [Personal Growth](Genre/Personal%20Growth.md)
     
  - [Philosophy](Genre/Philosophy.md)
-
+    
  - [Productivity](Genre/Productivity.md)
     
  - [Psychology](Genre/Psychology.md)

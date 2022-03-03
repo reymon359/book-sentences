@@ -32,6 +32,8 @@
         
      - [The Shadow of the Wind](The%20Shadow%20of%20the%20Wind/index.md)
         
+     - [You Don't Know JS Yet. Get Started](You%20Don't%20Know%20JS%20Yet.%20Get%20Started/index.md)
+        
      - [Your Erroneous Zones](Your%20Erroneous%20Zones/index.md)
         
     
@@ -49,6 +51,8 @@
      - [2020](./Read/2020.md)
         
      - [2021](./Read/2021.md)
+        
+     - [2022](./Read/2022.md)
         
      - [All](Read/index.md)
         
@@ -72,6 +76,8 @@
         
      - [Historical](./Genre/Historical.md)
         
+     - [JavaScript](./Genre/JavaScript.md)
+        
      - [Juvenile Fiction](./Genre/Juvenile%20Fiction.md)
         
      - [Literary](./Genre/Literary.md)
@@ -85,7 +91,7 @@
      - [Personal Growth](./Genre/Personal%20Growth.md)
         
      - [Philosophy](./Genre/Philosophy.md)
-
+        
      - [Productivity](./Genre/Productivity.md)
         
      - [Psychology](./Genre/Psychology.md)

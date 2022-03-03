@@ -52,6 +52,8 @@ I have read other books before these (not as many as I would have liked), howeve
     
  - [The Shadow of the Wind](The%20Shadow%20of%20the%20Wind/index.md)
     
+ - [You Don't Know JS Yet. Get Started](You%20Don't%20Know%20JS%20Yet.%20Get%20Started/index.md)
+    
  - [Your Erroneous Zones](Your%20Erroneous%20Zones/index.md)
     
 
