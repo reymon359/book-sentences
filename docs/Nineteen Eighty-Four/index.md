@@ -3,6 +3,8 @@
 
 # Nineteen Eighty-Four
 
+George Orwell - 1949
+
 ## Table of Contents
 
 - [PART ONE](#part-one)
