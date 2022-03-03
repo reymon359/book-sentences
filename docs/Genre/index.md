@@ -25,6 +25,8 @@
     
  - [Mystery](Genre/Mystery.md)
     
+ - [Networking](Genre/Networking.md)
+    
  - [Novel](Genre/Novel.md)
     
  - [Personal Growth](Genre/Personal%20Growth.md)
