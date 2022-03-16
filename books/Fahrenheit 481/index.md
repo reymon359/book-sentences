@@ -450,6 +450,75 @@ He picked up a small green-metal object no larger than a .22 bullet... ..."It lo
 "Good night, Professor." 
 "Not good night. I'll be with you the rest of the night, a vinegar gnat tickling your ear when you need me. But good night and good luck, anyway."
 
+Montag walked from the subway with the money in his pocket (he had visited the bank which was open all night and every night with robot tellers in attendance) and as he walked he was listening to the Seashell radio in one car...
+
+When do I start working things out on my own?" 
+"You've started already, by saying what you just said. You'll have to take me on faith."
+"I took the others on faith ! "
+"Yes, and look where we're headed. You'll have to travel blind for a while. Here's my arm to hold on to."
+"I don't want to change sides and just be told what to do. There's no reason to change if I do that."
+"You're wise already!"
+
+On one wall a woman smiled and drank orange juice simultaneously. How does she do both at once, thought Montag, insanely. In the other walls an X-ray of the same woman revealed the contracting journey of the refreshing beverage on its way to her delightful stomach! Abruptly the room took off on a rocket flight into the clouds, it plunged into a lime-green sea where blue fish ate red and yellow fish. A minute later, Three White Cartoon Clowns chopped off each other's limbs to the accompaniment of immense incoming tides of laughter. Two minutes more and the room whipped out of town to the jet cars wildly circling an arena, bashing and backing up and bashing each other again. Montag saw a number of bodies fly in the air. 
+"Millie, did you see that?"
+"I saw it, I saw it! "
+Montag reached inside the parlour wall and pulled the main switch. The images drained away, as if the water had been let out from a gigantic crystal bowl of hysterical fish.
+
+"I'm not worried," said Mrs. Phelps. "I'll let Pete do all the worrying." She giggled. "I'll let old Pete do all the worrying. Not me. I'm not worried."
+"Yes," said Millie. "Let old Pete do the worrying."
+
+Montag said nothing but stood looking at the women's faces as he had once looked at the faces of saints in a strange church he had entered when he was a child. The faces of those enamelled creatures meant nothing to him, though he talked to them and stood in that church for a long time, trying to be of that religion, trying to know what that religion was, trying to get enough of the raw incense and special dust of the place into his lungs and thus into his blood to feel touched and concerned by the meaning of the colourful men and women with the porcelain eyes and the blood-ruby lips. But there was nothing, nothing; it was a stroll through another store, and his currency strange and unusable there, and his passion cold, even when he touched the wood and plaster and clay. So it was now, in his own parlour, with these women twisting in their chairs under his gaze, lighting cigarettes, blowing smoke, touching their sun-fired hair and examining their blazing fingernails as if they had caught fire from his look.
+
+"How're your children, Mrs. Phelps?" he asked. "You know I haven't any! No one in his right mind, the Good Lord knows; would have children!" said Mrs. Phelps, not quite sure why she was angry with this man. "I wouldn't say that," said Mrs. Bowles. "I've had two children by Caesarian section. No use going through all that agony for a baby. The world must reproduce, you know, the race must go on. Besides, they sometimes look just like you, and that's nice. Two Caesarians tamed the trick, yes, sir. Oh, my doctor said, Caesarians aren't necessary; you've got the, hips for it, everything's normal, but I insisted." "Caesarians or not, children are ruinous; you're out of your mind," said Mrs. Phelps.
+
+"I plunk the children in school nine days out of ten. I put up with them when they come home three days a month; it's not bad at all. You heave them into the 'parlour' and turn the switch. It's like washing clothes; stuff laundry in and slam the lid." Mrs. Bowles tittered. "They'd just as soon kick as kiss me. Thank God, I can kick back!"
+
+"Well, Mr. Montag," said Mrs. Phelps, "do you want us to vote for a man like that?" Mildred beamed. "You just run away from the door, Guy, and don't make us nervous." But Montag was gone and back in a moment with a book in his hand. "Guy!" "Damn it all, damn it all, damn it!"
+"What've you got there; isn't that a book? I thought that all special training these days was done by film." Mrs. Phelps blinked. "You reading up on fireman theory?"
+"Theory, hell," said Montag. "It's poetry."
+"Montag." A whisper.
+"Leave me alone! " Montag felt himself turning in a great circling roar and buzz and hum.
+
+"Did you hear them, did you hear these monsters talking about monsters? Oh God, the way they jabber about people and their own children and themselves and the way they talk about their husbands and the way they talk about war, dammit, I stand here and I can't believe it!"
+
+"Montag, go through with this and I'll cut off, I'll leave." The beetle jabbed his ear. "What good is this, what'll you prove?"
+"Scare hell out of them, that's what, scare the living daylights out!"
+Mildred looked at the empty air. "Now Guy, just who are you talking to?"
+A silver needle pierced his brain. "Montag, listen, only one way out, play it as a joke, cover up, pretend you aren't mad at all. Then-walk to your wall-incinerator, and throw the book in!"
+
+Mildred had already anticipated this in a quavery voice. "Ladies, once a year, every fireman's allowed to bring one book home, from the old days, to show his family how silly it all was, how nervous that sort of thing can make you, how crazy. Guy's surprise tonight is to read you one sample to show how mixed-up things were, so none of us will ever have to bother our little old heads about that junk again, isn't that right, darling?"
+
+Then he began to read in a low, stumbling voice that grew firmer as he progressed from line to line, and his voice went out across the desert, into the whiteness, and around the three sitting women there in the great hot emptiness:... ...Mrs. Phelps was crying. The others in the middle of the desert watched her crying grow very loud as her face squeezed itself out of shape. They sat, not touching her, bewildered by her display. She sobbed uncontrollably. Montag himself was stunned and shaken... ...Mrs. Bowles stood up and glared at Montag. "You see? I knew it, that's what I wanted to prove! I knew it would happen! I've always said, poetry and tears, poetry and suicide and crying and awful feelings, poetry and sickness; all that mush! Now I've had it proved to me. You're nasty, Mr. Montag, you're nasty! " Faber said, "Now..." Montag felt himself turn and walk to the wall-slot and drop the book in through the brass notch to the waiting flames.
+
+He went back through the house. "Mildred?" He called at the door of the darkened bedroom. There was no sound.
+
+On the way downtown he was so completely alone with his terrible error that he felt the necessity for the strange warmness and goodness that came from a familiar and gentle voice speaking in the night. Already, in a few short hours, it seemed that he had known Faber a lifetime.
+
+And one day he would look back upon the fool and know the fool. Even now he could feel the start of the long journey, the leave-taking, the going away from the self he had been.
+
+I understand how it happened. I must admit that your blind raging invigorated me. God, how young I felt! But now-I want you to feel old, I want a little of my cowardice to be distilled in you tonight.
+
+Maybe they're right, maybe it's best not to face things, to run, have fun. I don't know. 
+
+If you hide your ignorance, no one will hit you and you'll never learn. 
+
+He put his hand to one side, palm up, for a gift. Montag put the book in it. Without even glancing at the title, Beatty tossed the book into the trash-basket and lit a cigarette. "Who are a little wise, the best fools be.' Welcome back, Montag. I hope you'll be staying, with us, now that your fever is done and your sickness over. Sit in for a hand of poker?"
+
+For these were the hands that had acted on their own, no part of him, here was where the conscience first manifested itself to snatch books, dart off with job and Ruth and Willie Shakespeare, and now, in the firehouse, these hands seemed gloved with blood.
+
+'Sweet food of sweetly uttered knowledge,' Sir Philip Sidney said. But on the other hand: 'Words are like leaves and where they most abound, Much fruit of sense beneath is rarely found.' Alexander Pope.
+
+'A little learning is a dangerous thing. Drink deep, or taste not the Pierian spring; There shallow draughts intoxicate the brain, and drinking largely sobers us again.' Pope.
+
+I lay down for a cat-nap and in this dream you and I, Montag, got into a furious debate on books. You towered with rage, yelled quotes at me. I calmly parried every thrust. Power, I said, And you, quoting Dr. Johnson, said 'Knowledge is more than equivalent to force!' And I said, 'Well, Dr. Johnson also said, dear boy, that "He is no wise man that will quit a certainty for an uncertainty.'" Stick with the fireman, Montag. All else is dreary chaos!" "Don't listen," whispered Faber. "He's trying to confuse. He's slippery. Watch out!"
+
+And I whispered gently, 'The dignity of truth is lost with much protesting.' And you screamed, 'Carcasses bleed at the sight of the murderer!' And I said, patting your hand, 'What, do I give you trench mouth?' And you shrieked, 'Knowledge is power!' and 'A dwarf on a giant's shoulders of the furthest of the two!' and I summed my side up with rare serenity in, 'The folly of mistaking a metaphor for a proof, a torrent of verbiage for a spring of capital truths, and oneself as an oracle, is inborn in us, Mr. Valery once said.'"
+
+Faber began, softly, "All right, he's had his say. You must take it in. I'll say my say, too, in the next few hours. And you'll take it in. And you'll try to judge them and make your decision as to which way to jump, or fall. But I want it to be your decision, not mine, and not the Captain's. But remember that the Captain belongs to the most dangerous enemy of truth and freedom, the solid unmoving cattle of the majority. Oh, God, the terrible tyranny of the majority. We all have our harps to play. And it's up to you now to know with which ear you'll listen."
+
+The alarm-voice in the ceiling chanted. There was a tacking-tacking sound as the alarm-report telephone typed out the address across the room. Captain Beatty, his poker cards in one pink hand, walked with exaggerated slowness to the phone and ripped out the address when the report was finished... ..."Montag, you don't look well? I'd hate to think you were coming down with another fever..." "I'll be all right." "You'll be fine. This is a special case. Come on, jump for it!"
+
+"Here we are!" The Salamander boomed to a halt, throwing men off in slips and clumsy hops. Montag stood fixing his raw eyes to the cold bright rail under his clenched fingers. I can't do it, he thought. How can I go at this new assignment, how can I go on burning things? I can't go in this place. Beatty, smelling of the wind through which he had rushed, was at Montag's elbow. "All right, Montag?" The men ran like cripples in their clumsy boots, as quietly as spiders. At last Montag raised his eyes and turned. Beatty was watching his face. "Something the matter, Montag?" "Why," said Montag slowly, "we've stopped in front of my house."
 
 ## PART III - BURNING BRIGHT
 
