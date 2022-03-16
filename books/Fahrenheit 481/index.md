@@ -522,6 +522,47 @@ The alarm-voice in the ceiling chanted. There was a tacking-tacking sound as the
 
 ## PART III - BURNING BRIGHT
 
+"Well," said Beatty, "now you did it. Old Montag wanted to fly near the sun and now that he's burnt his damn wings, he wonders why.
+
+The front door opened; Mildred came down the steps, running, one suitcase held with a dream-like clenching rigidity in her fist, as a beetle-taxi hissed to the curb. "Mildred!" She ran past with her body stiff, her face floured with powder, her mouth gone, without lipstick. "Mildred, you didn't put in the alarm!" She shoved the valise in the waiting beetle, climbed in, and sat mumbling, "Poor family, poor family, oh everything gone, everything, everything gone now ...." Beatty grabbed Montag's shoulder as the beetle blasted away and hit seventy miles an hour, far down the street, gone.
+
+"This is happening to me," said Montag.
+
+"It's perpetual motion; the thing man wanted to invent but never did. Or almost perpetual motion. If you let it go on, it'd burn our lifetimes out. What is fire? It's a mystery. Scientists give us gobbledegook about friction and molecules. But they don't really know. Its real beauty is that it destroys responsibility and consequences. A problem gets too burdensome, then into the furnace with it.
+
+Mildred, of course. She must have watched him hide the books in the garden and brought them back in. Mildred. Mildred. "I want you to do this job all by your lonesome, Montag. Not with kerosene and a match, but piecework, with a flamethrower. Your house, your clean-up."
+
+He stepped into the bedroom and fired twice and the twin beds went up in a great simmering whisper, with more heat and passion and light than he would have supposed them to contain. He burnt the bedroom walls and the cosmetics chest because he wanted to change everything, the chairs, the tables, and in the dining-room the silverware and plastic dishes, everything that showed that he had lived here in this empty house with a strange woman who would forget him tomorrow, who had gone and quite forgotten him already, listening to her Seashell radio pour in on her and in on her as she rode across town, alone. And as before, it was good to burn, he felt himself gush out in the fire, snatch, rend, rip in half with flame, and put away the senseless problem. If there was no solution, well then now there was no problem, either. Fire was best for everything!
+
+"When you're quite finished," said Beatty behind him. "You're under arrest."
+
+It was three-thirty in the morning. The crowd drew back into the houses; the great tents of the circus had slumped into charcoal and rubble and the show was well over.
+
+"Was it my wife turned in the alarm?" Beatty nodded. "But her friends turned in an alarm earlier, that I let ride. One way or the other, you'd have got it. It was pretty silly, quoting poetry around free and easy like that. It was the act of a silly damn snob. Give a man a few lines of verse and he thinks he's the Lord of all Creation.
+
+Montag could not move. A great earthquake had come with fire and levelled the house and Mildred was under there somewhere and his entire life under there and he could not move. The earthquake was still shaking and falling and shivering inside him and he stood there.
+
+Beatty struck him a blow on the head that sent him reeling back. The green bullet in which Faber's voice whispered and cried, fell to the sidewalk. Beatty snatched it up, grinning. He held it half in, half out of his ear. Montag heard the distant voice calling, "Montag, you all right?" Beatty switched the green bullet off and thrust it in his pocket. "Well--so there's more here than I thought. I saw you tilt your head, listening. First I thought you had a Seashell. But when you turned clever later, I wondered. We'll trace this and drop it on your friend." "No! " said Montag.
+
+Thinking back later he could never decide whether the hands or Beatty's reaction to the hands gave him the final push toward murder.
+
+How's that? Go ahead now, you second-hand litterateur, pull the trigger." He took one step toward Montag. Montag only said, "We never burned right..."
+
+And then he was a shrieking blaze, a jumping, sprawling, gibbering mannikin, no longer human or known, all writhing flame on the lawn as Montag shot one continuous pulse of liquid fire on him. 
+
+There was a hiss like a great mouthful of spittle banging a redhot stove, a bubbling and frothing as if salt had been poured over a monstrous black snail to cause a terrible liquefaction and a boiling over of yellow foam. 
+
+He turned and the Mechanical Hound was there. It was half across the lawn, coming from the shadows, moving with such drifting ease that it was like a single solid cloud of black-grey smoke blown at him in silence.
+
+He felt it scrabble and seize his leg and stab the needle in for a moment before the fire snapped the Hound up in the air, burst its metal bones at the joints, and blew out its interior in the single flushing of red colour like a skyrocket fastened to the street. Montag lay watching the dead-alive thing fiddle the air and die. 
+
+He was afraid to get up, afraid he might not be able to gain his feet at all, with an anaesthetized leg. A numbness in a numbness hollowed into a numbness.... And now...?
+
+He stood and he had only one leg. The other was like a chunk of burnt pine-log he was carrying along as a penance for some obscure sin. When he put his weight on it, a shower of silver needles gushed up the length of the calf and went off in the knee. He wept. Come on! Come on, you, you can't stay here!
+
+Beatty, he thought, you're not a problem now. You always said, don't face a problem, bum it. Well, now I've done both. Good-bye, Captain.
+
+Pride, damn it, and temper, and you've junked it all, at the very start you vomit on everyone and on yourself. But everything at once, but everything one on top of another; Beatty, the women, Mildred, Clarisse, everything. No excuse, though, no excuse. A fool, a damn fool, go give yourself up! No, we'll save what we can, we'll do what there is left to do. If we have to burn, let's take a few more with us. 
 
 
 
