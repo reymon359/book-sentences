@@ -564,6 +564,73 @@ Beatty, he thought, you're not a problem now. You always said, don't face a prob
 
 Pride, damn it, and temper, and you've junked it all, at the very start you vomit on everyone and on yourself. But everything at once, but everything one on top of another; Beatty, the women, Mildred, Clarisse, everything. No excuse, though, no excuse. A fool, a damn fool, go give yourself up! No, we'll save what we can, we'll do what there is left to do. If we have to burn, let's take a few more with us. 
 
+He hadn't wanted to kill anyone, not even Beatty. His flesh gripped him and shrank as if it had been plunged in acid. He gagged. He saw Beatty, a torch, not moving, fluttering out on the grass. He bit at his knuckles. I'm sorry, I'm sorry, oh God, sorry ....
 
+He had been afraid that running might break the loose ankle. Now, sucking all the night into his open mouth, and blowing it out pale, with all the blackness left heavily inside himself, he set out in a steady jogging pace. He carried the books in his hands.
+
+He thought of Faber... ...He felt so suddenly shocked by this that he felt Faber was really dead, baked like a roach in that small green capsule shoved and lost in the pocket of a man who was now nothing but a frame skeleton strung with asphalt tendons.
+
+You must remember, burn them or they'll burn you, he thought. Right now it's as simple as that.
+
+"Police Alert. Wanted: Fugitive in city. Has committed murder and crimes against the State. Name: Guy Montag. Occupation: Fireman. Last seen ..."
+
+Yes, he thought, where am I running? Nowhere. There was nowhere to go, no friend to turn to, really. Except Faber. And then he realized that he was indeed, running toward Faber's house, instinctively.
+
+And here was the gas station, its attendants busy now with customers. Approaching from the rear, Montag entered the men's washroom. Through the aluminium wall he heard a radio voice saying, "War has been declared."... ...The war would have to wait for him to come to it in his personal file, an hour, two hours from now.
+
+He put his right foot out and then his left foot and then his right. He walked on the empty avenue.
+
+He was now half across the street, but the roar from the beetle's engines whined higher as it put on speed. The police, of course. They see me. But slow now; slow, quiet, don't turn, don't look, don't seem concerned. Walk, that's it, walls, walk.
+
+An instant before reaching him the wild beetle cut and swerved out. It was gone... ...That wasn't the police, he thought. He looked down the boulevard. It was clear now. A carful of children, all ages, God knew, from twelve to sixteen, out. 
+
+124 FAHRENHEIT 451
+
+He walked toward the far kerb telling each foot to go and keep going. Somehow he had picked up the spilled books; he didn't remember bending or touching them. He kept moving them from hand to hand as if they were a poker hand he could not figure. I wonder if they were the ones who killed Clarisse? He stopped and his mind said it again, very loud. I wonder if they were the ones who killed Clarisse! He wanted to run after them yelling. His eyes watered. The thing that had saved him was falling flat. The driver of that car, seeing Montag down, instinctively considered the probability that running over a body at that speed might turn the car upside down and spill them out. If Montag had remained an upright target. . . ? Montag gasped.
+
+The house was silent... ...Mrs. Black, are you asleep in there? he thought. This isn't good, but your husband did it to others and never asked and never wondered and never worried. And now since you're a fireman's wife, it's your house and your turn, for all the houses your husband burned and the people he hurt without thinking. The house did not reply. He hid the books in the kitchen and moved from the house again to the alley and looked back and the house was still dark and quiet, sleeping... ...he phoned the alarm at a lonely phone booth outside a store that was closed for the night. Then he stood in the cold night air, waiting and at a distance he heard the fire sirens start up and run, and the Salamanders coming, coming to bum Mr. Black's house while he was away at work,... ...Good night, Mrs. Black, he thought.
+
+Montag said, "I've been a fool all down the line. I can't stay long. I'm on my way God knows where."
+"At least you were a fool about the right things," said Faber. "I thought you were dead. The audio-capsule I gave you--"
+"Burnt."
+"I heard the captain talking to you and suddenly there was nothing. I almost came out looking for you."
+"The captain's dead. He found the audio-capsule, he heard your voice, he was going to trace it. I killed him with the flamethrower."
+Faber sat down and did not speak for a time.
+
+How many times can a man go down and still be alive?
+
+"I feel alive for the first time in years," said Faber. "I feel I'm doing what I should have done a lifetime ago. For a little while I'm not afraid. Maybe it's because I'm doing the right thing at last. Maybe it's because I've done a rash thing and don't want to look the coward to you. I suppose I'll have to do even more violent things, exposing myself so I won't fall down on the job and turn scared again. What are your plans?" "To keep running." "You know the war's on?" "I heard." "God, isn't it funny?" said the old man. "It seems so remote because we have our own troubles."
+
+"You'd better head for the river if you can, follow along it, and if you can hit the old railroad lines going out into the country, follow them... ...they say there's lots of old Harvard degrees on the tracks between here and Los Angeles... ...You might hole up with them for a time and get in touch with me in St. Louis, I'm leaving on the five a.m. bus this morning, to see a retired printer there, I'm getting out into the open myself, at last.
+
+Police helicopters are up. A new Mechanical Hound has been brought from another district.. ." Montag and Faber looked at each other. ". . . Mechanical Hound never fails. Never since its first use in tracking quarry has this incredible invention made a mistake. Tonight, this network is proud to have the opportunity to follow the Hound by camera helicopter as it starts on its way to the target..." Faber poured two glasses of whisky. "We'll need these." They drank.
+
+He watched the scene, fascinated, not wanting to move. It seemed so remote and no part of him; it was a play apart and separate, wondrous to watch, not without its strange pleasure. That's all for me, you thought, that's all taking place just for me, by God. If he wished, he could linger here, in comfort, and follow the entire hunt on through its swift. phases, down alleys across streets, over empty running avenues, crossing lots and playgrounds, with pauses here or there for the necessary commercials, up other alleys to the burning house of Mr. and Mrs. Black, and so on finally to this house with Faber and himself seated, drinking, while the Electric Hound snuffed down the last trail, silent as a drift of death itself, skidded to a halt outside that window there.
+
+Would he have time for a speech? As the Hound seized him, in view of ten or twenty or thirty million people, mightn't he sum up his entire life in the last week in one single phrase or a word that would stay with them long after the. Hound had turned, clenching him in its metal-plier jaws, and trotted off in darkness, while the camera remained stationary, watching the creature dwindle in the distance--a splendid fade-out! What could he say in a single word, a few words, that would sear all their faces and wake them up?
+
+They shook hands again and, going out of the door, they glanced at the TV. The Hound was on its way, followed by hovering helicopter cameras, silently, silently, sniffing the great night wind. It was running down the first alley. "Good-bye ! "
+
+The Mechanical Hound turned and plunged away from Faber's house down the alley again. Montag snapped his gaze to the sky. The helicopters were closer, a great blowing of insects to a single light source. With an effort, Montag reminded himself again that this was no fictional episode to be watched on his run to the river; it was in actuality his own chess-game he was witnessing, move by move.
+
+Montag jammed his Seashell to his ear. "Police suggest entire population in the Elm Terrace area do as follows: Everyone in every house in every street open a front or rear door or look from the windows. The fugitive cannot escape if everyone in the next minute looks from his house. Ready! " Of course! Why hadn't they done it before! Why, in all the years, hadn't this game been tried! Everyone up, everyone out! He couldn't be missed! The only man running alone in the night city, the only man proving his legs!
+
+he was at the river. He touched it, just to be sure it was real. He waded in and stripped in darkness to the skin, splashed his body, arms, legs, and head with raw liquor; drank it and snuffed some up his nose. Then he dressed in Faber's old clothes and shoes. He tossed his own clothing into the river and watched it swept away. Then, holding the suitcase, he walked out in the river until there was no bottom and he was swept away in the dark.
+
+Then the lights switched back to the land, the helicopters swerved over the city again, as if they had picked up another trail. They were gone. The Hound was gone. Now there was only the cold river and Montag floating in a sudden peacefulness, away from the city and the lights and the chase, away from everything.
+
+He was moving from an unreality that was frightening into a reality that was unreal because it was new.
+
+Going away from the people who ate shadows for breakfast and steam for lunch and vapours for supper.
+
+And what lights the sun? Its own fire. And the sun goes on, day after day, burning and burning. The sun and time. The sun and time and burning. Burning. The river bobbled him along gently. Burning. The sun and every clock on the earth. It all came together and became a single thing in his mind. After a long time of floating on the land and a short time of floating in the river he knew why he must never burn again in his life. The sun burned every day. It burned Time. The world rushed in a circle and turned on its axis and time was busy burning the years and the people anyway, without any help from him. So if he burnt things with the firemen, and the sun burnt Time, that meant.that everything burned! One of them had to stop burning. The sun wouldn't, certainly. So it looked as if it had to be Montag and the people he had worked with until a few short hours ago.
+
+Millie, he thought. All this country here. Listen to it! Nothing and nothing. So much silence, Millie, I wonder how you'd take it? Would you shout Shut up, shut up! Millie, Millie. And he was sad. Millie was not here and the Hound was not here, but the dry smell of hay blowing from some distant field put Montag on the land. He remembered a farm he had visited when he was very young, one of the rare times he had discovered that somewhere behind the seven veils of unreality, beyond the walls of parlours and beyond the tin moat of the city, cows chewed grass and pigs sat in warm ponds at noon and dogs barked after white sheep on a hill.
+
+Out of the black wall before him, a whisper. A shape. In the shape, two eyes. The night looking at him. The forest, seeing him. The Hound! After all the running and rushing and sweating it out and half-drowning, to come this far, work this hard, and think yourself safe and sigh with relief and come out on the land at last only to find . . . The Hound! Montag gave one last agonized shout as if this were too much for any man. The shape exploded away. The eyes vanished. The leafpiles flew up in a dry shower. Montag was alone in the wilderness. A deer.
+
+He stood breathing, and the more he breathed the land in, the more he was filled up with all the details of the land. He was not empty. There was more than enough here to fill him. There would always be more than enough.
+
+That small motion, the white and red colour, a strange fire because it meant a different thing to him. It was not burning; it was warming! He saw many hands held to its warmth, hands without arms, hidden in darkness. Above the hands, motionless faces that were only moved and tossed and flickered with firelight. He hadn't known fire could look this way. He had never thought in his life that it could give as well as take. Even its smell was different.
 
 
