@@ -247,14 +247,97 @@ console.log(nextStudent);
 ```
 
 Other than declarations, all occurrences of variables/identifiers in a program serve in one of two “roles”: either they’re the target of an assignment or they’re the source of a value... ...How do you know if a variable is a target? Check if there is a value that is being assigned to it; if so, it’s a target. If not, then the variable is a source. For the JS engine to properly handle a program’s variables, it must first label each occurrence of a variable as target or source.
-    
-    
+
+#### Targets
+
+Target assignment operations in the code:
+
+```js
+for (let student of students) {
+```
+
+That statement assigns a value to `student` for each iteration of the loop. Another target reference:
+
+```js
+getStudentName(73)
+```
+
+But how is that an assignment to a target? Look closely: the argument `73` is assigned to the parameter `studentID`.
+
+```js
+function getStudentName(studentID) {
+```
+
+A `function` declaration is a special case of a target reference. You can think of it sort of like `var getStudentName = function(studentID)`, but that’s not exactly accurate. An identifier `getStudentName` is declared (at compile time), but the `= function(studentID)` part is also handled at compilation; the association between `getStudentName` and the function is automatically set up at the beginning of the scope rather than waiting for an `=` assignment statement to be executed... ...NOTE: This automatic association of function and variable is referred to as “function hoisting”,
+
+#### Sources
+
+`students` is a source reference. In the statement `if (student.id == studentID)`, both `student` and `studentID` are source references. `student` is also a source reference in `return student.name`.
+
+In `getStudentName(73)`, `getStudentName` is a source reference (which we hope resolves to a function reference value). In `console.log(nextStudent)`, `console` is a source reference, as is `nextStudent`.
+
+What’s the practical importance of understanding targets vs. sources? In Chapter 2, we’ll revisit this topic and cover how a variable’s role impacts its lookup (specifically, if the lookup fails).
+
+### Cheating: Run-Time Scope Modifications
+
+In non-strict-mode, there are technically still two ways to cheat this rule, modifying a program’s scopes during runtime. Neither of these techniques should be used... ...The `eval(..)` function receives a string of code to compile and execute on the fly during the program runtime. If that string of code has a `var` or `function` declaration in it, those declarations will modify the current scope that the `eval(..)` is currently executing in:
+
+```js
+function badIdea() {
+    eval("var oops = 'Ugh!';");
+    console.log(oops);
+}
+badIdea();   // Ugh!
+```
+If the `eval(..)` had not been present, the `oops` variable in `console.log(oops)` would not exist, and would throw a `ReferenceError`. But `eval(..)` modifies the scope of the `badIdea()` function at runtime. This is bad for many reasons, including the performance hit of modifying the already compiled and optimized scope, every time `badIdea()` runs.
+
+The second cheat is the `with` keyword, which essentially dynamically turns an object into a local scope—its properties are treated as identifiers in that new scope’s block:
+
+```js
+var badIdea = { oops: "Ugh!" };
+
+with (badIdea) {
+    console.log(oops);   // Ugh!
+}
+```
+
+The global scope was not modified here, but `badIdea` was turned into a scope at runtime rather than compile time, and its property `oops` becomes a variable in that scope. Again, this is a terrible idea, for performance and readability reasons.
+
+#### Lexical Scope
+
+JS’s scope is determined at compile time; the term for this kind of scope is “lexical scope”. “Lexical” is associated with the “lexing” stage of compilation, as discussed earlier in this chapter. To narrow this chapter down to a useful conclusion, the key idea of “lexical scope” is that it’s controlled entirely by the placement of functions, blocks, and variable declarations, in relation to one another.
+
+A reference (target or source role) for a variable must be resolved as coming from one of the scopes that are lexically available to it; otherwise the variable is said to be “undeclared” (which usually results in an error!).
+
+It’s important to note that compilation doesn’t actually do anything in terms of reserving memory for scopes and variables. None of the program has been executed yet.
+
+While scopes are identified during compilation, they’re not actually created until runtime, each time a scope needs to run.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
     
     - 
-    - Cheating: Run-Time Scope Modifications
-    - Lexical Scope
+    - 
+    - 
 - Chapter 2: Illustrating Lexical Scope
     - Marbles, and Buckets, and Bubbles... Oh My!
     - A Conversation Among Friends
