@@ -12,7 +12,10 @@ Ray Bradbury - 1953
 
 ## Table of Contents
 
-TODO: ADD TOC
+- [PART I - IT WAS A PLEASURE TO BURN](#part-i---it-was-a-pleasure-to-burn)
+- [PART II - THE SIEVE AND THE SAND](#part-ii---the-sieve-and-the-sand)
+- [PART III - BURNING BRIGHT](#part-iii---burning-bright)
+
 
 ## PART I - IT WAS A PLEASURE TO BURN
 
