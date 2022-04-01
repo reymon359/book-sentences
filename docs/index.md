@@ -26,6 +26,8 @@ I have read other books before these (not as many as I would have liked), howeve
     
  - [Clean Architecture](Clean%20Architecture/index.md)
     
+ - [Fahrenheit 481](Fahrenheit%20481/index.md)
+    
  - [How to win friends and influence people](How%20to%20win%20friends%20and%20influence%20people/index.md)
     
  - [James and the Giant Peach](James%20and%20the%20Giant%20Peach/index.md)
