@@ -633,4 +633,77 @@ He stood breathing, and the more he breathed the land in, the more he was filled
 
 That small motion, the white and red colour, a strange fire because it meant a different thing to him. It was not burning; it was warming! He saw many hands held to its warmth, hands without arms, hidden in darkness. Above the hands, motionless faces that were only moved and tossed and flickered with firelight. He hadn't known fire could look this way. He had never thought in his life that it could give as well as take. Even its smell was different.
 
+It was not only the fire that was different. It was the silence. Montag moved toward this special silence that was concerned with all of the world.
 
+The voices talked of everything, there was nothing they could not talk about, he knew from the very cadence and motion and continual stir of curiosity and wonder in them.
+
+"Sit down," said the man who seemed to be the leader of the small group. "Have some coffee?"... ..."You're welcome, Montag. My name's Granger." He held out a small bottle of colourless fluid. "Drink this, too. It'll change the chemical index of your perspiration. Half an hour from now you'll smell like two other people. With the Hound after you, the best thing is Bottoms up."... ..."We've watched the chase. Figured you'd wind up south along the river. When we heard you plunging around out in the forest like a drunken elk, we didn't hide as we usually do. We figured you were in the river, when the helicopter cameras swung back in over the city. Something funny there. The chase is still running. The other way, though."
+
+"See that?" whispered Granger. "It'll be you; right up at the end of that street is our victim. See how our camera is coming in? Building the scene. Suspense. Long shot. Right now, some poor fellow is out for a walk. A rarity. An odd one. Don't think the police don't know the habits of queer ducks like that, men who walk mornings for the hell of it, or for reasons of insomnia Anyway, the police have had him charted for months, years. Never know when that sort of information might be handy. And today, it turns out, it's very usable indeed. It saves face. Oh, God, look there!"
+
+And then, after a time of the men sitting around the fire, their faces expressionless, an announcer on the dark screen said, "The search is over, Montag is dead; a crime against society has been avenged."
+
+"I don't belong with you," said Montag, at last, slowly. "I've been an idiot all the way." "We're used to that. We all made the right kind of mistakes, or we wouldn't be here. When we were separate individuals, all we had was rage. I struck a fireman when he came to burn my library years ago. I've been running ever since. You want to join us, Montag?" "Yes."
+"What have you to offer?"
+"Nothing. I thought I had part of the Book of Ecclesiastes and maybe a little of Revelation, but I haven't even that now."
+"The Book of Ecclesiastes would be fine. Where was it?"
+"Here," Montag touched his head.
+"Ah," Granger smiled and nodded.
+"What's wrong? Isn't that all right?" said Montag.
+"Better than all right; perfect!" 
+
+"Don't try. It'll come when we need it. All of us have photographic memories, but spend a lifetime learning how to block off the things that are really in there. Simmons here has worked on it for twenty years and now we've got the method down to where we can recall anything that's been read once. Would you like, some day, Montag, to read Plato's Republic?" "Of course!" "I am Plato's Republic. Like to read Marcus Aurelius? Mr. Simmons is Marcus."
+
+And this other fellow is Charles Darwin, and-this one is Schopenhauer, and this one is Einstein, and this one here at my elbow is Mr. Albert Schweitzer, a very kind philosopher indeed. Here we all are, Montag. Aristophanes and Mahatma Gandhi and Gautama Buddha and Confucius and Thomas Love Peacock and Thomas Jefferson and Mr. Lincoln, if you please. We are also Matthew, Mark, Luke, and John." Everyone laughed quietly. "It can't be," said Montag. "It is," replied Granger, smiling. " We're book-burners, too. We read the books and burnt them, afraid they'd be found. Micro-filming didn't pay off; we were always travelling, we didn't want to bury the film and come back later. Always the chance of discovery. Better to keep it in the old heads, where no one can see it or suspect it. We are all bits and pieces of history and literature and international law, Byron, Tom Paine, Machiavelli, or Christ, it's here. And the hour is late.
+
+But our way is simpler and, we think, better. All we want to do is keep the knowledge we think we will need, intact and safe. We're not out to incite or anger anyone yet. For if we are destroyed, the knowledge is dead, perhaps for good. We are model citizens, in our own special way; we walk the old tracks, we lie in the hills at night, and the city people let us be. 
+
+Some of us have had plastic surgery on our faces and fingerprints. Right now we have a horrible job; we're waiting for the war to begin and, as quickly, end. It's not pleasant, but then we're not in control, we're the odd minority crying in the wilderness. When the war's over, perhaps we can be of some use in the world." "Do you really think they'll listen then?" "If not, we'll just have to wait. We'll pass the books on to our children, by word of mouth, and let our children wait, in turn, on the other people. A lot will be lost that way, of course. But you can't make people listen. They have to come round in their own time, wondering what happened and why the world blew up under them. It can't last." "How many of you are there?" "Thousands on the roads, the abandoned railtracks, tonight, bums on the outside, libraries inside.
+
+It wasn't planned, at first. Each man had a book he wanted to remember, and did. Then, over a period of twenty years or so, we met each other, travelling, and got the loose network together and set out a plan. The most important single thing we had to pound into ourselves was that we were not important, we mustn't be pedants; we were not to feel superior to anyone else in the world. We're nothing more than dust-jackets for books, of no significance otherwise.
+
+nd when the war's over, some day, some year, the books can be written again, the people will be called in, one by one, to recite what they know and we'll set it up in type until another Dark Age, when we might have to do the whole damn thing over again. 
+
+But that's the wonderful thing about man; he never gets so discouraged or disgusted that he gives up doing it all over again, because he knows very well it is important and worth the doing."
+
+"Why do you trust me?" said Montag. A man moved in the darkness. "The look of you's enough. You haven't seen yourself in a mirror lately. Beyond that, the city has never cared so much about us to bother with an elaborate chase like this to find us. A few crackpots with verses in their heads can't touch them, and they know it and we know it; everyone knows it. So long as the vast population doesn't wander about quoting the Magna Charta and the Constitution, it's all right. The firemen were enough to check that, now and then. No, the cities don't bother us. And you look like hell."
+
+They weren't at all certain that the things they carried in their heads might make every future dawn glow with a purer light, they were sure of nothing save that the books were on file behind their quiet eyes, the books were waiting, with their pages uncut, for the customers who might come by in later years, some with clean and some with dirty fingers.
+
+Montag squinted from one face to another as they walked. "Don't judge a book by its cover," someone said. And they all laughed quietly, moving downstream.
+
+"It's strange, I don't miss her, it's strange I don't feel much of anything," said Montag. "Even if she dies, I realized a moment ago, I don't think I'll feel sad. It isn't right. Something must be wrong with me."
+
+He was part of us and when he died, all the actions stopped dead and there was no one to do them just the way he did. He was individual. He was an important man. I've never gotten over his death.
+
+"Everyone must leave something behind when he dies, my grandfather said. A child or a book or a painting or a house or a wall built or a pair of shoes made. Or a garden planted. Something your hand touched some way so your soul has somewhere to go when you die, and when people look at that tree or that flower you planted, you're there. It doesn't matter what you do, he said, so long as you change something from the way it was before you touched it into something that's like you after you take your hands away. 
+
+The difference between the man who just cuts lawns and a real gardener is in the touching, he said. The lawn-cutter might just as well not have been there at all; the gardener will be there a lifetime."
+
+When we forget how close the wilderness is in the night, my grandpa said, some day it will come in and get us, for we will have forgotten how terrible and real it can be. You see?" Granger turned to Montag. "Grandfather's been dead for all these years, but if you lifted my skull, by God, in the convolutions of my brain you'd find the big ridges of his thumbprint. He touched me.
+
+'live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories. Ask no guarantees, ask for no security, there never was such an animal. And if there were, it would be related to the great sloth which hangs upside down in a tree all day every day, sleeping its life away. To hell with that,' he said
+
+The bombardment was to all intents and purposes finished, once the jets had sighted their target, alerted their bombardiers at five thousand miles an hour; as quick as the whisper of a scythe the war was finished
+
+And Mildred...Get out, run! He saw her in her hotel room somewhere now in the halfsecond remaining with the bombs a yard, a foot, an inch from her building. He saw her leaning toward the great shimmering walls of colour and motion where the family talked and talked and talked to her, where the family prattled and chatted and said her name and smiled at her and said nothing of the bomb that was an inch, now a half-inch, now a quarter-inch from the top of the hotel.
+
+I remember. Montag clung to the earth. I remember. Chicago. Chicago, a long time ago. Millie and I. That's where we met! I remember now. Chicago. A long time ago.
+
+For another of those impossible instants the city stood, rebuilt and unrecognizable, taller than it had ever hoped or strived to be, taller than man had built it, erected at last in gouts of shattered concrete and sparkles of torn metal into a mural hung like a reversed avalanche, a million colours, a million oddities, a door where a window should be, a top for a bottom, a side for a back, and then the city rolled over and fell down dead.
+
+The men lay gasping like fish laid out on the grass. They held to the earth as children hold to familiar things, no matter how cold or dead, no matter what has happened or will happen, their fingers were clawed into the dirt, and they were all shouting to keep their eardrums from bursting, to keep their sanity from bursting, mouths open, Montag shouting with them, a protest against the wind that ripped their faces and tore at their lips, making their noses bleed. Montag watched the great dust settle and the great silence move down upon their world. And lying there it seemed that he saw every single grain of dust and every blade of grass and that he heard every cry and shout and whisper going up in the world now. Silence fell down in the sifting dust, and all the leisure they might need to look around, to gather the reality of this day into their senses.
+
+We'll just start walking today and see the world and the way the world walks around and talks, the way it really looks. I want to see everything now. And while none of it will be me when it goes in, after a while it'll all gather together inside and it'll be me.
+
+Montag sat up. He did not move any further, however. The other men did likewise. The sun was touching the black horizon with a faint red tip. The air was cold and smelled of a coming rain.
+
+Silently, Granger arose, felt his arms, and legs, swearing, swearing incessantly under his breath, tears dripping from his face. He shuffled down to the river to look upstream. "It's flat," he said, a long time later. "City looks like a heap of baking-powder. It's gone." And a long time after that. "I wonder how many knew it was coming? I wonder how many were surprised?" And across the world, thought Montag, how many other cities dead? And here in our country, how many? A hundred, a thousand?
+
+"There was a silly damn bird called a Phoenix back before Christ: every few hundred years he built a pyre and burned himself up. He must have been first cousin to Man. But every time he burnt himself up he sprang out of the ashes, he got himself born all over again. And it looks like we're doing the same thing, over and over, but we've got one damn thing the Phoenix never had. We know the damn silly thing we just did. We know all the damn silly things we've done for a thousand years, and as long as we know that and always have it around where we can see it, some day we'll stop making the goddam funeral pyres and jumping into the middle of them. We pick up a few more people that remember, every generation."
+
+"Now, let's get on upstream," said Granger. "And hold on to one thought: You're not important. You're not anything. Some day the load we're carrying with us may help someone. But even when we had the books on hand, a long time ago, we didn't use what we got out of them. We went right on insulting the dead. We went right on spitting in the graves of all the poor ones who died before us. We're going to meet a lot of lonely people in the next week and the next month and the next year. And when they ask us what we're doing, you can say, We're remembering. That's where we'll win out in the long run. And some day we'll remember so much that we'll build the biggest goddam steam-shovel in history and dig the biggest grave of all time and shove war in and cover it up. Come on now, we're going to go build a mirror-factory first and put out nothing but mirrors for the next year and take a long look in them."
+
+But now there was a long morning's walk until noon, and if the men were silent it was because there was everything to think about and much to remember.
+
+Montag felt the slow stir of words, the slow simmer. And when it came to his turn, what could he say, what could he offer on a day like this, to make the trip a little easier? To everything there is a season. Yes. A time to break down, and a time to build up. Yes. A time to keep silence and a time to speak. Yes, all that. But what else. What else? Something, something... And on either side of the river was there a tree of life, which bare twelve manner of fruits, and yielded her fruit every month; And the leaves of the tree were for the healing of the nations. Yes, thought Montag, that's the one I'll save for noon. For noon... When we reach the city. THE END
