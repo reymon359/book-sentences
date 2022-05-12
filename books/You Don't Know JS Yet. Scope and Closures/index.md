@@ -313,18 +313,57 @@ It’s important to note that compilation doesn’t actually do anything in term
 
 While scopes are identified during compilation, they’re not actually created until runtime, each time a scope needs to run.
 
+## Chapter 2: Illustrating Lexical Scope
 
+To properly reason about our programs, it’s important to have a solid conceptual foundation of how scope works. If we rely on guesses and intuition, we may accidentally get the right answers some of the time, but many other times we’re far off. This isn’t a recipe for success.
 
+We need to build accurate and helpful mental models as foundation moving forward.
 
+### Marbles, and Buckets, and Bubbles... Oh My!
 
+One metaphor I’ve found effective in understanding scope is sorting colored marbles into buckets of their matching color. Imagine you come across a pile of marbles, and notice that all the marbles are colored red, blue, or green. Let’s sort all the marbles, dropping the red ones into a red bucket, green into a green bucket, and blue into a blue bucket. After sorting, when you later need a green marble, you already know the green bucket is where to go to get it. In this metaphor, the marbles are the variables in our program. The buckets are scopes (functions and blocks), which we just conceptually assign individual colors for our discussion purposes. The color of each marble is thus determined by which color scope we find the marble originally created in.
 
+```js
+// outer/global scope: RED
 
+var students = [
+    { id: 14, name: "Kyle" },
+    { id: 73, name: "Suzy" },
+    { id: 112, name: "Frank" },
+    { id: 6, name: "Sarah" }
+];
 
+function getStudentName(studentID) {
+    // function scope: BLUE
 
+    for (let student of students) {
+        // loop scope: GREEN
 
+        if (student.id == studentID) {
+            return student.name;
+        }
+    }
+}
 
+var nextStudent = getStudentName(73);
+console.log(nextStudent);   // Suzy
+```
 
+![Fig. 2: Colored Scope Bubbles](./assets/figure2.jpg)
 
+Bubble 1 (RED) encompasses the global scope, which holds three identifiers/variables: `students` (line 1), `getStudentName` (line 8), and `nextStudent` (line 16).
+
+Bubble 2 (BLUE) encompasses the scope of the function `getStudentName(..)` (line 8), which holds just one identifier/variable: the parameter `studentID` (line 8).
+
+Bubble 3 (GREEN) encompasses the scope of the `for`-loop (line 9), which holds just one identifier/variable: `student` (line 9).
+
+Scope bubbles are determined during compilation based on where the functions/blocks of scope are written, the nesting inside each other, and so on. Each scope bubble is entirely contained within its parent scope bubble—a scope is never partially in two different outer scopes.
+
+As the JS engine processes a program (during compilation), and finds a declaration for a variable, it essentially asks, “Which color scope (bubble or bucket) am I currently in?” The variable is designated as that same color, meaning it belongs to that bucket/bubble.
+
+References (non-declarations) to variables/identifiers are allowed if there’s a matching declaration either in the current scope, or any scope above/outside the current scope, but not with declarations from lower/nested scopes.
+
+The JS engine doesn’t generally determine these marble colors during runtime; the “lookup” here is a rhetorical device to help you understand the concepts. During compilation, most or all variable references will match already-known scope buckets, so their color is already determined, and stored with each marble reference to avoid unnecessary lookups as the program runs. More on this nuance in Chapter 3.
 
 
 
@@ -334,10 +373,6 @@ While scopes are identified during compilation, they’re not actually created u
 
     
     
-    
-    - 
-    - 
-    - 
 - Chapter 2: Illustrating Lexical Scope
     - Marbles, and Buckets, and Bubbles... Oh My!
     - A Conversation Among Friends
