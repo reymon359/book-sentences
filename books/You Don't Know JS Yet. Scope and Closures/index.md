@@ -349,7 +349,7 @@ var nextStudent = getStudentName(73);
 console.log(nextStudent);   // Suzy
 ```
 
-![Fig. 2: Colored Scope Bubbles](./assets/figure2.jpg)
+![Fig. 2: Colored Scope Bubbles](./assets/figure2.png)
 
 Bubble 1 (RED) encompasses the global scope, which holds three identifiers/variables: `students` (line 1), `getStudentName` (line 8), and `nextStudent` (line 16).
 
@@ -365,21 +365,103 @@ References (non-declarations) to variables/identifiers are allowed if there’s 
 
 The JS engine doesn’t generally determine these marble colors during runtime; the “lookup” here is a rhetorical device to help you understand the concepts. During compilation, most or all variable references will match already-known scope buckets, so their color is already determined, and stored with each marble reference to avoid unnecessary lookups as the program runs. More on this nuance in Chapter 3.
 
+The key take-aways from marbles & buckets (and bubbles!):
+- Variables are declared in specific scopes, which can be thought of as colored marbles from matching-color buckets.
+- Any variable reference that appears in the scope where it was declared, or appears in any deeper nested scopes, will be labeled a marble of that same color—unless an intervening scope “shadows” the variable declaration; see “Shadowing” in Chapter 3.
+- The determination of colored buckets, and the marbles they contain, happens during compilation. This information is used for variable (marble color) “lookups” during code execution.
 
+### A Conversation Among Friends
 
+- Let’s now meet the members of the JS engine that will have conversations as they process our program:
+- Engine: responsible for start-to-finish compilation and execution of our JavaScript program.
+- Compiler: one of Engine’s friends; handles all the dirty work of parsing and code-generation (see previous section).
+- Scope Manager: another friend of Engine; collects and maintains a lookup list of all the declared variables/identifiers, and enforces a set of rules as to how these are accessible to currently executing code.
 
+For you to fully understand how JavaScript works, you need to begin to think like Engine (and friends) think, ask the questions they ask, and answer their questions likewise.
 
+```js
+var students = [
+    { id: 14, name: "Kyle" },
+    { id: 73, name: "Suzy" },
+    { id: 112, name: "Frank" },
+    { id: 6, name: "Sarah" }
+];
 
+function getStudentName(studentID) {
+    for (let student of students) {
+        if (student.id == studentID) {
+            return student.name;
+        }
+    }
+}
 
-    
-    
-- Chapter 2: Illustrating Lexical Scope
-    - Marbles, and Buckets, and Bubbles... Oh My!
-    - A Conversation Among Friends
-    - Nested Scope
-    - Continue the Conversation
-- Chapter 3: The Scope Chain
-    - "Lookup" Is (Mostly) Conceptual
+var nextStudent = getStudentName(73);
+
+console.log(nextStudent);
+// Suzy
+```
+
+Let’s examine how JS is going to process that program, specifically starting with the first statement... ...JS treats these as two distinct operations, one which Compiler will handle during compilation, and the other which Engine will handle during execution... ...Here’s the steps Compiler will follow to handle that statement: 
+1. Encountering `var students`, Compiler will ask Scope Manager to see if a variable named `students` already exists for that particular scope bucket. If so, Compiler would ignore this declaration and move on. Otherwise, Compiler will produce code that (at execution time) asks Scope Manager to create a new variable called `students` in that scope bucket.
+2. Compiler then produces code for Engine to later execute, to handle the `students = []` assignment. The code Engine runs will first ask Scope Manager if there is a variable called `students` accessible in the current scope bucket. If not, Engine keeps looking elsewhere (see “Nested Scope” below). Once Engine finds a variable, it assigns the reference of the `[ .. ]` array to it.
+
+The conversation is a question-and-answer exchange, where Compiler asks the current Scope Manager if an encountered identifier declaration has already been encountered. If “no,” Scope Manager creates that variable in that scope. If the answer is “yes,” then it’s effectively skipped over since there’s nothing more for that Scope Manager to do. Compiler also signals when it runs across functions or block scopes, so that a new scope bucket and Scope Manager can be instantiated.
+
+This conversation is another question-and-answer exchange, where Engine first asks the current Scope Manager to look up the hoisted `getStudentName` identifier, so as to associate the function with it. Engine then proceeds to ask Scope Manager about the target reference for `students`, and so on.
+
+To review and summarize how a statement like `var students = [ .. ]` is processed, in two distinct steps:
+1. Compiler sets up the declaration of the scope variable (since it wasn’t previously declared in the current scope).
+2. While Engine is executing, to process the assignment part of the statement, Engine asks Scope Manager to look up the  variable, initializes it to `undefined` so it’s ready to use, and then assigns the array value to it.
+
+### Nested Scope
+
+Scopes can be lexically nested to any arbitrary depth as the program defines.
+
+Each scope gets its own Scope Manager instance each time that scope is executed (one or more times). Each scope automatically has all its identifiers registered at the start of the scope being executed (this is called “variable hoisting”
+
+If any identifier came from a `var` declaration (as opposed to `let/const`), that variable is automatically initialized to `undefined` so that it can be used; otherwise, the variable remains uninitialized (aka, in its “TDZ,” see Chapter 5) and cannot be used until its full declaration-and-initialization are executed.
+
+In the `for (let student of students)` { statement, `students` is a source reference that must be looked up. But how will that lookup be handled, since the scope of the function will not find such an identifier? To explain, let’s imagine that bit of conversation playing out like this:
+- Engine: Hey, Scope Manager (for the function), I have a source reference for `students`, ever heard of it?
+- (Function) Scope Manager: Nope, never heard of it. Try the next outer scope.
+- Engine: Hey, Scope Manager (for the global scope), I have a source reference for `students`, ever heard of it?
+- (Global) Scope Manager: Yep, it was formally declared, here it is.
+
+One of the key aspects of lexical scope is that any time an identifier reference cannot be found in the current scope, the next outer scope in the nesting is consulted; that process is repeated until an answer is found or there are no more scopes to consult.
+
+#### Lookup Failures
+
+When Engine exhausts all lexically available scopes (moving outward) and still cannot resolve the lookup of an identifier, an error condition then exists.
+
+If the variable is a source, an unresolved identifier lookup is considered an undeclared (unknown, missing) variable, which always results in a `ReferenceError` being thrown. Also, if the variable is a target, and the code at that moment is running in strict-mode, the variable is considered undeclared and similarly throws a `ReferenceError.`
+
+The error message for an undeclared variable condition, in most JS environments, will look like, “Reference Error: XYZ is not defined.” The phrase “not defined” seems almost identical to the word “undefined,” as far as the English language goes. But these two are very different in JS, and this error message unfortunately creates a persistent confusion. “Not defined” really means “not declared”—or, rather, “undeclared,” as in a variable that has no matching formal declaration in any lexically available scope. By contrast, “undefined” really means a variable was found (declared), but the variable otherwise has no other value in it at the moment, so it defaults to the `undefined` value.
+
+```js
+var studentName;
+typeof studentName;     // "undefined"
+typeof doesntExist;     // "undefined"
+```
+These two variable references are in very different conditions, but JS sure does muddy the waters.
+
+Never rely on accidental global variables. Always use strict-mode, and always formally declare your variables. You’ll then get a helpful `ReferenceError` if you ever mistakenly try to assign to a not-declared variable.
+
+#### Building On Metaphors
+
+![Fig. 3: Scope “Building”](./assets/figure3.png)
+
+You resolve a target or source variable reference by first looking on the current floor, and if you don’t find it, taking the elevator to the next floor (i.e., an outer scope), looking there, then the next, and so on. Once you get to the top floor (the global scope), you either find what you’re looking for, or you don’t. But you have to stop regardless.
+
+### Continue the Conversation
+
+## Chapter 3: The Scope Chain
+  
+  
+  
+  
+  
+  
+  - "Lookup" Is (Mostly) Conceptual
     - Shadowing
     - Function Name Scope
     - Arrow Functions
