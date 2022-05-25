@@ -456,15 +456,168 @@ You resolve a target or source variable reference by first looking on the curren
 
 ## Chapter 3: The Scope Chain
   
+It really does help to take the time to reformulate these ideas as explanations to others. That helps our brains digest what we’re learning!
+
+
+![Fig. 2 (Ch. 2): Colored Scope Bubbles](./assets/figure2.png)
+
+The connections between scopes that are nested within other scopes is called the scope chain, which determines the path along which variables can be accessed. The chain is directed, meaning the lookup moves upward/outward only.
+
+### "Lookup" Is (Mostly) Conceptual
+
+Since the marble’s color is known from compilation, and it’s immutable, this information would likely be stored with (or at least accessible from) each variable’s entry in the AST; that information is then used explicitly by the executable instructions that constitute the program’s runtime. In other words, Engine (from Chapter 2) doesn’t need to lookup through a bunch of scopes to figure out which scope bucket a variable comes from. That information is already known! Avoiding the need for a runtime lookup is a key optimization benefit of lexical scope.
+
+In what case would it ever not be known during compilation? Consider a reference to a variable that isn’t declared in any lexically available scopes in the current file—see Get Started, Chapter 1, which asserts that each file is its own separate program from the perspective of JS compilation. If no declaration is found, that’s not necessarily an error. Another file (program) in the runtime may indeed declare that variable in the shared global scope. So the ultimate determination of whether the variable was ever appropriately declared in some accessible bucket may need to be deferred to the runtime.
+
+Any reference to a variable that’s initially undeclared is left as an uncolored marble during that file’s compilation; this color cannot be determined until other relevant file(s) have been compiled and the application runtime commences. That deferred lookup will eventually resolve the color to whichever scope the variable is found in (likely the global scope).
+
+### Shadowing
+
+if you need to maintain two or more variables of the same name, you must use separate (often nested) scopes. And in that case, it’s very relevant how the different scope buckets are laid out.
+
+```js
+var studentName = "Suzy";
+
+function printStudent(studentName) {
+    studentName = studentName.toUpperCase();
+    console.log(studentName);
+}
+printStudent("Frank");
+// FRANK
+
+printStudent(studentName);
+// SUZY
+
+console.log(studentName);
+// Suzy
+```
+
+The `studentName` variable on line 1 (the var `studentName =` .. statement) creates a RED(1) marble. The same named variable is declared as a BLUE(2) marble on line 3, the parameter in the `printStudent(..)` function definition. What color marble will `studentName` be in the `studentName = studentName.toUpperCase()` assignment statement and the `console.log(studentName)` statement? All three `studentName` references will be BLUE(2).
+
+The BLUE(2) `studentName` variable (parameter) shadows the RED(1) `studentName`. So, the parameter is shadowing the (shadowed) global variable... ...any `studentName` identifier reference will correspond to that parameter variable, never the global `studentName` variable. It’s lexically impossible to reference the global `studentName` anywhere inside of the `printStudent(..)` function (or from any nested scopes).
+
+#### Global Unshadowing Trick
+
+```js
+var studentName = "Suzy";
+
+function printStudent(studentName) {
+    console.log(studentName);
+    console.log(window.studentName);
+}
+
+printStudent("Frank");
+// "Frank"
+// "Suzy"
+```
+
+Notice the `window.studentNam`e reference? This expression is accessing the global variable `studentName` as a property on `window` (which we’re pretending for now is synonymous with the global object). That’s the only way to access a shadowed variable from inside a scope where the shadowing variable is present.
+
+Remember: just because you can doesn’t mean you should.
+
+Don’t shadow a global variable that you need to access, and conversely, avoid using this trick to access a global variable that you’ve shadowed. 
+
+Don’t confuse readers of your code by creating global variables as `window` properties instead of with formal declarations!
+
+This little “trick” only works for accessing a global scope variable (not a shadowed variable from a nested scope), and even then, only one that was declared with `var` or `function`. Other forms of global scope declarations do not create mirrored global object properties:
+```js
+var one = 1;
+let notOne = 2;
+const notTwo = 3;
+class notThree {}
+
+console.log(window.one);       // 1
+console.log(window.notOne);    // undefined
+console.log(window.notTwo);    // undefined
+console.log(window.notThree);  // undefined
+```
+
+Variables (no matter how they’re declared!) that exist in any other scope than the global scope are completely inaccessible from a scope where they’ve been shadowed:
+
+```js
+var special = 42;
+
+function lookingFor(special) {
+    // The identifier `special` (parameter) in this
+    // scope is shadowed inside keepLooking(), and
+    // is thus inaccessible from that scope.
+
+    function keepLooking() {
+        var special = 3.141592;
+        console.log(special);
+        console.log(window.special);
+    }
+
+    keepLooking();
+}
+
+lookingFor(112358132134);
+// 3.141592
+// 42
+```
+
+#### Copying Is Not Accessing
+
+```js
+var special = 42;
+
+function lookingFor(special) {
+    var another = {
+        special: special
+    };
+
+    function keepLooking() {
+        var special = 3.141592;
+        console.log(special);
+        console.log(another.special);  // Ooo, tricky!
+        console.log(window.special);
+    }
+
+ 
+    keepLooking();
+}
+
+lookingFor(112358132134);
+// 3.141592
+// 112358132134
+// 42
+```
+
+`special: special` is copying the value of the `special` parameter variable into another container (a property of the same name). Of course, if you put a value in another container, shadowing no longer applies (unless `another` was shadowed, too!). But that doesn’t mean we’re accessing the parameter `special`; it means we’re accessing the copy of the value it had at that moment, by way of another container (object property). We cannot reassign the BLUE(2) `special` parameter to a different value from inside `keepLooking()`.
+
+what if I’d used objects or arrays as the values instead of the numbers (`112358132134`, etc.)? Would us having references to objects instead of copies of primitive values “fix” the inaccessibility? No. Mutating the contents of the object value via a reference copy is not the same thing as lexically accessing the variable itself. We still can’t reassign the BLUE(2) `special` parameter.
+
+#### Illegal Shadowing
+
+`let` can shadow `var`, but `var` cannot shadow `let`... ...`let` (in an inner scope) can always shadow an outer scope’s `var`. `var` (in an inner scope) can only shadow an outer scope’s `let` if there is a function boundary in between.
+
+
+### Function Name Scope
+
+A `function` expression with a name identifier is referred to as a “named function expression,” but one without a name identifier is referred to as an “anonymous function expression.” Anonymous function expressions clearly have no name identifier that affects either scope.
+
+### Arrow Functions
+
+Arrow functions are lexically anonymous, meaning they have no directly related identifier that references the function. The assignment to `askQuestion` creates an inferred name of “askQuestion”, but that’s not the same thing as being non-anonymous:
+
+```js
+var askQuestion = () => {
+    // ..
+};
+
+askQuestion.name;   // askQuestion
+```
+
+
+
+
+
   
   
   
-  
-  
-  - "Lookup" Is (Mostly) Conceptual
-    - Shadowing
-    - Function Name Scope
-    - Arrow Functions
+  - 
+    
+
     - Backing Out
 - Chapter 4: Around the Global Scope
     - Why Global Scope?
