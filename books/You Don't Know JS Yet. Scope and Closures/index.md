@@ -608,20 +608,114 @@ var askQuestion = () => {
 askQuestion.name;   // askQuestion
 ```
 
+Arrow functions somehow behave differently with respect to lexical scope from standard function functions. This is incorrect. Other than being anonymous (and having no declarative form), => arrow functions have the same lexical scope rules as function functions do. An arrow function, with or without { .. } around its body, still creates a separate, inner nested bucket of scope. Variable declarations inside this nested scope bucket behave the same as in a function scope.
+
+### Backing Out
+
+## Chapter 4: Around the Global Scope
+
+This chapter first explores how the global scope is (still) useful and relevant to writing JS programs today, then looks at differences in where and how to access the global scope in different JS environments. Fully understanding the global scope is critical in your mastery of using lexical scope to structure your programs.
+
+### Why Global Scope?
+
+How exactly do all those separate files get stitched together in a single runtime context by the JS engine? With respect to browser-executed applications, there are three main ways. First, if you’re directly using ES modules (not transpiling them into some other module-bundle format), these files are loaded individually by the JS environment. Each module then `imports` references to whichever other modules it needs to access. The separate module files cooperate with each other exclusively through these shared imports, without needing any shared outer scope. Second, if you’re using a bundler in your build process, all the files are typically concatenated together before delivery to the browser and JS engine, which then only processes one big file. Even with all the pieces of the application co-located in a single file, some mechanism is necessary for each piece to register a name to be referred to by other pieces, as well as some facility for that access to occur.
+
+And finally, the third way: whether a bundler tool is used for an application, or whether the (non-ES module) files are simply loaded in the browser individually (via `<script>` tags or other dynamic JS resource loading), if there is no single surrounding scope encompassing all these pieces, the global scope is the only way for them to cooperate with each other:
+
+In addition to (potentially) accounting for where an application’s code resides during runtime, and how each piece is able to access the other pieces to cooperate, the global scope is also where: 
+
+- JS exposes its built-ins: 
+    - primitives: `undefined`, `null`, `Infinity`, `NaN`
+    - natives: `Date()`, `Object()`, `String()`, etc.
+    - global functions: `eval()`, `parseInt()`, etc. 
+    - namespaces: `Math`, `Atomics`, `JSON` 
+    - friends of JS: `Intl`, `WebAssembly`
+
+- The environment hosting the JS engine exposes its own built-ins:
+    - `console` (and its methods) 
+    - the DOM (`window`, `document`, etc)
+    - timers (`setTimeout(..)`, etc) 
+    - web platform APIs: `navigator`, `history`, geolocation, WebRTC, etc.
+
+These are just some of the many globals your programs will interact with.
+
+Node also exposes several elements “globally,” but they’re technically not in the `global` scope: `require()`, `__dirname`, `module`, `URL`, and so on.
+
+the global scope is an important glue for practically every JS application.
+
+### Where Exactly is this Global Scope?
+
+#### Browser “Window”
+
+With respect to treatment of the global scope, the most pure environment JS can be run in is as a standalone .js file loaded in a web page environment in a browser. Consider this .js file:
+
+```js
+var studentName = "Kyle";
+
+function hello() {
+    console.log(`Hello, ${ studentName }!`);
+}
+
+hello();
+// Hello, Kyle!
+```
+
+If you access the global object (commonly, window in the browser), you’ll find properties of those same names there: 
+
+```js
+var studentName = "Kyle";
+
+function hello() {
+    console.log(`Hello, ${ window.studentName }!`);
+}
+
+window.hello();
+// Hello, Kyle!
+```
+
+That’s the default behavior one would expect from a reading of the JS specification: the outer scope is the global scope and `studentName` is legitimately created as global variable. That’s what I mean by pure. But unfortunately, that won’t always be true of all JS environments you encounter, and that’s often surprising to JS developers.
+
+#### Globals Shadowing Globals
+
+```js
+window.something = 42;
+
+let something = "Kyle";
+
+console.log(something);
+// Kyle
+
+console.log(window.something);
+// 42
+```
+
+The `let` declaration adds a `something` global variable but not a global object property (see Chapter 3). The effect then is that the `something` lexical identifier shadows the `something` global object property.
+
+Always use `var` for globals. Reserve `let` and `const` for block scopes.
+
+a DOM element with an `id` attribute automatically creates a global variable that references it. Consider this markup:
+
+```html
+<ul id="my-todo-list">
+   <li id="first">Write a book</li>
+   ..
+</ul>
+```
+
+And the JS for that page could include:
+
+```html
+first;
+// <li id="first">..</li>
+
+window["my-todo-list"];
+// <ul id="my-todo-list">..</ul>
+```
+
+If the id value is a valid lexical name (like `first`), the lexical variable is created. If not, the only way to access that global is through the global object (`window[..]`)... ...never to use these global variables, even though they will always be silently created.
 
 
 
-
-  
-  
-  
-  - 
-    
-
-    - Backing Out
-- Chapter 4: Around the Global Scope
-    - Why Global Scope?
-    - Where Exactly is this Global Scope?
     - Global This
     - Globally Aware
 - Chapter 5: The (Not So) Secret Lifecycle of Variables
