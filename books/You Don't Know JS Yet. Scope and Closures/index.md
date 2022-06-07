@@ -811,10 +811,30 @@ module.exports.hello = hello;
 
 ### Global This
 
+Reviewing the JS environments we’ve looked at so far, a program may or may not:
+
+- Declare a global variable in the top-level scope with `var` or `function` declarations—or `let`, `const`, and `class`.
+- Also add global variables declarations as properties of the global scope object if `var` or `function` are used for the declaration.
+- Refer to the global scope object (for adding or retrieving global variables, as properties) with `window`, `self`, or `global`.
+
+“trick” for obtaining a reference to the global scope object looks like:
+
+```js
+const theGlobalScopeObject =
+    (new Function("return this"))();
+```
+
+As of ES2020, JS has finally defined a standardized reference to the global scope object, called `globalThis`. So, subject to the recency of the JS engines your code runs in, you can use `globalThis` in place of any of those other approaches.
+
+A better name... ...laughably long but accurate!
+
+### Globally Aware
+
+It’s especially important we have a solid grasp on the differences in how the global scope (and global scope object!) behave across different JS environments.
 
 
 
-    - Globally Aware
+    - 
 - Chapter 5: The (Not So) Secret Lifecycle of Variables
     - When Can I Use a Variable?
     - Hoisting: Yet Another Metaphor
