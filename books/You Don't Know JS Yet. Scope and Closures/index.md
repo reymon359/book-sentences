@@ -832,46 +832,274 @@ A better name... ...laughably long but accurate!
 
 It’s especially important we have a solid grasp on the differences in how the global scope (and global scope object!) behave across different JS environments.
 
+## Chapter 5: The (Not So) Secret Lifecycle of Variables
+
+JS’s particular flavor of lexical scope is rich with nuance in how and when variables come into existence and become available to the program.
+
+### When Can I Use a Variable?
+
+```js
+greeting();
+// Hello!
+
+function greeting() {
+    console.log("Hello!");
+}
+```
+
+all identifiers are registered to their respective scopes during compile time. Moreover, every identifier is created at the beginning of the scope it belongs to, every time that scope is entered.
+
+a variable being visible from the beginning of its enclosing scope, even though its declaration may appear further down in the scope, is called hoisting.
+
+_function hoisting_. When a `function` declaration’s name identifier is registered at the top of its scope, it’s additionally auto-initialized to that function’s reference. That’s why the function can be called throughout the entire scope!... ...function hoisting and `var`-flavored variable hoisting attach their name identifiers to the nearest enclosing function scope (or, if none, the global scope), not a block scope.
+
+#### Hoisting: Declaration vs. Expression
+
+```js
+greeting();
+// TypeError
+
+var greeting = function greeting() {
+    console.log("Hello!");
+};
+```
+
+Line 1 (`greeting();`) throws an error. But the kind of error thrown is very important to notice. A `TypeError` means we’re trying to do something with a value that is not allowed. Depending on your JS environment, the error message would say something like, “‘undefined’ is not a function,” or more helpfully, “‘greeting’ is not a function.”... ...`greeting` was found but doesn’t hold a function reference at that moment. 
+
+Only functions can be invoked, so attempting to invoke some non-function value results in an error.
+
+on that first line, `greeting` exists, but it holds only the default `undefined` value. It’s not until line 4 that `greeting` gets assigned the function reference.
+
+Pay close attention to the distinction here. A `function` declaration is hoisted and initialized to its function value (again, called function hoisting). A `var` variable is also hoisted, and then auto-initialized to `undefined`. Any subsequent `function` expression assignments to that variable don’t happen until that assignment is processed during runtime execution.
+
+### Hoisting: Yet Another Metaphor
+
+Rather than hoisting being a concrete execution step the JS engine performs, it’s more useful to think of hoisting as a visualization of various actions JS takes in setting up the program before execution.
+
+```js
+studentName = "Suzy";
+greeting();
+// Hello Suzy!
+
+function greeting() {
+    console.log(`Hello ${ studentName }!`);
+}
+var studentName;
+```
+
+The “rule” of the hoisting metaphor is that function declarations are hoisted first, then variables are hoisted immediately after all the functions. Thus, the hoisting story suggests that program is re-arranged by the JS engine to look like this:
+
+```js
+function greeting() {
+    console.log(`Hello ${ studentName }!`);
+}
+var studentName;
+
+studentName = "Suzy";
+greeting();
+// Hello Suzy!
+```
+
+If the hoisting metaphor is (at best) inaccurate, what should we do with the term? I think it’s still useful—indeed, even members of TC39 regularly use it!—but I don’t think we should claim it’s an actual re-arrangement of source code.
+
+Hoisting should be used to refer to the compile-time operation of generating runtime instructions for the automatic registration of a variable at the beginning of its scope, each time that scope is entered. That’s a subtle but important shift, from hoisting as a runtime behavior to its proper place among compile-time tasks.
+
+### Re-declaration?
+
+```js
+var studentName = "Frank";
+console.log(studentName);
+// Frank
+
+var studentName;
+console.log(studentName);   // ???
+```
+
+If you consider this program from the perspective of the hoisting metaphor, the code would be re-arranged like this for execution purposes:
+
+```js
+var studentName;
+var studentName;    // clearly a pointless no-op!
+
+studentName = "Frank";
+console.log(studentName);
+// Frank
+
+console.log(studentName);
+ 
+// Frank
+```
+
+```js
+var greeting;
+
+function greeting() {
+    console.log("Hello!");
+}
+
+// basically, a no-op
+var greeting;
+
+typeof greeting;        // "function"
+
+var greeting = "Hello!";
+
+typeof greeting;        // "string"
+```
+
+The first `greeting` declaration registers the identifier to the scope, and because it’s a `var` the auto-initialization will be `undefined`. The `function` declaration doesn’t need to re-register the identifier, but because of function hoisting it overrides the auto-initialization to use the function reference. The second `var` `greeting` by itself doesn’t do anything since `greeting` is already an identifier and function hoisting already took precedence for the auto-initialization.
+
+```js
+let studentName = "Frank";
+
+console.log(studentName);
+
+let studentName = "Suzy";
+```
+
+This program will not execute, but instead immediately throw a `SyntaxError`. Depending on your JS environment, the error message will indicate something like: “studentName has already been declared.” In other words, this is a case where attempted “re-declaration” is explicitly not allowed!
+It’s not just that two declarations involving `let` will throw this error. If either declaration uses `let`, the other can be either `let` or `var`, and the error will still occur, as illustrated with these two variations:
+
+```js
+var studentName = "Frank";
+
+let studentName = "Suzy";
+```
+and:
+
+```js
+let studentName = "Frank";
+
+var studentName = "Suzy";
+```
+
+In both cases, a `SyntaxError` is thrown on the second declaration. In other words, the only way to “re-declare” a variable is to use `var` for all (two or more) of its declarations.
+
+“Re-declaration” of variables is seen by some, including many on the TC39 body, as a bad habit that can lead to program bugs. So when ES6 introduced `let`, they decided to prevent “re-declaration” with an error.
+
+#### Constants?
+
+`const` declarations create variables that cannot be re-assigned:
+
+```js
+const studentName = "Frank";
+console.log(studentName);
+// Frank
+
+studentName = "Suzy";   // TypeError
+```
+
+The `studentName` variable cannot be re-assigned because it’s declared with a `const`.
+
+Syntax errors represent faults in the program that stop it from even starting execution. Type errors represent faults that arise during program execution. In the preceding snippet, `"Frank"` is printed out before we process the re-assignment of `studentName`, which then throws the error.
+
+#### Loops
+
+```js
+var keepGoing = true;
+while (keepGoing) {
+    let value = Math.random();
+    if (value > 0.5) {
+        keepGoing = false;
+    }
+}
+```
+
+Is `value` being “re-declared” repeatedly in this program? Will we get errors thrown? No. All the rules of scope (including “re-declaration” of `let`-created variables) are applied per scope instance. In other words, each time a scope is entered during execution, everything resets. Each loop iteration is its own new scope instance, and within each scope instance, value is only being declared once. 
+
+One way to keep this all straight is to remember that `var`, `let`, and `const` keywords are effectively removed from the code by the time it starts to execute. They’re handled entirely by the compiler. If you mentally erase the declarator keywords and then try to process the code, it should help you decide if and when (re-)declarations might occur.
+
+```js
+for (const i = 0; i < 3; i++) {
+    // oops, this is going to fail with
+    // a Type Error after the first iteration
+}
+```
+
+What’s wrong here? We could use `let` just fine in this construct, and we asserted that it creates a new `i` for each loop iteration scope, so it doesn’t even seem to be a “re-declaration.” Let’s mentally “expand” that loop like we did earlier:
+
+```js
+{
+    // a fictional variable for illustration
+    const $$i = 0;
+
+    for ( ; $$i < 3; $$i++) {
+        // here's our actual loop `i`!
+        const i = $$i;
+        // ..
+    }
+}
+```
+
+Do you spot the problem? Our `i` is indeed just created once inside the loop. That’s not the problem. The problem is the conceptual `$$i` that must be incremented each time with the `$$i++` expression. That’s re-assignment (not “re-declaration”), which isn’t allowed for constants.
+
+`const` can’t be used with the classic `for`-loop form because of the required re-assignment.
+
+### Uninitialized Variables (aka, TDZ)
+
+With `var` declarations, the variable is “hoisted” to the top of its scope. But it’s also automatically initialized to the `undefined` value, so that the variable can be used throughout the entire scope. However, `let` and `const` declarations are not quite the same in this respect.
+
+```js
+console.log(studentName);
+ 
+// ReferenceError
+
+let studentName = "Suzy";
+```
+
+The result of this program is that a `ReferenceError` is thrown on the first line. Depending on your JS environment, the error message may say something like: “Cannot access studentName before initialization.”
 
 
-    - 
-- Chapter 5: The (Not So) Secret Lifecycle of Variables
-    - When Can I Use a Variable?
-    - Hoisting: Yet Another Metaphor
-    - Re-declaration?
-    - Uninitialized Variables (aka, TDZ)
-    - Finally Initialized
-- Chapter 6: Limiting Scope Exposure
-    - Least Exposure
-    - Hiding in Plain (Function) Scope
-    - Scoping with Blocks
-    - Function Declarations in Blocks
-    - Blocked Over
-- Chapter 7: Using Closures
-    - See the Closure
-    - The Closure Lifecycle and Garbage Collection (GC)
-    - Why Closure?
-    - An Alternative Perspective
-    - Closer to Closure
-- Chapter 8: The Module Pattern
-    - Encapsulation and Least Exposure (POLE)
-    - What is a Module?
-    - Node CommonJS Modules
-    - Modern ES Modules (ESM)
-    - Exit Scope
-- Appendix A: Exploring Further
-    - Implied Scopes
-    - Anonymous vs. Named Functions
-    - Hoisting: Functions and Variables
-    - The Case for `var`
-    - What's the Deal with TDZ?
-    - Are Synchronous Callbacks Still Closures?
-    - Classic Module Variations
-- Appendix B: Practice
-    - Buckets of Marbles
-    - Closure (PART 1)
-    - Closure (PART 2)
-    - Closure (PART 3)
-    - Modules
-    - Suggested Solutions
+```js
+// ..
+
+let studentName;
+
+// or:
+// let studentName = undefined;
+
+// ..
+
+studentName = "Suzy";
+
+console.log(studentName);
+// Suzy
+```
+
+we said that var `studentName`; is not the same as `var studentName = undefined;`, but here with `let`, they behave the same. The difference comes down to the fact that `var studentName` automatically initializes at the top of the scope, where `let studentName` does not.
+
+### Finally Initialized
+## Chapter 6: Limiting Scope Exposure
+### Least Exposure
+### Hiding in Plain (Function) Scope
+### Scoping with Blocks
+### Function Declarations in Blocks
+### Blocked Over
+## Chapter 7: Using Closures
+### See the Closure
+### The Closure Lifecycle and Garbage Collection (GC)
+### Why Closure?
+### An Alternative Perspective
+### Closer to Closure
+## Chapter 8: The Module Pattern
+### Encapsulation and Least Exposure (POLE)
+### What is a Module?
+### Node CommonJS Modules
+### Modern ES Modules (ESM)
+### Exit Scope
+## Appendix A: Exploring Further
+### Implied Scopes
+### Anonymous vs. Named Functions
+### Hoisting: Functions and Variables
+### The Case for `var`
+### What's the Deal with TDZ?
+### Are Synchronous Callbacks Still Closures?
+### Classic Module Variations
+## Appendix B: Practice
+### Buckets of Marbles
+### Closure (PART 1)
+### Closure (PART 2)
+### Closure (PART 3)
+### Modules
+### Suggested Solutions
 
