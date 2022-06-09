@@ -1068,14 +1068,275 @@ console.log(studentName);
 
 we said that var `studentName`; is not the same as `var studentName = undefined;`, but here with `let`, they behave the same. The difference comes down to the fact that `var studentName` automatically initializes at the top of the scope, where `let studentName` does not.
 
+Period of time from the entering of a scope to where the auto-initialization of the variable occurs is: Temporal Dead Zone (TDZ). The TDZ is the time window where a variable exists but is still uninitialized, and therefore cannot be accessed in any way. 
+
+A `var` also has technically has a TDZ, but it’s zero in length and thus unobservable to our programs! Only `let` and `const` have an observable TDZ.
+
+“temporal” in TDZ does indeed refer to time not position in code. 
+
+There’s a common misconception that TDZ means `let` and `const` do not hoist. This is an inaccurate, or at least slightly misleading, claim. They definitely hoist. The actual difference is that `let/const` declarations do not automatically initialize at the beginning of the scope, the way `var` does. The debate then is if the auto-initialization is part of hoisting, or not? I think auto-registration of a variable at the top of the scope (i.e., what I call “hoisting”) and auto-initialization at the top of the scope (to `undefined`) are distinct operations and shouldn’t be lumped together under the single term “hoisting.”
+
+TDZ errors occur because `let/const` declarations do hoist their declarations to the top of their scopes, but unlike `var`, they defer the auto-initialization of their variables until the moment in the code’s sequencing where the original declaration appeared. This window of time (hint: temporal), whatever its length, is the TDZ.
+
+Always put your let and const declarations at the top of any scope. Shrink the TDZ window to zero (or near zero) length, and then it’ll be moot.
+
 ### Finally Initialized
+
+Declaration and re-declaration of variables tend to cause confusion when thought of as runtime operations. But if you shift to compile-time thinking for these operations, the quirks and shadows diminish.
+
 ## Chapter 6: Limiting Scope Exposure
+
 ### Least Exposure
+
+Why do we need blocks to create scopes as well? Software engineering articulates a fundamental discipline, typically applied to software security, called “The Principle of Least Privilege” (POLP). 1 And a variation of this principle that applies to our current discussion is typically labeled as “Least Exposure” (POLE). POLP expresses a defensive posture to software architecture: components of the system should be designed to function with least privilege, least access, least exposure. If each piece is connected with minimum-necessary capabilities, the overall system is stronger from a security standpoint, because a compromise or failure of one piece has a minimized impact on the rest of the system.
+
+The POLE Exposure variant focuses on a lower level... ...what do we want to minimize the exposure of? Simply: the variables registered in each scope.
+
+Why shouldn’t you just place all the variables of your program out in the global scope?... ...When variables used by one part of the program are exposed to another part of the program, via scope, there are three main hazards that often arise:
+
+- Naming Collisions: if you use a common and useful variable/function name in two different parts of the program, but the identifier comes from one shared scope (like the global scope), then name collision occurs, 
+- Unexpected Behavior: if you expose variables/functions whose usage is otherwise private to a piece of the program, it allows other developers to use them in ways you didn’t intend, which can violate expected behavior and cause bugs... ...Worse, exposure of private details invites those with mal-intent to try to work around limitations you have imposed, to do things with your part of the software that shouldn’t be allowed.
+- Unintended Dependency: if you expose variables/functions unnecessarily, it invites other developers to use and depend on those otherwise private pieces. While that doesn’t break your program today, it creates a refactoring hazard in the future, 
+
+POLE, as applied to variable/function scoping, essentially says, default to exposing the bare minimum necessary, keeping everything else as private as possible. 
+
+```js
+function diff(x,y) {
+    if (x > y) {
+        let tmp = x;
+        x = y;
+        y = tmp;
+    }
+
+    return y - x;
+}
+diff(3,7);      // 4
+diff(7,5);      // 2
+```
+
+In this simple example, it doesn’t seem to matter whether `tmp` is inside the `if` block or whether it belongs at the function level—it certainly shouldn’t be a global variable! However, following the POLE principle, `tmp` should be as hidden in scope as possible. So we block scope `tmp` (using `let`) to the `if` block.
+
 ### Hiding in Plain (Function) Scope
+
+```js
+var factorial = (function hideTheCache() {
+    var cache = {};
+
+    function factorial(x) {
+        if (x < 2) return 1;
+        if (!(x in cache)) {
+            cache[x] = x * factorial(x - 1);
+        }
+        return cache[x];
+    }
+
+    return factorial;
+})();
+
+factorial(6);
+// 720
+
+factorial(7);
+// 5040
+```
+
+Since `hideTheCache(..)` is defined as a `function` expression instead of a `function` declaration, its name is in its own scope—essentially the same scope as `cache`—rather than in the outer/global scope. That means we can name every single occurrence of such a function expression the exact same name, and never have any collision. More appropriately, we can name each occurrence semantically based on whatever it is we’re trying to hide, and not worry that whatever name we choose is going to collide with any other `function` expression scope in the program.
+
+we surrounded the entire `function` expression in a set of `( .. )`, and then on the end, we added that second () parentheses set; that’s actually calling the `function` expression we just defined... ...Immediately Invoked Function Expression (IIFE).
+
+always surround an IIFE `function` with `( .. )`.
+
+a `return` statement in some piece of code would change its meaning if an IIFE is wrapped around it, because now the `return` would refer to the IIFE’s function.
+
+if the code you need to wrap a scope around has `return`, `this`, `break`, or `continue` in it, an IIFE is probably not the best approach. In that case, you might look to create the scope with a block instead of a function.
+
 ### Scoping with Blocks
+
+A block only becomes a scope if necessary, to contain its block-scoped declarations (i.e., `let` or `const`). Consider:
+
+```js
+{
+    // not necessarily a scope (yet)
+
+    // ..
+
+ 
+    // now we know the block needs to be a scope
+    let thisIsNowAScope = true;
+
+    for (let i = 0; i < 5; i++) {
+        // this is also a scope, activated each
+        // iteration
+        if (i % 2 == 0) {
+            // this is just a block, not a scope
+            console.log(i);
+        }
+    }
+}
+// 0 2 4
+```
+
+Explicit standalone `{ .. }` blocks have always been valid JS syntax, but since they couldn’t be a scope prior to ES6’s `let/const`, they are quite rare. However, post ES6, they’re starting to catch on a little bit.
+
+In most languages that support block scoping, an explicit block scope is an extremely common pattern for creating a narrow slice of scope for one or a few variables. So following the POLE principle, we should embrace this pattern more widespread in JS as well; use (explicit) block scoping to narrow the exposure of identifiers to the minimum practical.
+
+```js
+if (somethingHappened) {
+    // this is a block, but not a scope
+
+    {
+        // this is both a block and an
+        // explicit scope
+        let msg = somethingHappened.message();
+        notifyOthers(msg);
+    }
+
+    // ..
+
+    recoverFromSomething();
+}
+```
+
+Does it matter enough to add the extra `{ .. }` pair and indentation level? I think you should follow POLE and always (within reason!) define the smallest block for each variable. So I recommend using the extra explicit block scope as shown.
+
+the benefits of the POLE principle are best achieved when you adopt the mindset of minimizing scope exposure by default, as a habit.
+
+Why not just use `let` in that same location? Because `var` is visually distinct from `let` and therefore signals clearly, “this variable is function-scoped.” Using `let` in the top-level scope, especially if not in the first few lines of a function, and when all the other declarations in blocks use `let`, does not visually draw attention to the difference with the function-scoped declaration.
+
+As long as your programs are going to need both function-scoped and block-scoped variables, the most sensible and readable approach is to use both `var` and `let` together, each for their own best purpose.
+
+WARNING:
+My recommendation to use both `var` and `let` is clearly controversial and contradicts the majority. It’s far more common to hear assertions like, “var is broken, let fixes it” and, “never use var, let is the replacement.” Those opinions are valid, but they’re merely opinions, just like mine. `var` is not factually broken or deprecated; it has worked since early JS and it will continue to work as long as JS is around.
+
+how to decide where each declaration in your program belongs? POLE already guides you on those decisions, but let’s make sure we explicitly state it... ...The way to decide is to ask, “What is the most minimal scope exposure that’s sufficient for this variable?”
+
+Since the introduction of `try..catch` back in ES3 (in 1999), the `catch` clause has used an additional (little-known) block-scoping declaration capability:
+
+ES2019 (recently, at the time of writing) changed `catch` clauses so their declaration is optional; if the declaration is omitted, the `catch` block is no longer (by default) a scope; it’s still a block, though! So if you need to react to the condition that an exception occurred (so you can gracefully recover), but you don’t care about the error value itself, you can omit the `catch` declaration:
+
+```js
+try {
+    doOptionOne();
+}
+catch {   // catch-declaration omitted
+    doOptionTwoInstead();
+}
+```
+
+This is a small but delightful simplification of syntax for a fairly common use case, and may also be slightly more performant in removing an unnecessary scope!
+
 ### Function Declarations in Blocks
+
+`function` declarations that appear directly inside blocks? As a feature, this is called “FiB.”
+
+```js
+if (false) {
+    function ask() {
+        console.log("Does this run?");
+    }
+}
+ask();
+```
+
+The JS specification says that `function` declarations inside of blocks are block-scoped, so the answer should be (1). However, most browser-based JS engines (including v8, which comes from Chrome but is also used in Node) will behave as (2), meaning the identifier is scoped outside the `if` block but the function value is not automatically initialized, so it remains `undefined`. Why are browser JS engines allowed to behave contrary to the specification? Because these engines already had certain behaviors around FiB before ES6 introduced block scoping, and there was concern that changing to adhere to the specification might break some existing website JS code.
+
+It’s not my intention to document all these weird corner cases, nor to try to explain why each of them behaves a certain way. That information is, in my opinion, arcane legacy trivia.
+
+the only practical answer to avoiding the vagaries of FiB is to simply avoid FiB entirely. In other words, never place a `function` declaration directly inside any block. Always place `function` declarations anywhere in the top-level scope of a function (or in the global scope).
+
+Even if you test your program and it works correctly, the small benefit you may derive from using FiB style in your code is far outweighed by the potential risks in the future for confusion by other developers, or variances in how your code runs in other JS environments.
+
+FiB is not worth it, and should be avoided.
+
 ### Blocked Over
+
+The point of lexical scoping rules in a programming language is so we can appropriately organize our program’s variables, both for operational as well as semantic code communication purposes.
+
+One of the most important organizational techniques is to ensure that no variable is over-exposed to unnecessary scopes (POLE).
+
 ## Chapter 7: Using Closures
+
+Our broad goal in this book is not merely to understand scope, but to more effectively use it in the structure of our programs; closure is central to that effort.
+
+for variables we need to use over time, instead of placing them in larger outer scopes, we can encapsulate (more narrowly scope) them but still preserve access from inside functions, for broader use. Functions remember these referenced scoped variables via closure.
+
+If you’ve ever written a callback that accesses variables outside its own scope… guess what!? That’s closure.
+
+Getting comfortable with closure is required for mastering JS and effectively leveraging many important design patterns throughout your code.
+
+I’m going to focus on a practical perspective. We’ll start by defining closure in terms of what we can observe in different behavior of our programs, as opposed to if closure was not present in JS. However, later in this chapter, we’re going to flip closure around to look at it from an alternative perspective.
+
+Closure is a behavior of functions and only functions. If you aren’t dealing with a function, closure does not apply
+
+For closure to be observed, a function must be invoked, and specifically it must be invoked in a different branch of the scope chain from where it was originally defined. A function executing in the same scope it was defined would not exhibit any observably different behavior with or without closure being possible; by the observational perspective and definition, that is not closure.
+
+Let’s look at some code, annotated with its relevant scope bubble colors (see Chapter 2):
+
+```js
+// outer/global scope: RED(1)
+
+function lookupStudent(studentID) {
+    // function scope: BLUE(2)
+
+    var students = [
+        { id: 14, name: "Kyle" },
+ 
+        { id: 73, name: "Suzy" },
+        { id: 112, name: "Frank" },
+        { id: 6, name: "Sarah" }
+    ];
+
+    return function greetStudent(greeting){
+        // function scope: GREEN(3)
+
+        var student = students.find(
+            student => student.id == studentID
+        );
+
+        return `${ greeting }, ${ student.name }!`;
+    };
+}
+
+var chosenStudents = [
+    lookupStudent(6),
+    lookupStudent(112)
+];
+
+// accessing the function's name:
+chosenStudents[0].name;
+// greetStudent
+chosenStudents[0]("Hello");
+// Hello, Sarah!
+
+chosenStudents[1]("Howdy");
+// Howdy, Frank!
+```
+
+The first thing to notice about this code is that the `lookupStudent(..)` outer function creates and returns an inner function called `greetStudent(..)`. `lookupStudent(..)` is called twice, producing two separate instances of its inner `greetStudent(..)` function, both of which are saved into the `chosenStudents` array.
+
+We verify that’s the case by checking the `.name` property of the returned function saved in `chosenStudents[0]`, and it’s indeed an instance of the inner `greetStudent(..)`.
+
+After each call to `lookupStudent(..)` finishes, it would seem like all its inner variables would be discarded and GC’d (garbage collected). The inner function is the only thing that seems to be returned and preserved. But here’s where the behavior differs in ways we can start to observe.
+
+While `greetStudent(..)` does receive a single argument as the parameter named `greeting`, it also makes reference to both `students` and `studentID`, identifiers which come from the enclosing scope of `lookupStudent(..)`. 
+
+Each of those references from the inner function to the variable in an outer scope is called a closure. In academic terms, each instance of `greetStudent(..)` closes over the outer variables `students` and `studentID`.
+
+So what do those closures do here, in a concrete, observable sense?
+
+Closure allows `greetStudent(..)` to continue to access those outer variables even after the outer scope is finished (when each call to `lookupStudent(..)` completes). Instead of the instances of `students` and `studentID` being GC’d, they stay around in memory. At a later time when either instance of the `greetStudent(..)` function is invoked, those variables are still there, holding their current values.
+
+If JS functions did not have closure, the completion of each `lookupStudent(..)` call would immediately tear down its scope and GC the students and `studentID` variables. When we later called one of the `greetStudent(..)` functions, what would then happen?
+
+If `greetStudent(..)` tried to access what it thought was a BLUE(2) marble, but that marble did not actually exist (anymore), the reasonable assumption is we should get a `ReferenceError`, right?
+
+But we don’t get an error. The fact that the execution of `chosenStudents[0]("Hello")` works and returns us the message “Hello, Sarah!”, means it was still able to access the students and `studentID` variables. This is a direct observation of closure!
+
+#### Pointed Closure
+
+even tiny arrow functions can get in on the closure party.
+
+
 ### See the Closure
 ### The Closure Lifecycle and Garbage Collection (GC)
 ### Why Closure?
