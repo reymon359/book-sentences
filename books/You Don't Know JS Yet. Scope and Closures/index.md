@@ -1504,12 +1504,437 @@ This alternative model for closure does affect whether we classify synchronous c
 
 ### Why Closure?
 
+```js
+var APIendpoints = {
+    studentIDs:
+        "https://some.api/register-students",
+    // ..
+};
+
+var data = {
+    studentIDs: [ 14, 73, 112, 6 ],
+    // ..
+};
+
+function makeRequest(evt) {
+    var btn = evt.target;
+    var recordKind = btn.dataset.kind;
+    ajax(
+        APIendpoints[recordKind],
+        data[recordKind]
+    );
+ 
+}
+
+// <button data-kind="studentIDs">
+//    Register Students
+// </button>
+btn.addEventListener("click",makeRequest);
+```
+
+Let’s try using closure to improve the code:
+
+```js
+var APIendpoints = {
+    studentIDs:
+        "https://some.api/register-students",
+    // ..
+};
+
+var data = {
+    studentIDs: [ 14, 73, 112, 6 ],
+    // ..
+};
+
+function setupButtonHandler(btn) {
+    var recordKind = btn.dataset.kind;
+
+    btn.addEventListener(
+        "click",
+        function makeRequest(evt){
+            ajax(
+                APIendpoints[recordKind],
+                data[recordKind]
+            );
+        }
+    );
+}
+
+// <button data-kind="studentIDs">
+//    Register Students
+// </button>
+
+setupButtonHandler(btn);
+```
+
+With the `setupButtonHandler(..)` approach, the `data-kind` attribute is retrieved once and assigned to the `recordKind` variable at initial setup. `recordKind` is then closed over by the inner `makeRequest(..)` click handler, and its value is used on each event firing to look up the URL and data that should be sent.
+
+By placing `recordKind` inside `setupButtonHandler(..)`, we limit the scope exposure of that variable to a more appropriate subset of the program; storing it globally would have been worse for code organization and readability. Closure lets the inner `makeRequest()` function instance remember this variable and access whenever it’s needed.
+
+```js
+function setupButtonHandler(btn) {
+    var recordKind = btn.dataset.kind;
+    var requestURL = APIendpoints[recordKind];
+    var requestData = data[recordKind];
+
+    btn.addEventListener(
+        "click",
+        function makeRequest(evt){
+            ajax(requestURL,requestData);
+        }
+    );
+}
+```
+
+Now `makeRequest(..)` is closed over `requestURL` and `requestData`, which is a little bit cleaner to understand, and also slightly more performant.
+
+Partial application and currying. Briefly, with these techniques, we alter the shape of functions that require multiple inputs so some inputs are provided up front, and other inputs are provided later; the initial inputs are remembered via closure. Once all inputs have been provided, the underlying action is performed.
+
+```js
+function defineHandler(requestURL,requestData) {
+    return function makeRequest(evt){
+        ajax(requestURL,requestData);
+    };
+}
+
+function setupButtonHandler(btn) {
+    var recordKind = btn.dataset.kind;
+    var handler = defineHandler(
+        APIendpoints[recordKind],
+        data[recordKind]
+    );
+    btn.addEventListener("click",handler);
+}
+```
+
+Behavior-wise, this program is pretty similar to the previous one, with the same type of closure. But by isolating the creation of `makeRequest(..)` in a separate utility (`defineHandler(..)`), we make that definition more reusable across the program. We also explicitly limit the closure scope to only the two variables needed.
+
 ### Closer to Closure
+
+two models for mentally tackling closure:
+
+- Observational: closure is a function instance remembering its outer variables even as that function is passed to and invoked in other scopes.
+- Implementational: closure is a function instance and its scope environment preserved in-place while any references to it are passed around and invoked from other scopes.
+
+Summarizing the benefits to our programs:
+
+- Closure can improve efficiency by allowing a function instance to remember previously determined information instead of having to compute it each time.
+- Closure can improve code readability, bounding scope-exposure by encapsulating variable(s) inside function instances, while still making sure the information in those variables is accessible for future use. The resultant narrower, more specialized function instances are cleaner to interact with, since the preserved information doesn’t need to be passed in every invocation.
+
 ## Chapter 8: The Module Pattern
+
+One of the most important code organization patterns in all of programming: the module. As we’ll see, modules are inherently built from what we’ve already covered: the payoff for your efforts in learning lexical scope and closure.
+
+The central theme of this book has been that understanding and mastering scope and closure is key in properly structuring and organizing our code, especially the decisions on where to store information in variables. Our goal in this final chapter is to appreciate how modules embody the importance of these topics, elevating them from abstract concepts to concrete, practical improvements in building programs.
+
 ### Encapsulation and Least Exposure (POLE)
+
+The goal of encapsulation is the bundling or co-location of information (data) and behavior (functions) that together serve a common purpose.
+
+The recent trend in modern front-end programming to organize applications around Component architecture pushes encapsulation even further. 
+
+Group alike program bits together, and selectively limit programmatic access to the parts we consider private details. What’s not considered private is then marked as public, accessible to the whole program.
+
+The natural effect of this effort is better code organization. It’s easier to build and maintain software when we know where things are, with clear and obvious boundaries and connection points. It’s also easier to maintain quality if we avoid the pitfalls of over-exposed data and functionality.
+
 ### What is a Module?
+
+A module is a collection of related data and functions (often referred to as methods in this context), characterized by a division between hidden private details and public accessible details, usually called the “public API.” A module is also stateful: it maintains some information over time, along with functionality to access and update that information.
+
+#### Namespaces (Stateless Grouping)
+
+If you group a set of related functions together, without data, then you don’t really have the expected encapsulation a module implies. The better term for this grouping of stateless functions is a namespace:
+
+```js
+// namespace, not module
+var Utils = {
+    cancelEvt(evt) {
+        evt.preventDefault();
+        evt.stopPropagation();
+        evt.stopImmediatePropagation();
+    },
+    wait(ms) {
+        return new Promise(function c(res){
+            setTimeout(res,ms);
+        });
+    },
+    isValidEmail(email) {
+        return /[^@]+@[^@.]+\.[^@.]+/.test(email);
+    }
+};
+```
+
+That doesn’t make this a module. Rather, we’ve defined a `Utils` namespace and organized the functions under it.
+
+#### Data Structures (Stateful Grouping)
+
+Even if you bundle data and stateful functions together, if you’re not limiting the visibility of any of it, then you’re stopping short of the POLE aspect of encapsulation; it’s not particularly helpful to label that a module.
+
+Consider:
+
+```js
+// data structure, not module
+var Student = {
+    records: [
+        { id: 14, name: "Kyle", grade: 86 },
+        { id: 73, name: "Suzy", grade: 87 },
+        { id: 112, name: "Frank", grade: 75 },
+        { id: 6, name: "Sarah", grade: 91 }
+    ],
+    getName(studentID) {
+        var student = this.records.find(
+            student => student.id == studentID
+        );
+        return student.name;
+    }
+};
+
+Student.getName(73);
+// Suzy
+```
+
+Since `records` is publicly accessible data, not hidden behind a public API, `Student` here isn’t really a module. `Student` does have the data-and-functionality aspect of encapsulation, but not the visibility-control aspect. It’s best to label this an instance of a data structure.
+
+#### Modules (Stateful Access Control)
+
+To embody the full spirit of the module pattern, we not only need grouping and state, but also access control through visibility (private vs. public).
+
+```js
+var Student = (function defineStudent(){
+    var records = [
+        { id: 14, name: "Kyle", grade: 86 },
+        { id: 73, name: "Suzy", grade: 87 },
+        { id: 112, name: "Frank", grade: 75 },
+        { id: 6, name: "Sarah", grade: 91 }
+    ];
+
+    var publicAPI = {
+        getName
+    };
+
+    return publicAPI;
+
+    // ************************
+
+    function getName(studentID) {
+        var student = records.find(
+            student => student.id == studentID
+        );
+        return student.name;
+    }
+})();
+
+Student.getName(73);   // Suzy
+```
+
+`Student` is now an instance of a module. It features a public API with a single method: `getName(..)`. This method is able to access the private hidden `records` data.
+
+
+How does the classic module format work? Notice that the instance of the module is created by the `defineStudent()` IIFE being executed. This IIFE returns an object (named `publicAPI`) that has a property on it referencing the inner `getName(..)` function. Naming the object `publicAPI` is stylistic preference on my part. The object can be named whatever you like (JS doesn’t care), or you can just return an object directly without assigning it to any internal named variable. More on this choice in Appendix A.
+
+By virtue of how lexical scope works, defining variables and functions inside your outer module definition function makes everything by default private.
+
+The use of an IIFE implies that our program only ever needs a single central instance of the module, commonly referred to as a “singleton.” Indeed, this specific example is simple enough that there’s no obvious reason we’d need anything more than just one instance of the `Student` module.
+
+#### Module Factory (Multiple Instances)
+
+But if we did want to define a module that supported multiple instances in our program, we can slightly tweak the code:
+
+```js
+// factory function, not singleton IIFE
+function defineStudent() {
+    var records = [
+        { id: 14, name: "Kyle", grade: 86 },
+        { id: 73, name: "Suzy", grade: 87 },
+        { id: 112, name: "Frank", grade: 75 },
+        { id: 6, name: "Sarah", grade: 91 }
+    ];
+
+    var publicAPI = {
+        getName
+    };
+
+    return publicAPI;
+
+    // ************************
+
+ 
+    function getName(studentID) {
+        var student = records.find(
+            student => student.id == studentID
+        );
+        return student.name;
+    }
+}
+
+var fullTime = defineStudent();
+fullTime.getName(73);            // Suzy
+```
+
+Rather than specifying `defineStudent()` as an IIFE, we just define it as a normal standalone function, which is commonly referred to in this context as a “module factory” function.
+
+#### Classic Module Definition
+
+- There must be an outer scope, typically from a module factory function running at least once.
+- The module’s inner scope must have at least one piece of hidden information that represents state for the module.
+- The module must return on its public API a reference to at least one function that has closure over the hidden module state (so that this state is actually preserved).
+
 ### Node CommonJS Modules
+
+Unlike the classic module format described earlier, where you could bundle the module factory or IIFE alongside any other code including other modules, CommonJS modules are file-based; one module per file.
+
+```js
+module.exports.getName = getName;
+
+// ************************
+
+var records = [
+    { id: 14, name: "Kyle", grade: 86 },
+    { id: 73, name: "Suzy", grade: 87 },
+    { id: 112, name: "Frank", grade: 75 },
+    { id: 6, name: "Sarah", grade: 91 }
+];
+
+function getName(studentID) {
+    var student = records.find(
+        student => student.id == studentID
+    );
+    return student.name;
+}
+```
+
+Everything here is by default private to the module. To expose something on the public API of a CommonJS module, you add a property to the empty object provided as `module.exports`. 
+
+Some developers have the habit of replacing the default exports object, like this:
+
+```js
+// defining a new object for the API
+module.exports = {
+    // ..exports..
+};
+```
+
+There are some quirks with this approach, including unexpected behavior if multiple such modules circularly depend on each other. As such, I recommend against replacing the object. If you want to assign multiple exports at once, using object literal style definition, you can do this instead:
+
+```js
+Object.assign(module.exports,{
+   // .. exports ..
+});
+```
+
+What’s happening here is defining the `{ .. }` object literal with your module’s public API specified, and then `Object.assign(..)` is performing a shallow copy of all those properties onto the existing `module.exports` object, instead of replacing it This is a nice balance of convenience and safer module behavior. 
+
+To include another module instance into your module/program, use Node’s `require(..)` method. 
+
+```js
+var Student = require("/path/to/student.js");
+
+Student.getName(73);
+// Suzy
+```
+
+`Student` now references the public API of our example module.
+
+CommonJS modules behave as singleton instances, similar to the IIFE module definition style presented before. No matter how many times you `require(..)` the same module, you just get additional references to the single shared module instance.
+
+`require(..)` is an all-or-nothing mechanism; it includes a reference of the entire exposed public API of the module. To effectively access only part of the API, the typical approach looks like this:
+
+```js
+var getName = require("/path/to/student.js").getName;
+
+// or alternately:
+
+var { getName } = require("/path/to/student.js");
+```
+
+The publicly exported methods of a CommonJS module’s API hold closures over the internal module details. That’s how the module singleton state is maintained across the lifetime of your program.
+
 ### Modern ES Modules (ESM)
+
+ESM is file-based, and module instances are singletons, with everything private by default. One notable difference is that ESM files are assumed to be strict-mode, without needing a `"use strict"` pragma at the top... ...Instead of `module.exports` in CommonJS, ESM uses an `export` keyword to expose something on the public API of the module. The `import` keyword replaces the `require(..)` statement. 
+
+```js
+export { getName };
+
+// ************************
+
+var records = [
+    { id: 14, name: "Kyle", grade: 86 },
+    { id: 73, name: "Suzy", grade: 87 },
+    { id: 112, name: "Frank", grade: 75 },
+    { id: 6, name: "Sarah", grade: 91 }
+];
+
+function getName(studentID) {
+    var student = records.find(
+        student => student.id == studentID
+    );
+    return student.name;
+}
+```
+
+ESM offers a fair bit of variation on how the `export` statements can be specified. For example:
+
+```js
+export function getName(studentID) {
+    // .. 
+}
+```
+
+Even though `export` appears before the `function` keyword here, this form is still a `function` declaration that also happens to be exported. That is, the `getName` identifier is function hoisted (see Chapter 5), so it’s available throughout the whole scope of the module. Another allowed variation:
+
+```js
+export default function getName(studentID) {
+    // ..
+}
+```
+
+This is a so-called “default export,” which has different semantics from other exports. In essence, a “default export” is a shorthand for consumers of the module when they `import`, giving them a terser syntax when they only need this single default API member.
+
+“named import”:
+
+```js
+import { getName } from "/path/to/students.js";
+
+getName(73);   // Suzy
+```
+
+As you can see, this form imports only the specifically named public API members from a module (skipping anything not named explicitly), and it adds those identifiers to the top-level scope of the current module. This type of import is a familiar style to those used to package imports in languages like Java. Multiple API members can be listed inside the `{ .. }` set, separated with commas. A named import can also be renamed with the `as` keyword:
+
+```js
+import { getName as getStudentName }
+   from "/path/to/students.js";
+
+getStudentName(73);
+// Suzy
+```
+
+If `getName` is a “default export” of the module, we can import it like this:
+
+```js
+import getName from "/path/to/students.js";
+
+getName(73);   // Suzy
+```
+
+The only difference here is dropping the `{ }` around the import binding. If you want to mix a default import with other named imports:
+
+```js
+import { default as getName, /* .. others .. */ }
+   from "/path/to/students.js";
+
+getName(73);   // Suzy
+```
+
+By contrast, the other major variation on `import` is called “namespace import”:
+
+```js
+import * as Student from "/path/to/students.js";
+
+Student.getName(73);   // Suzy
+As is likely obvious, the * imports everything exported to the API,
+```
+
 ### Exit Scope
 ## Appendix A: Exploring Further
 ### Implied Scopes
