@@ -1079,5 +1079,4 @@ Under the covers, the same prototype linkage is wired up, but this `class` synta
 
 ### Suggested Solutions
 
-Just keep coding, because that’s the best way to learn!
-<hr/><br/>[Read:](Read/index.md) [2022](Read/2022.md)<br/>[Genre:](Genre/index.md) [Good Practices](Genre/Good%20Practices.md) [JavaScript](Genre/JavaScript.md) [Software Development](Genre/Software%20Development.md)
+Just keep coding, because that’s the best way to learn!<hr/><br/>[Read:](Read/index.md) [2022](Read/2022.md)<br/>[Genre:](Genre/index.md) [Good Practices](Genre/Good%20Practices.md) [JavaScript](Genre/JavaScript.md) [Software Development](Genre/Software%20Development.md)

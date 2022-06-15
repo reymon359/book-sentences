@@ -58,6 +58,8 @@ I have read other books before these (not as many as I would have liked), howeve
     
  - [You Don't Know JS Yet. Get Started](You%20Don't%20Know%20JS%20Yet.%20Get%20Started/index.md)
     
+ - [You Don't Know JS Yet. Scope and Closures](You%20Don't%20Know%20JS%20Yet.%20Scope%20and%20Closures/index.md)
+    
  - [Your Erroneous Zones](Your%20Erroneous%20Zones/index.md)
     
 
