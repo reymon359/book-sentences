@@ -1,8 +1,3 @@
----
-name: "You Don't Know JS Yet. Scope and Closures"
-Read: ['2022']
-Genre: ['Software Development', 'Good Practices', 'JavaScript']
----
 
 ![Cover](./assets/you-dont-know-js-yet-scope-closures.jpg)
 
@@ -2502,4 +2497,4 @@ UMD is really just an IIFE.
 
 What’s different is that the main `function` expression part (at the top) of the IIFE contains a series of `if..else if` statements to detect which of the three supported environments the module is being loaded in. The final `()` that normally invokes an IIFE is being passed three arguments: `"StudentsList"`, `this`, and another `function` expression. If you match those arguments to their parameters, you’ll see they are: `name`, `context`, and `definition`, respectively.
 
-There’s no question that as of the time of this writing, ESM (ES Modules) are becoming popular and widespread rapidly. But with millions and millions of modules written over the last 20 years, all using some pre-ESM variation of classic modules, they’re still very important to be able to read and understand when you come across them.
+There’s no question that as of the time of this writing, ESM (ES Modules) are becoming popular and widespread rapidly. But with millions and millions of modules written over the last 20 years, all using some pre-ESM variation of classic modules, they’re still very important to be able to read and understand when you come across them.<hr/><br/>[Read:](Read/index.md) [2022](Read/2022.md)<br/>[Genre:](Genre/index.md) [Good Practices](Genre/Good%20Practices.md) [JavaScript](Genre/JavaScript.md) [Software Development](Genre/Software%20Development.md)
