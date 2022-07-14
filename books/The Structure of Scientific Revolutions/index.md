@@ -70,9 +70,10 @@ I regret the recent debasing of revolution to mere hype, but it is a fact that m
 A single sentence of page 35 sums up Kuhn’s doctrine: “The most striking feature of the normal research problems we have just encountered is how little they aim to produce major novelties, conceptual or phenomenal.”
 
 If you look at any research journal, he wrote, you will find three types of problems addressed: (1) determination of significant facts, (2) matching of facts with theory, and (3) articulation of theory. To expand slightly:
-1.Theory leaves certain quantities or phenomena inadequately described and only qualitatively tells us what to expect. Measurement and other procedures determine the facts more precisely.
-2.Known observations don’t quite tally with theory. What’s wrong? Tidy up the theory or show that the experimental data were defective.
-3.The theory may have a solid mathematical formulation, but one is not yet able to comprehend its consequences. Kuhn gives the apt name of articulation to the process of bringing out what is implicit in the theory, often by mathematical analysis.
+
+1. Theory leaves certain quantities or phenomena inadequately described and only qualitatively tells us what to expect. Measurement and other procedures determine the facts more precisely.
+2. Known observations don’t quite tally with theory. What’s wrong? Tidy up the theory or show that the experimental data were defective.
+3. The theory may have a solid mathematical formulation, but one is not yet able to comprehend its consequences. Kuhn gives the apt name of articulation to the process of bringing out what is implicit in the theory, often by mathematical analysis.
 
 Since the 1980s there has been a substantial shift in emphasis, with historians, sociologists, and philosophers attending seriously to experimental science.
 
