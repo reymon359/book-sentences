@@ -142,16 +142,126 @@ The a in anomaly is the a that means ‘not’, as in ‘amoral’ or ‘atheist
 
 We have a tendency to see what we expect, even when it is not there.
 
+Not every anomaly is taken to matter... ...Once understood, the motion was powerful evidence for the molecular theory, but previously it was a mere curiosity. The same is true of many phenomena that run counter to theory but are just put aside. There are always discrepancies between theory and data, many of them large. The recognition of something as a significant anomaly that must be explained—more than a discrepancy that will sort itself out in time—is itself a complex historical event, not a simple refutation.
 
+### Crisis (§§VII–VIII)
 
+“The decision to reject one paradigm is always simultaneously the decision to accept another, and the judgment leading to that decision involves the comparison of both paradigms with nature and with each other”
 
+“To reject one paradigm without simultaneously substituting another is to reject science itself.”
 
+A crisis involves a period of extraordinary, rather than normal, research, with a “proliferation of competing articulations, the willingness to try anything, the expression of explicit discontent, the recourse to philosophy and to debate over fundamentals”
+
+Without this pattern of anomaly, crisis, and new paradigm, we would be stuck in the mud. We would simply not get new theories.
+
+### Changes of World View (§X)
+
+Most people have no problem with the idea that the world views of a community or of an individual can change over time... ...Of course, if there has been a paradigm shift, a revolution in ideas, knowledge, and research projects, one’s vision of the kind of world in which we live will change. 
+
+The cautious will gladly say that one’s view of the world changes, but the world stays the same.
+
+After a revolution, scientists, in the field that has been changed, work in a different world. 
+
+There is a lot of room for confusion if one starts talking about different worlds. All sorts of things may be meant.
+
+But it is not a “hypothesis” that there is just one world in which I am gardening, the same one in which Lavoisier went to the guillotine. (But what a different world that was!) I hope you see how confusing things can get.
+
+“say what you want so long as you know what you mean”
+
+Kuhn wanted to say more than that. But in print he stuck to the try-out mode, of what one “may want to say.” He never asserted in cold print that after Lavoisier (1743–94) chemists lived in a different world, and a different one again after Dalton (1766–1844).
+
+### Incommensurability
+
+Here is a simplistic parody of one line of thinking that is heavily linguistic, that is, focused on meanings. I am not saying anyone said anything quite this simpleminded, but it does capture the idea. It was thought that the names of things you can observe can be learned by pointing. But what about theoretical entities, such as electrons, at which one cannot point? They get their meaning, it was taught, only from the context of the theory in which they occur. Hence a change in theory must entail a change in meaning. Hence a statement about electrons in the context of one theory means something different from the same string of words in the context of another theory. If one theory says the sentence is true and another says it is false, there is no contradiction, for the sentence expresses different statements in the two theories, and they cannot be compared.
+
+Theories should be accurate in their predictions, consistent, broad in scope, present phenomena in an orderly and coherent way, and be fruitful in suggesting new phenomena or relationships between phenomena. 
+
+Kuhn was calling in question the very idea of theory choice. It is usually close to nonsense to speak of an investigator choosing a theory within which to work.
+
+Large-scale investigations, in for example high-energy physics, usually require collaboration between many specialties which in detail are opaque to each other. How is this possible? They evolve a “trading-zone” analogous to the creoles that emerge when two very different linguistic groups engage in trade.
+
+The idea of incommensurability is helpful in an unexpected way. 
+
+Specialization is a fact of human civilization, and it is a fact of the sciences.
+
+Kuhn thought this was predictable. Science, he said, is Darwinian, and revolutions are often like speciation events, in which one species splits into two, or in which one species continues but with a variant on the side following its own trajectory. 
+ 
+In crisis more than one paradigm may emerge, each able to incorporate a different group of anomalies and branch out in new research directions. As these new subdisciplines develop, each with its own achievements on which research is modeled, it becomes increasingly difficult for practitioners of one to understand what the other is doing. This is not a deep metaphysical point; it is a familiar fact of life to any working scientist.
+
+Kuhn devoted the end of his career to trying to explain this and other sorts of incommensurability in terms of a new theory of scientific language. He was a physicist ever, and what he proposed has the same property of trying to reduce everything to a simple rather abstract structure.
+
+The work of Kuhn’s final years can be said to be engaged in the logical syntax of the language of science.
+
+### Progress through Revolutions (§13)
+
+Scientific knowledge is cumulative, building upon previous benchmarks to scale new peaks.
+
+A revolution destroys the continuity. Many things that an older science did well may be forgotten as a new set of problems is posed by a new paradigm.
+
+We had thought of a science as progressing towards the truth in its domain.
+
+A revolution changes the domain, changes even (according to Kuhn) the very language in which we speak about some aspect of nature.
+
+Revolutions progress away from previous conceptions of the world that have run into cataclysmic difficulties.
+
+The thought that there is one and only one complete true account of everything is deep in the Western tradition. It descends from what Comte, the founder of positivism, called the theological stage of human inquiry.
+
+This image gets transposed to fundamental physics, many of whose practitioners, who might proudly proclaim themselves to be atheists, take for granted that there just is, waiting to be discovered, one full and complete account of nature.
+
+Kuhn rejected that picture. “Does it really help,” he asked on page 170, “to imagine that there is some one full, objective, true account of nature and that the proper measure of scientific achievement is the extent to which it brings us closer to that ultimate goal?” Many scientists would say that yes, it does; it grounds their image of what they do, and why it is worthwhile. Kuhn was too brief with his rhetorical question. It is a topic for the reader to pursue. 
+
+A majority of hard-headed analytic philosophers probably do the same, if only on the obvious ground of circularity—there is no way to specify the fact to which an arbitrary statement corresponds except by stating the statement.
+
+In the wave of skepticism that swept American scholarship at the end of the twentieth century, many influential intellectuals took Kuhn as an ally in their denials of truth as a virtue. I mean the thinkers of the sort that cannot write down or utter the word true except by literally or figuratively putting quotation marks around it—to indicate how they shudder at the very thought of so harmful a notion.
+
+One of Kuhn’s marvelous legacies is science studies as we know it today.
 
 ## Preface
 
+Whatever their pedagogic utility and their abstract plausibility, those notions did not at all fit the enterprise that historical study displayed. Yet they were and are fundamental to many discussions of science, and their failures of verisimilitude therefore seemed thoroughly worth pursuing. The result was a drastic shift in my career plans, a shift from physics to history of science.
 
+Eight public lectures, delivered during March, 1951, on “The Quest for Physical Theory.” In the next year I began to teach history of science proper, and for almost a decade the problems of instructing in a field I had never systematically studied left little time for explicit articulation of the ideas that had first brought me to it.
+
+Spend the year 1958–59 at the Center for Advanced Studies in the Behavioral Sciences. Once again I was able to give undivided attention to the problems discussed below. Even more important, spending the year in a community composed predominantly of social scientists confronted me with unanticipated problems about the differences between such communities and those of the natural scientists among whom I had been trained. Particularly, I was struck by the number and extent of the overt disagreements between social scientists about the nature of legitimate scientific problems and methods.
+
+Attempting to discover the source of that difference led me to recognize the role in scientific research of what I have since called “paradigms.” These  I take to be universally recognized scientific achievements that for a time provide model problems and solutions to a community of practitioners.
+
+The view of science to be developed here suggests the potential fruitfulness of a number of new sorts of research, both historical and sociological. 
+
+If I am right that each scientific revolution alters the historical perspective of the community that experiences it, then that change of perspective should affect the structure of postrevolutionary textbooks and research publications.
+
+The need for drastic condensation has also forced me to forego discussion of a number of major problems.
+
+Clearly, there are such implications, and I have tried both to point out and to document the main ones. But in doing so I have usually refrained from detailed discussion of the various positions taken by contemporary philosophers on the corresponding issues. Where I have indicated skepticism, it has more often been directed to a philosophical attitude than to any one of its fully articulated expressions.
 
 ## I Introduction: A Role for History
+
+History, if viewed as a repository for more than anecdote or chronology, could produce a decisive transformation in the image of science by which we are now possessed. That image has previously been drawn, even by scientists themselves, mainly from the study of finished scientific achievements as these are recorded in the classics and, more recently, in the textbooks from which each new scientific generation learns to practice its trade.
+
+If science is the constellation of facts, theories, and methods collected in current texts, then scientists are the men who, successfully or not, have striven to contribute one or another element to that particular constellation. Scientific development becomes the piecemeal process by which these items have been added, singly and in combination, to the ever growing stockpile that constitutes scientific technique and knowledge. And history of science becomes the discipline that chronicles both these successive increments and the obstacles that have inhibited their accumulation. 
+
+In recent years, however, a few historians of science have been finding it more and more difficult to fulfil the functions that the concept of development-by-accumulation assigns to them. As chroniclers of an incremental process, they discover that additional research makes it harder, not easier, to answer questions like: When was oxygen discovered? Who first conceived of energy conservation? Increasingly, a few of them suspect that these are simply the wrong sorts of questions to ask. Perhaps science does not develop by the accumulation of individual discoveries and inventions. Simultaneously, these same historians confront growing difficulties in distinguishing the “scientific” component of past observation and belief from what their predecessors had readily labeled “error” and “superstition.” The more carefully they study, say, Aristotelian dynamics, phlogistic chemistry, or caloric thermodynamics, the more certain they feel that those once current views of nature were, as a whole, neither less scientific nor more the product of human idiosyncrasy than those current today.
+
+Out-of-date theories are not in principle unscientific because they have been discarded.
+
+The same historical research that displays the difficulties in isolating individual inventions and discoveries gives ground for profound doubts about the cumulative process through which these individual contributions to science were thought to have been compounded.
+
+Gradually, and often without entirely realizing they are doing so, historians of science have begun to ask new sorts of questions and to trace different, and often less than cumulative, developmental lines for the sciences. Rather than seeking the permanent contributions of an older science to our present vantage, they attempt to display the historical integrity of that science in its own time. 
+
+They ask, for example, not about the relation of Galileo’s views to those of modern science, but rather about the relationship between his views and those of his group, i.e., his teachers, contemporaries, and immediate successors in the sciences.
+
+Seen through the works that result, works perhaps best exemplified in the writings of Alexandre Koyré, science does not seem altogether the same enterprise as the one discussed by writers in the older historiographic tradition. By implication, at least, these historical studies suggest the possibility of a new image of science. This essay aims to delineate that image by making explicit some of the new historiography’s implications.
+
+Instructed to examine electrical or chemical phenomena, the man who is ignorant of these fields but who knows what it is to be scientific may legitimately reach any one of a number of incompatible conclusions... ...What beliefs about the stars, for example, does he bring to the study of chemistry or electricity? Which of the many conceivable experiments relevant to the new field does he elect to perform first? And what aspects of the complex phenomenon that then results strike him as particularly relevant to an elucidation of the nature of chemical change or of electrical affinity? For the individual, at least, and sometimes for the scientific community as well, answers to questions like these are often essential determinants of scientific development.
+
+Observation and experience can and must drastically restrict the range of admissible scientific belief, else there would be no science.
+'
+Effective research scarcely begins before a scientific community thinks it has acquired firm answers to questions like the following: What are the fundamental entities of which the universe is composed? How do these interact with each other and with the senses? What questions may legitimately be asked about such entities and what techniques employed in seeking solutions? At least in the mature sciences, answers (or full substitutes for answers) to questions like these are firmly embedded in the educational initiation that prepares and licenses the student for professional practice.
+
+Normal science, the activity in which most scientists inevitably spend almost all their time, is predicated on the assumption that the scientific community knows what the world is like. Much of the success of the enterprise derives from the community’s willingness to defend that assumption, if necessary at considerable cost. Normal science, for example, often suppresses fundamental novelties because they are necessarily subversive of its basic commitments.
+
+When, that is, the profession can no longer evade anomalies that subvert the existing tradition of scientific practice—then begin the extraordinary investigations that lead the profession at last to a new set of commitments, a new basis for the practice of science. The extraordinary episodes in which that shift of professional commitments occurs are the ones known in this essay as scientific revolutions. They are the tradition-shattering complements to the tradition-bound activity of normal science.
+
 
 
 
