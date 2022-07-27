@@ -262,6 +262,9 @@ Normal science, the activity in which most scientists inevitably spend almost al
 
 When, that is, the profession can no longer evade anomalies that subvert the existing tradition of scientific practice—then begin the extraordinary investigations that lead the profession at last to a new set of commitments, a new basis for the practice of science. The extraordinary episodes in which that shift of professional commitments occurs are the ones known in this essay as scientific revolutions. They are the tradition-shattering complements to the tradition-bound activity of normal science.
 
+the major turning points in scientific development associated with the names of Copernicus, Newton, Lavoisier, and Einstein. More clearly than most other episodes in the history of at least the physical sciences, these display what all scientific revolutions are about. Each of them necessitated the community’s rejection of one time-honored scientific theory in favor of another incompatible with it.
+
+
 
 
 
