@@ -264,8 +264,13 @@ When, that is, the profession can no longer evade anomalies that subvert the exi
 
 the major turning points in scientific development associated with the names of Copernicus, Newton, Lavoisier, and Einstein. More clearly than most other episodes in the history of at least the physical sciences, these display what all scientific revolutions are about. Each of them necessitated the community’s rejection of one time-honored scientific theory in favor of another incompatible with it.
 
+each transformed the scientific imagination in ways that we shall ultimately need to describe as a transformation of the world within which scientific work was done. Such changes, together with the controversies that almost always accompany them, are the defining characteristics of scientific revolutions.
 
+That is why a new theory, however special its range of application, is seldom or never just an increment to what is already known.
 
+No wonder historians have had difficulty in dating precisely this extended process that their vocabulary impels them to view as an isolated event.
+
+The commitments that govern normal science specify not only what sorts of entities the universe does contain, but also, by implication, those that it does not.
 
 
 ## II The Route to Normal Science
