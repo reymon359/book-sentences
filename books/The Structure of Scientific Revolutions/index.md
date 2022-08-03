@@ -470,22 +470,309 @@ they do not all learn the same applications of these laws, and they are not ther
 
 What quantum mechanics means to each of them depends upon what courses he has had, what texts he has read, and which journals he studies. It follows that, though a change in quantum-mechanical law will be revolutionary for all of these groups, a change that reflects only on one or another of the paradigm applications of quantum mechanics need be revolutionary only for the members of a particular professional subspecialty. 
 
-One brief illustration of specialization’s effect may give this whole series of points additional force. An investigator who hoped to learn something about what scientists took the atomic theory to be asked
+One brief illustration of specialization’s effect may give this whole series of points additional force. An investigator who hoped to learn something about what scientists took the atomic theory to be asked a distinguished physicist and an eminent chemist whether a single atom of helium was or was not a molecule. Both answered without hesitation, but their answers were not the same. For the chemist the atom of helium was a molecule because it behaved like one with respect to the kinetic theory of gases. For the physicist, on the other hand, the helium atom was not a molecule because it displayed no molecular spectrum.7 Presumably both men were talking of the same particle, but they were viewing it through their own research training and practice.
 
 ## VI Anomaly and the Emergence of Scientific Discoveries
 
+Normal science, the puzzle-solving activity we have just examined, is a highly cumulative enterprise, eminently successful in its aim, the steady extension of the scope and precision of scientific knowledge.
 
+Normal science does not aim at novelties of fact or theory and, when successful, finds none. New and unsuspected phenomena are, however, repeatedly uncovered by scientific research, and radical new theories have again and again been invented by scientists.
+
+fundamental novelties of fact and theory do. Produced inadvertently by a game played under one set of rules, their assimilation requires the elaboration of another set. After they have become parts of science, the enterprise, at least of those specialists in whose particular field the novelties lie, is never quite the same again.
+
+distinction between discovery and invention or between fact and theory will, however, immediately prove to be exceedingly artificial. Its artificiality is an important clue to several of this essay’s main theses.
+
+Discovery commences with the awareness of anomaly, i.e., with the recognition that nature has somehow violated the paradigm-induced expectations that govern normal science. It then continues with a more or less extended exploration of the area of anomaly. And it closes only when the paradigm theory has been adjusted so that the anomalous has become the expected. 
+
+Assimilating a new sort of fact demands a more than additive adjustment of theory, and until that adjustment is completed—until the scientist has learned to see nature in a different way—the new fact is not quite a scientific fact at all.
+
+In any case, when was oxygen discovered? In that form the question could be asked even if only one claimant had existed. As a ruling about priority and date, an answer does not at all concern us. Nevertheless, an attempt to produce one will illuminate the nature of discovery, because there is no answer of the kind that is sought. Discovery is not the sort of process about which the question is appropriately asked. The fact that it is asked—the priority for oxygen has repeatedly been contested since the 1780’s—is a symptom of something askew in the image of science that gives discovery so fundamental a role.
+
+Clearly we need a new vocabulary and concepts for analyzing events like the discovery of oxygen. Though undoubtedly correct, the sentence, “Oxygen was discovered,” misleads by suggesting that discovering something is a single simple act assimilable to our usual (and also questionable) concept of seeing.
+
+we so readily assume that discovering, like seeing or touching, should be unequivocally attributable to an individual and to a moment in time. But the latter attribution is always impossible, and the former often is as well.
+
+if both observation and conceptualization, fact and assimilation to theory, are inseparably linked in discovery, then discovery is a process and must take time. Only when all the relevant conceptual categories are prepared in advance, in which case the phenomenon would not be of a new sort, can discovering that and discovering what occur effortlessly, together, and in an instant.
+
+Grant now that discovery involves an extended, though not necessarily long, process of conceptual assimilation. Can we also say that it involves a change in paradigm? To that question, no general answer can yet be given, but in this case at least, the answer must be yes.
+
+Indeed, if the discovery of oxygen had not been an intimate part of the emergence of a new paradigm for chemistry, the question of priority from which we began would never have seemed so important.
+
+the fact that a major paradigm revision was needed to see what Lavoisier saw must be the principal reason why Priestley was, to the end of his long life, unable to see it.
+
+X-rays, is a classic case of discovery through accident, a type that occurs more frequently than the impersonal standards of scientific reporting allow us easily to realize. Its story opens on the day that the physicist Roentgen interrupted a normal investigation of cathode rays because he had noticed that a barium platinocyanide screen at some distance from his shielded apparatus glowed when the discharge was in process. Further investigations—they required seven hectic weeks during which Roentgen rarely left the laboratory—indicated that the cause of the glow came in straight lines from the cathode ray tube, that the radiation cast shadows, could not be deflected by a magnet, and much else besides. Before announcing his discovery, Roentgen had convinced himself that his effect was not due to cathode rays but to an agent with at least some similarity to light.
+
+the perception that something had gone wrong was only the prelude to discovery.
+
+the existence of significant parallels between the discoveries of oxygen and of X-rays is far less apparent. Unlike the discovery of oxygen, that of X-rays was not, at least for a decade after the event, implicated in any obvious upheaval in scientific theory. In what sense, then, can the assimilation of that discovery be said to have necessitated paradigm change? The case for denying such a change is very strong.
+
+X-rays, however, were greeted not only with surprise but with shock... ...Though X-rays were not prohibited by established theory, they violated deeply entrenched expectations. Those expectations, I suggest, were implicit in the design and interpretation of established laboratory procedures.
+
+X-rays, to be sure, opened up a new field and thus added to the potential domain of normal science. But they also, and this is now the more important point, changed fields that had already existed. In the process they denied previously paradigmatic types of instrumentation their right to that title.
+
+uranium fission. One reason why that nuclear reaction proved especially difficult to recognize was that men who knew what to expect when bombarding uranium chose chemical tests aimed mainly at elements from the upper end of the periodic table.10 Ought we conclude from the frequency with which such instrumental commitments prove misleading that science should abandon standard tests and standard instruments? That would result in an inconceivable method of research. 
+
+Paradigm procedures and applications are as necessary to science as paradigm laws and theories, and they have the same effects. Inevitably they restrict the phenomenological field accessible for scientific investigation at any given time. 
+
+Recognizing that much, we may simultaneously see an essential sense in which a discovery like X-rays necessitates paradigm change—and therefore change in both procedures and expectations—for a special segment of the scientific community.
+
+not all theories are paradigm theories. Both during pre-paradigm periods and during the crises that lead to large-scale changes of paradigm, scientists usually develop many speculative and unarticulated theories that can themselves point the way to discovery. 
+
+Often, however, that discovery is not quite the one anticipated by the speculative and tentative hypothesis. Only as experiment and tentative theory are together articulated to a match does the discovery emerge and the theory become a paradigm.
+
+The discovery of the Leyden jar... ...One of the competing schools of electricians took electricity to be a fluid, and that conception led a number of men to attempt bottling the fluid by holding a water-filled glass vial in their hands and touching the water to a conductor suspended from an active electrostatic generator. On removing the jar from the machine and touching the water (or a conductor connected to it) with his free hand, each of these investigators experienced a severe shock... ...The initial attempts to store electrical fluid worked only because investigators held the vial in their hands while standing upon the ground. Electricians had still to learn that the jar required an outer as well as an inner conducting coating and that the fluid is not really stored in the jar at all.
+
+characteristic of all discoveries from which new sorts of phenomena emerge. Those characteristics include: the previous awareness of anomaly, the gradual and simultaneous emergence of both observational and conceptual recognition, and the consequent change of paradigm categories and procedures often accompanied by resistance. 
+
+In science... ...by resistance, against a background provided by expectation. Initially, only the anticipated and usual are experienced even under circumstances where anomaly is later to be observed. Further acquaintance, however, does result in awareness of something wrong or does relate the effect to something that has gone wrong before. That awareness of anomaly opens a period in which conceptual categories are adjusted until the initially anomalous has become the anticipated. At this point the discovery has been completed.
+
+In the development of any science, the first received paradigm is usually felt to account quite successfully for most of the observations and experiments easily accessible to that science’s practitioners. Further development, therefore, ordinarily calls for the construction of elaborate equipment, the development of an esoteric vocabulary and skills, and a refinement of concepts that increasingly lessens their resemblance to their usual common-sense prototypes. That professionalization leads, on the one hand, to an immense restriction of the scientist’s vision and to a considerable resistance to paradigm change. The science has become increasingly rigid. On the other hand, within those areas to which the paradigm directs the attention of the group, normal science leads to a detail of information and to a precision of the observation-theory match that could be achieved in no other way.
+
+that detail and precision-of-match have a value that transcends their not always very high intrinsic interest. Without the special apparatus that is constructed mainly for anticipated functions, the results that lead ultimately to novelty could not occur. And even when the apparatus exists, novelty ordinarily emerges only for the man who, knowing with precision what he should expect, is able to recognize that something has gone wrong. 
+
+Anomaly appears only against the background provided by the paradigm. The more precise and far-reaching that paradigm is, the more sensitive an indicator it provides of anomaly and hence of an occasion for paradigm change.
+
+The very fact that a significant scientific novelty so often emerges simultaneously from several laboratories is an index both to the strongly traditional nature of normal science and to the completeness with which that traditional pursuit prepares the way for its own change.
 
 ## VII Crisis and the Emergence of Scientific Theories
 
+After the discovery had been assimilated, scientists were able to account for a wider range of natural phenomena or to account with greater precision for some of those previously known. But that gain was achieved only by discarding some previously standard beliefs or procedures and, simultaneously, by replacing those components of the previous paradigm with others.
 
+Discoveries are not, however, the only sources of these destructive-constructive paradigm changes. In this section we shall begin to consider the similar, but usually far larger, shifts that result from the invention of new theories.
+
+Having argued already that in the sciences fact and theory, discovery and invention, are not categorically and permanently distinct, we can anticipate overlap between this section and the last. 
+
+The sorts of discoveries considered in the last section were not, at least singly, responsible for such paradigm shifts as the Copernican, Newtonian, chemical, and Einsteinian revolutions. Nor were they responsible for the somewhat smaller, because more exclusively professional, changes in paradigm produced by the wave theory of light, the dynamical theory of heat, or Maxwell’s electromagnetic theory. How can theories like these arise from normal science, an activity even less directed to their pursuit than to that of discoveries?
+
+If awareness of anomaly plays a role in the emergence of new sorts of phenomena, it should surprise no one that a similar but more profound awareness is prerequisite to all acceptable changes of theory.
+
+The state of Ptolemaic astronomy was a scandal before Copernicus’ announcement.1 Galileo’s contributions to the study of motion depended closely upon difficulties discovered in Aristotle’s theory by scholastic critics.
+
+The emergence of new theories is generally preceded by a period of pronounced professional insecurity
+
+Failure of existing rules is the prelude to a search for new ones.
+
+to be admirably successful is never, for a scientific theory, to be completely successful.
+
+Given a particular discrepancy, astronomers were invariably able to eliminate it by making some particular adjustment in Ptolemy’s system of compounded circles. But as time went on, a man looking at the net result of the normal research effort of many astronomers could observe that astronomy’s complexity was increasing far more rapidly than its accuracy and that a discrepancy corrected in one place was likely to show up in another.
+
+By the thirteenth century Alfonso X could proclaim that if God had consulted him when creating the universe, he would have received good advice.
+
+Copernicus himself wrote in the Preface to the De Revolutionibus that the astronomical tradition he inherited had finally created only a monster. 
+
+By the early sixteenth century an increasing number of Europe’s best astronomers were recognizing that the astronomical paradigm was failing in application to its own traditional problems. That recognition was prerequisite to Copernicus’ rejection of the Ptolemaic paradigm and his search for a new one. 
+
+An extended treatment would also discuss the social pressure for calendar reform, a pressure that made the puzzle of precession particularly urgent. In addition, a fuller account would consider medieval criticism of Aristotle, the rise of Renaissance Neoplatonism, and other significant historical elements besides. But technical breakdown would still remain the core of the crisis. In a mature science—and astronomy had become that in antiquity—external factors like those cited above are principally significant in determining the timing of breakdown, the ease with which it can be recognized, and the area in which, because it is given particular attention, the breakdown first occurs.
+
+the crisis that preceded the emergence of Lavoisier’s oxygen theory of combustion. In the 1770’s many factors combined to generate a crisis in chemistry, and historians are not altogether agreed about either their nature or their relative importance. But two of them are generally accepted as of first-rate significance: the rise of pneumatic chemistry and the question of weight relations... ...chemists continued to believe that air was the only sort of gas. Until 1756, when Joseph Black showed that fixed air (CO2) was consistently distinguishable from normal air, two samples of gas were thought to be distinct only in their impurities.
+
+Scheele actually first produced oxygen by an elaborate chain of experiments designed to dephlogisticate heat. Yet the net result of their experiments was a variety of gas samples and gas properties so elaborate that the phlogiston theory proved increasingly little able to cope with laboratory experience.
+
+proliferation of versions of a theory is a very usual symptom of crisis. In his preface, Copernicus complained of it as well.
+
+At least a few Islamic chemists had known that some metals gain weight when roasted. In the seventeenth century several investigators had concluded from this same fact that a roasted metal takes up some ingredient from the atmosphere. But in the seventeenth century that conclusion seemed unnecessary to most chemists. If chemical reactions could alter the volume, color, and texture of the ingredients, why should they not alter weight as well? Weight was not always taken to be the measure of quantity of matter. Besides, weight-gain on roasting remained an isolated phenomenon. Most natural bodies (e.g., wood) lose weight on roasting as the phlogiston theory was later to say they should.
+
+these initially adequate responses to the problem of weight-gain became increasingly difficult to maintain. Partly because the balance was increasingly used as a standard chemical tool and partly because the development of pneumatic chemistry made it possible and desirable to retain the gaseous products of reactions... ...Simultaneously, the gradual assimilation of Newton’s gravitational theory led chemists to insist that gain in weight must mean gain in quantity of matter... ...Like the problems of pneumatic chemistry, those of weight-gain were making it harder and harder to know what the phlogiston theory was. Though still believed and trusted as a working tool, a paradigm of eighteenth-century chemistry was gradually losing its unique status. Increasingly, the research it guided resembled that conducted under the competing schools of the pre-paradigm period, another typical effect of crisis.
+
+The technical problems to which a relativistic philosophy of space was ultimately to be related began to enter normal science with the acceptance of the wave theory of light after about 1815, though they evoked no crisis until the 1890’s. If light is wave motion propagated in a mechanical ether governed by Newton’s Laws, then both celestial observation and terrestrial experiment become potentially capable of detecting drift through the ether... ...During the central decades of the century Fresnel, Stokes, and others devised numerous articulations of the ether theory designed to explain the failure to observe drift. Each of these articulations assumed that a moving body drags some fraction of the ether with it. And each was sufficiently successful to explain the negative results not only of celestial observation but also of terrestrial experimentation, including the famous experiment of Michelson and Morley.11 There was still no conflict excepting that between the various articulations. In the absence of relevant experimental techniques, that conflict never became acute.
+
+In practice, however, as has happened again and again in scientific development, the required articulation proved immensely difficult to produce. 
+
+The years after 1890 therefore witnessed a long series of attempts, both experimental and theoretical, to detect motion with respect to the ether and to work ether drag into Maxwell’s theory. The former were uniformly unsuccessful, though some analysts thought their results equivocal. The latter produced a number of promising starts, particularly those of Lorentz and Fitzgerald, but they also disclosed still other puzzles and finally resulted in just that proliferation of competing theories that we have previously found to be the concomitant of crisis.14 It is against that historical setting that Einstein’s special theory of relativity emerged in 1905.The years after 1890 therefore witnessed a long series of attempts, both experimental and theoretical, to detect motion with respect to the ether and to work ether drag into Maxwell’s theory. The former were uniformly unsuccessful, though some analysts thought their results equivocal. The latter produced a number of promising starts, particularly those of Lorentz and Fitzgerald, but they also disclosed still other puzzles and finally resulted in just that proliferation of competing theories that we have previously found to be the concomitant of crisis.14 It is against that historical setting that Einstein’s special theory of relativity emerged in 1905.
+
+In each case a novel theory emerged only after a pronounced failure in the normal problem-solving activity.
+
+Failure with a new sort of problem is often disappointing but never surprising. Neither problems nor puzzles yield often to the first attack. Finally, these examples share another characteristic that may help to make the case for the role of crisis impressive: the solution to each of them had been at least partially anticipated during a period when there was no crisis in the corresponding science; and in the absence of crisis those anticipations had been ignored
+
+It is often said that if Greek science had been less deductive and less ridden by dogma, heliocentric astronomy might have begun its development eighteen centuries earlier than it did
+
+The whole development of Ptolemaic astronomy, both its triumphs and its breakdown, falls in the centuries after Aristarchus’ proposal. Besides, there were no obvious reasons for taking Aristarchus seriously. Even Copernicus’ more elaborate proposal was neither simpler nor more accurate than Ptolemy’s system. 
+
+Philosophers of science have repeatedly demonstrated that more than one theoretical construction can always be placed upon a given collection of data. 
+
+History of science indicates that, particularly in the early developmental stages of a new paradigm, it is not even very difficult to invent such alternates.
+
+So long as the tools a paradigm supplies continue to prove capable of solving the problems it defines, science moves fastest and penetrates most deeply through confident employment of those tools. 
+
+As in manufacture so in science—retooling is an extravagance to be reserved for the occasion that demands it. 
+
+The significance of crises is the indication they provide that an occasion for retooling has arrived.
 
 ## VIII The Response to Crisis
 
+crises are a necessary precondition for the emergence of novel theories and ask next how scientists respond to their existence. Part of the answer, as obvious as it is important, can be discovered by noting first what scientists never do when confronted by even severe and prolonged anomalies. Though they may begin to lose faith and then to consider alternatives, they do not renounce the paradigm that has led them into crisis. 
 
+once it has achieved the status of paradigm, a scientific theory is declared invalid only if an alternate candidate is available to take its place.
+
+the act of judgment that leads scientists to reject a previously accepted theory is always based upon more than a comparison of that theory with the world. 
+
+The decision to reject one paradigm is always simultaneously the decision to accept another, and the judgment leading to that decision involves the comparison of both paradigms with nature and with each other.
+
+they can at best help to create a crisis or, more accurately, to reinforce one that is already very much in existence. By themselves they cannot and will not falsify that philosophical theory, for its defenders will do what we have already seen scientists doing when confronted by anomaly. They will devise numerous articulations ad hoc modifications of their theory in order to eliminate any apparent conflict. Many of the relevant modifications and qualifications are, in fact, already in the literature.
+
+Furthermore, if a typical pattern, which we shall later observe in scientific revolutions, is applicable here, these anomalies will then no longer seem to be simply facts. From within a new theory of scientific knowledge, they may instead seem very much like tautologies, statements of situations that could not conceivably have been otherwise.
+
+Newton’s second law of motion, though it took centuries of difficult factual and theoretical research to achieve, behaves for those committed to Newton’s theory very much like a purely logical statement that no amount of observation could refute.
+
+some men have undoubtedly been driven to desert science because of their inability to tolerate crisis. 
+
+Like artists, creative scientists must occasionally be able to live in a world out of joint—elsewhere I have described that necessity as “the essential tension” implicit in scientific research.2 But that rejection of science in favor of another occupation is, I think, the only sort of paradigm rejection to which counterinstances by themselves can lead.
+
+To reject one paradigm without simultaneously substituting another is to reject science itself. 
+
+That act reflects not on the paradigm but on the man. Inevitably he will be seen by his colleagues as “the carpenter who blames his tools.”
+
+there is no such thing as research without counterinstances. For what is it that differentiates normal science from science in a crisis state? Not, surely, that the former confronts no counterinstances.
+
+Excepting those that are exclusively instrumental, every problem that normal science sees as a puzzle can be seen, from another viewpoint, as a counterinstance and thus as a source of crisis.
+
+the existence of crisis does not by itself transform a puzzle into a counterinstance. There is no such sharp dividing line. Instead, by proliferating versions of the paradigm, crisis loosens the rules of normal puzzle-solving in ways that ultimately permit a new paradigm to emerge. 
+
+There are, I think, only two alternatives: either no scientific theory ever confronts a counterinstance, or all such theories confront counterinstances at all times.
+
+truth and falsity are uniquely and unequivocally determined by the confrontation of statement with fact. 
+
+Normal science does and must continually strive to bring theory and fact into closer agreement, and that activity can easily be seen as testing or as a search for confirmation or falsification.
+
+Failure to achieve a solution discredits only the scientist and not the theory. Here, even more than above, the proverb applies: “It is a poor carpenter who blames his tools.”
+
+Given the slightest reason for doing so, the man who reads a science text can easily take the applications to be the evidence for the theory, the reasons why it ought to be believed. But science students accept theories on the authority of teacher and text, not because of evidence... ...The applications given in texts are not there as evidence but because learning them is part of learning the paradigm at the base of current practice. 
+
+If applications were set forth as evidence, then the very failure of texts to suggest alternative interpretations or to discuss problems for which scientists have failed to produce paradigm solutions would convict their authors of extreme bias.
+
+How, then, to return to the initial question, do scientists respond to the awareness of an anomaly in the fit between theory and nature? What has just been said indicates that even a discrepancy unaccountably larger than that experienced in other applications of the theory need not draw any very profound response. There are always some discrepancies. Even the most stubborn ones usually respond at last to normal practice. Very often scientists are willing to wait, particularly if there are many problems available in other parts of the field.
+
+if an anomaly is to evoke crisis, it must usually be more than just an anomaly.
+
+We therefore have to ask what it is that makes an anomaly seem worth concerted scrutiny, and to that question there is probably no fully general answer.
+
+an anomaly without apparent fundamental import may evoke crisis if the applications that it inhibits have a particular practical importance,
+
+When, for these reasons or others like them, an anomaly comes to seem more than just another puzzle of normal science, the transition to crisis and to extraordinary science has begun. 
+
+The anomaly itself now comes to be more generally recognized as such by the profession. More and more attention is devoted to it by more and more of the field’s most eminent men. If it still continues to resist, as it usually does not, many of them may come to view its resolution as the subject matter of their discipline. 
+
+The early attacks upon the resistant problem will have followed the paradigm rules quite closely. But with continuing resistance, more and more of the attacks upon it will have involved some minor or not so minor articulation of the paradigm, no two of them quite alike, each partially successful, but none sufficiently so to be accepted as paradigm by the group.
+
+Though there still is a paradigm, few practitioners prove to be entirely agreed about what it is. Even formerly standard solutions of solved problems are called in question.
+
+Copernicus complained that in his day astronomers were so “inconsistent in these [astronomical] investigations . . . that they cannot even explain or observe the constant length of the seasonal year.” “With them,” he continued, “it is as though an artist were to gather the hands, feet, head and other members for his images from diverse models, each part excellently drawn, but not related to a single body, and since they in no way match each other, the result would be monster rather than man.”
+
+Wolfgang Pauli, in the months before Heisenberg’s paper on matrix mechanics pointed the way to a new quantum theory, wrote to a friend, “At the moment physics is again terribly confused. In any case, it is too difficult for me, and I wish I had been a movie comedian or something of the sort and had never heard of physics.” That testimony is particularly impressive if contrasted with Pauli’s words less than five months later: “Heisenberg’s type of mechanics has again given me hope and joy in life. To be sure it does not supply the solution to the riddle, but I believe it is again possible to march forward.”
+
+All crises begin with the blurring of a paradigm and the consequent loosening of the rules for normal research.
+
+research during crisis very much resembles research during the pre-paradigm period, except that in the former the locus of difference is both smaller and more clearly defined.
+
+all crises close in one of three ways. Sometimes normal science ultimately proves able to handle the crisis-provoking problem despite the despair of those who have seen it as the end of an existing paradigm. On other occasions the problem resists even apparently radical new approaches. Then scientists may conclude that no solution will be forthcoming in the present state of their field. The problem is labelled and set aside for a future generation with more developed tools. Or, finally, the case that will most concern us here, a crisis may end with the emergence of a new candidate for paradigm and with the ensuing battle over its acceptance.
+
+The transition from a paradigm in crisis to a new one from which a new tradition of normal science can emerge... ...is a reconstruction of the field from new fundamentals, a reconstruction that changes some of the field’s most elementary theoretical generalizations as well as many of its paradigm methods and applications. 
+
+During the transition period there will be a large but never complete overlap between the problems that can be solved by the old and by the new paradigm.
+
+When the transition is complete, the profession will have changed its view of the field, its methods, and its goals.
+
+“handling the same bundle of data as before, but placing them in a new system of relations with one another by giving them a different framework.
+
+Scientists do not see something as something else; instead, they simply see it.
+
+the scientist does not preserve the gestalt subject’s freedom to switch back and forth between ways of seeing. Nevertheless, the switch of gestalt, particularly because it is today so familiar, is a useful elementary prototype for what occurs in full-scale paradigm shift.
+
+crisis as an appropriate prelude to the emergence of new theories,
+
+the emergence of a new theory breaks with one tradition of scientific practice and introduces a new one conducted under different rules and within a different universe of discourse,
+
+That remark is, however, no more than a prelude to the investigation of the crisis-state, and, unfortunately, the questions to which it leads demand the competence of the psychologist even more than that of the historian. What is extraordinary research like? How is anomaly made lawlike? How do scientists proceed when aware only that something has gone fundamentally wrong at a level with which their training has not equipped them to deal? Those questions need far more investigation, and it ought not all be historical
+
+Faced with an admittedly fundamental anomaly in theory, the scientist’s first effort will often be to isolate it more precisely and to give it structure. Though now aware that they cannot be quite right, he will push the rules of normal science harder than ever to see, in the area of difficulty, just where and how far they can be made to work. Simultaneously he will seek for ways of magnifying the breakdown, of making it more striking and perhaps also more suggestive than it had been when displayed in experiments the outcome of which was thought to be known in advance.
+
+in the latter effort, more than in any other part of the post-paradigm development of science, he will look almost like our most prevalent image of the scientist. He will, in the first place, often seem a man searching at random, trying experiments just to see what will happen, looking for an effect whose nature he cannot quite guess.
+
+since no experiment can be conceived without some sort of theory, the scientist in crisis will constantly try to generate speculative theories that, if successful, may disclose the road to a new paradigm and, if unsuccessful, can be surrendered with relative ease.
+
+the best illustrations of all come from contemporary research in field theory and on fundamental particles. In the absence of a crisis that made it necessary to see just how far the rules of normal science could stretch, would the immense effort required to detect the neutrino have seemed justified? Or, if the rules had not obviously broken down at some undisclosed point, would the radical hypothesis of parity non-conservation have been either suggested or tested? Like much other research in physics during the past decade, these experiments were in part attempts to localize and define the source of a still diffuse set of anomalies.
+
+It is, I think, particularly in periods of acknowledged crisis that scientists have turned to philosophical analysis as a device for unlocking the riddles of their field. 
+
+Scientists have not generally needed or wanted to be philosophers. Indeed, normal science usually holds creative philosophy at arm’s’length, and probably for good reasons. To the extent that normal research work can be conducted by using the paradigm as a model, rules and assumptions need not be made explicit.
+
+By concentrating scientific attention upon a narrow area of trouble and by preparing the scientific mind to recognize experimental anomalies for what they are, crisis often proliferates new discoveries. 
+
+And still others, like the colors of scratches and of thick plates, were effects that had often been seen and occasionally remarked before, but that, like Priestley’s oxygen, had been assimilated to well-known effects in ways that prevented their being seen for what they were.
+
+crisis simultaneously loosens the stereotypes and provides the incremental data necessary for a fundamental paradigm shift. 
+
+Sometimes the shape of the new paradigm is foreshadowed in the structure that extraordinary research has given to the anomaly.
+
+What the nature of that final stage is—how an individual invents (or finds he has invented) a new way of giving order to data now all assembled—must here remain inscrutable and may be permanently so.
+
+Almost always the men who achieve these fundamental inventions of a new paradigm have been either very young or very new to the field whose paradigm they change.15 And perhaps that point need not have been made explicit, for obviously these are the men who, being little committed by prior practice to the traditional rules of normal science, are particularly likely to see that those rules no longer define a playable game and to conceive another set that can replace them.
+
+The resulting transition to a new paradigm is scientific revolution.
+
+Confronted with anomaly or with crisis, scientists take a different attitude toward existing paradigms, and the nature of their research changes accordingly. 
+ 
+The proliferation of competing articulations, the willingness to try anything, the expression of explicit discontent, the recourse to philosophy and to debate over fundamentals, all these are symptoms of a transition from normal to extraordinary research.
 
 ## IX The Nature and Necessity of Scientific Revolutions
 
+scientific revolutions are here taken to be those non-cumulative developmental episodes in which an older paradigm is replaced in whole or in part by an incompatible new one.
+
+Why should a change of paradigm be called a revolution? In the face of the vast and essential differences between political and scientific development, what parallelism can justify the metaphor that finds revolutions in both?
+
+One aspect of the parallelism must already be apparent. Political revolutions are inaugurated by a growing sense, often restricted to a segment of the political community, that existing institutions have ceased adequately to meet the problems posed by an environment that they have in part created. In much the same way, scientific revolutions are inaugurated by a growing sense, again often restricted to a narrow subdivision of the scientific community, that an existing paradigm has ceased to function adequately in the exploration of an aspect of nature to which that paradigm itself had previously led the way.
+
+Scientific revolutions, as we noted at the end of Section V, need seem revolutionary only to those whose paradigms are affected by them. To outsiders they may, like the Balkan revolutions of the early twentieth century, seem normal parts of the developmental process. 
+
+Astronomers, for example, could accept X-rays as a mere addition to knowledge, for their paradigms were unaffected by the existence of the new radiation. But for men like Kelvin, Crookes, and Roentgen, whose research dealt with radiation theory or with cathode ray tubes, the emergence of X-rays necessarily violated one paradigm as it created another. That is why these rays could be discovered only through something’s first going wrong with normal research.
+
+Political revolutions aim to change political institutions in ways that those institutions themselves prohibit
+
+the parties to a revolutionary conflict must finally resort to the techniques of mass persuasion, often including force. 
+
+When paradigms enter, as they must, into a debate about paradigm choice, their role is necessarily circular. Each group uses its own paradigm to argue in that paradigm’s defense.
+
+The premises and values shared by the two parties to a debate over paradigms are not sufficiently extensive for that. As in political revolutions, so in paradigm choice—there is no standard higher than the assent of the relevant community. To discover how scientific revolutions are effected, we shall therefore have to examine not only the impact of nature and of logic, but also the techniques of persuasive argumentation effective within the quite special groups that constitute the community of scientists.
+
+Granting that paradigm rejection has been a historic fact, does it illuminate more than human credulity and confusion? Are there intrinsic reasons why the assimilation of either a new sort of phenomenon or a new scientific theory must demand the rejection of an older paradigm?
+
+Though discovering life on the moon would today be destructive of existing paradigms (these tell us things about the moon that seem incompatible with life’s existence there), discovering life in some less well-known part of the galaxy would not.
+
+Today, the theory of energy conservation provides just such links between dynamics, chemistry, electricity, optics, thermal theory, and so on. 
+
+In the evolution of science new knowledge would replace ignorance rather than replace knowledge of another and incompatible sort.
+
+Of course, science (or some other enterprise, perhaps less effective) might have developed in that fully cumulative manner. Many people have believed that it did so, and most still seem to suppose that cumulation is at least the ideal that historical development would display if only it had not so often been distorted by human idiosyncrasy.
+
+After the pre-paradigm period the assimilation of all new theories and of almost all new sorts of phenomena has in fact demanded the destruction of a prior paradigm and a consequent conflict between competing schools of scientific thought. Cumulative acquisition of unanticipated novelties proves to be an almost non-existent exception to the rule of scientific development.
+
+cumulative acquisition of novelty is not only rare in fact but improbable in principle. Normal research, which is cumulative, owes its success to the ability of scientists regularly to select problems that can be solved with conceptual and instrumental techniques close to those already in existence. (That is why an excessive concern with useful problems, regardless of their relation to existing knowledge and technique, can so easily inhibit scientific development.) The man who is striving to solve a problem defined by existing knowledge and technique is not, however, just looking around. He knows what he wants to achieve, and he designs his instruments and directs his thoughts accordingly. Unanticipated novelty, the new discovery, can emerge only to the extent that his anticipations about nature and his instruments prove wrong. Often the importance of the resulting discovery will itself be proportional to the extent and stubbornness of the anomaly that foreshadowed it.
+
+There are, in principle, only three types of phenomena about which a new theory might be developed. The first consists of phenomena already well explained by existing paradigms, and these seldom provide either motive or point of departure for theory construction. When they do, as with the three famous anticipations discussed at the end of Section VII, the theories that result are seldom accepted, because nature provides no ground for discrimination. A second class of phenomena consists of those whose nature is indicated by existing paradigms but whose details can be understood only through further theory articulation. These are the phenomena to which scientists direct their research much of the time, but that research aims at the articulation of existing paradigms rather than at the invention of new ones. Only when these attempts at articulation fail do scientists encounter the third type of phenomena, the recognized anomalies whose characteristic feature is their stubborn refusal to be assimilated to existing paradigms. This type alone gives rise to new theories. Paradigms provide all phenomena except anomalies with a theory-determined place in the scientist’s field of vision.
+
+That difference could not occur if the two were logically compatible. In the process of being assimilated, the second must displace the first. Even a theory like energy conservation, which today seems a logical superstructure that relates to nature only through independently established theories, did not develop historically without paradigm destruction. Instead, it emerged from a crisis in which an essential ingredient was the incompatibility between Newtonian dynamics and some recently formulated consequences of the caloric theory of heat. 
+
+Only after the caloric theory had been rejected could energy conservation become part of science.1 And only after it had been part of science for some time could it come to seem a theory of a logically higher type, one not in conflict with its predecessors. It is hard to see how new theories could arise without these destructive changes in beliefs about nature. Though logical inclusiveness remains a permissible view of the relation between successive scientific theories, it is a historical implausibility.
+
+The best-known and the strongest case for this restricted conception of a scientific theory emerges in discussions of the relation between contemporary Einsteinian dynamics and the older dynamical equations that descend from Newton’s Principia. From the viewpoint of this essay these two theories are fundamentally incompatible in the sense illustrated by the relation of Copernican to Ptolemaic astronomy: Einstein’s theory can be accepted only with the recognition that Newton’s was wrong. Today this remains a minority view.2 We must therefore examine the most prevalent objections to it.
+
+Einstein’s theory can be used to show that predictions from Newton’s equations will be as good as our measuring instruments in all applications that satisfy a small number of restrictive conditions. For example, if Newtonian theory is to provide a good approximate solution, the relative velocities of the bodies considered must be small compared with the velocity of light. Subject to this condition and a few others, Newtonian theory seems to be derivable from Einsteinian, of which it is therefore a special case.
+
+Some Newtonians were so incautious as to claim that Newtonian theory yielded entirely precise results or that it was valid at very high relative velocities. Since they could not have had any evidence for such claims, they betrayed the standards of science when they made them. In so far as Newtonian theory was ever a truly scientific theory supported by valid evidence, it still is. Only extravagant claims for the theory—claims that were never properly parts of science—can have been shown by Einstein to be wrong. Purged of these merely human extravagances, Newtonian theory has never been challenged and cannot be.
+
+to save theories in this way, their range of application must be restricted to those phenomena and to that precision of observation with which the experimental evidence in hand already deals.
+
+Even in its present form the restriction forbids the scientist to rely upon a theory in his own research whenever that research enters an area or seeks a degree of precision for which past practice with the theory offers no precedent. 
+
+These prohibitions are logically unexceptionable. But the result of accepting them would be the end of the research through which science may develop further.
+
+Without commitment to a paradigm there could be no normal science. Furthermore, that commitment must extend to areas and to degrees of precision for which there is no full precedent. If it did not, the paradigm could provide no puzzles that had not already been solved. Besides, it is not only normal science that depends upon commitment to a paradigm. If existing theory binds the scientist only with respect to existing applications, then there can be no surprises, anomalies, or crises.
+
+If positivistic restrictions on the range of a theory’s legitimate applicability are taken literally, the mechanism that tells the scientific community what problems may lead to fundamental change must cease to function. And when that occurs, the community will inevitably return to something much like its pre-paradigm state, a condition in which all members practice science but in which their gross product scarcely resembles science at all.
+
+Apparently Newtonian dynamics has been derived from Einsteinian, subject to a few limiting conditions. Yet the derivation is spurious, at least to this point. Though the N1’s are a special case of the laws of relativistic mechanics, they are not Newton’s Laws. Or at least they are not unless those laws are reinterpreted in a way that would have been impossible until after Einstein’s work. The variables and parameters that in the Einsteinian E1’s represented spatial position, time, mass, etc., still occur in the N1’s; and they there still represent Einsteinian space, time, and mass. But the physical referents of these Einsteinian concepts are by no means identical with those of the Newtonian concepts that bear the same name.
+
+Newtonian mass is conserved; Einsteinian is convertible with energy. Only at low relative velocities may the two be measured in the same way, and even then they must not be conceived to be the same.
 
 
 ## X Revolutions as Changes of World View
