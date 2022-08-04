@@ -351,6 +351,16 @@ As time went by, the imagined reality became ever more powerful, so that today t
 
 The ability to create an imagined reality out of words enabled large numbers of strangers to cooperate effectively.
 
+Since large-scale human cooperation is based on myths, the way people cooperate can be altered by changing the myths – by telling different stories.
+
+In 1789 the French population switched almost overnight from believing in the myth of the divine right of kings to believing in the myth of the sovereignty of the people.
+
+ever since the Cognitive Revolution Homo sapiens has been able to revise its behaviour rapidly in accordance with changing needs. This opened a fast lane of cultural evolution, bypassing the traffic jams of genetic evolution. Speeding down this fast lane, Homo sapiens soon far outstripped all other human and animal species in its ability to cooperate.
+
+The behaviour of other social animals is determined to a large extent by their genes. DNA is not an autocrat. Animal behaviour is also influenced by environmental factors and individual quirks.
+
+in a given environment, animals of the same species will tend to behave in a similar way.
+
 ### 3 A Day in the Life of Adam and Eve
 
 
