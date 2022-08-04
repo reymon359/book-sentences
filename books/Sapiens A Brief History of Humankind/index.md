@@ -78,6 +78,7 @@ Yuval Noah Harari - 2011
 ## Part One The Cognitive Revolution
 
 ![1. A human handprint made about 30,000 years ago, on the wall of the Chauvet-Pont-d’Arc Cave in southern France. Somebody tried to say, ‘I was here!’](./assets/figure1.jpg)
+
 1. A human handprint made about 30,000 years ago, on the wall of the Chauvet-Pont-d’Arc Cave in southern France. Somebody tried to say, ‘I was here!’
 
 ### 1 An Animal of No Significance
@@ -119,6 +120,7 @@ I will often use the term ‘Sapiens’ to denote members of the species Homo sa
 Humans first evolved in East Africa about 2.5 million years ago from an earlier genus of apes called Australopithecus, which means ‘Southern Ape’. About 2 million years ago, some of these archaic men and women left their homeland to journey through and settle vast areas of North Africa, Europe and Asia. Since survival in the snowy forests of northern Europe required different traits than those needed to stay alive in Indonesia’s steaming jungles, human populations evolved in different directions. The result was several distinct species, to each of which scientists have assigned a pompous Latin name.
 
 ![2. Our siblings, according to speculative reconstructions (left to right): Homo rudolfensis (East Africa); Homo erectus (East Asia); and Homo neanderthalensis (Europe and western Asia). All are humans.](./assets/figure2.jpg)
+
 2. Our siblings, according to speculative reconstructions (left to right): Homo rudolfensis (East Africa); Homo erectus (East Asia); and Homo neanderthalensis (Europe and western Asia). All are humans.
 
 The more eastern regions of Asia were populated by Homo erectus, ‘Upright Man’, who survived there for close to 2 million years, making it the most durable human species ever.
@@ -192,6 +194,7 @@ According to the Interbreeding Theory, when Sapiens spread into Neanderthal land
 The opposing view, called the ‘Replacement Theory’ tells a very different story – one of incompatibility, revulsion, and perhaps even genocide. According to this theory, Sapiens and other humans had different anatomies, and most likely different mating habits and even body odours. They would have had little sexual interest in one another. And even if a Neanderthal Romeo and a Sapiens Juliet fell in love, they could not produce fertile children, because the genetic gulf separating the two populations was already unbridgeable... ...According to this view, Sapiens replaced all the previous human populations without merging with them. If that is the case, the lineages of all contemporary humans can be traced back, exclusively, to East Africa, 70,000 years ago. We are all ‘pure Sapiens’.
 
 ![Map 1. Homo sapiens conquers the globe.](./assets/figure3.jpg)
+
 Map 1. Homo sapiens conquers the globe.
 
 A lot hinges on this debate. From an evolutionary perspective, 70,000 years is a relatively short interval. If the Replacement Theory is correct, all living humans have roughly the same genetic baggage, and racial distinctions among them are negligible. But if the Interbreeding Theory is right, there might well be genetic differences between Africans, Europeans and Asians that go back hundreds of thousands of years. This is political dynamite, which could provide material for explosive racial theories.
@@ -207,6 +210,7 @@ Every two species that evolved from a common ancestor, such as horses and donkey
 It is unsettling – and perhaps thrilling – to think that we Sapiens could at one time have sex with an animal from a different species, and produce children together.
 
 ![3. A speculative reconstruction of a Neanderthal child. Genetic evidence hints that at least some Neanderthals may have had fair skin and hair.](./assets/figure4.jpg)
+
 3. A speculative reconstruction of a Neanderthal child. Genetic evidence hints that at least some Neanderthals may have had fair skin and hair.
 
 But if the Neanderthals, Denisovans and other human species didn’t merge with Sapiens, why did they vanish? One possibility is that Homo sapiens drove them to extinction. Imagine a Sapiens band reaching a Balkan valley where Neanderthals had lived for hundreds of thousands of years. The newcomers began to hunt the deer and gather the nuts and berries that were the Neanderthals’ traditional staples. Sapiens were more proficient hunters and gatherers – thanks to better technology and superior social skills – so they multiplied and spread. The less resourceful Neanderthals found it increasingly difficult to feed themselves. Their population dwindled and they slowly died out, except perhaps for one or two members who joined their Sapiens neighbours. Another possibility is that competition for resources flared up into violence and genocide. Tolerance is not a Sapiens trademark. In modern times, a small difference in skin colour, dialect or religion has been enough to prompt one group of Sapiens to set about exterminating another group. Would ancient Sapiens have been more tolerant towards an entirely different human species? It may well be that when Sapiens encountered Neanderthals, the result was the first and most significant ethnic-cleansing campaign in history.
@@ -250,6 +254,7 @@ A green monkey can yell to its comrades, ‘Careful! A lion!’ But a modern hum
 our unique language evolved as a means of sharing information about the world. But the most important information that needed to be conveyed was about humans, not about lions and bison. Our language evolved as a way of gossiping. According to this theory Homo sapiens is primarily a social animal. Social cooperation is our key for survival and reproduction. It is not enough for individual men and women to know the whereabouts of lions and bison. It’s much more important for them to know who in their band hates whom, who is sleeping with whom, who is honest, and who is a cheat.
 
 ![4. An ivory figurine of a ‘lion-man’ (or ‘lioness-woman’) from the Stadel Cave in Germany (c.32,000 years ago). The body is human, but the head is leonine. This is one of the first indisputable examples of art, and probably of religion, and of the ability of the human mind to imagine things that do not really exist.](./assets/figure5.jpg)
+
 4. An ivory figurine of a ‘lion-man’ (or ‘lioness-woman’) from the Stadel Cave in Germany (c.32,000 years ago). The body is human, but the head is leonine. This is one of the first indisputable examples of art, and probably of religion, and of the ability of the human mind to imagine things that do not really exist.
 
 Neanderthals and archaic Homo sapiens probably also had a hard time talking behind each other’s backs – a much maligned ability which is in fact essential for cooperation in large numbers. The new linguistic skills that modern Sapiens acquired about seventy millennia ago enabled them to gossip for hours on end. Reliable information about who could be trusted meant that small bands could expand into larger bands, and Sapiens could develop tighter and more sophisticated types of cooperation.1
@@ -297,6 +302,7 @@ Modern business-people and lawyers are, in fact, powerful sorcerers. The princip
 An icon that somewhat resembles the Stadel lion-man appears today on cars, trucks and motorcycles from Paris to Sydney... ...Peugeot began as a small family business in the village of Valentigney, just 300 kilometres from the Stadel Cave. Today the company employs about 200,000 people worldwide, most of whom are complete strangers to each other. These strangers cooperate so effectively that in 2008 Peugeot produced more than 1.5 million automobiles, earning revenues of about 55 billion euros. In what sense can we say that Peugeot SA (the company’s official name) exists? There are many Peugeot vehicles, but these are obviously not the company... ...A disaster might kill every single one of Peugeot’s employees, and go on to destroy all of its assembly lines and executive offices. Even then, the company could borrow money, hire new employees, build new factories and buy new machinery... ...All the managers could be dismissed and all its shares sold, but the company itself would remain intact... ...It doesn’t mean that Peugeot SA is invulnerable or immortal. If a judge were to mandate the dissolution of the company, its factories would remain standing and its workers, accountants, managers and shareholders would continue to live – but Peugeot SA would immediately vanish. In short, Peugeot SA seems to have no essential connection to the physical world. Does it really exist?
 
 ![5. The Peugeot Lion](./assets/figure6.jpg)
+
 5. The Peugeot Lion
 
 Peugeot is a figment of our collective imagination. Lawyers call this a ‘legal fiction’. It can’t be pointed at; it is not a physical object. But it exists as a legal entity. Just like you or me, it is bound by the laws of the countries in which it operates. It can open a bank account and own property. 
