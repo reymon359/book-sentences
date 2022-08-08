@@ -361,6 +361,37 @@ The behaviour of other social animals is determined to a large extent by their g
 
 in a given environment, animals of the same species will tend to behave in a similar way.
 
+Female common chimpanzees cannot take lessons from their bonobo relatives and stage a feminist revolution. Male chimps cannot gather in a constitutional assembly to abolish the office of alpha male and declare that from here on out all chimps are to be treated as equals. Such dramatic changes in behaviour would occur only if something changed in the chimpanzees’ DNA.
+
+Two million years ago, genetic mutations resulted in the appearance of a new human species called Homo erectus. Its emergence was accompanied by the development of a new stone tool technology, now recognised as a defining feature of this species. As long as Homo erectus did not undergo further genetic alterations, its stone tools remained roughly the same – for close to 2 million years!
+
+In contrast, ever since the Cognitive Revolution, Sapiens have been able to change their behaviour quickly, transmitting new behaviours to future generations without any need of genetic or environmental change.
+
+the repeated appearance of childless elites, such as the Catholic priesthood, Buddhist monastic orders and Chinese eunuch bureaucracies. The existence of such elites goes against the most fundamental principles of natural selection, since these dominant members of society willingly give up procreation. Whereas chimpanzee alpha males use their power to have sex with as many females as possible – and consequently sire a large proportion of their troop’s young – the Catholic alpha male abstains completely from sexual intercourse and childcare.
+
+The Catholic Church has survived for centuries, not by passing on a ‘celibacy gene’ from one pope to the next, but by passing on the stories of the New Testament and of Catholic canon law.
+
+Sapiens could transform their social structures, the nature of their interpersonal relations, their economic activities and a host of other behaviours within a decade or two. Consider a resident of Berlin, born in 1900 and living to the ripe age of one hundred. She spent her childhood in the Hohenzollern Empire of Wilhelm II; her adult years in the Weimar Republic, the Nazi Third Reich and Communist East Germany; and she died a citizen of a democratic and reunified Germany. She had managed to be a part of five very different sociopolitical systems, though her DNA remained exactly the same.
+
+In a one-on-one brawl, a Neanderthal would probably have beaten a Sapiens. But in a conflict of hundreds, Neanderthals wouldn’t stand a chance.
+
+Archaeologists excavating 30,000-year-old Sapiens sites in the European heartland occasionally find there seashells from the Mediterranean and Atlantic coasts. In all likelihood, these shells got to the continental interior through long-distance trade between different Sapiens bands. Neanderthal sites lack any evidence of such trade. Each group manufactured its own tools from local materials.
+
+![6. The Catholic alpha male abstains from sexual intercourse and childcare, even though there is no genetic or ecological reason for him to do so.](./assets/figure7.jpg)
+
+6. The Catholic alpha male abstains from sexual intercourse and childcare, even though there is no genetic or ecological reason for him to do so.
+
+no animal other than Sapiens engages in trade, and all the Sapiens trade neworks about which we have detailed evidence were based on fictions. 
+
+Trade cannot exist without trust, and it is very difficult to trust strangers. 
+
+The global trade network of today is based on our trust in such fictional entities as the dollar, the Federal Reserve Bank, and the totemic trademarks of corporations. 
+
+
+
+
+
+
 ### 3 A Day in the Life of Adam and Eve
 
 
