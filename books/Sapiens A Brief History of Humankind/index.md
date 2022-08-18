@@ -898,6 +898,40 @@ Ancient farmers might seem to us dirt poor, but a typical family possessed more 
 
 #### The Coming of the Future
 
+In the subsistence economy of hunting and gathering, there was an obvious limit to such long-term planning. Paradoxically, it saved foragers a lot of anxieties. There was no sense in worrying about things that they could not influence.
+
+The Agricultural Revolution made the future far more important than it had ever been before. Farmers must always keep the future in mind and must work in its service.
+
+Although there was enough food for today, next week, and even next month, they had to worry about next year and the year after that.
+
+Since most villages lived by cultivating a very limited variety of domesticated plants and animals, they were at the mercy of droughts, floods and pestilence. Peasants were obliged to produce more than they consumed so that they could build up reserves.
+
+Without grain in the silo, jars of olive oil in the cellar, cheese in the pantry and sausages hanging from the rafters, they would starve in bad years. And bad years were bound to come, sooner or later. A peasant living on the assumption that bad years would not come didn’t live long.
+
+worries about the future became major players in the theatre of the human mind.
+
+in the valleys of the Euphrates, Indus and Yellow rivers, other peasants monitored, with no less trepidation, the height of the water. They needed the rivers to rise in order to spread the fertile topsoil washed down from the highlands, and to enable their vast irrigation systems to fill with water. But floods that surged too high or came at the wrong time could destroy their fields as much as a drought.
+
+Peasants were worried about the future not just because they had more cause for worry, but also because they could do something about it... ...The anxious peasant was as frenetic and hardworking as a harvester ant in the summer, sweating to plant olive trees whose oil would be pressed by his children and grandchildren, putting off until the winter or the following year the eating of the food he craved today.
+
+The stress of farming had far-reaching consequences. It was the foundation of large-scale political and social systems. Sadly, the diligent peasants almost never achieved the future economic security they so craved through their hard work in the present. Everywhere, rulers and elites sprang up, living off the peasants’ surplus food and leaving them with only a bare subsistence.
+
+Until the late modern era, more than 90 per cent of humans were peasants who rose each morning to till the land by the sweat of their brows. The extra they produced fed the tiny minority of elites – kings, government officials, soldiers, priests, artists and thinkers – who fill the history books.
+
+History is something that very few people have been doing while everyone else was ploughing fields and carrying water buckets.
+
+#### An Imagined Order
+
+The food surpluses produced by peasants, coupled with new transportation technology, eventually enabled more and more people to cram together first into large villages, then into towns, and finally into cities, all of them joined together by new kingdoms and commercial networks.
+
+The mere fact that one can feed a thousand people in the same town or a million people in the same kingdom does not guarantee that they can agree how to divide the land and water, how to settle disputes and conflicts, and how to act in times of drought or war. And if no agreement can be reached, strife spreads, even if the storehouses are bulging. 
+
+It was not food shortages that caused most of history’s wars and revolutions. The French Revolution was spearheaded by affluent lawyers, not by famished peasants. The Roman Republic reached the height of its power in the first century BC, when treasure fleets from throughout the Mediterranean enriched the Romans beyond their ancestors’ wildest dreams. Yet it was at that moment of maximum affluence that the Roman political order collapsed into a series of deadly civil wars. 
+
+The problem at the root of such calamities is that humans evolved for millions of years in small bands of a few dozen individuals. The handful of millennia separating the Agricultural Revolution from the appearance of cities, kingdoms and empires was not enough time to allow an instinct for mass cooperation to evolve.
+
+
+
 
 
 ### 7 Memory Overload
