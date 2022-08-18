@@ -1032,7 +1032,7 @@ imagined orders are inter-subjective, so in order to change them we must simulta
 
 There is no way out of the imagined order. When we break down our prison walls and run towards freedom, we are in fact running into the more spacious exercise yard of a bigger prison.
 
-#### Memory Overload
+### 7 Memory Overload
 
 human teenagers have no genes for football. They can nevertheless play the game with complete strangers because they have all learned an identical set of ideas about football. These ideas are entirely imaginary, but if everyone shares them, we can all play the game.
 
@@ -1054,13 +1054,90 @@ As the number of inhabitants grew, so did the amount of information required to 
 
 #### Signed, Kushim
 
+The Sumerian writing system did so by combining two types of signs, which were pressed in clay tablets. One type of signs represented numbers. There were signs for 1, 10, 60, 600, 3,600 and 36,000. (The Sumerians used a combination of base-6 and base-10 numeral systems. Their base-6 system bestowed on us several important legacies, such as the division of the day into twenty-four hours and of the circle into 360 degrees.) The other type of signs represented people, animals, merchandise, territories, dates and so forth. By combining both types of signs the Sumerians were able to preserve far more data than any human brain could remember or any DNA chain could encode.
 
+![19. A clay tablet with an administrative text from the city of Uruk, c.3400–3000 BC. ‘Kushim’ may be the generic title of an officeholder, or the name of a particular individual. If Kushim was indeed a person, he may be the first individual in history whose name is known to us! All the names applied earlier in human history – the Neanderthals, the Natufians, Chauvet Cave, Göbekli Tepe – are modern inventions. We have no idea what the builders of Göbekli Tepe actually called the place. With the appearance of writing, we are beginning to hear history through the ears of its protagonists. When Kushim’s neighbours called out to him, they might really have shouted ‘Kushim!’ It is telling that the first recorded name in history belongs to an accountant, rather than a prophet, a poet or a great conqueror.](./assets/figure19.jpg)
 
-### 7 Memory Overload
+19. A clay tablet with an administrative text from the city of Uruk, c.3400–3000 BC. ‘Kushim’ may be the generic title of an officeholder, or the name of a particular individual. If Kushim was indeed a person, he may be the first individual in history whose name is known to us! All the names applied earlier in human history – the Neanderthals, the Natufians, Chauvet Cave, Göbekli Tepe – are modern inventions. We have no idea what the builders of Göbekli Tepe actually called the place. With the appearance of writing, we are beginning to hear history through the ears of its protagonists. When Kushim’s neighbours called out to him, they might really have shouted ‘Kushim!’ It is telling that the first recorded name in history belongs to an accountant, rather than a prophet, a poet or a great conqueror.
 
+At this early stage, writing was limited to facts and figures... ...Writing was time-consuming and the reading public tiny, so no one saw any reason to use it for anything other than essential record-keeping.
 
+The earliest messages our ancestors have left us read, for example, ‘29,086 measures barley 37 months Kushim.’ The most probable reading of this sentence is: ‘A total of 29,086 measures of barley were received over the course of 37 months. Signed, Kushim.’ Alas, the first texts of history contain no philosophical insights, no poetry, legends, laws, or even royal triumphs.
+
+![Spoken language and Partial Script](./assets/spoken-language-partial-script.jpg)
+
+Partial script cannot express the entire spectrum of a spoken language, but it can express things that fall outside the scope of spoken language. Partial scripts such as the Sumerian and mathematical scripts cannot be used to write poetry, but they can keep tax accounts very effectively.
+
+The earliest Sumerian writing was a partial rather than a full script. Full script is a system of material signs that can represent spoken language more or less completely. It can therefore express everything people can say, including poetry. Partial script, on the other hand, is a system of material signs that can represent only particular types of information, belonging to a limited field of activity.
+
+Latin script, ancient Egyptian hieroglyphics and Braille are full scripts. You can use them to write tax registers, love poems, history books, food recipes and business law. In contrast, the earliest Sumerian script, like modern mathematical symbols and musical notation, are partial scripts.
+
+You can use mathematical script to make calculations, but you cannot use it to write love poems.
+
+![20. A man holding a quipu, as depicted in a Spanish manuscript following the fall of the Inca Empire.](./assets/figure20.jpg)
+
+20. A man holding a quipu, as depicted in a Spanish manuscript following the fall of the Inca Empire.
+
+Andean script was very different from its Sumerian counterpart. In fact, it was so different that many people would argue it wasn’t a script at all. It was not written on clay tablets or pieces of paper. Rather, it was written by tying knots on colourful cords called quipus. Each quipu consisted of many cords of different colours, made of wool or cotton. On each cord, several knots were tied in different places. A single quipu could contain hundreds of cords and thousands of knots. By combining different knots on different cords with different colours, it was possible to record large amounts of mathematical data relating to, for example, tax collection and property ownership.
+
+the Inca Empire, which ruled 10–12 million people and covered today’s Peru, Ecuador and Bolivia, as well as chunks of Chile, Argentina and Colombia. Thanks to quipus, the Incas could save and process large amounts of data, without which they would not have been able to maintain the complex administrative machinery that an empire of that size requires.
+
+In fact, quipus were so effective and accurate that in the early years following the Spanish conquest of South America, the Spaniards themselves employed quipus in the work of administering their new empire. The problem was that the Spaniards did not themselves know how to record and read quipus, making them dependent on local professionals. The continent’s new rulers realised that this placed them in a tenuous position – the native quipu experts could easily mislead and cheat their overlords. So once Spain’s dominion was more firmly established, quipus were phased out and the new empire’s records were kept entirely in Latin script and numerals.
+
+#### The Wonders of Bureaucracy
+
+Between 3000 BC and 2500 BC more and more signs were added to the Sumerian system, gradually transforming it into a full script that we today call cuneiform. By 2500 BC, kings were using cuneiform to issue decrees, priests were using it to record oracles, and less exalted citizens were using it to write personal letters. At roughly the same time, Egyptians developed another full script known as hieroglyphics. Other full scripts were developed in China around 1200 BC and in Central America around 1000–500 BC. From these initial centres, full scripts spread far and wide, taking on various new forms and novel tasks. People began to write poetry, history books, romances, dramas, prophecies and cookbooks.
+
+tax registries and complex bureaucracies were born together with partial script, and the two remain inexorably linked to this day like Siamese twins – think of the cryptic entries in computerised data bases and spreadsheets.
+
+Information stored in a persons brain is easy to retrieve... ...How, though, do you find and retrieve information stored on quipu cords or clay tablets? If you have just ten tablets or a hundred tablets, it’s not a problem. But what if you have accumulated thousands of them, as did one of Hammurabi’s contemporaries, King Zimrilim of Mari?
+
+Imagine for a moment that it’s 1776 BC. Two Marians are quarrelling over possession of a wheat field. Jacob insists that he bought the field from Esau thirty years ago. Esau retorts that he in fact rented the field to Jacob for a term of thirty years, and that now, the term being up, he intends to reclaim it. They shout and wrangle and start pushing one another before they realise that they can resolve their dispute by going to the royal archive, where are housed the deeds and bills of sale that apply to all the kingdom’s real estate. Upon arriving at the archive they are shuttled from one official to the other. They wait through several herbal tea breaks, are told to come back tomorrow, and eventually are taken by a grumbling clerk to look for the relevant clay tablet. The clerk opens a door and leads them into a huge room lined, floor to ceiling, with thousands of clay tablets. No wonder the clerk is sour-faced. How is he supposed to locate the deed to the disputed wheat field written thirty years ago? Even if he finds it, how will he be able to cross-check to ensure that the one from thirty years ago is the latest document relating to the field in question? If he can’t find it, does that prove that Esau never sold or rented out the field? Or just that the document got lost, or turned to mush when some rain leaked into the archive?
+
+Many writing systems developed independently in cultures distant in time and place from each other. Every decade archaeologists discover another few forgotten scripts. Some of them might prove to be even older than the Sumerian scratches in clay. But most of them remain curiosities because those who invented them failed to invent efficient ways of cataloguing and retrieving data.
+
+a glimpse into the lives of these students, some 4,000 years ago: 
+
+> I went in and sat down, and my teacher read my tablet. He said, ‘There’s something missing!’
+And he caned me.
+One of the people in charge said, ‘Why did you open your mouth without my permission?’
+And he caned me.
+The one in charge of rules said, ‘Why did you get up without my permission?’
+And he caned me.
+The gatekeeper said, ‘Why are you going out without my permission?’ And he caned me.
+The keeper of the beer jug said, ‘Why did you get some without my permission?’
+And he caned me.
+The Sumerian teacher said, ‘Why did you speak Akkadian?’*
+And he caned me.
+My teacher said, ‘Your handwriting is no good!’
+And he caned me.
+
+In order to function, the people who operate such a system of drawers must be reprogrammed to stop thinking as humans and to start thinking as clerks and accountants. As everyone from ancient times till today knows, clerks and accountants think in a non-human fashion. They think like filing cabinets. This is not their fault. If they don’t think that way their drawers will all get mixed up and they won’t be able to provide the services their government, company or organisation requires.
+
+#### The Language of Numbers
+
+As the centuries passed, bureaucratic methods of data processing grew ever more different from the way humans naturally think – and ever more important. 
+
+A critical step was made sometime before the ninth century AD, when a new partial script was invented, one that could store and process mathematical data with unprecedented efficiency. This partial script was composed of ten signs, representing the numbers from 0 to 9. Confusingly, these signs are known as Arabic numerals even though they were first invented by the Hindus (even more confusingly, modern Arabs use a set of digits that look quite different from Western ones). 
+
+the Arabs get the credit because when they invaded India they encountered the system, understood its usefulness, refined it, and spread it through the Middle East and then to Europe.
+
+Although this system of writing remains a partial script, it has become the world’s dominant language. Almost all states, companies, organisations and institutions – whether they speak Arabic, Hindi, English or Norwegian – use mathematical script to record and process data.
+
+A person who wishes to influence the decisions of governments, organisations and companies must therefore learn to speak in numbers. Experts do their best to translate even ideas such as ‘poverty’, ‘happiness’ and ‘honesty’ into numbers (‘the poverty line’, ‘subjective well-being levels’, ‘credit rating’).
+
+![An equation for calculating the acceleration of mass i under the influence of gravity, according to the Theory of Relativity. When most laypeople see such an equation, they usually panic and freeze, like a deer caught in the headlights of a speeding vehicle. The reaction is quite natural, and does not betray a lack of intelligence or curiosity. With rare exceptions, human brains are simply incapable of thinking through concepts like relativity and quantum mechanics. Physicists nevertheless manage to do so, because they set aside the traditional human way of thinking, and learn to think anew with the help of external data-processing systems. Crucial parts of their thought process take place not in the head, but inside computers or on classroom blackboards.](./assets/equation-for-calculating-the-acceleration-of-mass.jpg)
+
+An equation for calculating the acceleration of mass i under the influence of gravity, according to the Theory of Relativity. When most laypeople see such an equation, they usually panic and freeze, like a deer caught in the headlights of a speeding vehicle. The reaction is quite natural, and does not betray a lack of intelligence or curiosity. With rare exceptions, human brains are simply incapable of thinking through concepts like relativity and quantum mechanics. Physicists nevertheless manage to do so, because they set aside the traditional human way of thinking, and learn to think anew with the help of external data-processing systems. Crucial parts of their thought process take place not in the head, but inside computers or on classroom blackboards.
+
+Writing was born as the maidservant of human consciousness, but is increasingly becoming its master. Our computers have trouble understanding how Homo sapiens talks, feels and dreams. So we are teaching Homo sapiens to talk, feel and dream in the language of numbers, which can be understood by computers.
 
 ### 8 There is No Justice in History
+
+UNDERSTANDING HUMAN HISTORY IN THE millennia following the Agricultural Revolution boils down to a single question: how did humans organise themselves in mass-cooperation networks, when they lacked the biological instincts necessary to sustain such networks? The short answer is that humans created imagined orders and devised scripts. These two inventions filled the gaps left by our biological inheritance.
+
+The imagined orders sustaining these networks were neither neutral nor fair. They divided people into make-believe groups, arranged in a hierarchy. The upper levels enjoyed privileges and power, while the lower ones suffered from discrimination and oppression.
+
 
 
 
