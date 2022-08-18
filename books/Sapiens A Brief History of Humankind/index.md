@@ -1138,6 +1138,81 @@ UNDERSTANDING HUMAN HISTORY IN THE millennia following the Agricultural Revoluti
 
 The imagined orders sustaining these networks were neither neutral nor fair. They divided people into make-believe groups, arranged in a hierarchy. The upper levels enjoyed privileges and power, while the lower ones suffered from discrimination and oppression.
 
+Many of those who signed the Declaration of Independence were slaveholders. They did not release their slaves upon signing the Declaration, nor did they consider themselves hypocrites. In their view, the rights of men had little to do with Negroes.
+
+Liberty, too, carried very different connotations than it does today. In 1776, it did not mean that the disempowered (certainly not blacks or Indians or, God forbid, women) could gain and exercise power. It meant simply that the state could not, except in unusual circumstances, confiscate a citizen’s private property or tell him what to do with it. 
+
+Nature, it was claimed, rewarded merit with wealth while penalising indolence.
+
+many people who have viewed the hierarchy of free persons and slaves as natural and correct have argued that slavery is not a human invention. Hammurabi saw it as ordained by the gods. Aristotle argued that slaves have a ‘slavish nature’ whereas free people have a ‘free nature’. Their status in society is merely a reflection of their innate nature.
+
+The rich have more money, in this view, because they are more capable and diligent. No one should be bothered, then, if the wealthy get better health care, better education and better nutrition. The rich richly deserve every perk they enjoy.
+
+![21. A sign on a South African beach from the period of apartheid, restricting its usage to whites’ only. People with lighter skin colour are typically more in danger of sunburn than people with darker skin. Yet there was no biological logic behind the division of South African beaches. Beaches reserved for people with lighter skin were not characterised by lower levels of ultraviolet radiation.](./assets/figure21.jpg)
+
+21. A sign on a South African beach from the period of apartheid, restricting its usage to whites’ only. People with lighter skin colour are typically more in danger of sunburn than people with darker skin. Yet there was no biological logic behind the division of South African beaches. Beaches reserved for people with lighter skin were not characterised by lower levels of ultraviolet radiation.
+
+According to a famous Hindu creation myth, the gods fashioned the world out of the body of a primeval being, the Purusa. The sun was created from the Purusa’s eye, the moon from the Purusa’s brain, the Brahmins (priests) from its mouth, the Kshatriyas (warriors) from its arms, the Vaishyas (peasants and merchants) from its thighs, and the Shudras (servants) from its legs. Accept this explanation and the sociopolitical differences between Brahmins and Shudras are as natural and eternal as the differences between the sun and the moon.
+
+Human laws and norms have turned some people into slaves and others into masters. Between blacks and whites there are some objective biological differences, such as skin colour and hair type, but there is no evidence that the differences extend to intelligence or morality.
+
+Modern Westerners are taught to scoff at the idea of racial hierarchy. They are shocked by laws prohibiting blacks to live in white neighbourhoods, or to study in white schools, or to be treated in white hospitals. But the hierarchy of rich and poor – which mandates that rich people live in separate and more luxurious neighbourhoods, study in separate and more prestigious schools, and receive medical treatment in separate and better-equipped facilities – seems perfectly sensible to many Americans and Europeans.
+
+it’s a proven fact that most rich people are rich for the simple reason that they were born into a rich family, while most poor people will remain poor throughout their lives simply because they were born into a poor family.
+
+Unfortunately, complex human societies seem to require imagined hierarchies and unjust discrimination.
+
+scholars know of no large society that has been able to dispense with discrimination altogether. 
+
+Time and again people have created order in their societies by classifying the population into imagined categories, such as superiors, commoners and slaves; whites and blacks; patricians and plebeians; Brahmins and Shudras; or rich and poor. These categories have regulated relations between millions of humans by making some people legally, politically or socially superior to others.
+
+Hierarchies serve an important function. They enable complete strangers to know how to treat one another without wasting the time and energy needed to become personally acquainted.
+
+A modern Eliza working at a florist’s needs to know how much effort to put into selling roses and gladioli to the dozens of people who enter the shop each day. She can’t make a detailed enquiry into the tastes and wallets of each individual. Instead, she uses social cues – the way the person is dressed, his or her age, and if she’s not politically correct his skin colour. That is how she immediately distinguishes between the accounting-firm partner who’s likely to place a large order for expensive roses, and a messenger boy who can only afford a bunch of daisies.
+
+First and foremost, most abilities have to be nurtured and developed. Even if somebody is born with a particular talent, that talent will usually remain latent if it is not fostered, honed and exercised. Not all people get the same chance to cultivate and refine their abilities. Whether or not they have such an opportunity will usually depend on their place within their society’s imagined hierarchy.
+
+Even if people belonging to different classes develop exactly the same abilities, they are unlikely to enjoy equal success because they will have to play the game by different rules. If, in British-ruled India, an Untouchable, a Brahmin, a Catholic Irishman and a Protestant Englishman had somehow developed exactly the same business acumen, they still would not have had the same chance of becoming rich. The economic game was rigged by legal restrictions and unofficial glass ceilings.
+
+#### The Vicious Circle
+
+All societies are based on imagined hierarchies, but not necessarily on the same hierarchies. What accounts for the differences? Why did traditional Indian society classify people according to caste, Ottoman society according to religion, and American society according to race? In most cases the hierarchy originated as the result of a set of accidental historical circumstances and was then perpetuated and refined over many generations as different groups developed vested interests in it.
+
+The invaders, who were few in number, feared losing their privileged status and unique identity. To forestall this danger, they divided the population into castes, each of which was required to pursue a specific occupation or perform a specific role in society. Each had different legal status, privileges and duties. Mixing of castes – social interaction, marriage, even the sharing of meals – was prohibited. And the distinctions were not just legal – they became an inherent part of religious mythology and practice.
+
+Throughout history, and in almost all societies, concepts of pollution and purity have played a leading role in enforcing social and political divisions and have been exploited by numerous ruling classes to maintain their privileges. 
+
+The fear of pollution is not a complete fabrication of priests and princes, however. It probably has its roots in biological survival mechanisms that make humans feel an instinctive revulsion towards potential disease carriers, such as sick persons and dead bodies. 
+
+If you want to keep any human group isolated – women, Jews, Roma, gays, blacks – the best way to do it is convince everyone that these people are a source of pollution.
+
+Castes were not immune to change. In fact, as time went by, large castes were divided into sub-castes. Eventually the original four castes turned into 3,000 different groupings called jati (literally ‘birth’). But this proliferation of castes did not change the basic principle of the system, according to which every person is born into a particular rank, and any infringement of its rules pollutes the person and society as a whole. 
+
+A persons jati determines her profession, the food she can eat, her place of residence and her eligible marriage partners. Usually a person can marry only within his or her caste, and the resulting children inherit that status.
+
+Groups that failed to win recognition as a caste were, literally, outcasts – in this stratified society, they did not even occupy the lowest rung. They became known as Untouchables. They had to live apart from all other people and scrape together a living in humiliating and disgusting ways, such as sifting through garbage dumps for scrap material.
+
+In modern India, matters of marriage and work are still heavily influenced by the caste system, despite all attempts by the democratic government of India to break down such distinctions and convince Hindus that there is nothing polluting in caste mixing.
+
+#### Purity in America
+
+From the sixteenth to the eighteenth century, the European conquerors imported millions of African slaves to work the mines and plantations of America. They chose to import slaves from Africa rather than from Europe or East Asia due to three circumstantial factors. Firstly, Africa was closer, so it was cheaper to import slaves from Senegal than from Vietnam. Secondly, in Africa there already existed a well-developed slave trade (exporting slaves mainly to the Middle East), whereas in Europe slavery was very rare. It was obviously far easier to buy slaves in an existing market than to create a new one from scratch. Thirdly, and most importantly, American plantations in places such as Virginia, Haiti and Brazil were plagued by malaria and yellow fever, which had originated in Africa. Africans had acquired over the generations a partial genetic immunity to these diseases, whereas Europeans were totally defenceless and died in droves.
+
+Paradoxically, genetic superiority (in terms of immunity) translated into social inferiority:
+
+America were to be divided into a ruling caste of white Europeans and a subjugated caste of black Africans.
+
+Like the Aryan conquerors of India, white Europeans in the Americas wanted to be seen not only as economically successful but also as pious, just and objective. Religious and scientific myths were pressed into service to justify this division.
+
+Biologists argued that blacks are less intelligent than whites and their moral sense less developed. Doctors alleged that blacks live in filth and spread diseases – in other words, they are a source of pollution.
+
+even though the slaves were freed, the racist myths that justified slavery persisted. Separation of the races was maintained by racist legislation and social custom.
+
+In 1865 the Thirteenth Amendment to the US Constitution outlawed slavery and the Fourteenth Amendment mandated that citizenship and the equal protection of the law could not be denied on the basis of race. However, two centuries of slavery meant that most black families were far poorer and far less educated than most white families.
+
+By 1865 whites, as well as many blacks, took it to be a simple matter of fact that blacks were less intelligent, more violent and sexually dissolute, lazier and less concerned about personal cleanliness than whites. They were thus the agents of violence, theft, rape and disease – in other words, pollution.
+
+You might think that people would gradually understand that these stigmas were myth rather than fact and that blacks would be able, over time, to prove themselves just as competent, law-abiding and clean as whites. In fact, the opposite happened – these prejudices became more and more entrenched as time went by. Since all the best jobs were held by whites, it became easier to believe that blacks really are inferior. ‘Look,’ said the average white citizen, ‘blacks have been free for generations, yet there are almost no black professors, lawyers, doctors or even bank tellers. Isn’t that proof that blacks are simply less intelligent and hard-working?’
 
 
 
