@@ -1214,14 +1214,223 @@ By 1865 whites, as well as many blacks, took it to be a simple matter of fact th
 
 You might think that people would gradually understand that these stigmas were myth rather than fact and that blacks would be able, over time, to prove themselves just as competent, law-abiding and clean as whites. In fact, the opposite happened – these prejudices became more and more entrenched as time went by. Since all the best jobs were held by whites, it became easier to believe that blacks really are inferior. ‘Look,’ said the average white citizen, ‘blacks have been free for generations, yet there are almost no black professors, lawyers, doctors or even bank tellers. Isn’t that proof that blacks are simply less intelligent and hard-working?’
 
+The vicious circle did not stop there. As anti-black stigmas grew stronger, they were translated into a system of ‘Jim Crow’ laws and norms that were meant to safeguard the racial order. Blacks were forbidden to vote in elections, to study in white schools, to buy in white stores, to eat in white restaurants, to sleep in white hotels. 
 
+The justification for all of this was that blacks were foul, slothful and vicious, so whites had to be protected from them.
+
+Clennon King, a black student who applied to the University of Mississippi in 1958, was forcefully committed to a mental asylum. The presiding judge ruled that a black person must surely be insane to think that he could be admitted to the University of Mississippi.
+
+The vicious circle: a chance histotical situation is translated into a rigid social system.
+
+![The vicious circle: a chance histotical situation is translated into a rigid social system.](./assets/the-vicious-circle-a-chance-histotical-situation-is-translated-into-a-rigid-social-system.jpg)
+
+With time, the racism spread to more and more cultural arenas. American aesthetic culture was built around white standards of beauty. The physical attributes of the white race – for example light skin, fair and straight hair, a small upturned nose – came to be identified as beautiful. Typical black features – dark skin, dark and bushy hair, a flattened nose – were deemed ugly. These preconceptions ingrained the imagined hierarchy at an even deeper level of human consciousness.
+
+Unjust discrimination often gets worse, not better, with time. Money comes to money, and poverty to poverty. Education comes to education, and ignorance to ignorance.
+
+Since the biological distinctions between different groups of Homo sapiens are, in fact, negligible, biology can’t explain the intricacies of Indian society or American racial dynamics. We can only understand those phenomena by studying the events, circumstances, and power relations that transformed figments of imagination into cruel – and very real – social structures.
+
+#### He and She
+
+One hierarchy, however, has been of supreme importance in all known human societies: the hierarchy of gender. People everywhere have divided themselves into men and women. And almost everywhere men have got the better deal, at least since the Agricultural Revolution.
+
+when Communist China enacted the ‘one child’ policy, many Chinese families continued to regard the birth of a girl as a misfortune. Parents would occasionally abandon or murder newborn baby girls in order to have another shot at getting a boy.
+
+In many societies women were simply the property of men, most often their fathers, husbands or brothers. Rape, in many legal systems, falls under property violation – in other words, the victim is not the woman who was raped but the male who owns her.
+
+The Bible decrees that ‘If a man meets a virgin who is not betrothed, and seizes her and lies with her, and they are found, then the man who lay with her shall give to the father of the young woman fifty shekels of silver, and she shall be his wife’ (Deuteronomy 22:28–9). The ancient Hebrews considered this a reasonable arrangement.
+
+Raping a woman who did not belong to any man was not considered a crime at all, just as picking up a lost coin on a busy street is not considered theft.
+
+the idea that a husband could rape his wife was an oxymoron. To be a husband was to have full control of your wife’s sexuality. To say that a husband ‘raped’ his wife was as illogical as saying that a man stole his own wallet.
+
+As of 2006, there were still fifty-three countries where a husband could not be prosecuted for the rape of his wife. Even in Germany, rape laws were amended only in 1997 to create a legal category of marital rape.
+
+in democratic Athens of the fifth century BC, an individual possessing a womb had no independent legal status and was forbidden to participate in popular assemblies or to be a judge. With few exceptions, such an individual could not benefit from a good education, nor engage in business or in philosophical discourse. None of Athens’ political leaders, none of its great philosophers, orators, artists or merchants had a womb. Does having a womb make a person unfit, biologically, for these professions? The ancient Athenians thought so. 
+
+Modern Athenians disagree. In present-day Athens, women vote, are elected to public office, make speeches, design everything from jewellery to buildings to software, and go to university. Their wombs do not keep them from doing any of these things as successfully as men do.
+
+Many modern Greeks also think that an integral part of being a man is being sexually attracted to women only, and having sexual relations exclusively with the opposite sex. They don’t see this as a cultural bias, but rather as a biological reality – relations between two people of the opposite sex are natural, and between two people of the same sex unnatural. In fact, though, Mother Nature does not mind if men are sexually attracted to one another.
+
+A significant number of human cultures have viewed homosexual relations as not only legitimate but even socially constructive, ancient Greece being the most notable example. The Iliad does not mention that Thetis had any objection to her son Achilles’ relations with Patroclus. Queen Olympias of Macedon was one of the most temperamental and forceful women of the ancient world, and even had her own husband, King Philip, assassinated. Yet she didn’t have a fit when her son, Alexander the Great, brought his lover Hephaestion home for dinner.
+
+How can we distinguish what is biologically determined from what people merely try to justify through biological myths? A good rule of thumb is ‘Biology enables, Culture forbids.’ Biology is willing to tolerate a very wide spectrum of possibilities. It’s culture that obliges people to realise some possibilities while forbidding others. 
+
+Biology enables women to have children – some cultures oblige women to realise this possibility. Biology enables men to enjoy sex with one another – some cultures forbid them to realise this possibility.
+
+Culture tends to argue that it forbids only that which is unnatural. But from a biological perspective, nothing is unnatural. Whatever is possible is by definition also natural. 
+
+A truly unnatural behaviour, one that goes against the laws of nature, simply cannot exist, so it would need no prohibition. No culture has ever bothered to forbid men to photosynthesise, women to run faster than the speed of light, or negatively charged electrons to be attracted to each other.
+
+In truth, our concepts ‘natural’ and unnatural’ are taken not from biology, but from Christian theology. The theological meaning of ‘natural’ is ‘in accordance with the intentions of the God who created nature’.
+
+If we use our limbs and organs for the purpose envisioned by God, then it is a natural activity. To use them differently than God intends is unnatural. 
+
+But evolution has no purpose. Organs have not evolved with a purpose, and the way they are used is in constant flux. There is not a single organ in the human body that only does the job its prototype did when it first appeared hundreds of millions of years ago. 
+
+Organs evolve to perform a particular function, but once they exist, they can be adapted for other usages as well. Mouths, for example, appeared because the earliest multicellular organisms needed a way to take nutrients into their bodies. We still use our mouths for that purpose, but we also use them to kiss, speak 
+
+According to one theory, insect wings evolved millions of years ago from body protrusions on flightless bugs. Bugs with bumps had a larger surface area than those without bumps, and this enabled them to absorb more sunlight and thus stay warmer. In a slow evolutionary process, these solar heaters grew larger. The same structure that was good for maximum sunlight absorption – lots of surface area, little weight – also, by coincidence, gave the insects a bit of a lift when they skipped and jumped. Those with bigger protrusions could skip and jump farther. Some insects started using the things to glide, and from there it was a small step to wings that could actually propel the bug through the air. 
+
+Next time a mosquito buzzes in your ear, accuse her of unnatural behaviour. If she were well behaved and content with what God gave her, she’d use her wings only as solar panels.
+
+Sex first evolved for procreation and courtship rituals as a way of sizing up the fitness of a potential mate. But many animals now put both to use for a multitude of social purposes that have little to do with creating little copies of themselves. Chimpanzees, for example, use sex to cement political alliances, establish intimacy and defuse tensions. Is that unnatural?
+
+#### Sex and Gender
+
+Most of the laws, norms, rights and obligations that define manhood and womanhood reflect human imagination more than biological reality.
+
+While in the great majority of cases in most human societies men are males and women are females, the social terms carry a lot of baggage that has only a tenuous, if any, relationship to the biological terms. A man is not a Sapiens with particular biological qualities such as XY chromosomes, testicles and lots of testosterone. Rather, he fits into a particular slot in his society’s imagined human order. 
+
+His culture’s myths assign him particular masculine roles (like engaging in politics), rights (like voting) and duties (like military service). Likewise, a woman is not a Sapiens with two X chromosomes, a womb and plenty of oestrogen. Rather, she is a female member of an imagined human order. The myths of her society assign her unique feminine roles (raising children), rights (protection against violence) and duties (obedience to her husband). Since myths, rather than biology, define the roles, rights and duties of men and women, the meaning of ‘manhood’ and ‘womanhood’ have varied immensely from one society to another.
+
+![Female vs Woman Table](./assets/female-vs-woman-table.jpg)
+
+![22. Eighteenth-century masculinity: an official portrait of King Louis XIV of France. Note the long wig, stockings, high-heeled shoes, dancers posture – and huge sword. In contemporary Europe, all these (except for the sword) would be considered marks of effeminacy. But in his time Louis was a European paragon of manhood and virility.](./assets/figure22.jpg)
+
+22. Eighteenth-century masculinity: an official portrait of King Louis XIV of France. Note the long wig, stockings, high-heeled shoes, dancers posture – and huge sword. In contemporary Europe, all these (except for the sword) would be considered marks of effeminacy. But in his time Louis was a European paragon of manhood and virility.
+
+![23. Twenty-first-century masculinity: an official portrait of Barack Obama. What happened to the wig, stockings, high heels – and sword? Dominant men have never looked so dull and dreary as they do today. During most of history, dominant men have been colourful and flamboyant, such as American Indian chiefs with their feathered headdresses and Hindu maharajas decked out in silks and diamonds. Throughout the animal kingdom males tend to be more colourful and accessorised than females – think of peacocks’ tails and lions’ manes.](./assets/figure23.jpg)
+
+23. Twenty-first-century masculinity: an official portrait of Barack Obama. What happened to the wig, stockings, high heels – and sword? Dominant men have never looked so dull and dreary as they do today. During most of history, dominant men have been colourful and flamboyant, such as American Indian chiefs with their feathered headdresses and Hindu maharajas decked out in silks and diamonds. Throughout the animal kingdom males tend to be more colourful and accessorised than females – think of peacocks’ tails and lions’ manes.
+
+Scholars usually distinguish between ‘sex’, which is a biological category, and ‘gender’, a cultural category. Sex is divided between males and females, and the qualities of this division are objective and have remained constant throughout history. Gender is divided between men and women (and some cultures recognise other categories).
+
+Sex is child’s play; but gender is serious business. To get to be a member of the male sex is the simplest thing in the world. You just need to be born with an X and a Y chromosome. To get to be a female is equally simple. A pair of X chromosomes will do it. In contrast, becoming a man or a woman is a very complicated and demanding undertaking. Since most masculine and feminine qualities are cultural rather than biological, no society automatically crowns each male a man, or every female a woman.
+
+Males in particular live in constant dread of losing their claim to manhood. Throughout history, males have been willing to risk and even sacrifice their lives, just so that people will say ‘He’s a real man!’
+
+#### What’s So Good About Men?
+
+since the Agricultural Revolution, most human societies have been patriarchal societies that valued men more highly than women. No matter how a society defined ‘man’ and ‘woman’, to be a man was always better. 
+
+Patriarchal societies educate men to think and act in a masculine way and women to think and act in a feminine way, punishing anyone who dares cross those boundaries.
+
+Qualities considered masculine are more valued than those considered feminine, and members of a society who personify the feminine ideal get less than those who exemplify the masculine ideal. Fewer resources are invested in the health and education of women;... ...Gender is a race in which some of the runners compete only for the bronze medal.
+
+a handful of women have made it to the alpha position, such as Cleopatra of Egypt, Empress Wu Zetian of China (c. AD 700) and Elizabeth I of England. Yet they are the exceptions that prove the rule. Throughout Elizabeth’s forty-five-year reign, all Members of Parliament were men, all officers in the Royal Navy and army were men,
+
+Patriarchy has been the norm in almost all agricultural and industrial societies. It has tenaciously weathered political upheavals, social revolutions and economic transformations. 
+
+Since patriarchy is so universal, it cannot be the product of some vicious circle that was kick-started by a chance occurrence. It is particularly noteworthy that even before 1492, most societies in both America and Afro-Asia were patriarchal, even though they had been out of contact for thousands of years... ...It is far more likely that even though the precise definition of ‘man’ and ‘woman’ varies between cultures, there is some universal biological reason why almost all cultures valued manhood over womanhood. We do not know what this reason is. There are plenty of theories, none of them convincing.
+
+#### Muscle Power
+
+Men are stronger than women, and that they have used their greater physical power to force women into submission. A more subtle version of this claim argues that their strength allows men to monopolise tasks that demand hard manual labour, such as ploughing and harvesting. This gives them control of food production, which in turn translates into political clout.
+
+There are two problems with this emphasis on muscle power. First, the statement that men are stronger than women’ is true only on average, and only with regard to certain types of strength. Women are generally more resistant to hunger, disease and fatigue than men. There are also many women who can run faster and lift heavier weights than many men. Furthermore, and most problematically for this theory, women have, throughout history, been excluded mainly from jobs that require little physical effort (such as the priesthood, law and politics), while engaging in hard manual labour in the fields, in crafts and in the household. If social power were divided in direct relation to physical strength or stamina, women should have got far more of it.
+
+there simply is no direct relation between physical strength and social power among humans. People in their sixties usually exercise power over people in their twenties, even though twentysomethings are much stronger than their elders.
+
+In forager societies, political dominance generally resides with the person possessing the best social skills rather than the most developed musculature.
+
+Even among chimpanzees, the alpha male wins his position by building a stable coalition with other males and females, not through mindless violence.
+
+In fact, human history shows that there is often an inverse relation between physical prowess and social power. In most societies, it’s the lower classes who do the manual labour. This may reflect Homo sapiens position in the food chain. If all that counted were raw physical abilities, Sapiens would have found themselves on a middle rung of the ladder. But their mental and social skills placed them at the top. It is therefore only natural that the chain of power within the species will also be determined by mental and social abilities more than by brute force. 
+
+It is therefore hard to believe that the most influential and most stable social hierarchy in history is founded on men’s ability physically to coerce women.
+
+#### The Scum of Society
+
+Another theory explains that masculine dominance results not from strength but from aggression. Millions of years of evolution have made men far more violent than women. Women can match men as far as hatred, greed and abuse are concerned, but when push comes to shove, the theory goes, men are more willing to engage in raw physical violence. 
+
+This is why throughout history warfare has been a masculine prerogative. In times of war, men’s control of the armed forces has made them the masters of civilian society, too. They then used their control of civilian society to fight more and more wars, and the greater the number of wars, the greater men’s control of society. This feedback loop explains both the ubiquity of war and the ubiquity of patriarchy.
+
+Recent studies of the hormonal and cognitive systems of men and women strengthen the assumption that men indeed have more aggressive and violent tendencies, and are therefore, on average, better suited to serve as common soldiers.
+
+granted that the common soldiers are all men, does it follow that the ones managing the war and enjoying its fruits must also be men? That makes no sense. It’s like assuming that because all the slaves cultivating cotton fields are black, plantation owners will be black as well. 
+
+Just as an all-black workforce might be controlled by an all-white management, why couldn’t an all-male soldiery be controlled by an all-female or at least partly female government?
+
+in numerous societies throughout history, the top officers did not work their way up from the rank of private. Aristocrats, the wealthy and the educated were automatically assigned officer rank and never served a day in the ranks.
+
+One can’t reasonably argue that their physical weakness or low testosterone levels prevented women from being successful mandarins, generals and politicians. In order to manage a war, you surely need stamina, but not much physical strength or aggressiveness. 
+
+Wars are not a pub brawl. They are very complex projects that require an extraordinary degree of organisation, cooperation and appeasement.
+
+The militarily incompetent Augustus succeeded in establishing a stable imperial regime, achieving something that eluded both Julius Caesar and Alexander the Great, who were much better generals. Both his admiring contemporaries and modern historians often attribute this feat to his virtue of clementia – mildness and clemency.
+
+Women are often stereotyped as better manipulators and appeasers than men, and are famed for their superior ability to see things from the perspective of others. If there’s any truth in these stereotypes, then women should have made excellent politicians and empire-builders, leaving the dirty work on the battlefields to testosterone-charged but simple-minded machos.
+
+#### Patriarchal Genes
+
+men and women evolved different survival and reproduction strategies. As men competed against each other for the opportunity to impregnate fertile women, an individual’s chances of reproduction depended above all on his ability to outperform and defeat other men. As time went by, the masculine genes that made it to the next generation were those belonging to the most ambitious, aggressive and competitive men.
+
+A woman, on the other hand, had no problem finding a man willing to impregnate her. However, if she wanted her children to provide her with grandchildren, she needed to carry them in her womb for nine arduous months, and then nurture them for years. During that time she had fewer opportunities to obtain food, and required a lot of help. She needed a man. In order to ensure her own survival and the survival of her children, the woman had little choice but to agree to whatever conditions the man stipulated so that he would stick around and share some of the burden. As time went by, the feminine genes that made it to the next generation belonged to women who were submissive caretakers. Women who spent too much time fighting for power did not leave any of those powerful genes for future generations.
+
+The result of these different survival strategies – so the theory goes – is that men have been programmed to be ambitious and competitive, and to excel in politics and business, whereas women have tended to move out of the way and dedicate their lives to raising children.
+
+There are many species of animals, such as elephants and bonobo chimpanzees, in which the dynamics between dependent females and competitive males results in a matriarchal society. Since females need external help, they are obliged to develop their social skills and learn how to cooperate and appease. They construct all-female social networks that help each member raise her children. Males, meanwhile, spend their time fighting and competing.
+
+Though bonobo females are weaker on average than the males, the females often gang up to beat males who overstep their limits.
+
+Sapiens are relatively weak animals, whose advantage rests in their ability to cooperate in large numbers. If so, we should expect that dependent women, even if they are dependent on men, would use their superior social skills to cooperate to outmanoeuvre and manipulate aggressive, autonomous and self-centred men.
+
+How did it happen that in the one species whose success depends above all on cooperation, individuals who are supposedly less cooperative (men) control individuals who are supposedly more cooperative (women)? At present, we have no good answer. 
+
+Maybe the common assumptions are just wrong. Maybe males of the species Homo sapiens are characterised not by physical strength, aggressiveness and competitiveness, but rather by superior social skills and a greater tendency to cooperate. We just don’t know.
+
+during the last century gender roles have undergone a tremendous revolution. More and more societies today not only give men and women equal legal status, political rights and economic opportunities, but also completely rethink their most basic conceptions of gender and sexuality. Though the gender gap is still significant, events have been moving at a breathtaking speed. 
+
+If, as is being demonstrated today so clearly, the patriarchal system has been based on unfounded myths rather than on biological facts, what accounts for the universality and stability of this system?
 
 ## Part Three The Unification of Humankind
 
+![24. Pilgrims circling the Ka’aba in Mecca.](./assets/figure24.jpg)
 
+24. Pilgrims circling the Ka’aba in Mecca.
 
 ### 9 The Arrow of History
 
+AFTER THE AGRICULTURAL REVOLUTION, human societies grew ever larger and more complex, while the imagined constructs sustaining the social order also became more elaborate. 
+
+Myths and fictions accustomed people, nearly from the moment of birth, to think in certain ways, to behave in accordance with certain standards, to want certain things, and to observe certain rules.
+
+artificial instincts that enabled millions of strangers to cooperate effectively. This network of artificial instincts is called culture’.
+
+During the first half of the twentieth century, scholars taught that every culture was complete and harmonious,... ...In this view, cultures left to their own devices did not change. They just kept going at the same pace and in the same direction. Only a force applied from outside could change them.
+
+Today, most scholars of culture have concluded that the opposite is true. Every culture has its typical beliefs, norms and values, but these are in constant flux. The culture may transform itself in response to changes in its environment or through interaction with neighbouring cultures.
+
+Even a completely isolated culture existing in an ecologically stable environment cannot avoid change. 
+
+Unlike the laws of physics, which are free of inconsistencies, every man-made order is packed with internal contradictions. 
+
+Cultures are constantly trying to reconcile these contradictions, and this process fuels change.
+
+in medieval Europe the nobility believed in both Christianity and chivalry. A typical nobleman went to church in the morning, and listened as the priest held forth on the lives of the saints. ‘Vanity of vanities,’ said the priest, ‘all is vanity. Riches, lust and honour are dangerous temptations. You must rise above them, and follow in Christ’s footsteps. Be meek like Him, avoid violence and extravagance, and if attacked – just turn the other cheek.’ Returning home in a meek and pensive mood, the nobleman would change into his best silks and go to a banquet in his lord’s castle. There the wine flowed like water, the minstrel sang of Lancelot and Guinevere, and the guests exchanged dirty jokes and bloody war tales. ‘It is better to die,’ declared the barons, ‘than to live with shame. If someone questions your honour, only blood can wipe out the insult. And what is better in life than to see your enemies flee before you, and their pretty daughters tremble at your feet?’ The contradiction was never fully resolved. But as the European nobility, clergy and commoners grappled with it, their culture changed
+
+the modern political order. Ever since the French Revolution, people throughout the world have gradually come to see both equality and individual freedom as fundamental values. Yet the two values contradict each other. Equality can be ensured only by curtailing the freedoms of those who are better off. Guaranteeing that every individual will be free to do as he wishes inevitably short-changes equality. The entire political history of the world since 1789 can be seen as a series of attempts to reconcile this contradiction.
+
+Anyone who has read a novel by Alexander Solzhenitsyn knows how Communisms egalitarian ideal produced brutal tyrannies that tried to control every aspect of daily life.
+
+Contemporary American politics also revolve around this contradiction. Democrats want a more equitable society, even if it means raising taxes to fund programmes to help the poor, elderly and infirm. But that infringes on the freedom of individuals to spend their money as they wish. Why should the government force me to buy health insurance if I prefer using the money to put my kids through college? Republicans, on the other hand, want to maximise individual freedom, even if it means that the income gap between rich and poor will grow wider and that many Americans will not be able to afford health care.
+
+Just as medieval culture did not manage to square chivalry with Christianity, so the modern world fails to square liberty with equality.
+
+Such contradictions are an inseparable part of every human culture. In fact, they are culture’s engines, responsible for the creativity and dynamism of our species.
+
+Consistency is the playground of dull minds.
+
+If tensions, conflicts and irresolvable dilemmas are the spice of every culture, a human being who belongs to any particular culture must hold contradictory beliefs and be riven by incompatible values. It’s such an essential feature of any culture that it even has a name: cognitive dissonance. 
+
+Cognitive dissonance is often considered a failure of the human psyche. In fact, it is a vital asset. Had people been unable to hold contradictory beliefs and values, it would probably have been impossible to establish and maintain any human culture.
+
+#### The Spy Satellite
+
+Human cultures are in constant flux. Is this flux completely random, or does it have some overall pattern? In other words, does history have a direction? The answer is yes.
+
+Over the millennia, small, simple cultures gradually coalesce into bigger and more complex civilisations, so that the world contains fewer and fewer mega-cultures, each of which is bigger and more complex. This is of course a very crude generalisation, true only at the macro level. At the micro level, it seems that for every group of cultures that coalesces into a mega-culture, there’s a mega-culture that breaks up into pieces.
+
+Christianity converted hundreds of millions of people at the same time that it splintered into innumerable sects. The Latin language spread through western and central Europe, then split into local dialects that themselves eventually became national languages. But these break-ups are temporary reversals in an inexorable trend towards unity.
+
+When we adopt the proverbial bird’s-eye view of history, which examines developments in terms of decades or centuries, it’s hard to say whether history moves in the direction of unity or of diversity. However, to understand long-term processes the bird’s eye view is too myopic. We would do better to adopt instead the viewpoint of a cosmic spy satellite, which scans millennia rather than centuries. From such a vantage point it becomes crystal clear that history is moving relentlessly towards unity. The sectioning of Christianity and the collapse of the Mongol Empire are just speed bumps on history’s highway.
+
+The best way to appreciate the general direction of history is to count the number of separate human worlds that coexisted at any given moment on planet Earth. Today, we are used to thinking about the whole planet as a single unit, but for most of history, earth was in fact an entire galaxy of isolated human worlds.
+
+Tasmania, a medium-sized island south of Australia. It was cut off from the Australian mainland in about 10,000 BC as the end of the Ice Age caused the sea level to rise. A few thousand hunter-gatherers were left on the island, and had no contact with any other humans until the arrival of the Europeans in the nineteenth century. For 12,000 years, nobody else knew the Tasmanians were there, and they didn’t know that there was anyone else in the world. They had their wars, political struggles, social oscillations and cultural developments. Yet as far as the emperors of China or the rulers of Mesopotamia were concerned, Tasmania could just as well have been located on one of Jupiter’s moons. The Tasmanians lived in a world of their own.
+
+America and Europe, too, were separate worlds for most of their histories. In AD 378, the Roman emperor Valence was defeated and killed by the Goths at the battle of Adrianople. In the same year, King Chak Tok Ich’aak of Tikal was defeated and killed by the army of Teotihuacan. (Tikal was an important Mayan city state, while Teotihuacan was then the largest city in America, with almost 250,000 inhabitants – of the same order of magnitude as its contemporary, Rome.) There was absolutely no connection between the defeat of Rome and the rise of Teotihuacan. Rome might just as well have been located on Mars, and Teotihuacan on Venus.
 
 
 ### 10 The Scent of Money
