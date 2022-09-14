@@ -782,17 +782,271 @@ At least for scientists, most of the apparent differences between a discarded sc
 
 even if that transformation were a legitimate device to employ in interpreting the older theory, the result of its application would be a theory so restricted that it could only restate what was already known. Because of its economy, that restatement would have utility, but it could not suffice for the guidance of research.
 
+paradigms differ in more than substance, for they are directed not only to nature but also back upon the science that produced them. They are the source of the methods, problem-field, and standards of solution accepted by any mature scientific community at any given time.
+
+the reception of a new paradigm often necessitates a redefinition of the corresponding science. Some old problems may be relegated to another science or declared entirely “unscientific.”
+
+The normal-scientific tradition that emerges from a scientific revolution is not only incompatible but often actually incommensurable with that which has gone before.
+
+Before Newton was born the “new science” of the century had at last succeeded in rejecting Aristotelian and scholastic explanations expressed in terms of the essences of material bodies. To say that a stone fell because its “nature” drove it toward the center of the universe had been made to look a mere tautological word-play, something it had not previously been.
+
+Molière caught the new spirit precisely when he ridiculed the doctor who explained opium’s efficacy as a soporific by attributing to it a dormitive potency. During the last half of the seventeenth century many scientists preferred to say that the round shape of the opium particles enabled them to sooth the nerves about which they moved.
+
+The seventeenth century’s new commitment to mechanico-corpuscular explanation proved immensely fruitful for a number of sciences, ridding them of problems that had defied generally accepted solution and suggesting others to replace them. In dynamics, for example, Newton’s three laws of motion are less a product of novel experiments than of the attempt to reinterpret well-known observations in terms of the motions and interactions of primary neutral corpuscles.
+
+Consider just one concrete illustration. Since neutral corpuscles could act on each other only by contact, the mechanico-corpuscular view of nature directed scientific attention to a brand-new subject of study, the alteration of particulate motions by collisions.
+
+The equal “action” and “reaction” of the third law are the changes in quantity of motion experienced by the two parties to a collision. The same change of motion supplies the definition of dynamical force implicit in the second law. In this case, as in many others during the seventeenth century, the corpuscular paradigm bred both a new problem and a large part of that problem’s solution.
+ 
+Gravity, interpreted as an innate attraction between every pair of particles of matter, was an occult quality in the same sense as the scholastics’ “tendency to fall” had been. Therefore, while the standards of corpuscularism remained in effect, the search for a mechanical explanation of gravity was one of the most challenging problems for those who accepted the Principia as paradigm.
+
+Unable either to practice science without the Principia or to make that work conform to the corpuscular standards of the seventeenth century, scientists gradually accepted the view that gravity was indeed innate. By the mid-eighteenth century that interpretation had been almost universally accepted, and the result was a genuine reversion (which is not the same as a retrogression) to a scholastic standard.
+
+Nor were dynamics and electricity the only scientific fields affected by the legitimization of the search for forces innate to matter. The large body of eighteenth-century literature on chemical affinities and replacement series also derives from this supramechanical aspect of Newtonianism.
+
+Changes in the standards governing permissible problems, concepts, and explanations can transform a science.
+
+We have already noted that phlogiston explained why the metals were so much alike, and we could have developed a similar argument for the acids. Lavoisier’s reform, however, ultimately did away with chemical “principles,” and thus ended by depriving chemistry of some actual and much potential explanatory power. To compensate for this loss, a change in standards was required. During much of the nineteenth century failure to explain the qualities of compounds was no indictment of a chemical theory.
+
+These characteristic shifts in the scientific community’s conception of its legitimate problems and standards would have less significance to this essay’s thesis if one could suppose that they always occurred from some methodologically lower to some higher type. In that case their effects, too, would seem cumulative. No wonder that some historians have argued that the history of science records a continuing increase in the maturity and refinement of man’s conception of the nature of science.11 Yet the case for cumulative development of science’s problems and standards is even harder to make than the case for cumulation of theories. 
+
+What occurred was neither a decline nor a raising of standards, but simply a change demanded by the adoption of a new paradigm.
+
+A similar reversal may even be underway in electromagnetic theory. Space, in contemporary physics, is not the inert and homogenous substratum employed in both Newton’s and Maxwell’s theories; some of its new properties are not unlike those once attributed to the ether; we may someday come to know what an electric displacement is.
+
+Previously, we had principally examined the paradigm’s role as a vehicle for scientific theory. In that role it functions by telling the scientist about the entities that nature does and does not contain and about the ways in which those entities behave. That information provides a map whose details are elucidated by mature scientific research. And since nature is too complex and varied to be explored at random, that map is as essential as observation and experiment to science’s continuing development. Through the theories they embody, paradigms prove to be constitutive of the research activity. They are also, however, constitutive of science in other respects, and that is now the point.
+
+In learning a paradigm the scientist acquires theory, methods, and standards together, usually in an inextricable mixture. Therefore, when paradigms change, there are usually significant shifts in the criteria determining the legitimacy both of problems and of proposed solutions.
+
+Why the choice between competing paradigms regularly raises questions that cannot be resolved by the criteria of normal science. To the extent, as significant as it is incomplete, that two scientific schools disagree about what is a problem and what a solution
+
+There are other reasons, too, for the incompleteness of logical contact that consistently characterizes paradigm debates. For example, since no paradigm ever solves all the problems it defines and since no two paradigms leave all the same problems unsolved, paradigm debates always involve the question: Which problems is it more significant to have solved? Like the issue of competing standards, that question of values can be answered only in terms of criteria that lie outside of normal science altogether, and it is that recourse to external criteria that most obviously makes paradigm debates revolutionary.
+
+I have so far argued only that paradigms are constitutive of science. Now I wish to display a sense in which they are constitutive of nature as well.
 
 ## X Revolutions as Changes of World View
 
+When paradigms change, the world itself changes with them. Led by a new paradigm, scientists adopt new instruments and look in new places. Even more important, during revolutions scientists see new and different things when looking with familiar instruments in places they have looked before.
 
+paradigm changes do cause scientists to see the world of their research-engagement differently. In so far as their only recourse to that world is through what they see and do, we may want to say that after a revolution scientists are responding to a different world.
+
+The man who first saw the exterior of the box from above later sees its interior from below.
+
+Looking at a contour map, the student sees lines on paper, the cartographer a picture of a terrain. Looking at a bubble-chamber photograph, the student sees confused and broken lines, the physicist a record of familiar subnuclear events. Only after a number of such transformations of vision does the student become an inhabitant of the scientist’s world, seeing what the scientist sees and responding as the scientist does.
+
+at times of revolution, when the normal-scientific tradition changes, the scientist’s perception of his environment must be re-educated—in some familiar situations he must learn to see a new gestalt. After he has done so the world of his research will seem, here and there, incommensurable with the one he had inhabited before.
+
+schools guided by different paradigms are always slightly at cross-purposes.
+
+experiments demonstrate that the perceived size, color, and so on, of experimentally displayed objects also varies with the subject’s previous training and experience.
+
+What a man sees depends both upon what he looks at and also upon what his previous visual-conceptual experience has taught him to see. In the absence of such training there can only be, in William James’s phrase, “a bloomin’ buzzin’ confusion.”
+
+history of science would make better and more coherent sense if one could suppose that scientists occasionally experienced shifts of perception like those described above.
+
+If historical example is to make these psychological experiments seem relevant, we must first notice the sorts of evidence that we may and may not expect history to provide.
+
+The subject of a gestalt demonstration knows that his perception has shifted because he can make it shift back and forth repeatedly while he holds the same book or piece of paper in his hands. Aware that nothing in his environment has changed, he directs his attention increasingly not to the figure (duck or rabbit) but to the lines on the paper he is looking at. Ultimately he may even learn to see those lines without seeing either of the figures, and he may then say (what he could not legitimately have said earlier) that it is these lines that he really sees but that he sees them alternately as a duck and as a rabbit.
+
+Unless there were an external standard with respect to which a switch of vision could be demonstrated, no conclusion about alternate perceptual possibilities could be drawn.
+ 
+With scientific observation, however, the situation is exactly reversed. The scientist can have no recourse above or beyond what he sees with his eyes and instruments. If there were some higher authority by recourse to which his vision might be shown to have shifted, then that authority would itself become the source of his data, and the behavior of his vision would become a source of problems (as that of the experimental subject is for the psychologist).
+
+The period during which light was “sometimes a wave and sometimes a particle” was a period of crisis—a period when something was wrong—and it ended only with the development of wave mechanics and the realization that light was a self-consistent entity different from both waves and particles.
+
+If perceptual switches accompany paradigm changes, we may not expect scientists to attest to these changes directly. 
+
+Looking at the moon, the convert to Copernicanism does not say, “I used to see a planet, but now I see a satellite.” That locution would imply a sense in which the Ptolemaic system had once been correct. Instead, a convert to the new astronomy says, “I once took the moon to be (or saw the moon as) a planet, but I was mistaken.”
+
+we may not expect direct testimony about that shift. Rather we must look for indirect and behavioral evidence that the scientist with a new paradigm sees differently from the way he had seen before.
+
+Sir William Herschel’s discovery of Uranus provides a first example and one that closely parallels the anomalous card experiment... ...he was able to notice an apparent disk-size that was at least unusual for stars. Something was awry, and he therefore postponed identification pending further scrutiny. That scrutiny disclosed Uranus’ motion among the stars, and Herschel therefore announced that he had seen a new comet! Only several months later, after fruitless attempts to fit the observed motion to a cometary orbit, did Lexell suggest that the orbit was probably planetary.
+
+the minor paradigm change forced by Herschel helped to prepare astronomers for the rapid discovery, after 1801, of the numerous minor planets or asteroids. Because of their small size, these did not display the anomalous magnification that had alerted Herschel. Nevertheless, astronomers prepared to find additional planets were able, with standard instruments, to identify twenty of them in the first fifty years of the nineteenth century.
+
+Even without the aid of a telescope, the Chinese had systematically recorded the appearance of sunspots centuries before these were seen by Galileo and his contemporaries.
+
+The very ease and rapidity with which astronomers saw new things when looking at old objects with old instruments may make us wish to say that, after Copernicus, astronomers lived in a different world.
+
+If we can be content with the everyday use of the verb ‘to see,’ we may quickly recognize that we have already encountered many other examples of the shifts in scientific perception that accompany paradigm change.
+
+The electrical phenomena visible in the early eighteenth century were both subtler and more varied than those seen by observers in the seventeenth century. Or again, after the assimilation of Franklin’s paradigm, the electrician looking at a Leyden jar saw something different from what he had seen before. The device had become a condenser, for which neither the jar shape nor glass was required. Instead, the two conducting coatings—one of which had been no part of the original device—emerged to prominence.
+
+In learning to see oxygen, however, Lavoisier also had to change his view of many other more familiar substances. He had, for example, to see a compound ore where Priestley and his contemporaries had seen an elementary earth, and there were other such changes besides. At the very least, as a result of discovering oxygen, Lavoisier saw nature differently. And in the absence of some recourse to that hypothetical fixed nature that he “saw differently,” the principle of economy will urge us to say that after discovering oxygen Lavoisier worked in a different world.
+
+When Galileo reported that the pendulum’s period was independent of amplitude for amplitudes as great as 90°, his view of the pendulum led him to see far more regularity than we can now discover there.
+
+At least in Oresme’s case, and almost certainly in Galileo’s as well, it was a view made possible by the transition from the original Aristotelian to the scholastic impetus paradigm for motion. Until that scholastic paradigm was invented, there were no pendulums, but only swinging stones, for the scientist to see. Pendulums were brought into existence by something very like a paradigm-induced gestalt switch.
+
+Many readers will surely want to say that what changes with a paradigm is only the scientist’s interpretation of observations that themselves are fixed once and for all by the nature of the environment and of the perceptual apparatus. On this view, Priestley and Lavoisier both saw oxygen, but they interpreted their observations differently; Aristotle and Galileo both saw pendulums, but they differed in their interpretations of what they both had seen. Let me say at once that this very usual view of what occurs when scientists change their minds about fundamental matters can be neither all wrong nor a mere mistake.
+
+Today research in parts of philosophy, psychology, linguistics, and even art history, all converge to suggest that the traditional paradigm is somehow askew. That failure to fit is also made increasingly apparent by the historical study of science to which most of our attention is necessarily directed here.
+
+when Aristotle and Galileo looked at swinging stones, the first saw constrained fall, the second a pendulum.
+
+The process by which either the individual or the community makes the transition from constrained fall to the pendulum or from dephlogisticated air to oxygen is not one that resembles interpretation. How could it do so in the absence of fixed data for the scientist to interpret? Rather than being an interpreter, the scientist who embraces a new paradigm is like the man wearing inverting lenses. Confronting the same constellation of objects as before and knowing that he does so, he nevertheless finds them transformed through and through in many of their details.
+
+Paradigms are not corrigible by normal science at all. Instead, as we have already seen, normal science ultimately leads only to the recognition of anomalies and to crises.
+
+On other occasions the relevant illumination comes in sleep.13 No ordinary sense of the term ‘interpretation’ fits these flashes of intuition through which a new paradigm is born. Though such intuitions depend upon the experience, both anomalous and congruent, gained with the old paradigm, they are not logically or piecemeal linked to particular items of that experience as an interpretation would be. Instead, they gather up large portions of that experience and transform them to the rather different bundle of experience that will thereafter be linked piecemeal to the new paradigm but not to the old.
+
+As a result of those crises and of other intellectual changes besides, Galileo saw the swinging stone quite differently. Archimedes’ work on floating bodies made the medium non-essential; the impetus theory rendered the motion symmetrical and enduring; and Neoplatonism directed Galileo’s attention to the motion’s circular form.15 He therefore measured only weight, radius, angular displacement, and time per swing, which were precisely the data that could be interpreted to yield Galileo’s laws for the pendulum.
+
+Contemplating a falling stone, Aristotle saw a change of state rather than a process. For him the relevant measures of a motion were therefore total distance covered and total time elapsed, parameters which yield what we should now call not speed but average speed.16 Similarly, because the stone was impelled by its nature to reach its final resting point, Aristotle saw the relevant distance parameter at any instant during the motion as the distance to the final end point rather than as that from the origin of motion.
+
+Aristotle’s notion of speed was bifurcated by the scholastics into concepts that soon after Galileo became our average speed and instantaneous speed. But when seen through the paradigm of which these conceptions were a part, the falling stone, like the pendulum, exhibited its governing laws almost on inspection.
+
+We need be so concerned with “immediate experience”—that is, with the perceptual features that a paradigm so highlights that they surrender their regularities almost upon inspection.
+
+Perhaps immediate experience should be set aside as fluid, and we should discuss instead the concrete operations and measurements that the scientist performs in his laboratory. Or perhaps the analysis should be carried further still from the immediately given. It might, for example, be conducted in terms of some neutral observation-language, perhaps one designed to conform to the retinal imprints that mediate what the scientist sees. Only in one of these ways can we hope to retrieve a realm in which experience is again stable once and for all—in which the pendulum and constrained fall are not different perceptions but rather different interpretations of the unequivocal data provided by observation of a swinging stone.
+
+Is sensory experience fixed and neutral? Are theories simply man-made interpretations of given data? The epistemological viewpoint that has most often guided Western philosophy for three centuries dictates an immediate and unequivocal, Yes!
+
+The operations and measurements that a scientist undertakes in the laboratory are not “the given” of experience but rather “the collected with difficulty.” They are not what the scientist sees—at least not before his research is well advanced and his attention focused. Rather, they are concrete indices to the content of more elementary perceptions,
+
+Science does not deal in all possible laboratory manipulations. Instead, it selects those relevant to the juxtaposition of a paradigm with the immediate experience that that paradigm has partially determined.
+
+As for a pure observation-language, perhaps one will yet be devised. But three centuries after Descartes our hope for such an eventuality still depends exclusively upon a theory of perception and of the mind.
+
+The duck-rabbit shows that two men with the same retinal impressions can see different things; the inverting lenses show that two men with different retinal impressions can see the same thing.
+
+No language thus restricted to reporting a world fully known in advance can produce mere neutral and objective reports on “the given.” Philosophical investigation has not yet provided even a hint of what a language able to do that would be like.
+
+neither scientists nor laymen learn to see the world piecemeal or item by item. Except when all the conceptual and manipulative categories are prepared in advance—e.g., for the discovery of an additional transuranic element or for catching sight of a new house—both scientists and laymen sort out whole areas together from the flux of experience. 
+
+The child who transfers the word ‘mama’ from all humans to all females and then to his mother is not just learning what ‘mama’ means or who his mother is. Simultaneously he is learning some of the differences between males and females as well as something about the ways in which all but one female will behave toward him.
+
+The Copernicans who denied its traditional title ‘planet’ to the sun were not only learning what ‘planet’ meant or what the sun was. Instead, they were changing the meaning of ‘planet’ so that it could continue to make useful distinctions in a world where all celestial bodies, not just the sun, were seen differently from the way they had been seen before.
+
+Paradigms determine large areas of experience at the same time.
+
+Only after experience has been thus determined that the search for an operational definition or a pure observation-language can begin. 
+
+The scientist or philosopher who asks what measurements or retinal imprints make the pendulum what it is must already be able to recognize a pendulum when he sees one. If he saw constrained fall instead, his question could not even be asked. And if he saw a pendulum, but saw it in the same way he saw a tuning fork or an oscillating balance, his question could not be answered. At least it could not be answered in the same way, because it would not be the same question.
+
+After a scientific revolution many old measurements and manipulations become irrelevant and are replaced by others instead. One does not apply all the same tests to oxygen as to dephlogisticated air. But changes of this sort are never total. Whatever he may then see, the scientist after a revolution is still looking at the same world. Furthermore, though he may previously have employed them differently, much of his language and most of his laboratory instruments are still the same as they were before. As a result, postrevolutionary science invariably includes many of the same manipulations, performed with the same instruments and described in the same terms, as its prerevolutionary predecessor. 
+
+If these enduring manipulations have been changed at all, the change must lie either in their relation to the paradigm or in their concrete results. I now suggest, by the introduction of one last new example, that both these sorts of changes occur.
+
+Eighteenth-century chemists did recognize two sorts of processes. When mixing produced heat, light, effervescence or something else of the sort, chemical union was seen to have taken place. If, on the other hand, the particles in the mixture could be distinguished by eye or mechanically separated, there was only physical mixture.
+
+If, for example, oxygen and nitrogen were only mixed and not combined in the atmosphere, then the heavier gas, oxygen, should settle to the bottom. Dalton, who took the atmosphere to be a mixture, was never satisfactorily able to explain oxygen’s failure to do so.
+
+One is tempted to say that the chemists who viewed solutions as compounds differed from their successors only over a matter of definition. In one sense that may have been the case. But that sense is not the one that makes definitions mere conventional conveniences. In the eighteenth century mixtures were not fully distinguished from compounds by operational tests, and perhaps they could not have been. 
+
+Even if chemists had looked for such tests, they would have sought criteria that made the solution a compound. The mixture-compound distinction was part of their paradigm—part of the way they viewed their whole field of research—and as such it was prior to any particular laboratory test, though not to the accumulated experience of chemistry as a whole.
+
+Given the obvious counterinstances, like glass or like salt in water, no generalization was possible without an abandonment of affinity theory and a reconceptualization of the boundaries of the chemist’s domain. 
+
+That consequence became explicit at the very end of the century in a famous debate between the French chemists Proust and Berthollet. The first claimed that all chemical reactions occurred in fixed proportion, the latter that they did not. Each collected impressive experimental evidence for his view. Nevertheless, the two men necessarily talked through each other, and their debate was entirely inconclusive. Where Berthollet saw a compound that could vary in proportion, Proust saw only a physical mixture.23 To that issue neither experiment nor a change of definitional convention could be relevant. The two men were as fundamentally at cross-purposes as Galileo and Aristotle had been.
+
+Dalton was neither a chemist nor interested in chemistry. Instead, he was a meteorologist investigating the, for him, physical problems of the absorption of gases by water and of water by the atmosphere. Partly because his training was in a different specialty and partly because of his own work in that specialty, he approached these problems with a paradigm different from that of contemporary chemists. In particular, he viewed the mixture of gases or the absorption of a gas in water as a physical process, one in which forces of affinity played no part. To him, therefore, the observed homogeneity of solutions was a problem, but one which he thought he could solve if he could determine the relative sizes and weights of the various atomic particles in his experimental mixtures.
+
+As a result of what is perhaps our fullest example of a scientific revolution, the same chemical manipulations assumed a relationship to chemical generalization very different from the one they had had before.
+
+Dalton’s new paradigm proved convincing where Proust’s had not been, for it had implications far wider and more important than a new criterion for distinguishing a mixture from a compound. If, for example, atoms could combine chemically only in simple whole-number ratios, then a re-examination of existing chemical data should disclose examples of multiple as well as of fixed proportions. Chemists stopped writing that the two oxides of, say, carbon contained 56 per cent and 72 per cent of oxygen by weight; instead they wrote that one weight of carbon would combine either with 1.3 or with 2.6 weights of oxygen. When the results of old manipulations were recorded in this way, a 2:1 ratio leaped to the eye; and this occurred in the analysis of many well-known reactions and of new ones besides. In addition, Dalton’s paradigm made it possible to assimilate Richter’s work and to see its full generality.
+
+What chemists took from Dalton was not new experimental laws but a new way of practicing chemistry (he himself called it the “new system of chemical philosophy”), and this proved so rapidly fruitful that only a few of the older chemists in France and Britain were able to resist it
+
+chemists came to live in a world where reactions behaved quite differently from the way they had before.
+
+It is hard to make nature fit a paradigm. That is why the puzzles of normal science are so challenging and also why measurements undertaken without a paradigm so seldom lead to any conclusions at all. Chemists could not, therefore, simply accept Dalton’s theory on the evidence, for much of that was still negative. Instead, even after accepting the theory, they had still to beat nature into line, a process which, in the event, took almost another generation.
 
 ## XI The Invisibility of Revolutions
 
+Most of them, which were deliberately selected for their familiarity, have customarily been viewed not as revolutions but as additions to scientific knowledge.
 
+Only when the nature of that authority is recognized and analyzed can one hope to make historical example fully effective.
+
+As the source of authority, I have in mind principally textbooks of science together with both the popularizations and the philosophical works modeled on them. All three of these categories—until recently no other significant sources of information about science have been available except through the practice of research—have one thing in common. They address themselves to an already articulated body of problems, data, and theory, most often to the particular set of paradigms to which the scientific community is committed at the time they are written.
+
+All three record the stable outcome of past revolutions and thus display the bases of the current normal-scientific tradition. To fulfill their function they need not provide authentic information about the way in which those bases were first recognized and then embraced by the profession. In the case of textbooks, at least, there are even good reasons why, in these matters, they should be systematically misleading.
+
+An increasing reliance on textbooks or their equivalent was an invariable concomitant of the emergence of a first paradigm in any field of science.
+
+Textbooks, however, being pedagogic vehicles for the perpetuation of normal science, have to be rewritten in whole or in part whenever the language, problem-structure, or standards of normal science change. In short, they have to be rewritten in the aftermath of each scientific revolution, and, once rewritten, they inevitably disguise not only the role but the very existence of the revolutions that produced them.
+
+Textbooks thus begin by truncating the scientist’s sense of his discipline’s history and then proceed to supply a substitute for what they have eliminated.
+
+Textbooks of science contain just a bit of history, either in an introductory chapter or, more often, in scattered references to the great heroes of an earlier age. From such references both students and professionals come to feel like participants in a long-standing historical tradition. Yet the textbook-derived tradition in which scientists come to sense their participation is one that, in fact, never existed. For reasons that are both obvious and highly functional, science textbooks (and too many of the older histories of science) refer only to that part of the work of past scientists that can easily be viewed as contributions to the statement and solution of the texts’ paradigm problems.
+
+No wonder that textbooks and the historical tradition they imply have to be rewritten after each scientific revolution. And no wonder that, as they are rewritten, science once again comes to seem largely cumulative.
+
+The temptation to write history backward is both omnipresent and perennial. But scientists are more affected by the temptation to rewrite history, partly because the results of scientific research show no obvious dependence upon the historical context of the inquiry, and partly because, except during crisis and revolution, the scientist’s contemporary position seems so secure
+
+Why dignify what science’s best and most persistent efforts have made it possible to discard? The depreciation of historical fact is deeply, and probably functionally, ingrained in the ideology of the scientific profession, the same profession that places the highest of all values upon factual details of other sorts. 
+
+Whitehead caught the unhistorical spirit of the scientific community when he wrote, “A science that hesitates to forget its founders is lost.”
+
+Fortunately, instead of forgetting these heroes, scientists have been able to forget or revise their works.
+
+The result is a persistent tendency to make the history of science look linear or cumulative, a tendency that even affects scientists looking back at their own research.
+
+What all of Dalton’s accounts omit are the revolutionary effects of applying to chemistry a set of questions and concepts previously restricted to physics and meteorology. That is what Dalton did, and the result was a reorientation toward the field, a reorientation that taught chemists to ask new questions about and to draw new conclusions from old data.
+
+Newton wrote that Galileo had discovered that the constant force of gravity produces a motion proportional to the square of the time. In fact, Galileo’s kinematic theorem does take that form when embedded in the matrix of Newton’s own dynamical concepts. But Galileo said nothing of the sort. His discussion of falling bodies rarely alludes to forces, much less to a uniform gravitational force that causes bodies to fall.2 By crediting to Galileo the answer to a question that Galileo’s paradigms did not permit to be asked, Newton’s account hides the effect of a small but revolutionary reformulation in the questions that scientists asked about motion as well as in the answers they felt able to accept.
+
+By disguising such changes, the textbook tendency to make the development of science linear hides a process that lies at the heart of the most significant episodes of scientific development.
+
+Those misconstructions render revolutions invisible; the arrangement of the still visible material in science texts implies a process that, if it existed, would deny revolutions a function. Because they aim quickly to acquaint the student with what the contemporary scientific community thinks it knows, textbooks treat the various experiments, concepts, laws, and theories of the current normal science as separately and as nearly seriatim as possible. 
+
+As pedagogy this technique of presentation is unexceptionable. But when combined with the generally unhistorical air of science writing and with the occasional systematic misconstructions discussed above, one strong impression is overwhelmingly likely to follow: science has reached its present state by a series of individual discoveries and inventions that, when gathered together, constitute the modern body of technical knowledge.
+
+a textbook presentation implies, scientists have striven for the particular objectives that are embodied in today’s paradigms. One by one, in a process often compared to the addition of bricks to a building, scientists have added another fact, concept, law, or theory to the body of information supplied in the contemporary science text. But that is not the way a science develops.
+
+The whole network of fact and theory that the textbook paradigm fits to nature has shifted.
+
+is the constant acceleration produced by a constant force a mere fact that students of dynamics have always sought, or is it rather the answer to a question that first arose only within Newtonian theory and that that theory could answer from the body of information available before the question was asked?
+
+they have implications as well for what the text presents as theories. Those theories, of course, do “fit the facts,” but only by transforming previously accessible information into facts that, for the preceding paradigm, had not existed at all.
+
+theories too do not evolve piecemeal to fit facts that were there all the time. Rather, they emerge together with the facts they fit from a revolutionary reformulation of the preceding scientific tradition, a tradition within which the knowledge-mediated relationship between the scientist and nature was not quite the same.
+
+Every elementary chemistry text must discuss the concept of a chemical element.
+
+When that notion is introduced, its origin is attributed to the seventeenth-century chemist, Robert Boyle, in whose Sceptical Chymist the attentive reader will find a definition of ‘element’ quite close to that in use today. Reference to Boyle’s contribution helps to make the neophyte aware that chemistry did not begin with the sulfa drugs; in addition, it tells him that one of the scientist’s traditional tasks is to invent concepts of this sort. As a part of the pedagogic arsenal that makes a man a scientist, the attribution is immensely successful.
+
+Like ‘time,’ ‘energy,’ ‘force,’ or ‘particle,’ the concept of an element is the sort of textbook ingredient that is often not invented or discovered at all. Boyle’ås definition, in particular, can be traced back at least to Aristotle and forward through Lavoisier into modern texts.
+
+Verbal definitions like Boyle’s have little scientific content when considered by themselves. They are not full logical specifications of meaning (if there are such), but more nearly pedagogic aids.
+
+Concepts like that of an element can scarcely be invented independent of context.
+
+given the context, they rarely require invention because they are already at hand. 
+
+Both Boyle and Lavoisier changed the chemical significance of ‘element’ in important ways. But they did not invent the notion or even change the verbal formula that serves as its definition. 
+
+Nor, as we have seen, did Einstein have to invent or even explicitly redefine ‘space’ and ‘time’ in order to give them new meaning within the context of his work.
+
+Boyle provides a typical example both of the process involved at each of these stages and of what happens to that process when existing knowledge is embodied in a textbook. More than any other single aspect of science, that pedagogic form has determined our image of the nature of science and of the role of discovery and invention in its advance.
 
 ## XII The Resolution of Revolutions
 
+The textbooks we have just been discussing are produced only in the aftermath of a scientific revolution. They are the bases for a new tradition of normal science.
+
+What is the process by which a new candidate for paradigm replaces its predecessor? Any new interpretation of nature, whether a discovery or a theory, emerges first in the mind of one or a few individuals.
+
+How are they able, what must they do, to convert the entire profession or the relevant professional subgroup to their way of seeing science and the world? What causes the group to abandon one tradition of normal research in favor of another?
+
+They are the only reconstructions the historian can supply for the philosopher’s inquiry about the testing, verification, or falsification of established scientific theories. In so far as he is engaged in normal science, the research worker is a solver of puzzles, not a tester of paradigms.
+
+trial attempts, whether by the chess player or by the scientist, are trials only of themselves, not of the rules of the game. They are possible only so long as the paradigm itself is taken for granted.
+
+paradigm-testing occurs only after persistent failure to solve a noteworthy puzzle has given rise to crisis. And even then it occurs only after the sense of crisis has evoked an alternate candidate for paradigm. 
+
+In the sciences the testing situation never consists, as puzzle-solving does, simply in the comparison of a single paradigm with nature. Instead, testing occurs as part of the competition between two rival paradigms for the allegiance of the scientific community.
+
+They ask not whether a theory has been verified but rather about its probability in the light of the evidence that actually exists
+
+insistence on comparing theories also characterizes the historical situation in which a new theory is accepted.
+
+it points one of the directions in which future discussions of verification should go.
+
+Verification is like natural selection: it picks out the most viable among the actual alternatives in a particular historical situation. Whether that choice is the best that could have been made if still other alternatives had been available or if the data had been of another sort is not a question that can usefully be asked. There are no tools to employ in seeking answers to it.
+
+no theory ever solves all the puzzles with which it is confronted at a given time; nor are the solutions already achieved often perfect.
+
+If any and every failure to fit were ground for theory rejection, all theories ought to be rejected at all times. On the other hand, if only severe failure to fit justifies theory rejection, then the Popperians will require some criterion of “improbability” or of “degree of falsification.”
 
 
 ## XIII Progress through Revolutions
