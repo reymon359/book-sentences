@@ -1048,12 +1048,220 @@ no theory ever solves all the puzzles with which it is confronted at a given tim
 
 If any and every failure to fit were ground for theory rejection, all theories ought to be rejected at all times. On the other hand, if only severe failure to fit justifies theory rejection, then the Popperians will require some criterion of “improbability” or of “degree of falsification.”
 
+It is in that joint verification-falsification process that the probabilist’s comparison of theories plays a central role. Such a two-stage formulation has, I think, the virtue of great verisimilitude, and it may also enable us to begin explicating the role of agreement (or disagreement) between fact and theory in the verification process.
+
+All historically significant theories have agreed with the facts, but only more or less. There is no more precise answer to the question whether or how well an individual theory fits the facts.
+
+This formulation, however, makes the task of choosing between paradigms look both easier and more familiar than it is. If there were but one set of scientific problems, one world within which to work on them, and one set of standards for their solution, paradigm competition might be settled more or less routinely by some process like counting the number of problems solved by each.
+
+the proponents of competing paradigms will often disagree about the list of problems that any candidate for paradigm must resolve. Their standards or their definitions of science are not the same. 
+
+Must a theory of motion explain the cause of the attractive forces between particles of matter or may it simply note the existence of such forces? Newton’s dynamics was widely rejected because, unlike both Aristotle’s and Descartes’s theories, it implied the latter answer to the question. When Newton’s theory had been accepted, a question was therefore banished from science.
+ 
+More is involved, however, than the incommensurability of standards. Since new paradigms are born from old ones, they ordinarily incorporate much of the vocabulary and apparatus, both conceptual and manipulative, that the traditional paradigm had previously employed. But they seldom employ these borrowed elements in quite the traditional way.
+
+The inevitable result is what we must call, though the term is not quite right, a misunderstanding between the two competing schools. The laymen who scoffed at Einstein’s general theory of relativity because space could not be “curved”—it was not that sort of thing—were not simply wrong or mistaken. Nor were the mathematicians, physicists, and philosophers who tried to develop a Euclidean version of Einstein’s theory.
+
+To make the transition to Einstein’s universe, the whole conceptual web whose strands are space, time, matter, force, and so on, had to be shifted and laid down again on nature whole.
+
+Consider, for another example, the men who called Copernicus mad because he proclaimed that the earth moved. They were not either just wrong or quite wrong. Part of what they meant by ‘earth’ was fixed position. 
+
+Their earth, at least, could not be moved. Correspondingly, Copernicus’ innovation was not simply to move the earth. Rather, it was a whole new way of regarding the problems of physics and astronomy, one that necessarily changed the meaning of both ‘earth’ and ‘motion.’
+
+Both Descartes and Huyghens could realize that the earth’s motion was a question with no content for science.
+
+A law that cannot even be demonstrated to one group of scientists may occasionally seem intuitively obvious to another.
+
+Just because it is a transition between incommensurables, the transition between competing paradigms cannot be made a step at a time, forced by logic and neutral experience. Like the gestalt switch, it must occur all at once (though not necessarily in an instant) or not at all.
+
+How, then, are scientists brought to make this transposition? Part of the answer is that they are very often not. Copernicanism made few converts for almost a century after Copernicus’ death. Newton’s work was not generally accepted, particularly on the Continent, for more than half a century after the Principia appeared.
+
+Darwin, in a particularly perceptive passage at the end of his Origin of Species, wrote: “Although I am fully convinced of the truth of the views given in this volume . . . , I by no means expect to convince experienced naturalists whose minds are stocked with a multitude of facts all viewed, during a long course of years, from a point of view directly opposite to mine. . . . [B]ut I look with confidence to the future,—to young and rising naturalists, who will be able to view both sides of the question with impartiality.”
+
+The transfer of allegiance fom paradigm to paradigm is a conversion experience that cannot be forced. Lifelong resistance, particularly from those whose productive careers have committed them to an older tradition of normal science, is not a violation of scientific standards but an index to the nature of scientific research itself.
+
+That same assurance is what makes normal or puzzle-solving science possible. And it is only through normal science that the professional community of scientists succeeds, first, in exploiting the potential scope and precision of the older paradigm and, then, in isolating the difficulty through the study of which a new paradigm may emerge.
+
+Still, to say that resistance is inevitable and legitimate, that paradigm change cannot be justified by proof, is not to say that no arguments are relevant or that scientists cannot be persuaded to change their minds. 
+
+Though a generation is sometimes required to effect the change, scientific communities have again and again been converted to new paradigms.
+
+Conversions will occur a few at a time until, after the last holdouts have died, the whole profession will again be practicing under a single, but now a different, paradigm. We must therefore ask how conversion is induced and how resisted.
+
+Probably the single most prevalent claim advanced by the proponents of a new paradigm is that they can solve the problems that have led the old one to a crisis. When it can legitimately be made, this claim is often the most effective one possible.
+
+Claims of this sort are particularly likely to succeed if the new paradigm displays a quantitative precision strikingly better than its older competitor.
+
+ Newton’s success in predicting quantitative astronomical observations was probably the single most important reason for his theory’s triumph over its more reasonable but uniformly qualitative competitors.
+
+The claim to have solved the crisis-provoking problems is, however, rarely sufficient by itself. Nor can it always legitimately be made. In fact, Copernicus’ theory was not more accurate than Ptolemy’s and did not lead directly to any improvement in the calendar.
+
+Copernicus’ theory, for example, suggested that planets should be like the earth, that Venus should show phases, and that the universe must be vastly larger than had previously been supposed. As a result, when sixty years after his death the telescope suddenly displayed mountains on the moon, the phases of Venus, and an immense number of previously unsuspected stars, those observations brought the new theory a great many converts, particularly among non-astronomers
+
+All the arguments for a new paradigm discussed so far have been based upon the competitors’ comparative ability to solve problems. To scientists those arguments are ordinarily the most significant and persuasive.
+
+ for reasons to which we shall shortly revert, they are neither individually nor collectively compelling. Fortunately, there is also another sort of consideration that can lead scientists to reject an old paradigm in favor of a new. These are the arguments, rarely made entirely explicit, that appeal to the individual’s sense of the appropriate or the aesthetic—the new theory is said to be “neater,” “more suitable,” or “simpler” than the old.
+ 
+Before those texts are written, while the debate goes on, the situation is very different. Usually the opponents of a new paradigm can legitimately claim that even in the area of crisis it is little superior to its traditional rival. Of course, it handles some problems better, has disclosed some new regularities. But the older paradigm can presumably be articulated to meet these challenges as it has met others before.
+
+But paradigm debates are not really about relative problem-solving ability, though for good reasons they are usually couched in those terms. Instead, the issue is which paradigm should in the future guide research on problems many of which neither competitor can yet claim to resolve completely. A decision between alternate ways of practicing science is called for, and in the circumstances that decision must be based less on past achievement than on future promise. 
+
+The man who embraces a new paradigm at an early stage must often do so in defiance of the evidence provided by problem-solving. He must, that is, have faith that the new paradigm will succeed with the many large problems that confront it, knowing only that the older paradigm has failed with a few. A decision of that kind can only be made on faith.
+
+That is one of the reasons why prior crisis proves so important. Scientists who have not experienced it will seldom renounce the hard evidence of problem-solving to follow what may easily prove and will be widely regarded as a will-o’-the-wisp. But crisis alone is not enough.
+
+This is not to suggest that new paradigms triumph ultimately through some mystical aesthetic. On the contrary, very few men desert a tradition for these reasons alone. Often those who do turn out to have been misled. But if a paradigm is ever to triumph it must gain some first supporters, men who will develop it to the point where hardheaded arguments can be produced and multiplied.
+
+At the start a new candidate for paradigm may have few supporters, and on occasions the supporters’ motives may be suspect. Nevertheless, if they are competent, they will improve it, explore its possibilities, and show what it would be like to belong to the community guided by it.
+
+At most he may wish to say that the man who continues to resist after his whole profession has been converted has ipso facto ceased to be a scientist.
 
 ## XIII Progress through Revolutions
 
+The preceding pages have carried my schematic description of scientific development as far as it can go in this essay. Nevertheless, they cannot quite provide a conclusion. If this description has at all caught the essential structure of a science’s continuing evolution, it will simultaneously have posed a special problem: 
 
+Why should the enterprise sketched above move steadily ahead in ways that, say, art, political theory, or philosophy does not? Why is progress a perquisite reserved almost exclusively for the activities we call science?
+
+ part of the question is entirely semantic. To a very great extent the term ‘science’ is reserved for fields that do progress in obvious ways.
+ 
+  Men argue that psychology, for example, is a science because it possesses such and such characteristics. Others counter that those characteristics are either unnecessary or not sufficient to make a field a science. Often great energy is invested, great passion aroused, and the outsider is at a loss to know why. Can very much depend upon a definition of ‘science’? Can a definition tell a man whether he is a scientist or not? If so, why do not natural scientists or artists worry about the definition of the term?
+  
+That point has a converse that, though no longer simply semantic, may help to display the inextricable connections between our notions of science and of progress. For many centuries, both in antiquity and again in early modern Europe, painting was regarded as the cumulative discipline. During those years the artist’s goal was assumed to be representation. Critics and historians, like Pliny and Vasari, then recorded with veneration the series of inventions from foreshortening through chiaroscuro that had made possible successively more perfect representations of nature.1 But those are also the years, particularly during the Renaissance, when little cleavage was felt between the sciences and the arts. Leonardo was only one of many men who passed freely back and forth between fields that only later became categorically distinct.
+
+ our present difficulty to recognize that we tend to see as science any field in which progress is marked.
+ 
+ progress should be so noteworthy a characteristic of an enterprise conducted with the techniques and goals this essay has described.
+ 
+In all cases but the last, however, their resolution will depend in part upon an inversion of our normal view of the relation between scientific activity and the community that practices it.
+  
+the phrases ‘scientific progress’ and even ‘scientific objectivity’ may come to seem in part redundant. In fact, one aspect of the redundancy has just been illustrated. Does a field make progress because it is a science, or is it a science because it makes progress?
+ 
+If we doubt, as many do, that nonscientific fields make progress, that cannot be because individual schools make none. Rather, it must be because there are always competing schools, each of which constantly questions the very foundations of the others.
+
+These doubts about progress arise, however, in the sciences too. Throughout the pre-paradigm period when there is a multiplicity of competing schools, evidence of progress, except within schools, is very hard to find.
+  
+Those who rejected Newtonianism proclaimed that its reliance upon innate forces would return science to the Dark Ages. Those who opposed Lavoisier’s chemistry held that the rejection of chemical “principles” in favor of laboratory elements was the rejection of achieved chemical explanation by those who would take refuge in a mere name.
+
+With respect to normal science, then, part of the answer to the problem of progress lies simply in the eye of the beholder. Scientific progress is not different in kind from progress in other fields, but the absence at most times of competing schools that question each other’s aims and standards makes the progress of a normal-scientific community far easier to see.
+
+Some of these are consequences of the unparalleled insulation of mature scientific communities from the demands of the laity and of everyday life. That insulation has never been complete—we are now discussing matters of degree. Nevertheless, there are no other professional communities in which individual creative work is so exclusively addressed to and evaluated by other members of the profession.
+
+The effects of insulation from the larger society are greatly intensified by another characteristic of the professional scientific community, the nature of its educational initiation.
+
+ Until the very last stages in the education of a scientist, textbooks are systematically substituted for the creative scientific literature that made them possible. Given the confidence in their paradigms, which makes this educational technique possible, few scientists would wish to change it. Why, after all, should the student of physics, for example, read the works of Newton, Faraday, Einstein, or Schrödinger, when everything he needs to know about these works is recapitulated in a far briefer, more precise, and more systematic form in a number of up-to-date textbooks?
+ 
+ In its normal state, then, a scientific community is an immensely efficient instrument for solving the problems or puzzles that its paradigms define. Furthermore, the result of solving those problems must inevitably be progress.
+ 
+Why should progress also be the apparently universal concomitant of scientific revolutions? Once again, there is much to be learned by asking what else the result of a revolution could be. Revolutions close with a total victory for one of the two opposing camps. Will that group ever say that the result of its victory has been something less than progress? That would be rather like admitting that they had been wrong and their opponents right. To them, at least, the outcome of revolution must be progress, and they are in an excellent position to make certain that future members of their community will see past history in the same way.
+  
+Inevitably those remarks will suggest that the member of a mature scientific community is, like the typical character of Orwell’s 1984, the victim of a history rewritten by the powers that be. Furthermore, that suggestion is not altogether inappropriate. There are losses as well as gains in scientific revolutions, and scientists tend to be peculiarly blind to the former.
+
+ If authority alone, and particularly if nonprofessional authority, were the arbiter of paradigm debates, the outcome of those debates might still be revolution, but it would not be scientific revolution.
+ 
+The bulk of scientific knowledge is a product of Europe in the last four centuries. No other place and time has supported the very special communities from which scientific productivity comes.
+ 
+ The group’s members, as individuals and by virtue of their shared training and experience, must be seen as the sole possessors of the rules of the game or of some equivalent basis for unequivocal judgments.
+ 
+despite its small size the list is already sufficient to set such communities apart from all other professional groups. And note, in addition, that despite its source in normal science the list accounts for many special features of the group’s response during revolutions and particularly during paradigm debates.
+
+Because the unit of scientific achievement is the solved problem and because the group knows well which problems have already been solved, few scientists will easily be persuaded to adopt a viewpoint that again opens to question many problems that had previously been solved. 
+
+Nature itself must first undermine professional security by making prior achievements seem problematic.
+
+a community of scientific specialists will do all that it can to ensure the continuing growth of the assembled data that it can treat with precision and detail. In the process the community will sustain losses. Often some old problems must be banished. Frequently, in addition, revolution narrows the scope of the community’s professional concerns, increases the extent of its specialization, and attenuates its communication with other groups, both scientific and lay.
+
+incompatible rules for doing science cannot coexist except during revolutions when the profession’s main task is to eliminate all sets but one.
+
+We are all deeply accustomed to seeing science as the one enterprise that draws constantly nearer to some goal set by nature in advance. But need there be any such goal? Can we not account for both science’s existence and its success in terms of evolution from the community’s state of knowledge at any given time?
+
+When Darwin first published his theory of evolution by natural selection in 1859, what most bothered many professionals was neither the notion of species change nor the possible descent of man from apes. The evidence pointing to evolution, including the evolution of man, had been accumulating for decades, and the idea of evolution had been suggested and widely disseminated before. Though evolution, as such, did encounter resistance, particularly from some religious groups, it was by no means the greatest of the difficulties the Darwinians faced. That difficulty stemmed from an idea that was more nearly Darwin’s own. All the well-known pre-Darwinian evolutionary theories—those of Lamarck, Chambers, Spencer, and the German Naturphilosophen—had taken evolution to be a goal-directed process. The “idea” of man and of the contemporary flora and fauna was thought to have been present from the first creation of life, perhaps in the mind of God. That idea or plan had provided the direction and the guiding force to the entire evolutionary process. Each new stage of evolutionary development was a more perfect realization of a plan that had been present from the start. For many men the abolition of that teleological kind of evolution was the most significant and least palatable of Darwin’s suggestions.
+
+ What could ‘evolution,’ ‘development,’ and ‘progress’ mean in the absence of a specified goal? To many people, such terms suddenly seemed self-contradictory.
+ 
+Anyone who has followed the argument this far will nevertheless feel the need to ask why the evolutionary process should work. What must nature, including man, be like in order that science be possible at all? Why should scientific communities be able to reach a firm consensus unattainable in other fields? Why should consensus endure across one paradigm change after another?... ...From one point of view those questions, excepting the first, have already been answered. But from another they are as open as they were when this essay began. It is not only the scientific community that must be special. The world of which that community is a part must also possess quite special characteristics, and we are no closer than we were at the start to knowing what these must be. That problem—What must the world be like in order that man may know it?—was not, however, created by this essay. On the contrary, it is as old as science itself, and it remains unanswered. But it need not be answered in this place. Any conception of nature compatible with the growth of science by proof is compatible with the evolutionary view of science developed here. Since this view is also compatible with close observation of scientific life, there are strong arguments for employing it in attempts to solve the host of problems that still remain.
 
 ## Postscript—1969
+
+It has now been almost seven years since this book was first published... ...On fundamentals my viewpoint is very nearly unchanged, but I now recognize aspects of its initial formulation that create gratuitous difficulties and misunderstandings.
+
+in much of the book the term ‘paradigm’ is used in two different senses. On the one hand, it stands for the entire constellation of beliefs, values, techniques, and so on shared by the members of a given community. On the other, it denotes one sort of element in that constellation, the concrete puzzle-solutions which, employed as models or examples, can replace explicit rules as a basis for the solution of the remaining puzzles of normal science.
+
+ particularly for the charge that I make of science a subjective and irrational enterprise. These issues are considered in Subsections 4 and 5. The first argues that terms like ‘subjective’ and ‘intuitive’ cannot appropriately be applied to the components of knowledge that I have described as tacitly embedded in shared examples. Though such knowledge is not, without essential change, subject to paraphrase in terms of rules and criteria, it is nevertheless systematic, time tested, and in some sense corrigible.
+ 
+
+### 1. Paradigms and Community Structure
+ 
+The term ‘paradigm’ enters the preceding pages early, and its manner of entry is intrinsically circular. A paradigm is what the members of a scientific community share, and, conversely, a scientific community consists of men who share a paradigm. Not all circularities are vicious (I shall defend an argument of similar structure late in this postscript), but this one is a source of real difficulties. 
+
+Scientific communities can and should be isolated without prior recourse to paradigms; the latter can then be discovered by scrutinizing the behavior of a given community’s members.
+
+A scientific community consists, on this view, of the practitioners of a scientific specialty. To an extent unparalleled in most other fields, they have undergone similar educations and professional initiations; in the process they have absorbed the same technical literature and drawn many of the same lessons from it. Usually the boundaries of that standard literature mark the limits of a scientific subject matter, and each community ordinarily has a subject matter of its own
+
+Communities in this sense exist, of course, at numerous levels. The most global is the community of all natural scientists. At an only slightly lower level the main scientific professional groups are communities: physicists, chemists, astronomers, zoologists, and the like. For these major groupings, community membership is readily established except at the fringes.
+
+ Similar techniques will also isolate major subgroups: organic chemists, and perhaps protein chemists among them, solid-state and high-energy physicists, radio astronomers, and so on. It is only at the next lower level that empirical problems emerge.
+ 
+Communities of this sort are the units that this book has presented as the producers and validators of scientific knowledge. Paradigms are something shared by the members of such groups.
+ 
+Probably the most striking of these is what I have previously called the transition from the pre- to the post-paradigm period in the development of a scientific field. That transition is the one sketched above in Section II. Before it occurs, a number of schools compete for the domination of a given field. Afterward, in the wake of some notable scientific achievement, the number of schools is greatly reduced, ordinarily to one, and a more efficient mode of scientific practice begins.
+
+The nature of that transition to maturity deserves fuller discussion than it has received in this book, particularly from those concerned with the development of the contemporary social sciences. To that end it may help to point out that the transition need not (I now think should not) be associated with the first acquisition of a paradigm.
+
+A second issue, more important at least to historians, concerns this book’s implicit one-to-one identification of scientific communities with scientific subject matters. I have, that is, repeatedly acted as though, say, ‘physical optics,’ ‘electricity,’ and ‘heat’ must name scientific communities because they do name subject matters for research.
+
+When the analysis of scientific development is approached in that way, several difficulties which have been foci for critical attention are likely to vanish. A number of commentators have, for example, used the theory of matter to suggest that I drastically overstate the unanimity of scientists in their allegiance to a paradigm. Until comparatively recently, they point out, those theories have been topics for continuing disagreement and debate. I agree with the description but think it no counterexample. Theories of matter were not, at least until about 1920, the special province or the subject matter for any scientific community. Instead, they were tools for a large number of specialists’ groups.
+
+Some other difficulties and misunderstandings will, I believe, be dissolved in the same way. Partly because of the examples I have chosen and partly because of my vagueness about the nature and size of the relevant communities, a few readers of this book have concluded that my concern is primarily or exclusively with major revolutions such as those associated with Copernicus, Newton, Darwin, or Einstein. A clearer delineation of community structure should, however, help to enforce the rather different impression I have tried to create. A revolution is for me a special sort of change involving a certain sort of reconstruction of group commitments. But it need not be a large change, nor need it seem revolutionary to those outside a single community, consisting perhaps of fewer than twenty-five people. It is just because this type of change, little recognized or discussed in the literature of the philosophy of science, occurs so regularly on this smaller scale that revolutionary, as against cumulative, change so badly needs to be understood.
+
+### 2. Paradigms as the Constellation of Group Commitments
+
+Turn now to paradigms and ask what they can possibly be. My original text leaves no more obscure or important question. One sympathetic reader, who shares my conviction that ‘paradigm’ names the central philosophical elements of the book, prepared a partial analytic index and concluded that the term is used in at least twenty-two different ways.7 Most of those differences are, I now think, due to stylistic inconsistencies (e.g., Newton’s Laws are sometimes a paradigm, sometimes parts of a paradigm, and sometimes paradigmatic), and they can be eliminated with relative ease. But, with that editorial work done, two very different usages of the term would remain, and they require separation. The more global use is the subject of this subsection; the other will be considered in the next.
+
+ the Joule-Lenz Law, H = RI2. When that law was discovered, community members already knew what H, R, and I stood for, and these generalizations simply told them something about the behavior of heat, current, and resistance that they had not known before.
+
+To many readers of the preceding chapters, this characteristic of the operation of shared values has seemed a major weakness of my position. Because I insist that what scientists share is not sufficient to command uniform assent about such matters as the choice between competing theories or the distinction between an ordinary anomaly and a crisis-provoking one, I am occasionally accused of glorifying subjectivity and even irrationality.9 But that reaction ignores two characteristics displayed by value judgments in any field. First, shared values can be important determinants of group behavior even though the members of the group do not all apply them in the same way. (If that were not the case, there would be no special philosophic problems about value theory or aesthetics.) Men did not all paint alike during the periods when representation was a primary value, but the developmental pattern of the plastic arts changed drastically when that value was abandoned.10 Imagine what would happen in the sciences if consistency ceased to be a primary value. Second, individual variability in the application of shared values may serve functions essential to science. The points at which values must be applied are invariably also those at which risks must be taken. 
+
+Most anomalies are resolved by normal means; most proposals for new theories do prove to be wrong. 
+
+If all members of a community responded to each anomaly as a source of crisis or embraced each new theory advanced by a colleague, science would cease.
+
+### 3. Paradigms as Shared Examples
+
+The paradigm as shared example is the central element of what I now take to be the most novel and least understood aspect of this book. Exemplars will therefore require more attention than the other sorts of components of the disciplinary matrix. Philosophers of science have not ordinarily discussed the problems encountered by a student in laboratories or in science texts, for these are thought to supply only practice in the application of what the student already knows. He cannot, it is said, solve problems at all unless he has first learned the theory and some rules for applying it. 
+
+Scientific knowledge is embedded in theory and rules; problems are supplied to gain facility in their application.
+
+To indicate what I have in mind I revert briefly to symbolic generalizations. One widely shared example is Newton’s Second Law of Motion, generally written as f = ma. The sociologist, say, or the linguist who discovers that the corresponding expression is unproblematically uttered and received by the members of a given community will not, without much additional investigation, have learned a great deal about what either the expression or the terms in it mean, about how the scientists of the community attach the expression to nature.
+
+In practice, though this aspect of the situation is seldom or never noted, what students have to learn is even more complex than that. It is not quite the case that logical and mathematical manipulation are applied directly to f = ma. That expression proves on examination to be a law-sketch or a law-schema.
+
+while learning to identify forces, masses, and accelerations in a variety of physical situations not previously encountered, the student has also learned to design the appropriate version of f = ma through which to interrelate them, often a version for which he has encountered no literal equivalent before. How has he learned to do this? A phenomenon familiar to both students of science and historians of science provides a clue. The former regularly report that they have read through a chapter of their text, understood it perfectly, but nonetheless had difficulty solving a number of the problems at the chapter’s end.
+
+The role of acquired similarity relations also shows clearly in the history of science. Scientists solve puzzles by modeling them on previous puzzle-solutions, often with only minimal recourse to symbolic generalizations. 
+
+Galileo found that a ball rolling down an incline acquires just enough velocity to return it to the same vertical height on a second incline of any slope, and he learned to see that experimental situation as like the pendulum with a point-mass for a bob. Huyghens then solved the problem of the center of oscillation of a physical pendulum by imagining that the extended body of the latter was composed of Galilean point-pendula,
+
+That example should begin to make clear what I mean by learning from problems to see situations as like each other, as subjects for the application of the same scientific law or law-sketch. Simultaneously it should show why I refer to the consequential knowledge of nature acquired while learning the similarity relationship and thereafter embodied in a way of viewing physical situations rather than in rules or laws.
+
+ To borrow once more Michael Polanyi’s useful phrase, what results from this process is “tacit knowledge” which is learned by doing science rather than by acquiring rules for doing it.
+ 
+### 4. Tacit Knowledge and Intuition
+
+That reference to tacit knowledge and the concurrent rejection of rules isolates another problem that has bothered many of my critics and seemed to provide a basis for charges of subjectivity and irrationality. Some readers have felt that I was trying to make science rest on unanalyzable individual intuitions rather than on logic and law. But that interpretation goes astray in two essential respects. First, if I am talking at all about intuitions, they are not individual. Rather they are the tested and shared possessions of the members of a successful group, and the novice acquires them through training as a part of his preparation for group-membership. Second, they are not in principle unanalyzable. On the contrary, I am currently experimenting with a computer program designed to investigate their properties at an elementary level.
+
+ One of the fundamental techniques by which the members of a group, whether an entire culture or a specialists’ sub-community within it, learn to see the same things when confronted with the same stimuli is by being shown examples of situations that their predecessors in the group have already learned to see as like each other and as different from other sorts of situations.
+ 
+Grant for the moment that something of this sort does occur. Ought we say that what has been acquired from exemplars is rules and the ability to apply them? That description is tempting because our seeing a situation as like ones we have encountered before must be the result of neural processing, fully governed by physical and chemical laws.
+
+ those are things we cannot do until after we have had a sensation, perceived something.
+ 
+These are all deliberative processes, and in them we do seek and deploy criteria and rules. We try, that is, to interpret sensations already at hand, to analyze what is for us the given.
+
+
+
+
+
+
 
 
 
