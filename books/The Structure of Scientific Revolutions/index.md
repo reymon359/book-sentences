@@ -1257,16 +1257,51 @@ Grant for the moment that something of this sort does occur. Ought we say that w
  
 These are all deliberative processes, and in them we do seek and deploy criteria and rules. We try, that is, to interpret sensations already at hand, to analyze what is for us the given.
 
+What makes the integrity of perception worth emphasizing is, of course, that so much past experience is embodied in the neural apparatus that transforms stimuli to sensations. An appropriately programmed perceptual mechanism has survival value. To say that the members of different groups may have different perceptions when confronted with the same stimuli is not to imply that they may have just any perceptions at all. In many environments a group that could not tell wolves from dogs could not endure.
 
+Perhaps ‘knowledge’ is the wrong word, but there are reasons for employing it. What is built into the neural process that transforms stimuli to sensations has the following characteristics: it has been transmitted through education; it has, by trial, been found more effective than its historical competitors in a group’s current environment; and, finally, it is subject to change both through further education and through the discovery of misfits with the environment.
 
+Though it is obviously preliminary and need not be correct in all details, what has just been said about sensation is meant literally. At the very least it is a hypothesis about vision which should be subject to experimental investigation though probably not to direct check.
 
+### 5. Exemplars, Incommensurability, and Revolutions
 
+What has just been said provides a basis for clarifying one more aspect of the book: my remarks on incommensurability and its consequences for scientists debating the choice between successive theories.15 In Sections X and XII I have argued that the parties to such debates inevitably see differently certain of the experimental or observational situations to which both have recourse. Since the vocabularies in which they discuss such situations consist, however, predominantly of the same terms, they must be attaching some of those terms to nature differently, and their communication is inevitably only partial. As a result, the superiority of one theory to another is something that cannot be proved in the debate. Instead, I have insisted, each party must try, by persuasion, to convert the other. Only philosophers have seriously misconstrued the intent of these parts of my argument. A number of them, however, have reported that I believe the following
 
+Consider first my remarks on proof. The point I have been trying to make is a simple one, long familiar in philosophy of science. Debates over theory-choice cannot be cast in a form that fully resembles logical or mathematical proof. In the latter, premises and rules of inference are stipulated from the start.
 
+Nothing about that relatively familiar thesis implies either that there are no good reasons for being persuaded or that those reasons are not ultimately decisive for the group.
 
+The practice of normal science depends on the ability, acquired from exemplars, to group objects and situations into similarity sets which are primitive in the sense that the grouping is done without an answer to the question, “Similar with respect to what?” One central aspect of any revolution is, then, that some of the similarity relations change
+
+The men who experience such communication breakdowns must, however, have some recourse. The stimuli that impinge upon them are the same. So is their general neural apparatus, however differently programmed.
+
+Briefly put, what the participants in a communication breakdown can do is recognize each other as members of different language communities and then become translators.
+
+To persuade someone is, I take it, to convince him that one’s own view is superior and ought therefore supplant his own. That much is occasionally achieved without recourse to anything like translation.
+
+Arguments statable in the vocabulary that both groups use in the same way are not, however, usually decisive, at least not until a very late stage in the evolution of the opposing views. Among those already admitted to the profession, few will be persuaded without some recourse to the more extended comparisons permitted by translation.
+
+ To translate a theory or worldview into one’s own language is not to make it one’s own.
+ 
+### 6. Revolutions and Relativism
+
+One consequence of the position just outlined has particularly bothered a number of my critics.18 They find my viewpoint relativistic, particularly as it is developed in the last section of this book. My remarks about translation highlight the reasons for the charge.
+
+Taken as a group or in groups, practitioners of the developed sciences are, I have argued, fundamentally puzzle-solvers. Though the values that they deploy at times of theory-choice derive from other aspects of their work as well, the demonstrated ability to set up and to solve puzzles presented by nature is, in case of value conflict, the dominant criterion for most members of a scientific group.
+
+Imagine an evolutionary tree representing the development of the modern scientific specialties from their common origins in, say, primitive natural philosophy and the crafts. A line drawn up that tree, never doubling back, from the trunk to the tip of some branch would trace a succession of theories related by descent.
+
+### 7. The Nature of Science
+
+A few readers of my original text have noticed that I repeatedly pass back and forth between the descriptive and the normative modes, a transition particularly marked in occasional passages that open with, “But that is not what scientists do,” and close by claiming that scientists ought not do so. Some critics claim that I am confusing description with prescription, violating the time-honored philosophical theorem: ‘Is’ cannot imply ‘ought.’
+That theorem has, in practice, become a tag, and it is no longer everywhere honored. A number of contemporary philosophers have discovered important contexts in which the normative and the descriptive are inextricably mixed. ‘Is’ and ‘ought’ are by no means always so separate as they have seemed.
+
+scientists, whose methods have been developed and selected for their success, do in fact behave as the theory says they should. My descriptive generalizations are evidence for the theory precisely because they can also be derived from it, whereas on other views of the nature of science they constitute anomalous behavior.
+
+ Though scientific development may resemble that in other fields more closely than has often been supposed, it is also strikingly different. To say, for example, that the sciences, at least after a certain point in their development, progress in a way that other fields do not, cannot have been all wrong, whatever progress itself may be. One of the objects of the book was to examine such differences and begin accounting for them.
+
+How does one elect and how is one elected to membership in a particular community, scientific or not? What is the process and what are the stages of socialization to the group? What does the group collectively see as its goals; what deviations, individual or collective, will it tolerate; and how does it control the impermissible aberration? A fuller understanding of science will depend on answers to other sorts of questions as well, but there is no area in which more work is so badly needed. Scientific knowledge, like language, is intrinsically the common property of a group or else nothing at all. To understand it we shall need to know the special characteristics of the groups that create and use it.
 
 ## Notes
-
-
 
 ## Index
