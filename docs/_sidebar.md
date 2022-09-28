@@ -36,6 +36,8 @@
         
      - [The Shadow of the Wind](The%20Shadow%20of%20the%20Wind/index.md)
         
+     - [The Structure of Scientific Revolutions](The%20Structure%20of%20Scientific%20Revolutions/index.md)
+        
      - [You Don't Know JS Yet. Get Started](You%20Don't%20Know%20JS%20Yet.%20Get%20Started/index.md)
         
      - [You Don't Know JS Yet. Scope and Closures](You%20Don't%20Know%20JS%20Yet.%20Scope%20and%20Closures/index.md)
@@ -82,6 +84,8 @@
         
      - [Historical](./Genre/Historical.md)
         
+     - [History](./Genre/History.md)
+        
      - [JavaScript](./Genre/JavaScript.md)
         
      - [Juvenile Fiction](./Genre/Juvenile%20Fiction.md)
@@ -103,6 +107,8 @@
      - [Productivity](./Genre/Productivity.md)
         
      - [Psychology](./Genre/Psychology.md)
+        
+     - [Science](./Genre/Science.md)
         
      - [Science fiction](./Genre/Science%20fiction.md)
         

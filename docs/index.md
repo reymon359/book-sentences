@@ -56,6 +56,8 @@ I have read other books before these (not as many as I would have liked), howeve
     
  - [The Shadow of the Wind](The%20Shadow%20of%20the%20Wind/index.md)
     
+ - [The Structure of Scientific Revolutions](The%20Structure%20of%20Scientific%20Revolutions/index.md)
+    
  - [You Don't Know JS Yet. Get Started](You%20Don't%20Know%20JS%20Yet.%20Get%20Started/index.md)
     
  - [You Don't Know JS Yet. Scope and Closures](You%20Don't%20Know%20JS%20Yet.%20Scope%20and%20Closures/index.md)
