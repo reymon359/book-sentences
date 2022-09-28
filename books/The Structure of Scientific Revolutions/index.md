@@ -12,8 +12,40 @@ Thomas S. Kuhn - 1962
 
 ## Table of Contents
 
-TODO
-
+- [Introductory Essay by Ian Hacking](#introductory-essay-by-ian-hacking)
+  - [1962](#1962)
+  - [Structure](#structure)
+  - [Revolution](#revolution)
+  - [Paradigm (§V)](#paradigm-v)
+  - [Anomaly (§VI)](#anomaly-vi)
+  - [Crisis (§§VII–VIII)](#crisis-viiviii)
+  - [Changes of World View (§X)](#changes-of-world-view-x)
+  - [Incommensurability](#incommensurability)
+  - [Progress through Revolutions (§13)](#progress-through-revolutions-13)
+- [Preface](#preface)
+- [I Introduction: A Role for History](#i-introduction-a-role-for-history)
+- [II The Route to Normal Science](#ii-the-route-to-normal-science)
+- [III The Nature of Normal Science](#iii-the-nature-of-normal-science)
+- [IV Normal Science as Puzzle-solving](#iv-normal-science-as-puzzle-solving)
+- [V The Priority of Paradigms](#v-the-priority-of-paradigms)
+- [VI Anomaly and the Emergence of Scientific Discoveries](#vi-anomaly-and-the-emergence-of-scientific-discoveries)
+- [VII Crisis and the Emergence of Scientific Theories](#vii-crisis-and-the-emergence-of-scientific-theories)
+- [VIII The Response to Crisis](#viii-the-response-to-crisis)
+- [IX The Nature and Necessity of Scientific Revolutions](#ix-the-nature-and-necessity-of-scientific-revolutions)
+- [X Revolutions as Changes of World View](#x-revolutions-as-changes-of-world-view)
+- [XI The Invisibility of Revolutions](#xi-the-invisibility-of-revolutions)
+- [XII The Resolution of Revolutions](#xii-the-resolution-of-revolutions)
+- [XIII Progress through Revolutions](#xiii-progress-through-revolutions)
+- [Postscript—1969](#postscript1969)
+  - [1. Paradigms and Community Structure](#1-paradigms-and-community-structure)
+  - [2. Paradigms as the Constellation of Group Commitments](#2-paradigms-as-the-constellation-of-group-commitments)
+  - [3. Paradigms as Shared Examples](#3-paradigms-as-shared-examples)
+  - [4. Tacit Knowledge and Intuition](#4-tacit-knowledge-and-intuition)
+  - [5. Exemplars, Incommensurability, and Revolutions](#5-exemplars-incommensurability-and-revolutions)
+  - [6. Revolutions and Relativism](#6-revolutions-and-relativism)
+  - [7. The Nature of Science](#7-the-nature-of-science)
+- [Notes](#notes)
+- [Index](#index)
 
 ## Introductory Essay by Ian Hacking
 
