@@ -1,8 +1,3 @@
----
-name: 'The Structure of Scientific Revolutions'
-Read: ['2022']
-Genre: ['Science', 'History']
----
 
 ![Cover](./assets/the-structure-of-scientific-revolutions.jpg)
 
@@ -1330,4 +1325,4 @@ scientists, whose methods have been developed and selected for their success, do
 
  Though scientific development may resemble that in other fields more closely than has often been supposed, it is also strikingly different. To say, for example, that the sciences, at least after a certain point in their development, progress in a way that other fields do not, cannot have been all wrong, whatever progress itself may be. One of the objects of the book was to examine such differences and begin accounting for them.
 
-How does one elect and how is one elected to membership in a particular community, scientific or not? What is the process and what are the stages of socialization to the group? What does the group collectively see as its goals; what deviations, individual or collective, will it tolerate; and how does it control the impermissible aberration? A fuller understanding of science will depend on answers to other sorts of questions as well, but there is no area in which more work is so badly needed. Scientific knowledge, like language, is intrinsically the common property of a group or else nothing at all. To understand it we shall need to know the special characteristics of the groups that create and use it.
+How does one elect and how is one elected to membership in a particular community, scientific or not? What is the process and what are the stages of socialization to the group? What does the group collectively see as its goals; what deviations, individual or collective, will it tolerate; and how does it control the impermissible aberration? A fuller understanding of science will depend on answers to other sorts of questions as well, but there is no area in which more work is so badly needed. Scientific knowledge, like language, is intrinsically the common property of a group or else nothing at all. To understand it we shall need to know the special characteristics of the groups that create and use it.<hr/><br/>[Read:](Read/index.md) [2022](Read/2022.md)<br/>[Genre:](Genre/index.md) [History](Genre/History.md) [Science](Genre/Science.md)
