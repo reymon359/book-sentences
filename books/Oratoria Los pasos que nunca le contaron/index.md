@@ -66,6 +66,9 @@ TODO
 	 
 ## PRÓLOGO
 
+Preparar la presentación de una conferencia tiene muchos puntos en común con el arte de la guerra, con el Cuerpo de intendencia, responsable de tener “a punto” cuanto se requiera: desde la alimentación, combustibles, hasta conocer los pasos del enemigo.
+
+
 
 
 ## PREVIO
