@@ -94,9 +94,39 @@ Le confirmamos que transmitirá:
 - Adquisición de conocimiento de cada uno de los asistentes.
 - Y en el mejor de los casos, modificar percepciones ajustadas a su realidad. Influir como consecuencia.
 
- 
-
 ## PREVIO
+
+Toda comunicación debe ser clara, concreta y concisa.
+	 
+- Clara, en su aceptación de que sea limpia, que se distinga bien.
+- Concreta, es decir, solo las palabras necesarias, indispensable para el fin que nos hemos propuesto.
+- Concisa, que tenga la suficiente brevedad y economía de medios en el modo de expresar un concepto con exactitud.
+
+ si hay emoción; hay recuerdo.
+ 
+hablar, es nuestra forma de decirle al mundo lo que somos, queremos, e influenciarle,
+
+Si quiere influir en los demás, los demás tienen que importarle. Solamente cuando el otro sienta que es cardinal para usted, recomenzará en ese momento a orientarse en su dirección, inclusive hasta a dejar ese pensamiento con el que se estaba recreando en ese momento.
+
+Debe estar convencido del interés que es para el auditorio su discurso. Si usted no se lo cree; mejor no empiece, su pensamiento es lo primero que van a recibir los asistentes
+  
+Toda exposición deberá presentarla de manera ordenada y lógica en su forma e ideas. Con una estructura clara, opiniones encadenadas, y discurso vehemente, para que el interés del receptor sea completo y tener de esta manera el éxito asegurado.
+
+tres piezas esenciales: introducción, desarrollo y resumen.
+ 
+Introducción: Breve resumen de todo cuanto se va a hablar... ...el oyente en ese corto espacio de tiempo pueda obtener una idea clara y abreviada de cuanto se va a tratar.
+
+Desarrollo: Así es, ahora irá desarrollando, llevando a cabo de la forma más concreta y completa, todos los pormenores de cuanto se ha dicho en la introducción, con el fin de que al finalizar “este todo dicho”.
+
+Resumen: Usted lo podrá dado por clausurado cuando repita lo más significativo de cuanto ha hablado. Aquellas ideas que desea queden grabadas en los asistentes, dejando constancia en el auditorio de lo que quería transmitir.
+
+Debe sentirse experto sobre aquello que quiere transmitir, hablando solo de lo que sepa.
+
+Saber de lo que va a departir siempre será su mejor aliado.
+
+Podemos olvidar lo que escuchamos, pero siempre recordaremos como nos sentíamos mientras escuchábamos.
+
+Domine aquello de lo que va a hablar. Conozca –a ser posible- el deseo final del auditorio.
 
 
 
