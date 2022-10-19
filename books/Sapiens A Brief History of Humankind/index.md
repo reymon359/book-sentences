@@ -1490,8 +1490,127 @@ the greatest conqueror in history, a conqueror possessed of extreme tolerance an
 
 ### 10 The Scent of Money
 
+IN 1519 HERNÁN CORTÉS AND HIS CONQUISTADORS invaded Mexico, hitherto an isolated human world. The Aztecs, as the people who lived there called themselves, quickly noticed that the aliens showed an extraordinary interest in a certain yellow metal. In fact, they never seemed to stop talking about it. The natives were not unfamiliar with gold – it was pretty and easy to work, so they used it to make jewellery and statues, and they occasionally used gold dust as a medium of exchange. But when an Aztec wanted to buy something, he generally paid in cocoa beans or bolts of cloth.
 
+ What was so important about a metal that could not be eaten, drunk or woven, and was too soft to use for tools or weapons? When the natives questioned Cortés as to why the Spaniards had such a passion for gold, the conquistador answered, ‘Because I and my companions suffer from a disease of the heart which can be cured only with gold.
+ 
+Three centuries before the conquest of Mexico, the ancestors of Cortés and his army waged a bloody war of religion against the Muslim kingdoms in Iberia and North Africa. The followers of Christ and the followers of Allah killed each other by the thousands, devastated fields and orchards, and turned prosperous cities into smouldering ruins – all for the greater glory of Christ or Allah.
 
+As the Christians gradually gained the upper hand, they marked their victories not only by destroying mosques and building churches,but also by issuing new gold and silver coins bearing the sign of the cross and thanking God for His help in combating the infidels. Yet alongside the new currency, the victors minted another type of coin, called the millares, which carried a somewhat different message. These square coins made by the Christian conquerors were emblazoned with flowing Arabic script that declared: ‘There is no god except Allah, and Muhammad is Allah’s messenger.’ Even the Catholic bishops of Melgueil and Agde issued these faithful copies of popular Muslim coins, and God-fearing Christians happily used them. Tolerance flourished on the other side of the hill too. Muslim merchants in North Africa conducted business using Christian coins
+
+#### How Much is It?
+
+Hunter-gatherers had no money... ...Different band members may have specialised in different tasks, but they shared their goods and services through an economy of favours and obligations... ...The band was economically independent; only a few rare items that could not be found locally – seashells, pigments, obsidian and the like – had to be obtained from strangers. This could usually be done by simple barter: 'We’ll give you pretty seashells, and you’ll give us high-quality flint'
+
+Little of this changed with the onset of the Agricultural Revolution. Most people continued to live in small, intimate communities. Much like a hunter-gatherer band, each village was a self-sufficient economic unit, maintained by mutual favours and obligations plus a little barter with outsiders.
+
+The rise of cities and kingdoms and the improvement in transport infrastructure brought about new opportunities for specialisation.
+
+Densely populated cities provided full-time employment not just for professional shoemakers and doctors, but also for carpenters, priests, soldiers and lawyers. Villages that gained a reputation for producing really good wine, olive oil or ceramics discovered that it was worth their while to specialise nearly exclusively in that product and trade it with other settlements for all the other goods they needed.
+
+Climates and soils differ, so why drink mediocre wine from your backyard if you can buy a smoother variety from a place whose soil and climate is much better suited to grape vines?
+
+specialisation created a problem – how do you manage the exchange of goods between the specialists? An economy of favours and obligations doesn’t work when large numbers of strangers try to cooperate. It’s one thing to provide free assistance to a sister or a neighbour, a very different thing to take care of foreigners who might never reciprocate the favour.
+
+barter is effective only when exchanging a limited range of products. It cannot form the basis for a complex economy.
+ 
+In order to understand the limitations of barter, imagine that you own an apple orchard in the hill country that produces the crispest, sweetest apples in the entire province. You work so hard in your orchard that your shoes wear out. So you harness up your donkey cart and head to the market town down by the river. Your neighbour told you that a shoemaker on the south end of the marketplace made him a really sturdy pair of boots that’s lasted him through five seasons. You find the shoemaker’s shop and offer to barter some of your apples in exchange for the shoes you need. The shoemaker hesitates. How many apples should he ask for in payment? Every day he encounters dozens of customers, a few of whom bring along sacks of apples, while others carry wheat, goats or cloth – all of varying quality. Still others offer their expertise in petitioning the king or curing backaches. The last time the shoemaker exchanged shoes for apples was three months ago, and back then he asked for three sacks of apples. Or was it four? But come to think of it, those apples were sour valley apples, rather than prime hill apples. On the other hand, on that previous occasion, the apples were given in exchange for small women’s shoes. This fellow is asking for man-size boots. Besides, in recent weeks a disease has decimated the flocks around town, and skins are becoming scarce. The tanners are starting to demand twice as many finished shoes in exchange for the same quantity of leather. Shouldn’t that be taken into consideration? In a barter economy, every day the shoemaker and the apple grower will have to learn anew the relative prices of dozens of commodities. If one hundred different commodities are traded in the market, then buyers and sellers will have to know 4,950 different exchange rates. And if 1,000 different commodities are traded, buyers and sellers must juggle 499,500 different exchange rates!5 How do you figure it out? It gets worse. Even if you manage to calculate how many apples equal one pair of shoes, barter is not always possible. After all, a trade requires that each side want what the other has to offer. What happens if the shoemaker doesn’t like apples and, if at the moment in question, what he really wants is a divorce? True, the farmer could look for a lawyer who likes apples and set up a three-way deal. But what if the lawyer is full up on apples but really needs a haircut?
+
+Some societies tried to solve the problem by establishing a central barter system that collected products from specialist growers and manufacturers and distributed them to those who needed them. The largest and most famous such experiment was conducted in the Soviet Union, and it failed miserably. ‘Everyone would work according to their abilities, and receive according to their needs’ turned out in practice into 'everyone would work as little as they can get away with, and receive as much as they could grab'
+
+#### Shells and Cigarettes
+
+Money was created many times in many places. Its development required no technological breakthroughs – it was a purely mental revolution. It involved the creation of a new inter-subjective reality that exists solely in people’s shared imagination.
+
+Money is not coins and banknotes. Money is anything that people are willing to use in order to represent systematically the value of other things for the purpose of exchanging goods and services.
+
+ Money enables people to compare quickly and easily the value of different commodities (such as apples, shoes and divorces), to easily exchange one thing for another, and to store wealth conveniently.
+ 
+There have been many types of money. The most familiar is the coin, which is a standardised piece of imprinted metal. Yet money existed long before the invention of coinage, and cultures have prospered using other things as currency, such as shells, cattle, skins, salt, grain, beads, cloth and promissory notes. Cowry shells were used as money for about 4,000 years all over Africa, South Asia, East Asia and Oceania.
+
+Taxes could still be paid in cowry shells in British Uganda in the early twentieth century.
+
+![26. In ancient Chinese script the cowry-shell sign represented money, in words such as ‘to sell’ or ‘reward’.](./assets/figure26.jpg)
+
+26. In ancient Chinese script the cowry-shell sign represented money, in words such as ‘to sell’ or ‘reward’.
+
+In modern prisons and POW camps, cigarettes have often served as money. Even non-smoking prisoners have been willing to accept cigarettes in payment, and to calculate the value of all other goods and services in cigarettes.
+
+In “normal” times, that is, when the candidates to the gas chambers were coming in at a regular pace, a loaf of bread cost twelve cigarettes; a 300-gram package of margarine, thirty; a watch, eighty to 200; a litre of alcohol, 400 cigarettes!
+
+In fact, even today coins and banknotes are a rare form of money. In 2006, the sum total of money in the world is about $60 trillion, yet the sum total of coins and banknotes was less than $6 trillion.7 More than 90 per cent of all money – more than $50 trillion appearing in our accounts – exists only on computer servers.
+
+For complex commercial systems to function, some kind of money is indispensable. A shoemaker in a money economy needs to know only the prices charged for various kinds of shoes – there is no need to memorise the exchange rates between shoes and apples or goats. Money also frees apple experts from the need to search out apple-craving shoemakers, because everyone always wants money.
+
+This is perhaps its most basic quality. Everyone always wants money because everyone else also always wants money, which means you can exchange money for whatever you want or need.
+
+Money is thus a universal medium of exchange that enables people to convert almost everything into almost anything else.
+
+Health is converted to justice when a physician uses her fees to hire a lawyer – or bribe a judge. It is even possible to convert sex into salvation, as fifteenth-century prostitutes did when they slept with men for money, which they in turn used to buy indulgences from the Catholic Church.
+ 
+ Grain, for example, can be stored for years, but to do so you need to build huge storehouses and guard against rats, mould, water, fire and thieves. Money, whether paper, computer bits or cowry shells, solves these problems. Cowry shells don’t rot, are unpalatable to rats, can survive fires and are compact enough to be locked up in a safe.
+ 
+Because money can convert, store and transport wealth easily and cheaply, it made a vital contribution to the appearance of complex commercial networks and dynamic markets. Without money, commercial networks and markets would have been doomed to remain very limited in their size, complexity and dynamism.
+ 
+#### How Does Money Work?
+ 
+Cowry shells and dollars have value only in our common imagination.
+ 
+money isn’t a material reality – it is a psychological construct.
+ 
+works by converting matter into mind
+
+Why are you willing to flip hamburgers, sell health insurance or babysit three obnoxious brats when all you get for your exertions is a few pieces of coloured paper? People are willing to do such things when they trust the figments of their collective imagination.
+
+Trust is the raw 
+
+material from which all types of money are minted
+
+Money is accordingly a system of mutual trust, and not just any system of mutual trust: money is the most universal and most efficient system of mutual trust ever devised.
+
+What created this trust was a very complex and long-term network of political, social and economic relations. Why do I believe in the cowry shell or gold coin or dollar bill? Because my neighbours believe in them. And my neighbours believe in them because I believe in them. And we all believe in them because our king believes in them and demands them in taxes, and because our priest believes in them and demands them in tithes. 
+
+ The crucial role of trust explains why our financial systems are so tightly bound up with our political, social and ideological systems, why financial crises are often triggered by political developments, and why the stock market can rise or fall depending on the way traders feel on a particular morning.
+ 
+Initially, when the first versions of money were created, people didn’t have this sort of trust, so it was necessary to define as ‘money’ things that had real intrinsic value. History’s first known money Sumerian barley money – is a good example. It appeared in Sumer around 3000 BC, at the same time and place, and under the same circumstances, in which writing appeared. Just as writing developed to answer the needs of intensifying administrative activities, so barley money developed to answer the needs of intensifying economic activities.
+
+Barley money was simply barley – fixed amounts of barley grains used as a universal measure for evaluating and exchanging all other goods and services. The most common measurement was the sila, equivalent to roughly one litre.
+
+ A male labourer earned sixty silas a month, a female labourer thirty silas. A foreman could earn between 1,200 and 5,000 silas. Not even the most ravenous foreman could eat 5,000 litres of barley a month, but he could use the silas he didn’t eat to buy all sorts of other commodities – oil, goats, slaves, and something else to eat besides barley.
+ 
+ think what would happen if you took a sack full of barley to your local shopping centre, and tried to buy a shirt or a pizza. The vendors would probably call security. Still, it was somewhat easier to build trust in barley as the first type of money, because barley has an inherent biological value. Humans can eat it. 
+ 
+On the other hand, it was difficult to store and transport barley. The real breakthrough in monetary history occurred when people gained trust in money that lacked inherent value, but was easier to store and transport. Such money appeared in ancient Mesopotamia in the middle of the third millennium BC. This was the silver shekel.
+ 
+The silver shekel was not a coin, but rather 8.33 grams of silver... ...Unlike the barley sila, the silver shekel had no inherent value. You cannot eat, drink or clothe yourself in silver, and it’s too soft for making useful tools... ...Their value is purely cultural.
+
+Set weights of precious metals eventually gave birth to coins. The first coins in history were struck around 640 BC by King Alyattes of Lydia, in western Anatolia. These coins had a standardised weight of gold or silver, and were imprinted with an identification mark. The mark testified to two things. First, it indicated how much precious metal the coin contained. Second, it identified the authority that issued the coin and that guaranteed its contents. Almost all coins in use today are descendants of the Lydian coins.
+
+Coins had two important advantages over unmarked metal ingots. First, the latter had to be weighed for every transaction. Second, weighing the ingot is not enough. How does the shoemaker know that the silver ingot I put down for my boots is really made of pure silver, and not of lead covered on the outside by a thin silver coating? Coins help solve these problems. The mark imprinted on them testifies to their exact value, so the shoemaker doesn’t have to keep a scale on his cash register. More importantly, the mark on the coin is the signature of some political authority that guarantees the coin’s value.
+
+The shape and size of the mark varied tremendously throughout history, but the message was always the same: ‘I, the Great King So-And-So, give you my personal word that this metal disc contains exactly five grams of gold. If anyone dares counterfeit this coin, it means he is fabricating my own signature, which would be a blot on my reputation. I will punish such a crime with the utmost severity.’
+
+ Counterfeiting is not just cheating – it’s a breach of sovereignty, an act of subversion against the power, privileges and person of the king.
+ 
+The legal term is lese-majesty (violating majesty), and was typically punished by torture and death.
+
+![27. One of the earliest coins in history, from Lydia of the seventh century BC.](./assets/figure27.jpg)
+27. One of the earliest coins in history, from Lydia of the seventh century BC.
+
+#### The Gospel of Gold
+
+The trust in Rome’s coins was so strong that even outside the empire’s borders, people were happy to receive payment in denarii.
+
+The Indians had such a strong confidence in the denarius and the image of the emperor that when local rulers struck coins of their own they closely imitated the denarius, down to the portrait of the Roman emperor!
+
+The name ‘denarius’ became a generic name for coins.
+ 
+Muslim caliphs Arabicised this name and issued ‘dinars’. The dinar is still the official name of the currency in Jordan, Iraq, Serbia, Macedonia, Tunisia and several other countries.
+
+ China developed a slightly different monetary system, based on bronze coins and unmarked silver and gold ingots. Yet the two monetary systems had enough in common (especially the reliance on gold and silver) that close monetary and commercial relations were established between the Chinese zone and the Lydian zone.
+ 
+ 
+  
 ### 11 Imperial Visions
 
 
