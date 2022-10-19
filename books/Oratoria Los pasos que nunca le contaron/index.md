@@ -128,18 +128,80 @@ Podemos olvidar lo que escuchamos, pero siempre recordaremos como nos sentíamos
 
 Domine aquello de lo que va a hablar. Conozca –a ser posible- el deseo final del auditorio.
 
-
+ Su lenguaje corporal debe acompañar a la palabra. No basta con saber de lo que se va a hablar ni que sea de interés para los otros el discurso, sí a esas palabras no le acompaña el cuerpo.
+ 
+ El cuerpo es la sal de la palabra; su potenciador natural. Es el que nos permite seguir hablando hasta en los silencios.
 
 ## ROMPIENDO EL “DESASOSIEGO” A HABLAR EN PÚBLICO
 
-
-
+ El miedo va inherente con la exposición. Todo orador es portador de esta turbación en los momentos previos al encuentro.
+ 
 ### 1.1. Euestrés.
 
+ el euestrés. Ese estrés positivo exclusivo del hombre. Qué nos mueve, nos hace ser y crecer colmándonos de energía y vida. El motor que nos facilita hacer lo que hasta ayer no existía. La energía fundamental “recién salida de la nada”. Ese es el estrés que nos hace familiar, amigo, atrevido e inclusive en muchos casos hasta extrovertido. Estamos hablando del euestrés.
+ 
+  Un pensamiento, y la atención que es pura energía insistiendo sobre él, le puedo asegurar que con estos ingredientes son más que suficientes para que su cerebro forje el milagro. Ya que estamos hablando de pensamientos y aunque es para otro tema, también le digo que tenga mucho cuidado con lo que piensa de manera vehemente, procure que sea para su bien, pues su cerebro siempre luchara por todos sus medios para que lo consiga.
+  
+ cada vez que sentimos una necesidad feliz y vehemente de hacer cosas, nuestro hipotálamo genera oxitocina -del griego ὀξύς oxys "rápido" y τόκος tokos "nacimiento"- depositándolo en el torrente sanguíneo para que pueda cumplir con su misión de alcanzar los órganos diana.
 
+El tener un pensamiento claro, una meta, provoca en nuestro cuerpo todos estos cambios que podemos traducir como felices, alegres y con “nervios”.
+
+ esta hormona que ante un claro deseo, una orden dada con firmeza, ha sido capaz de revolucionar el cuerpo, consciente de que necesitamos ayuda del grupo, a la vez actúa como un facilitador social, predisponiéndonos al contacto con el otro, transformándonos en unos seres más sociables y predispuestos a solicitar ayuda. Si, el euestrés nos hace comunicativos, fuerza el azar, empuja a nuestro cuerpo a contactar con el otro.
+
+ tres manifestaciones que se llevan a cabo en el transcurso de ese tiempo previo a hablar en público:
+ 	 
+####..1 Contacto físico.
+ 
+Su segregación provoca que irremisiblemente, anhelemos el contacto físico. Necesitamos estar cerca de los otros, escucharles, interesarnos por todo cuanto les ocurre en su vida cotidiana, realidad que provoca en ellos un interés de la misma carga hacía nosotros.
+
+####..2 Empatía.
+
+Mejora nuestra empatía, nuestra capacidad de identificarnos con el resto, lo que hace que empecemos a ser personas interesantes para ellos. Ya hablamos que cuando los otros saben que les importamos, empezamos a ser importantes para ellos.
+
+####..3 Afectividad, amor.
+
+Aumenta nuestra disposición a ayudar a la gente que nos importa, a la vez de que ese ancho de banda de sujetos empieza a aumentar de forma exponencial. Nos volvemos más reflexivos y el otro más comprensivo hacia nuestros intereses. Nuestras manifestaciones son más afectivas, provocando una gratificante reciprocidad.
+
+liberar oxitocina nos mueve, nos vuelve más comunicativos... ...Es la que nos empuja a buscar ayuda, a manifestar al otro nuestras preocupaciones y necesidad de ayuda. La oxitocina es un facilitador de apoyo mutuo. Ante cualquier reto siempre será nuestro facilitador.
+
+ Pidamos ayuda cada vez que lo necesitemos, así como acerquémonos al otro que en estado de euestrés busca apoyo. Con esa conducta una nueva liberación de oxitocina estamos generando para nuestro bien. Prodigiosa la respuesta bidireccional. Nos vuelve saludables por el solo hecho de ejercerlo. Ayudar a los demás crea resistencia y resiliencia.
+ 
+“la biología del coraje”. Decidimos que necesitamos hablar en público, comunicarnos con otros sujetos, y al unísono nuestra hipófisis; crea. Proporcionándonos la fuerza para lanzarnos. Nos facilita generosas imágenes a nuestra medida para agrandar nuestra confianza para continuar, estableciendo en el otro una predisposición a la receptividad a través del perfil que ofrecemos.
+  
+Ha sido nuestra actitud la que ha predispuesto al auditorio hacia nosotros. Este enfoque jamás se nos había planteado. El euestrés nos hace tomar conciencia de todo el cuerpo, al ser éste el que en todo momento se está manifestando alegremente.
+
+El vivir de esta manera el euestrés, nos lleva a la aceptación y a la confianza ante cualquier reto, a la par que nos recuerda que el éxito solamente será posible con la ayuda del otro. Nos hace agradecidos; humildes.
+
+para la salud lo mejor es trabajar en algo que tenga significado para nosotros y lo hayamos puestos como meta.
+ 
+hacer aquello que tenemos que hacer, ejercer nuestra voluntad; ser nosotros mismos, y acto seguido confiar y actuar. La propia retroalimentación nos ira premiando.
+	 
+Todo aquello que le pueda proporcionar gozo va a generarle euestrés.
+ 
+  no alimentar esta tendencia, el abortar este nacimiento, cambiar de pronto de actitud, corresponde a su otra cara, su reverso. La somatización de toda esa energía y su contenido.
 
 ### 1.2. Respuesta biológica negativa.
 
+ Aparece cuando la mente, quizás inducida por el espíritu del tiempo, genética, o miedo a los otros, hace que tomemos la decisión de no continuar… terminando por somatizar esa energía, esa ilusión, ese crecimiento que él mismo se había solicitado para seguir creciendo. Quiere olvidarla, huir. Tal vez le da miedo. No quiere saber nada y abandona, abriendo la puerta al “sueño”, a vivirlo en el plano virtual.
+ 
+ Pensamientos que en palabras del Dr. Escudero producen: malestar, desasosiego, intranquilidad, infelicidad y enfermedad. Respuesta manifiesta de nuestro organismo a toda esa serie de pensamientos “desastrosos”, visualizaciones que el sujeto ha ido acumulando,
+
+ estado que calificamos de miedo, de la fase en que perfectamente el sujeto puede y decide anular toda toma decisión y raciocinio. Si a este estado, incorporamos algo tan parejo como es la vergüenza; por no dar la talla, humillación o timidez, podemos afirmar que acaba de entrar en escena la huida, -en nuestro caso vergüenza de hablar en público- y nuestro cerebro, para la huida, también tiene su respuesta: catecolamina por parte del hígado, retirada de sangre en piel, reducción de la sección de las venas, boca seca y cortisol.
+ 
+el miedo a hablar en público, es el más común de los miedos. Le diremos que está a la cabeza de la lista de miedos más frecuentes, y que no ha habido gran orador que no haya experimentado esta sensación.
+
+Los mayores arrepentimientos corresponden a aquellas acciones que no hicimos.
+
+- Primero: Lo principal a alcanzar es la confianza, y el requisito para conseguirla es estar seguro de lo que va a hablar.
+- Segundo: Haber preparado una y otra vez el tema a exponer.
+- Tercero: Estar relajado. Su estado físico y mental debe ser óptimo. Para alcanzarlo, nada mejor que después de un buen entrenamiento sobre el texto que se va a transmitir, acompañarse de una buena relajación.
+
+para romper el miedo solo necesitamos:
+- Un texto bien estructurado.
+- Saber cómo lo vamos a presentar, a exponer al público. 1. Decir que se va a decir. 2. Decirlo. 3. Decir que se ha dicho.
+
+   
+  
 
 
 ### 1.3. Ejercicios para erradicar el miedo escénico.
