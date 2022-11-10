@@ -1609,11 +1609,217 @@ Muslim caliphs Arabicised this name and issued ‘dinars’. The dinar is still 
 
  China developed a slightly different monetary system, based on bronze coins and unmarked silver and gold ingots. Yet the two monetary systems had enough in common (especially the reliance on gold and silver) that close monetary and commercial relations were established between the Chinese zone and the Lydian zone.
  
+By the late modern era the entire world was a single monetary zone, relying first on gold and silver, and later on a few trusted currencies such as the British pound and the American dollar.
+
+The appearance of a single transnational and transcultural monetary zone laid the foundation for the unification of Afro-Asia, and eventually of the entire globe, into a single economic and political sphere.
+
+People continued to speak mutually incomprehensible languages, obey different rulers and worship distinct gods, but all believed in gold and silver and in gold and silver coins.
+
+ The gold and silver that sixteenth-century conquistadors found in America enabled European merchants to buy silk, porcelain and spices in East Asia, thereby moving the wheels of economic growth in both Europe and East Asia.
  
-  
+ why should Chinese, Indians, Muslims and Spaniards – who belonged to very different cultures that failed to agree about much of anything – nevertheless share the belief in gold? Why didn’t it happen that Spaniards believed in gold, while Muslims believed in barley, Indians in cowry shells, and Chinese in rolls of silk? Economists have a ready answer. Once trade connects two areas, the forces of supply and demand tend to equalise the prices of transportable goods. In order to understand why, consider a hypothetical case. Assume that when regular trade opened between India and the Mediterranean, Indians were uninterested in gold, so it was almost worthless. But in the Mediterranean, gold was a coveted status symbol, hence its value was high. What would happen next? Merchants travelling between India and the Mediterranean would notice the difference in the value of gold. In order to make a profit, they would buy gold cheaply in India and sell it dearly in the Mediterranean. Consequently, the demand for gold in India would skyrocket, as would its value. At the same time the Mediterranean would experience an influx of gold, whose value would consequently drop. Within a short time the value of gold in India and the Mediterranean would be quite similar. The mere fact that Mediterranean people believed in gold would cause Indians to start believing in it as well. Even if Indians still had no real use for gold, the fact that Mediterranean people wanted it would be enough to make the Indians value it.
+
+ Christians and Muslims who could not agree on religious beliefs could nevertheless agree on a monetary belief, because whereas religion asks us to believe in something, money asks us to believe that other people believe in something.
+
+For thousands of years, philosophers, thinkers and prophets have besmirched money and called it the root of all evil. Be that as it may, money is also the apogee of human tolerance. Money is more open-minded than language, state laws, cultural codes, religious beliefs and social habits. Money is the only trust system created by humans that can bridge almost any cultural gap, and that does not discriminate on the basis of religion, gender, race, age or sexual orientation. Thanks to money, even people who don’t know each other and don’t trust each other can nevertheless cooperate effectively.
+
+#### The Price of Money
+
+Money is based on two universal principles:
+a. Universal convertibility: with money as an alchemist, you can turn land into loyalty, justice into health, and violence into knowledge.
+b. Universal trust: with money as a go-between, any two people can cooperate on any project.
+
+ But these seemingly benign principles have a dark side. When everything is convertible, and when trust depends on anonymous coins and cowry shells, it corrodes local traditions, intimate relations and human values, replacing them with the cold laws of supply and demand.
+ 
+Human communities and families have always been based on belief in ‘priceless’ things, such as honour, loyalty, morality and love. These things lie outside the domain of the market, and they shouldn’t be bought or sold for money. Even if the market offers a good price, certain things just aren’t done. Parents mustn’t sell their children into slavery; a devout Christian must not commit a mortal sin; a loyal knight must never betray his lord; and ancestral tribal lands shall never be sold to foreigners. Money has always tried to break through these barriers, like water seeping through cracks in a dam. Parents have been reduced to selling some of their children into slavery in order to buy food for the others. Devout Christians have murdered, stolen and cheated – and later used their spoils to buy forgiveness from the church. Ambitious knights auctioned their allegiance to the highest bidder, while securing the loyalty of their own followers by cash payments. Tribal lands were sold to foreigners from the other side of the world in order to purchase an entry ticket into the global economy.
+
+ although money builds universal trust between strangers, this trust is invested not in humans, communities or sacred values, but in money itself and in the impersonal systems that back it.
+ 
+If they run out of coins, we run out of trust.
+
+ As money brings down the dams of community, religion and state, the world is in danger of becoming one big and rather heartless marketplace.
+ 
+People rely on money to facilitate cooperation with strangers, but they’re afraid it will corrupt human values and intimate relations. With one hand people willingly destroy the communal dams that held at bay the movement of money and commerce for so long. Yet with the other hand they build new dams to protect society, religion and the environment from enslavement to market forces.
+
+Brutal warriors, religious fanatics and concerned citizens have repeatedly managed to trounce calculating merchants, and even to reshape the economy. It is therefore impossible to understand the unification of humankind as a purely economic process.
+
+In order to understand how thousands of isolated cultures coalesced over time to form the global village of today, we must take into account the role of gold and silver, but we cannot disregard the equally crucial role of steel.
+
 ### 11 Imperial Visions
 
+THE ANCIENT ROMANS WERE USED TO being defeated.
 
+ An empire that cannot sustain a blow and remain standing is not really an empire.
+ 
+In the middle of the second century BC. A small, insignificant mountain town called Numantia, inhabited by the peninsula’s native Celts, had dared to throw off the Roman yoke. Rome at the time was the unquestioned master of the entire Mediterranean basin, having vanquished the Macedonian and Seleucid empires, subjugated the proud city states of Greece, and turned Carthage into a smouldering ruin. The Numantians had nothing on their side but their fierce love of freedom and their inhospitable terrain. Yet they forced legion after legion to surrender or retreat in shame. Eventually, in 134 BC, Roman patience snapped. The Senate decided to send Scipio Aemilianus, Rome’s foremost general and the man who had levelled Carthage, to take care of the Numantians. He was given a massive army of more than 30,000 soldiers. Scipio, who respected the fighting spirit and martial skill of the Numantians, preferred not to waste his soldiers in unnecessary combat. Instead, he encircled Numantia with a line of fortifications, blocking the town’s contact with the outside world. Hunger did his work for him. After more than a year, the food supply ran out. When the Numantians realised that all hope was lost, they burned down their town; according to Roman accounts, most of them killed themselves so as not to become Roman slaves.
+
+ In the 1950s and 1960s, the most popular comic books in Spain weren’t about Superman and Spiderman – they told of the adventures of El Jabato, an imaginary ancient Iberian hero who fought against the Roman oppressors. The ancient Numantians are to this day Spain’s paragons of heroism and patriotism, cast as role models for the country’s young people.
+ 
+ Spanish patriots who admire Numantian heroism tend also to be loyal followers of the Roman Catholic Church – don’t miss that first word – a church whose leader still sits in Rome and whose God prefers to be addressed in Latin.
+ 
+Similarly, modern Spanish law derives from Roman law; Spanish politics is built on Roman foundations; and Spanish cuisine and architecture owe a far greater debt to Roman legacies than to those of the Celts of Iberia.
+
+The victory of Rome over Numantia was so complete that the victors co-opted the very memory of the vanquished.
+
+It’s not our kind of story. We like to see underdogs win. But there is no justice in history. Most past cultures have sooner or later fallen prey to the armies of some ruthless empire, which have consigned them to oblivion. Empires, too, ultimately fall, but they tend to leave behind rich and enduring legacies.
+
+#### What is an Empire?
+
+An empire is a political order with two important characteristics. First, to qualify for that designation you have to rule over a significant number of distinct peoples, each possessing a different cultural identity and a separate territory... ...Second, empires are characterised by flexible borders and a potentially unlimited appetite. They can swallow and digest more and more nations and territories without altering their basic structure or identity.
+
+Cultural diversity and territorial flexibility give empires not only their unique character, but also their central role in history.
+
+It should be stressed that an empire is defined solely by its cultural diversity and flexible borders, rather than by its origins, its form of government, its territorial extent, or the size of its population. 
+
+An empire need not emerge from military conquest.
+
+ Nor must an empire be ruled by an autocratic emperor. The British Empire, the largest empire in history, was ruled by a democracy. Other democratic (or at least republican) empires have included the modern Dutch, French, Belgian and American empires, as well as the premodern empires of Novgorod, Rome, Carthage and Athens.
+ 
+ The Athenian Empire at its zenith was much smaller in size and population than today’s Greece. The Aztec Empire was smaller than today’s Mexico. Both were nevertheless empires, whereas modern Greece and modern Mexico are not, because the former gradually subdued dozens and even hundreds of different polities while the latter have not. Athens lorded it over more than a hundred formerly independent city states, whereas the Aztec Empire, if we can trust its taxation records, ruled 371 different tribes and peoples.
+ 
+How was it possible to squeeze such a human potpourri into the territory of a modest modern state? It was possible because in the past there were many more distinct peoples in the world, each of which had a smaller population and occupied less territory than today’s typical people. The land between the Mediterranean and the Jordan River, which today struggles to satisfy the ambitions of just two peoples, easily accommodated in biblical times dozens of nations, tribes, petty kingdoms and city states.
+Empires were one of the main reasons for the drastic reduction in human diversity. The imperial steamroller gradually obliterated the unique characteristics of numerous peoples (such as the Numantians), forging out of them new and much larger groups.
+
+#### Evil Empires?
+
+The contemporary critique of empires commonly takes two forms:
+
+1. Empires do not work. In the long run, it is not possible to rule effectively over a large number of conquered peoples.
+
+2. Even if it can be done, it should not be done, because empires are evil engines of destruction and exploitation. Every people has a right to self-determination, and should never be subject to the rule of another.
+
+From a historical perspective, the first statement is plain nonsense, and the second is deeply problematic.
+
+The truth is that empire has been the world’s most common form of political organisation for the last 2,500 years. Most humans during these two and a half millennia have lived in empires.
+
+ conquered peoples don’t have a very good record of freeing themselves from their imperial overlords. Most have remained subjugated for hundreds of years. Typically, they have been slowly digested by the conquering empire, until their distinct cultures fizzled out.
+ 
+In many cases, the destruction of one empire hardly meant independence for subject peoples. Instead, a new empire stepped into the vacuum created when the old one collapsed or retreated.
+
+the political, economic and social practices of modern Jews, for example, owe far more to the empires under which they lived during the past two millennia than to the traditions of the ancient kingdom of Judaea.
+
+Building and maintaining an empire usually required the vicious slaughter of large populations and the brutal oppression of everyone who was left. The standard imperial toolkit included wars, enslavement, deportation and genocide. 
+ 
+To colour all empires black and to disavow all imperial legacies is to reject most of human culture. Imperial elites used the profits of conquest to finance not only armies and forts but also philosophy, art, justice and charity. A significant proportion of humanity’s cultural achievements owe their existence to the exploitation of conquered populations. 
+
+The profits and prosperity brought by Roman imperialism provided Cicero, Seneca and St Augustine with the leisure and wherewithal to think and write; the Taj Mahal could not have been built without the wealth accumulated by Mughal exploitation of their Indian subjects; and the Habsburg Empire’s profits from its rule over its Slavic, Hungarian and Romanian-speaking provinces paid Haydn’s salaries and Mozart’s commissions.
+
+ Most East Asians speak and dream in the language of the Han Empire. No matter what their origins, nearly all the inhabitants of the two American continents, from Alaska’s Barrow Peninsula to the Straits of Magellan, communicate in one of four imperial languages: Spanish, Portuguese, French or English. Present-day Egyptians speak Arabic, think of themselves as Arabs, and identify wholeheartedly with the Arab Empire that conquered Egypt in the seventh century and crushed with an iron fist the repeated revolts that broke out against its rule.
+ 
+#### It’s for Your Own Good
+
+The first empire about which we have definitive information was the Akkadian Empire of Sargon the Great (c.2250 BC)... ...The Akkadian Empire did not last long after its founder’s death, but Sargon left behind an imperial mantle that seldom remained unclaimed. For the next 1,700 years, Assyrian, Babylonian and Hittite kings adopted Sargon as a role model, boasting that they, too, had conquered the entire world. Then, around 550 BC, Cyrus the Great of Persia came along with an even more impressive boast.
+
+![Map 4. The Akkadian Empire and the Persian Empire.](./assets/map4.jpg)
+Map 4. The Akkadian Empire and the Persian Empire.
+
+The kings of Assyria always remained the kings of Assyria. Even when they claimed to rule the entire world, it was obvious that they were doing it for the greater glory of Assyria, and they were not apologetic about it. Cyrus, on the other hand, claimed not merely to rule the whole world, but to do so for the sake of all people. ‘We are conquering you for your own benefit,’ said the Persians. Cyrus wanted the peoples he subjected to love him and to count themselves lucky to be Persian vassals. The most famous example of Cyrus’ innovative efforts to gain the approbation of a nation living under the thumb of his empire was his command that the Jewish exiles in Babylonia be allowed to return to their Judaean homeland and rebuild their temple. He even offered them financial assistance. Cyrus did not see himself as a Persian king ruling over Jews – he was also the king of the Jews, and thus responsible for their welfare.
+
+Sapiens instinctively divide humanity into two parts, ‘we’ and ‘they’. We are people like you and me, who share our language, religion and customs. We are all responsible for each other, but not responsible for them. We were always distinct from them, and owe them nothing. We don’t want to see any of them in our territory, and we don’t care an iota what happens in their territory. They are barely even human.
+
+In contrast with this ethnic exclusiveness, imperial ideology from Cyrus onward has tended to be inclusive and all-encompassing. Even though it has often emphasised racial and cultural differences between rulers and ruled, it has still recognised the basic unity of the entire world, the existence of a single set of principles governing all places and times, and the mutual responsibilities of all human beings. Humankind is seen as a large family: the privileges of the parents go hand in hand with responsibility for the welfare of the children.
+
+This new imperial vision passed from Cyrus and the Persians to Alexander the Great, and from him to Hellenistic kings, Roman emperors, Muslim caliphs, Indian dynasts, and eventually even to Soviet premiers and American presidents. 
+
+This benevolent imperial vision has justified the existence of empires, and negated not only attempts by subject peoples to rebel, but also attempts by independent peoples to resist imperial expansion.
+
+The first emperor of the united Chinese empire, Qín Shǐ Huángdì, boasted that ‘throughout the six directions [of the universe] everything belongs to the emperor … wherever there is a human footprint, there is not one who did not become a subject [of the emperor] … his kindness reaches even oxen and horses.
+
+ In Chinese political thinking as well as Chinese historical memory, imperial periods were henceforth seen as golden ages of order and justice. In contradiction to the modern Western view that a just world is composed of separate nation states, in China periods of political fragmentation were seen as dark ages of chaos and injustice. This perception has had far-reaching implications for Chinese history. Every time an empire collapsed, the dominant political theory goaded the powers that be not to settle for paltry independent principalities, but to attempt reunification. Sooner or later these attempts always succeeded.
+
+#### When They Become Us
+
+Empires have played a decisive part in amalgamating many small cultures into fewer big cultures. Ideas, people, goods and technology spread more easily within the borders of an empire than in a politically fragmented region.
+
+Often enough, it was the empires themselves which deliberately spread ideas, institutions, customs and norms. One reason was to make life easier for themselves. It is difficult to rule an empire in which every little district has its own set of laws, its own form of writing, its own language and its own money. 
+ 
+Standardisation was a boon to emperors.
+
+The benefits were sometimes salient – law enforcement, urban planning, standardisation of weights and measures – and sometimes questionable – taxes, conscription, emperor worship. But most imperial elites earnestly believed that they were working for the general welfare of all the empires inhabitants. 
+
+China’s ruling class treated their country’s neighbours and its foreign subjects as miserable barbarians to whom the empire must bring the benefits of culture. The Mandate of Heaven was bestowed upon the emperor not in order to exploit the world, but in order to educate humanity. 
+
+The Romans, too, justified their dominion by arguing that they were endowing the barbarians with peace, justice and refinement. The wild Germans and painted Gauls had lived in squalor and ignorance until the Romans tamed them with law, cleaned them up in public bathhouses, and improved them with philosophy.
+
+ The Spanish and Portuguese empires proclaimed that it was not riches they sought in the Indies and America, but converts to the true faith. The sun never set on the British mission to spread the twin gospels of liberalism and free trade. The Soviets felt duty-bound to facilitate the inexorable historical march from capitalism towards the utopian dictatorship of the proletariat. 
+ 
+ Many Americans nowadays maintain that their government has a moral imperative to bring Third World countries the benefits of democracy and human rights, even if these goods are delivered by cruise missiles and F-16s.
+ 
+ While some emperors sought to purify their cultures and return to what they viewed as their roots, for the most part empires have begot hybrid civilisations that absorbed much from their subject peoples. 
+  
+ The imperial culture of Rome was Greek almost as much as Roman.
+ 
+The imperial civilisation may well have absorbed numerous contributions from various conquered peoples, but the hybrid result was still alien to the vast majority. 
+
+The process of assimilation was often painful and traumatic. It is not easy to give up a familiar and loved local tradition, just as it is difficult and stressful to understand and adopt a new culture.
+ 
+ The generations between conquest and acceptance were left out in the cold. They had already lost their beloved local culture, but they were not allowed to take an equal part in the imperial world. On the contrary, their adopted culture continued to view them as barbarians.
+ 
+Imagine an Iberian of good stock living a century after the fall of Numantia. He speaks his native Celtic dialect with his parents, but has acquired impeccable Latin, with only a slight accent, because he needs it to conduct his business and deal with the authorities. He indulges his wife’s penchant for elaborately ornate baubles, but is a bit embarrassed that she, like other local women, retains this relic of Celtic taste – he’d rather have her adopt the clean simplicity of the jewellery worn by the Roman governor’s wife. He himself wears Roman tunics and, thanks to his success as a cattle merchant, due in no small part to his expertise in the intricacies of Roman commercial law, he has been able to build a Roman-style villa. Yet, even though he can recite Book III of Virgil’s Georgics by heart, the Romans still treat him as though he’s semi-barbarian. He realises with frustration that he’ll never get a government appointment, or one of the really good seats in the amphitheatre.
+
+In the late nineteenth century, many educated Indians were taught the same lesson by their British masters. One famous anecdote tells of an ambitious Indian who mastered the intricacies of the English language, took lessons in Western-style dance, and even became accustomed to eating with a knife and fork. Equipped with his new manners, he travelled to England, studied law at University College London, and became a qualified barrister. Yet this young man of law, bedecked in suit and tie, was thrown off a train in the British colony of South Africa for insisting on travelling first class instead of settling for third class, where ‘coloured’ men like him were supposed to ride. His name was Mohandas Karamchand Gandhi.
+
+In some cases the processes of acculturation and assimilation eventually broke down the barriers between the newcomers and the old elite. The conquered no longer saw the empire as an alien system of occupation, and the conquerors came to view their subjects as equal to themselves.
+
+ In AD 48 the emperor Claudius admitted to the Senate several Gallic notables, who, he noted in a speech, through ‘customs, culture, and the ties of marriage have blended with ourselves’. Snobbish senators protested introducing these former enemies into the heart of the Roman political system. Claudius reminded them of an inconvenient truth. Most of their own senatorial families descended from Italian tribes who once fought against Rome,
+ 
+The empire’s new citizens adopted Roman imperial culture with such zest that, for centuries and even millennia after the empire itself collapsed, they continued to speak the empire’s language, to believe in the Christian God that the empire had adopted from one of its Levantine provinces, and to live by the empire’s laws.
+
+The Arab Empire. When it was established in the mid-seventh century AD, it was based on a sharp division between the ruling Arab–Muslim elite and the subjugated Egyptians, Syrians, Iranians and Berbers, who were neither Arabs nor Muslim. Many of the empire’s subjects gradually adopted the Muslim faith, the Arabic language and a hybrid imperial culture. The old Arab elite looked upon these parvenus with deep hostility, fearing to lose its unique status and identity. The frustrated converts clamoured for an equal share within the empire and in the world of Islam. Eventually they got their way. Egyptians, Syrians and Mesopotamians were increasingly seen as ‘Arabs’. Arabs, in their turn – whether authentic’ Arabs from Arabia or newly minted Arabs from Egypt and Syria – came to be increasingly dominated by non-Arab Muslims, in particular by Iranians, Turks and Berbers.
+
+In China the success of the imperial project was even more thorough. For more than 2,000 years, a welter of ethnic and cultural groups first termed barbarians were successfully integrated into imperial Chinese culture and became Han Chinese (so named after the Han Empire that ruled China from 206 BC to AD 220). The ultimate achievement of the Chinese Empire is that it is still alive and kicking, yet it is hard to see it as an empire except in outlying areas such as Tibet and Xinjiang. More than 90 per cent of the population of China are seen by themselves and by others as Han.
+
+ During the modern era Europeans conquered much of the globe under the guise of spreading a superior Western culture. They were so successful that billions of people gradually adopted significant parts of that culture. Indians, Africans, Arabs, Chinese and Maoris learned French, English and Spanish. They began to believe in human rights and the principle of self-determination, and they adopted Western ideologies such as liberalism, capitalism, Communism, feminism and nationalism.
+
+#### The Imperial Cycle
+
+![The Imperial Cycle Part 1](./assets/the-imperial-cycle-part-1.jpg)
+The Imperial Cycle Part 1
+
+![The Imperial Cycle Part 2](./assets/the-imperial-cycle-part-2.jpg)
+The Imperial Cycle Part 2
+
+ Just as Egyptians, Iranians and Turks adopted and adapted the imperial culture that they inherited from the original Arab conquerors, so today’s Indians, Africans and Chinese have accepted much of the imperial culture of their former Western overlords, while seeking to mould it in accordance with their needs and traditions.
+ 
+#### Good Guys and Bad Guys in History
+
+ the vast majority of empires were founded on blood, and maintained their power through oppression and war. Yet most of today’s cultures are based on imperial legacies. If empires are by definition bad, what does that say about us?
+
+There are schools of thought and political movements that seek to purge human culture of imperialism, leaving behind what they claim is a pure, authentic civilisation, untainted by sin. These ideologies are at best naïve; at worst they serve as disingenuous window-dressing for crude nationalism and bigotry. Perhaps you could make a case that some of the myriad cultures that emerged at the dawn of recorded history were pure, untouched by sin and unadulterated by other societies. But no culture since that dawn can reasonably make that claim, certainly no culture that exists now on earth. 
+
+All human cultures are at least in part the legacy of empires and imperial civilisations, and no academic or political surgery can cut out the imperial legacies without killing the patient.
+
+ many Indians adopted, with the zest of converts, Western ideas such as self-determination and human rights, and were dismayed when the British refused to live up to their own declared values by granting native Indians either equal rights as British subjects or independence. Nevertheless, the modern Indian state is a child of the British Empire. The British killed, injured and persecuted the inhabitants of the subcontinent, but they also united a bewildering mosaic of warring kingdoms, principalities and tribes, creating a shared national consciousness and a country that functioned more or less as a single political unit.
+ 
+ English is still the subcontinent’s lingua franca, a neutral tongue that native speakers of Hindi, Tamil and Malayalam can use to communicate. Indians are passionate cricket players and chai (tea) drinkers, and both game and beverage are British legacies.
+ 
+![28. The Chhatrapati Shivaji train station in Mumbai.](./assets/figure28.jpg)
+28. The Chhatrapati Shivaji train station in Mumbai. It began its life as Victoria Station, Bombay. The British built it in the Neo-Gothic style that was popular in late nineteenth-century Britain. A Hindu nationalist government changed the names of both city and station, but showed no appetite for razing such a magnificent building, even if it was built by foreign oppressors.
+
+How many Indians today would want to call a vote to divest themselves of democracy, English, the railway network, the legal system, cricket and tea on the grounds that they are imperial legacies? And if they did, wouldn’t the very act of calling a vote to decide the issue demonstrate their debt to their former overlords?
+
+![29. The Taj Mahal. An example of ‘authentic’ Indian culture, or the alien creation of Muslim imperialism?](./assets/figure29.jpg)
+29. The Taj Mahal. An example of ‘authentic’ Indian culture, or the alien creation of Muslim imperialism?
+
+Even if we were to completely disavow the legacy of a brutal empire in the hope of reconstructing and safeguarding the ‘authentic’ cultures that preceded it, in all probability what we will be defending is nothing but the legacy of an older and no less brutal empire.
+
+ If an extreme Hindu nationalist were to destroy all the buildings left by the British conquerors, such as Mumbai’s main train station, what about the structures left by India’s Muslim conquerors, such as the Taj Mahal?
+ 
+ dividing the past into good guys and bad guys leads nowhere. Unless, of course, we are willing to admit that we usually follow the lead of the bad guys.
+ 
+#### The New Global Empire
+
+Since around 200 BC, most humans have lived in empires. It seems likely that in the future, too, most humans will live in one. But this time the empire will be truly global. The imperial vision of dominion over the entire world could be imminent.
+
+More and more people believe that all of humankind is the legitimate source of political authority, rather than the members of a particular nationality, and that safeguarding human rights and protecting the interests of the entire human species should be the guiding light of politics.
+ 
+No sovereign state will be able to overcome global warming on its own. The Chinese Mandate of Heaven was given by Heaven to solve the problems of humankind. The modern Mandate of Heaven will be given by humankind to solve the problems of heaven, such as the hole in the ozone layer and the accumulation of greenhouse gases. The colour of the global empire may well be green.
+
+States are increasingly open to the machinations of global markets, to the interference of global companies and NGOs, and to the supervision of global public opinion and the international judicial system. States are obliged to conform to global standards of financial behaviour, environmental policy and justice.
+
+The global empire being forged before our eyes is not governed by any particular state or ethnic group. Much like the Late Roman Empire, it is ruled by a multi-ethnic elite, and is held together by a common culture and common interests. 
+
+Throughout the world, more and more entrepreneurs, engineers, experts, scholars, lawyers and managers are called to join the empire. They must ponder whether to answer the imperial call or to remain loyal to their state and their people. More and more choose the empire.
 
 ### 12 The Law of Religion
 
