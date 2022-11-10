@@ -1823,6 +1823,203 @@ Throughout the world, more and more entrepreneurs, engineers, experts, scholars,
 
 ### 12 The Law of Religion
 
+IN THE MEDIEVAL MARKET IN SAMARKAND, a city built on a Central Asian oasis, Syrian merchants ran their hands over fine Chinese silks, fierce tribesmen from the steppes displayed the latest batch of straw-haired slaves from the far west, and shopkeepers pocketed shiny gold coins imprinted with exotic scripts and the profiles of unfamiliar kings. Here, at one of that era’s major crossroads between east and west, north and south, the unification of humankind was an everyday fact.
+
+around the holy Ka’aba in Mecca, human unification was proceeding by other means. Had you been a pilgrim to Mecca, circling Islam’s holiest shrine in the year 1300, you might have found yourself in the company of a party from Mesopotamia, their robes floating in the wind, their eyes blazing with ecstasy, and their mouths repeating one after the other the ninety-nine names of God. Just ahead you might have seen a weather-beaten Turkish patriarch from the Asian steppes, hobbling on a stick and stroking his beard thoughtfully. To one side, gold jewellery shining against jet-black skin, might have been a group of Muslims from the African kingdom of Mali. The aroma of clove, turmeric, cardamom and sea salt would have signalled the presence of brothers from India, or perhaps from the mysterious spice islands further east.
+
+Today religion is often considered a source of discrimination, disagreement and disunion. Yet, in fact, religion has been the third great unifier of humankind, alongside money and empires.
+
+ the larger the society, the more fragile it is.
+ 
+ Religions assert that our laws are not the result of human caprice, but are ordained by an absolute and supreme authority.
+
+Religion can thus be defined as a system of human norms and values that is founded on a belief in a superhuman order.
+
+two distinct criteria:
+
+1. Religions hold that there is a superhuman order, which is not the product of human whims or agreements. Professional football is not a religion, because despite its many laws, rites and often bizarre rituals, everyone knows that human beings invented football themselves, and FIFA may at any moment enlarge the size of the goal or cancel the offside rule.
+
+2. Based on this superhuman order, religion establishes norms and values that it considers binding.
+
+Despite their ability to legitimise widespread social and political orders, not all religions have actuated this potential. 
+
+In order to unite under its aegis a large expanse of territory inhabited by disparate groups of human beings, a religion must possess two further qualities. First, it must espouse a universal superhuman order that is true always and everywhere. Second, it must insist on spreading this belief to everyone. In other words, it must be universal and missionary.
+
+The best-known religions of history, such as Islam and Buddhism, are universal and missionary... ...the majority of ancient religions were local and exclusive.
+
+ As far as we know, universal and missionary religions began to appear only in the first millennium BC. Their emergence was one of the most important revolutions in history, and made a vital contribution to the unification of humankind, much like the emergence of universal empires and universal money.
+ 
+#### Silencing the Lambs
+
+When animism was the dominant belief system, human norms and values had to take into consideration the outlook and interests of a multitude of other beings, such as animals, plants, fairies and ghosts. For example, a forager band in the Ganges Valley may have established a rule forbidding people to cut down a particularly large fig tree, lest the fig-tree spirit become angry and take revenge. Another forager band living in the Indus Valley may have forbidden people from hunting white-tailed foxes, because a white-tailed fox once revealed to a wise old woman where the band might find precious obsidian. Such religions tended to be very local in outlook, and to emphasise the unique features of specific locations, climates and phenomena.
+
+ Most foragers spent their entire lives within an area of no more than a thousand square kilometres.
+ 
+The Agricultural Revolution seems to have been accompanied by a religious revolution. Hunter-gatherers picked and pursued wild plants and animals, which could be seen as equal in status to Homo sapiens. The fact that man hunted sheep did not make sheep inferior to man, just as the fact that tigers hunted man did not make man inferior to tigers. Beings communicated with one another directly and negotiated the rules governing their shared habitat. In contrast, farmers owned and manipulated plants and animals, and could hardly degrade themselves by negotiating with their possessions. Hence the first religious effect of the Agricultural Revolution was to turn plants and animals from equal members of a spiritual round table into property.
+
+This, however, created a big problem. Farmers may have desired absolute control of their sheep, but they knew perfectly well that their control was limited. They could lock the sheep in pens, castrate rams and selectively breed ewes, yet they could not ensure that the ewes conceived and gave birth to healthy lambs, nor could they prevent the eruption of deadly epidemics. How then to safeguard the fecundity of the flocks? A leading theory about the origin of the gods argues that gods gained importance because they offered a solution to this problem. Gods such as the fertility goddess, the sky god and the god of medicine took centre stage when plants and animals lost their ability to speak, and the gods’ main role was to mediate between humans and the mute plants and animals.
+
+For thousands of years after the Agricultural Revolution, religious liturgy consisted mainly of humans sacrificing lambs, wine and cakes to divine powers, who in exchange promised abundant harvests and fecund flocks.
+
+once kingdoms and trade networks expanded, people needed to contact entities whose power and authority encompassed a whole kingdom or an entire trade basin.
+
+The attempt to answer these needs led to the appearance of polytheistic religions (from the Greek: poly = many, theos = god). These religions understood the world to be controlled by a group of powerful gods, such as the fertility goddess, the rain god and the war god. Humans could appeal to these gods and the gods might, if they received devotions and sacrifices, deign to bring rain, victory and health.
+
+ the greatest impact of the rise of great gods was not on sheep or demons, but upon the status of Homo sapiens. Animists thought that humans were just one of many creatures inhabiting the world. Polytheists, on the other hand, increasingly saw the world as a reflection of the relationship between gods and humans. Our prayers, our sacrifices, our sins and our good deeds determined the fate of the entire ecosystem.
+
+ Polytheism thereby exalted not only the status of the gods, but also that of humankind. Less fortunate members of the old animist system lost their stature and became either extras or silent decor in the great drama of man’s relationship with the gods.
+ 
+#### The Benefits of Idolatry 
+
+Two thousand years of monotheistic brainwashing have caused most Westerners to see polytheism as ignorant and childish idolatry. This is an unjust stereotype. In order to understand the inner logic of polytheism, it is necessary to grasp the central idea buttressing the belief in many gods.
+
+Polytheism does not necessarily dispute the existence of a single power or law governing the entire universe. In fact, most polytheist and even animist religions recognised such a supreme power that stands behind all the different gods, demons and holy rocks. In classical Greek polytheism, Zeus, Hera, Apollo and their colleagues were subject to an omnipotent and all-encompassing power – Fate (Moira, Ananke).
+
+The fundamental insight of polytheism, which distinguishes it from monotheism, is that the supreme power governing the world is devoid of interests and biases, and therefore it is unconcerned with the mundane desires, cares and worries of humans. It’s pointless to ask this power for victory in war, for health or for rain, because from its all-encompassing vantage point, it makes no difference whether a particular kingdom wins or loses, whether a particular city prospers or withers, whether a particular person recuperates or dies. The Greeks did not waste any sacrifices on Fate, and Hindus built no temples to Atman.
+
+The only reason to approach the supreme power of the universe would be to renounce all desires and embrace the bad along with the good – to embrace even defeat, poverty, sickness and death. Thus some Hindus, known as Sadhus or Sannyasis, devote their lives to uniting with Atman, thereby achieving enlightenment. They strive to see the world from the viewpoint of this fundamental principle, to realise that from its eternal perspective all mundane desires and fears are meaningless and ephemeral phenomena.
+
+Most Hindus, however, are not Sadhus. They are sunk deep in the morass of mundane concerns, where Atman is not much help. For assistance in such matters, Hindus approach the gods with their partial powers. Precisely because their powers are partial rather than all-encompassing, gods such as Ganesha, Lakshmi and Saraswati have interests and biases. Humans can therefore make deals with these partial powers and rely on their help in order to win wars and recuperate from illness. There are necessarily many of these smaller powers, since once you start dividing up the all-encompassing power of a supreme principle, you’ll inevitably end up with more than one deity. Hence the plurality of gods.
+
+ Since polytheists believe, on the one hand, in one supreme and completely disinterested power, and on the other hand in many partial and biased powers, there is no difficulty for the devotees of one god to accept the existence and efficacy of other gods. Polytheism is inherently open-minded, and rarely persecutes ‘heretics’ and ‘infidels’.
+ 
+ when polytheists conquered huge empires, they did not try to convert their subjects. The Egyptians, the Romans and the Aztecs did not send missionaries to foreign lands to spread the worship of Osiris, Jupiter or Huitzilopochtli (the chief Aztec god), and they certainly didn’t dispatch armies for that purpose.
+ 
+In many cases the imperial elite itself adopted the gods and rituals of subject people. The Romans happily added the Asian goddess Cybele and the Egyptian goddess Isis to their pantheon. The only god that the Romans long refused to tolerate was the monotheistic and evangelising god of the Christians.
+
+ Still, if we combine all the victims of all these persecutions, it turns out that in these three centuries, the polytheistic Romans killed no more than a few thousand Christians.1 In contrast, over the course of the next 1,500 years, Christians slaughtered Christians by the millions to defend slightly different interpretations of the religion of love and compassion.
+ 
+ Protestants believed that the divine love is so great that God was incarnated in flesh and allowed Himself to be tortured and crucified, thereby redeeming the original sin and opening the gates of heaven to all those who professed faith in Him. Catholics maintained that faith, while essential, was not enough. To enter heaven, believers had to participate in church rituals and do good deeds. Protestants refused to accept this, arguing that this quid pro quo belittles God’s greatness and love. Whoever thinks that entry to heaven depends upon his or her own good deeds magnifies his own importance, and implies that Christ’s suffering on the cross and God’s love for humankind are not enough. These theological disputes turned so violent that during the sixteenth and seventeenth centuries, Catholics and Protestants killed each other by the hundreds of thousands. 
+
+On 23 August 1572, French Catholics who stressed the importance of good deeds attacked communities of French Protestants who highlighted God’s love for humankind. In this attack, the St Bartholomew’s Day Massacre, between 5,000 and 10,000 Protestants were slaughtered in less than twenty-four hours. When the pope in Rome heard the news from France, he was so overcome by joy that he organised festive prayers to celebrate the occasion and commissioned Giorgio Vasari to decorate one of the Vatican’s rooms with a fresco of the massacre (the room is currently off-limits to visitors).2 More Christians were killed by fellow Christians in those twenty-four hours than by the polytheistic Roman Empire throughout its entire existence.
+ 
+#### God is One
+ 
+With time some followers of polytheist gods became so fond of their particular patron that they drifted away from the basic polytheist insight. They began to believe that their god was the only god, and that He was in fact the supreme power of the universe. Yet at the same time they continued to view Him as possessing interests and biases, and believed that they could strike deals with Him. Thus were born monotheist religions, whose followers beseech the supreme power of the universe to help them recover from illness, win the lottery and gain victory in war.
+ 
+The first monotheist religion known to us appeared in Egypt, c.350 BC, when Pharaoh Akhenaten declared that one of the minor deities of the Egyptian pantheon, the god Aten... ...After his death, the worship of Aten was abandoned in favour of the old pantheon.
+
+ other monotheist religions, but they remained marginal, not least because they failed to digest their own universal message. Judaism, for example, argued that the supreme power of the universe has interests and biases, yet His chief interest is in the tiny Jewish nation and in the obscure land of Israel. Judaism had little to offer other nations, and throughout most of its existence it has not been a missionary religion. This stage can be called the stage of ‘local monotheism’.
+ 
+The big breakthrough came with Christianity. This faith began as an esoteric Jewish sect that sought to convince Jews that Jesus of Nazareth was their long-awaited messiah. However, one of the sect’s first leaders, Paul of Tarsus, reasoned that if the supreme power of the universe has interests and biases, and if He had bothered to incarnate Himself in the flesh and to die on the cross for the salvation of humankind, then this is something everyone should hear about, not just Jews. It was thus necessary to spread the good word – the gospel – about Jesus throughout the world.
+
+Christians began organising widespread missionary activities aimed at all humans. In one of history’s strangest twists, this esoteric Jewish sect took over the mighty Roman Empire.
+
+Christian success served as a model for another monotheist religion that appeared in the Arabian peninsula in the seventh century – Islam. Like Christianity, Islam, too, began as a small sect in a remote corner of the world, but in an even stranger and swifter historical surprise it managed to break out of the deserts of Arabia and conquer an immense empire stretching from the Atlantic Ocean to India. Henceforth, the monotheist idea played a central role in world history.
+
+Monotheists have tended to be far more fanatical and missionary than polytheists.
+
+Since monotheists have usually believed that they are in possession of the entire message of the one and only God, they have been compelled to discredit all other religions.
+
+ Around AD 500, one of the world’s largest empires – the Roman Empire – was a Christian polity, and missionaries were busy spreading Christianity to other parts of Europe, Asia and Africa. By the end of the first millennium AD, most people in Europe, West Asia and North Africa were monotheists, and empires from the Atlantic Ocean to the Himalayas claimed to be ordained by the single great God.
+ 
+Today most people outside East Asia adhere to one monotheist religion or another, and the global political order is built on monotheistic foundations.
+
+Who would want to approach a lowly bureaucrat when the president’s office is open to you? Indeed, monotheist theology tends to deny the existence of all gods except the supreme God, and to pour hellfire and brimstone over anyone who dares worship them.
+
+![Map 5. The Spread of Christianity and Islam.](./assets/map5.jpg)
+Map 5. The Spread of Christianity and Islam.
+
+Most people have found it difficult to digest the monotheist idea fully. They have continued to divide the world into ‘we’ and ‘they’, and to see the supreme power of the universe as too distant and alien for their mundane needs. 
+
+The monotheist religions expelled the gods through the front door with a lot of fanfare, only to take them back in through the side window. Christianity, for example, developed its own pantheon of saints, whose cults differed little from those of the polytheistic gods... ...The city of Milan had St Ambrose, while St Mark watched over Venice. St Florian protected chimney cleaners, whereas St Mathew lent a hand to tax collectors in distress. If you suffered from headaches you had to pray to St Agathius, but if from toothaches, then St Apollonia was a much better audience.
+
+#### The Battle of Good and Evil
+
+Polytheism gave birth not merely to monotheist religions, but also to dualistic ones. Dualistic religions espouse the existence of two opposing powers: good and evil.
+
+Dualism is a very attractive world view because it has a short and simple answer to the famous Problem of Evil, one of the fundamental concerns of human thought. ‘Why is there evil in the world? Why is there suffering? Why do bad things happen to good people?’ Monotheists have to practise intellectual gymnastics to explain how an all-knowing, all-powerful and perfectly good God allows so much suffering in the world. 
+
+One well-known explanation is that this is God’s way of allowing for human free will. Were there no evil, humans could not choose between good and evil, and hence there would be no free will. This, however, is a non-intuitive answer that immediately raises a host of new questions. Freedom of will allows humans to choose evil. Many indeed choose evil and, according to the standard monotheist account, this choice must bring divine punishment in its wake. If God knew in advance that a particular person would use her free will to choose evil, and that as a result she would be punished for this by eternal tortures in hell, why did God create her?
+
+Dualism has its own drawbacks. While solving the Problem of Evil, it is unnerved by the Problem of Order. If the world was created by a single God, it’s clear why it is such an orderly place, where everything obeys the same laws. But if Good and Evil battle for control of the world, who enforces the laws governing this cosmic war? Two rival states can fight one another because both obey the same laws of physics. A missile launched from Pakistan can hit targets in India because gravity works the same way in both countries. When Good and Evil fight, what common laws do they obey, and who decreed these laws?
+
+So, monotheism explains order, but is mystified by evil. Dualism explains evil, but is puzzled by order. There is one logical way of solving the riddle: to argue that there is a single omnipotent God who created the entire universe – and He’s evil. But nobody in history has had the stomach for such a belief.
+
+Dualistic religions flourished for more than a thousand years. Sometime between 1500 BC and 1000 BC a prophet named Zoroaster (Zarathustra) was active somewhere in Central Asia. His creed passed from generation to generation until it became the most important of dualistic religions – Zoroastrianism... ...It exerted a major influence on almost all subsequent Middle Eastern and Central Asian religions, and it inspired a number of other dualist religions, such as Gnosticism and Manichaeanism. During the third and fourth centuries AD, the Manichaean creed spread from China to North Africa, and for a moment it appeared that it would beat Christianity to achieve dominance in the Roman Empire. Yet the Manichaeans lost the soul of Rome to the Christians, the Zoroastrian Sassanid Empire was overrun by the monotheistic Muslims, and the dualist wave subsided. Today only a handful of dualist communities survive in India and the Middle East.
+
+How can a monotheist adhere to such a dualistic belief (which, by the way, is nowhere to be found in the Old Testament)? Logically, it is impossible. Either you believe in a single omnipotent God or you believe in two opposing powers, neither of which is omnipotent. Still, humans have a wonderful capacity to believe in contradictions. So it should not come as a surprise that millions of pious Christians, Muslims and Jews manage to believe at one and the same time in an omnipotent God and an independent Devil.
+
+Another key dualistic concept, particularly in Gnosticism and Manichaeanism, was the sharp distinction between body and soul, between matter and spirit. Gnostics and Manichaeans argued that the good god created the spirit and the soul, whereas matter and bodies are the creation of the evil god. Man, according to this view, serves as a battleground between the good soul and the evil body. From a monotheistic perspective, this is nonsense – why distinguish so sharply between body and soul, or matter and spirit? And why argue that body and matter are evil? After all, everything was created by the same good God. But monotheists could not help but be captivated by dualist dichotomies, precisely because they helped them address the problem of evil. So such oppositions eventually became cornerstones of Christian and Muslim thought. Belief in heaven (the realm of the good god) and hell (the realm of the evil god) was also dualist in origin. There is no trace of this belief in the Old Testament, which also never claims that the souls of people continue to live after the death of the body.
+
+monotheism, as it has played out in history, is a kaleidoscope of monotheist, dualist, polytheist and animist legacies, jumbling together under a single divine umbrella. The average Christian believes in the monotheist God, but also in the dualist Devil, in polytheist saints, and in animist ghosts.
+
+simultaneous avowal of different and even contradictory ideas and the combination of rituals and practices taken from different sources. It’s called syncretism. Syncretism might, in fact, be the single great world religion.
+
+#### The Law of Nature
+
+The religious history of the world does not boil down to the history of gods. During the first millennium BC, religions of an altogether new kind began to spread through Afro-Asia. The newcomers, such as Jainism and Buddhism in India, Daoism and Confucianism in China, and Stoicism, Cynicism and Epicureanism in the Mediterranean basin, were characterised by their disregard of gods.
+
+Gods had their niche in the ecosystem, just as elephants and porcupines had theirs, but could no more change the laws of nature than elephants can. A prime example is Buddhism, the most important of the ancient natural law religions, which remains one of the major faiths.
+
+The central figure of Buddhism is not a god but a human being, Siddhartha Gautama. According to Buddhist tradition, Gautama was heir to a small Himalayan kingdom, sometime around 500 BC. The young prince was deeply affected by the suffering evident all around him. He saw that men and women, children and old people, all suffer not just from occasional calamities such as war and plague, but also from anxiety, frustration and discontent, all of which seem to be an inseparable part of the human condition. People pursue wealth and power, acquire knowledge and possessions, beget sons and daughters, and build houses and palaces. Yet no matter what they achieve, they are never content. Those who live in poverty dream of riches. Those who have a million want two million. Those who have two million want 10 million. Even the rich and famous are rarely satisfied. They too are haunted by ceaseless cares and worries, until sickness, old age and death put a bitter end to them. Everything that one has accumulated vanishes like smoke.
+
+Life is a pointless rat race. But how to escape it?
+ 
+Gautama slipped away from his palace in the middle of the night... ...He travelled as a homeless vagabond throughout northern India, searching for a way out of suffering. He visited ashrams and sat at the feet of gurus but nothing liberated him entirely – some dissatisfaction always remained. He did not despair. He resolved to investigate suffering on his own until he found a method for complete liberation... ...he came to the realisation that suffering is not caused by ill fortune, by social injustice, or by divine whims. Rather, suffering is caused by the behaviour patterns of one’s own mind.
+
+Gautama’s insight was that no matter what the mind experiences, it usually reacts with craving, and craving always involves dissatisfaction. When the mind experiences something distasteful it craves to be rid of the irritation. When the mind experiences something pleasant, it craves that the pleasure will remain and will intensify. Therefore, the mind is always dissatisfied and restless.
+
+![Map 6. The Spread of Buddhism.](./assets/map6.jpg)
+Map 6. The Spread of Buddhism.
+
+Hence even the greatest kings are doomed to live in angst, constantly fleeing grief and anguish, forever chasing after greater pleasures.
+
+Gautama found that there was a way to exit this vicious circle. If, when the mind experiences something pleasant or unpleasant, it simply understands things as they are, then there is no suffering. If you experience sadness without craving that the sadness go away, you continue to feel sadness but you do not suffer from it. There can actually be richness in the sadness. If you experience joy without craving that the joy linger and intensify, you continue to feel joy without losing your peace of mind.
+
+train the mind to focus all its attention on the question, ‘What am I experiencing now?’ rather than on ‘What would I rather be experiencing?’ It is difficult to achieve this state of mind, but not impossible.
+
+Avoid killing, promiscuous sex and theft, since such acts necessarily stoke the fire of craving (for power, for sensual pleasure, or for wealth). 
+
+When the flames are completely extinguished, craving is replaced by a state of perfect contentment and serenity, known as nirvana (the literal meaning of which is ‘extinguishing the fire’). 
+
+Those who have attained nirvana are fully liberated from all suffering. They experience reality with the utmost clarity, free of fantasies and delusions. While they will most likely still encounter unpleasantness and pain, such experiences cause them no misery. A person who does not crave cannot suffer.
+
+suffering arises from craving; the only way to be fully liberated from suffering is to be fully liberated from craving; and the only way to be liberated from craving is to train the mind to experience reality as it is.
+
+This law, known as dharma or dhamma, is seen by Buddhists as a universal law of nature. That ‘suffering arises from craving’ is always and everywhere true, just as in modern physics E always equals mc2. Buddhists are people who believe in this law and make it the fulcrum of all their activities. Belief in gods, on the other hand, is of minor importance to them. The first principle of monotheist religions is ‘God exists. What does He want from me?’ The first principle of Buddhism is ‘Suffering exists. How do I escape it?’
+
+ However, 99 per cent of Buddhists did not attain nirvana, and even if they hoped to do so in some future lifetime, they devoted most of their present lives to the pursuit of mundane achievements. So they continued to worship various gods, such as the Hindu gods in India, the Bon gods in Tibet, and the Shinto gods in Japan.
+  
+#### The Worship of Man
+
+The last 300 years are often depicted as an age of growing secularism, in which religions have increasingly lost their importance. If we are talking about theist religions, this is largely correct. But if we take into consideration natural-law religions, then modernity turns out to be an age of intense religious fervour, unparalleled missionary efforts, and the bloodiest wars of religion in history.
+
+ The modern age has witnessed the rise of a number of new natural-law religions, such as liberalism, Communism, capitalism, nationalism and Nazism. These creeds do not like to be called religions, and refer to themselves as ideologies. But this is just a semantic exercise. If a religion is a system of human norms and values that is founded on belief in a superhuman order, then Soviet Communism was no less a religion than Islam.
+ 
+ Like Buddhists, Communists believed in a superhuman order of natural and immutable laws that should guide human actions. Whereas Buddhists believe that the law of nature was discovered by Siddhartha Gautama, Communists believed that the law of nature was discovered by Karl Marx, Friedrich Engels and Vladimir Ilyich Lenin.
+ 
+![Religion Diagram](./assets/religion-diagram.jpg)
+
+Religion is a system of human norms and values that is founded on belief in a superhuman order. The theory of relativity is not a religion, because (at least so far) there are no human norms and values that are founded on it. Football is not a religion because nobody argues that its rules reflect superhuman edicts. Islam, Buddhism and Communism are all religions, because all are systems of human norms and values that are founded on belief in a superhuman order. (Note the difference between ‘superhuman’ and ‘supernatural’. The Buddhist law of nature and the Marxist laws of history are superhuman, since they were not legislated by humans. Yet they are not supernatural.)
+
+ Humanist religions worship humanity, or more correctly, Homo sapiens. Humanism is a belief that Homo sapiens has a unique and sacred nature, which is fundamentally different from the nature of all other animals and of all other phenomena.
+ 
+All humanists worship humanity, but they do not agree on its definition. Humanism has split into three rival sects that fight over the exact definition of ‘humanity’, just as rival Christian sects fought over the exact definition of God. Today, the most important humanist sect is liberal humanism, which believes that ‘humanity’ is a quality of individual humans, and that the liberty of individuals is therefore sacrosanct. According to liberals, the sacred nature of humanity resides within each and every individual Homo sapiens. 
+
+The inner core of individual humans gives meaning to the world, and is the source for all ethical and political authority. If we encounter an ethical or political dilemma, we should look inside and listen to our inner voice – the voice of humanity.
+ 
+ In early modern Europe, murderers were thought to violate and destabilise the cosmic order. To bring the cosmos back to balance, it was necessary to torture and publicly execute the criminal, so that everyone could see the order re-established. Attending gruesome executions was a favourite pastime for Londoners and Parisians in the era of Shakespeare and Molière. In today’s Europe, murder is seen as a violation of the sacred nature of humanity. In order to restore order, present-day Europeans do not torture and execute criminals. Instead, they punish a murderer in what they see as the most ‘humane’ way possible, thus safeguarding and even rebuilding his human sanctity. By honouring the human nature of the murderer, everyone is reminded of the sanctity of humanity, and order is restored. By defending the murderer, we right what the murderer has wronged.
+ 
+Without recourse to eternal souls and a Creator God, it becomes embarrassingly difficult for liberals to explain what is so special about individual Sapiens.
+  
+ Whereas liberal humanism seeks as much freedom as possible for individual humans, socialist humanism seeks equality between all humans. \
+ 
+According to socialists, inequality is the worst blasphemy against the sanctity of humanity, because it privileges peripheral qualities of humans over their universal essence. For example, when the rich are privileged over the poor, it means that we value money more than the universal essence of all humans, which is the same for rich and poor alike.
+
+Like liberal humanism, socialist humanism is built on monotheist foundations. The idea that all humans are equal is a revamped version of the monotheist conviction that all souls are equal before God.  
+
+ What distinguished the Nazis from other humanist sects was a different definition of ‘humanity’, one deeply influenced by the theory of evolution. In contrast to other humanists, the Nazis believed that humankind is not something universal and eternal, but rather a mutable species that can evolve or degenerate. Man can evolve into superman, or degenerate into a subhuman.
+ 
+ According to the Nazis, Homo sapiens had already divided into several distinct races, each with its own unique qualities. One of these races, the Aryan race, had the finest qualities – rationalism, beauty, integrity, diligence. The Aryan race therefore had the potential to turn man into superman. Other races, such as Jews and blacks, were today’s Neanderthals, possessing inferior qualities.
+ 
+Biologists have since debunked Nazi racial theory. In particular, genetic research conducted after 1945 has demonstrated that the differences between the various human lineages are far smaller than the Nazis postulated. But these conclusions are relatively new. Given the state of scientific knowledge in 1933, Nazi beliefs were hardly outside the pale.
+
+ The existence of different human races, the superiority of the white race, and the need to protect and cultivate this superior race were widely held beliefs among most Western elites... ...Politicians in Washington, London and Canberra took it for granted that it was their job to prevent the adulteration and degeneration of the white race, by, for example, restricting immigration from China or even Italy to ‘Aryan’ countries such as the USA and Australia.
+
+#### Humanist Religions – Religions that Worship Humanity
+
+
 
 
 ### 13 The Secret of Success
