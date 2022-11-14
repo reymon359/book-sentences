@@ -2019,7 +2019,32 @@ Biologists have since debunked Nazi racial theory. In particular, genetic resear
 
 #### Humanist Religions – Religions that Worship Humanity
 
+Homo sapiens has a unique and sacred nature that is fundamentally different from the nature of all other beings and phenomena. The supreme good is the good of humanity. 
 
+| Liberal humanism                                                                                                                                                         | Socialist humanism                                                               | Evolutionary humanism                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| ‘Humanity’ is individualistic and resides within each individual Homo sapiens.                                                                                           | ‘Humanity’ is collective and resides within the species Homo sapiens as a whole. | ‘Humanity’ is a mutable species. Humans might degenerate into subhumans or evolve into superhumans.                                |
+| The supreme commandment is to protect the inner core and freedom of each individual Homo sapiens.                                                                        | The supreme commandment is to protect equality within the species Homo sapiens.  | The supreme commandment is to protect humankind from degenerating into subhumans, and to encourage its evolution into superhumans. |
+
+These positions did not change simply because new scientific research was published. Sociological and political developments were far more powerful engines of change. In this sense, Hitler dug not just his own grave but that of racism in general. When he launched World War Two, he compelled his enemies to make clear distinctions between ‘us’ and ‘them’. Afterwards, precisely because Nazi ideology was so racist, racism became discredited in the West. But the change took time. White supremacy remained a mainstream ideology in American politics at least until the 1960s.
+
+![30. A Nazi propaganda poster showing on the right a ‘racially pure Aryan’ and on the left a ‘cross-breed’. Nazi admiration for the human body is evident, as is their fear that the lower races might pollute humanity and cause its degeneration.](./assets/figure30.jpg)
+30. A Nazi propaganda poster showing on the right a ‘racially pure Aryan’ and on the left a ‘cross-breed’. Nazi admiration for the human body is evident, as is their fear that the lower races might pollute humanity and cause its degeneration.
+
+ By succouring the weak, liberalism and Communism not only allowed unfit individuals to survive, they actually gave them the opportunity to reproduce, thereby undermining natural selection. In such a world, the fittest humans would inevitably drown in a sea of unfit degenerates. Humankind would become less and less fit with each passing generation – which could lead to its extinction.
+ 
+![31. A Nazi cartoon of 1933. Hitler is presented as a sculptor who creates the superman. A bespectacled liberal intellectual is appalled by the violence needed to create the superman. (Note also the erotic glorification of the human body.)](./assets/figure31.jpg)
+31. A Nazi cartoon of 1933. Hitler is presented as a sculptor who creates the superman. A bespectacled liberal intellectual is appalled by the violence needed to create the superman. (Note also the erotic glorification of the human body.)
+
+A 1942 German biology textbook explains in the chapter ‘The Laws of Nature and Mankind’ that the supreme law of nature is that all beings are locked in a remorseless struggle for survival.
+
+At the dawn of the third millennium, the future of evolutionary humanism is unclear. For sixty years after the end of the war against Hitler it was taboo to link humanism with evolution and to advocate using biological methods to upgrade’ Homo sapiens. But today such projects are back in vogue. No one speaks about exterminating lower races or inferior people, but many contemplate using our increasing knowledge of human biology to create superhumans.
+
+ Our liberal political and judicial systems are founded on the belief that every individual has a sacred inner nature, indivisible and immutable, which gives meaning to the world, and which is the source of all ethical and political authority. This is a reincarnation of the traditional Christian belief in a free and eternal soul that resides within each individual. Yet over the last 200 years, the life sciences have thoroughly undermined this belief.
+ 
+Scientists studying the inner workings of the human organism have found no soul there. 
+
+They increasingly argue that human behaviour is determined by hormones, genes and synapses, rather than by free will – the same forces that determine the behaviour of chimpanzees, wolves, and ants. Our judicial and political systems largely try to sweep such inconvenient discoveries under the carpet. But in all frankness, how long can we maintain the wall separating the department of biology from the departments of law and political science?
 
 
 ### 13 The Secret of Success
