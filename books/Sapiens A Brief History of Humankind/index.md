@@ -2046,17 +2046,94 @@ Scientists studying the inner workings of the human organism have found no soul 
 
 They increasingly argue that human behaviour is determined by hormones, genes and synapses, rather than by free will – the same forces that determine the behaviour of chimpanzees, wolves, and ants. Our judicial and political systems largely try to sweep such inconvenient discoveries under the carpet. But in all frankness, how long can we maintain the wall separating the department of biology from the departments of law and political science?
 
-
 ### 13 The Secret of Success
 
+ Looking at the bigger picture, though, the transition from many small cultures to a few large cultures and finally to a single global society was probably an inevitable result of the dynamics of human history.
+ 
+#### 1. The Hindsight Fallacy
 
+Every point in history is a crossroads. A single travelled road leads from the past to the present, but myriad paths fork off into the future. Some of those paths are wider, smoother and better marked, and are thus more likely to be taken, but sometimes history – or the people who make history – takes unexpected turns.
+
+ Historians can speculate, but not provide any definitive answer. They can describe how Christianity took over the Roman Empire, but they cannot explain why this particular possibility was realised.
+
+What is the difference between describing ‘how’ and explaining ‘why’? To describe ‘how’ means to reconstruct the series of specific events that led from one point to another. To explain ‘why means to find causal connections that account for the occurrence of this particular series of events to the exclusion of all others. 
+
+there was something about the geography, genetics or economy of the Roman Mediterranean that made the rise of a monotheist religion inevitable. Yet most historians tend to be sceptical of such deterministic theories. This is one of the distinguishing marks of history as an academic discipline – the better you know a particular historical period, the harder it becomes to explain why things happened one way and not another. Those who have only a superficial knowledge of a certain period tend to focus only on the possibility that was eventually realised. They offer a just-so story to explain with hindsight why that outcome was inevitable. Those more deeply informed about the period are much more cognisant of the roads not taken.
+
+It is an iron rule of history that what looks inevitable in hindsight was far from obvious at the time.
+ 
+ Are we heading towards ecological disaster or technological paradise?
+ 
+ In a few decades, people will look back and think that the answers to all of these questions were obvious.
+ 
+ When Constantine assumed the throne in 306, Christianity was little more than an esoteric Eastern sect. If you were to suggest then that it was about to become the Roman state religion, you’d have been laughed out of the room just as you would be today if you were to suggest that by the year 2050 Hare Krishna would be the state religion of the USA.
+ 
+Not that everything is possible. Geographical, biological and economic forces create constraints. Yet these constraints leave ample room for surprising developments, which do not seem bound by any deterministic laws.
+
+Determinism is appealing because it implies that our world and our beliefs are a natural and inevitable product of history. It is natural and inevitable that we live in nation states, organise our economy along capitalist principles, and fervently believe in human rights. To acknowledge that history is not deterministic is to acknowledge that it is just a coincidence that most people today believe in nationalism, capitalism and human rights.
+ 
+Chaotic systems come in two shapes. Level one chaos is chaos that does not react to predictions about it. The weather, for example, is a level one chaotic system. Though it is influenced by myriad factors, we can build computer models that take more and more of them into consideration, and produce better and better weather forecasts. Level two chaos is chaos that reacts to predictions about it, and therefore can never be predicted accurately. Markets, for example, are a level two chaotic system. What will happen if we develop a computer program that forecasts with 100 per cent accuracy the price of oil tomorrow? The price of oil will immediately react to the forecast, which would consequently fail to materialise. If the current price of oil is $90 a barrel, and the infallible computer program predicts that tomorrow it will be $100, traders will rush to buy oil so that they can profit from the predicted price rise. As a result, the price will shoot up to $100 a barrel today rather than tomorrow. Then what will happen tomorrow? Nobody knows.
+ 
+ Revolutions are, by definition, unpredictable. A predictable revolution never erupts.
+
+So why study history? Unlike physics or economics, history is not a means for making accurate predictions. We study history not to know the future but to widen our horizons, to understand that our present situation is neither natural nor inevitable, and that we consequently have many more possibilities before us than we imagine.
+
+ studying how Europeans came to dominate Africans enables us to realise that there is nothing natural or inevitable about the racial hierarchy, and that the world might well be arranged differently.
+ 
+#### 2. Blind Clio
+
+We cannot explain the choices that history makes, but we can say something very important about them: history’s choices are not made for the benefit of humans. There is absolutely no proof that human well-being inevitably improves as history rolls along. There is no proof that cultures that are beneficial to humans must inexorably succeed and spread, while less beneficial cultures disappear.
+ 
+There is no proof that history is working for the benefit of humans because we lack an objective scale on which to measure such benefit. Different cultures define the good differently, and we have no objective yardstick by which to judge between them. 
+
+The victors, of course, always believe that their definition is correct. But why should we believe the victors? Christians believe that the victory of Christianity over Manichaeism was beneficial to humankind, but if we do not accept the Christian world view then there is no reason to agree with them.
+ 
+It may well be that we’d all be better off if Christianity and Islam had been forgotten or defeated.
+ 
+scholars see cultures as a kind of mental infection or parasite, with humans as its unwitting host. Organic parasites, such as viruses, live inside the body of their hosts. They multiply and spread from one host to the other, feeding off their hosts, weakening them, and sometimes even killing them. As long as the hosts live long enough to pass along the parasite, it cares little about the condition of its host. In just this fashion, cultural ideas live inside the minds of humans. They multiply and spread from one host to another, occasionally weakening the hosts and sometimes even killing them. 
+
+A cultural idea – such as belief in Christian heaven above the clouds or Communist paradise here on earth – can compel a human to dedicate his or her life to spreading that idea, even at the price of death. 
+
+The human dies, but the idea spreads.
+ 
+cultures are not conspiracies concocted by some people in order to take advantage of others (as Marxists tend to think). Rather, cultures are mental parasites that emerge accidentally, and thereafter take advantage of all people infected by them.
+
+memetics. It assumes that, just as organic evolution is based on the replication of organic information units called ‘genes’, so cultural evolution is based on the replication of cultural information units called 'memes'.
+
+Successful cultures are those that excel in reproducing their memes, irrespective of the costs and benefits to their human hosts.
+ 
+ postmodernism. Postmodernist thinkers speak about discourses rather than memes as the building blocks of culture. Yet they too see cultures as propagating themselves with little regard for the benefit of humankind. For example, postmodernist thinkers describe nationalism as a deadly plague that spread throughout the world in the nineteenth and twentieth centuries, causing wars, oppression, hate and genocide. The moment people in one country were infected with it, those in neighbouring countries were also likely to catch the virus. The nationalist virus presented itself as being beneficial for humans, yet it has been beneficial mainly to itself.
+ 
+Game theory explains how in multi-player systems, views and behaviour patterns that harm all players nevertheless manage to take root and spread.
+ 
+billions of dollars that could have been invested in education or health are spent on weapons. Yet the arms race dynamic is hard to resist. ‘Arms racing’ is a pattern of behaviour that spreads itself like a virus from one country to another, harming everyone, but benefiting itself, under the evolutionary criteria of survival and reproduction. 
+
+No matter what you call it – game theory, postmodernism or memetics – the dynamics of history are not directed towards enhancing human well-being.
+
+There is no basis for thinking that the most successful cultures in history are necessarily the best ones for Homo sapiens. 
+
+Like evolution, history disregards the happiness of individual organisms. 
+
+Individual humans, for their part, are usually far too ignorant and weak to influence the course of history to their own advantage.
+
+History proceeds from one junction to the next, choosing for some mysterious reason to follow first this path, then another. 
+
+Around AD 1500, history made its most momentous choice, changing not only the fate of humankind, but arguably the fate of all life on earth. We call it the Scientific Revolution. It began in western Europe, a large peninsula on the western tip of Afro-Asia, which up till then played no important role in history. Why did the Scientific Revolution begin there of all places, and not in China or India? Why did it begin at the midpoint of the second millennium AD rather than two centuries before or three centuries later? We don’t know. Scholars have proposed dozens of theories, but none of them is particularly convincing.
+
+History has a very wide horizon of possibilities, and many possibilities are never realised. 
+
+It is conceivable to imagine history going on for generations upon generations while bypassing the Scientific Revolution, just as it is conceivable to imagine history without Christianity, without a Roman Empire, and without gold coins.
 
 ## Part Four The Scientific Revolution
 
-
+![32. Alamogordo, 16 July 1945, 05:29:53. Eight seconds after the first atomic bomb was detonated. The nuclear physicist Robert Oppenheimer, upon seeing the explosion, quoted from the Bhagavadgita: ‘Now I am become Death, the destroyer of worlds.’))](./assets/figure32.jpg)
+32. Alamogordo, 16 July 1945, 05:29:53. Eight seconds after the first atomic bomb was detonated. The nuclear physicist Robert Oppenheimer, upon seeing the explosion, quoted from the Bhagavadgita: ‘Now I am become Death, the destroyer of worlds.’)
 
 ### 14 The Discovery of Ignorance
 
+WERE, SAY, A SPANISH PEASANT TO HAVE fallen asleep in AD 1000 and woken up 500 years later, to the din of Columbus’ sailors boarding the Niña, Pinta and Santa Maria, the world would have seemed to him quite familiar. Despite many changes in technology, manners and political boundaries, this medieval Rip Van Winkle would have felt at home. But had one of Columbus’ sailors fallen into a similar slumber and woken up to the ringtone of a twenty-first-century iPhone, he would have found himself in a world strange beyond comprehension.
+
+In the year 1500, there were about 500 million Homo sapiens in the entire world. Today, there are 7 billion.1 The total value of goods and services produced by humankind in the year 1500 is estimated at $250 billion, in today’s dollars.2 Nowadays the value of a year of human production is close to $60 trillion.
 
 
 ### 15 The Marriage of Science and Empire
