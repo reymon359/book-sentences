@@ -199,6 +199,10 @@ Los mayores arrepentimientos corresponden a aquellas acciones que no hicimos.
 para romper el miedo solo necesitamos:
 - Un texto bien estructurado.
 - Saber cómo lo vamos a presentar, a exponer al público. 1. Decir que se va a decir. 2. Decirlo. 3. Decir que se ha dicho.
+- Energía. Toda comunicación tiene que iniciarse con energía, con énfasis. Con un tono de voz más levantado de lo normal, y manteniendo el contacto ocular con todos los asistentes
+- Brevedad en el contenido. Llevar a cabo la máxima sintetización de cuantas ideas vamos a transmitir.
+
+ Este hecho va a generar un incremento en la atención, realidad que nada más llegar al estrado, la va a percibir como: orden, equilibrio, tranquilidad en los asistentes, sintiendo al unísono como su cuerpo queda henchido, pletórico de confianza y ganas de continuar. Acaba de conquistar a la audiencia.
 
    
   
