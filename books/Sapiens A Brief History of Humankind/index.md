@@ -2135,6 +2135,37 @@ WERE, SAY, A SPANISH PEASANT TO HAVE fallen asleep in AD 1000 and woken up 500 y
 
 In the year 1500, there were about 500 million Homo sapiens in the entire world. Today, there are 7 billion.1 The total value of goods and services produced by humankind in the year 1500 is estimated at $250 billion, in today’s dollars.2 Nowadays the value of a year of human production is close to $60 trillion.
 
+A modern computer could easily store every word and number in all the codex books and scrolls in every single medieval library with room to spare. Any large bank today holds more money than all the world’s premodern kingdoms put together. In 1500, few cities had more than 100,000 inhabitants. Most buildings were constructed of mud, wood and straw; a three-storey building was a skyscraper.
+
+At sunset, the cityscape went black, with only an occasional candle or torch flickering in the gloom. If an inhabitant of such a city could see modern Tokyo, New York or Mumbai, what would she think?
+
+Prior to the sixteenth century, no human had circumnavigated the earth. This changed in 1522, when Magellan’s expedition returned to Spain after a journey of 72,000 kilometres. It took three years and cost the lives of almost all the crew members, Magellan included. In 1873, Jules Verne could imagine that Phileas Fogg, a wealthy British adventurer, might just be able to make it around the world in eighty days. Today anyone with a middle-class income can safely and easily circumnavigate the globe in just forty-eight hours.
+
+On 20 July 1969 humans landed on the moon. This was not merely a historical achievement, but an evolutionary and even cosmic feat. During the previous 4 billion years of evolution, no organism managed even to leave the earth’s atmosphere, and certainly none left a foot or tentacle print on the moon.
+
+Today we engineer bacteria to produce medications, manufacture biofuel and kill parasites.
+
+The single most remarkable and defining moment of the past 500 years came at 05:29:45 on 16 July 1945. At that precise second, American scientists detonated the first atomic bomb at Alamogordo, New Mexico. From that point onward, humankind had the capability not only to change the course of history, but to end it.
+ 
+The typical premodern ruler gave money to priests, philosophers and poets in the hope that they would legitimise his rule and maintain the social order. He did not expect them to discover new medications, invent new weapons or stimulate economic growth.
+ 
+The more proofs there were, the more resources wealthy people and governments were willing to put into science. We would never have been able to walk on the moon, engineer microorganisms and split the atom without such investments.
+
+![power-resources-research-diagram](./assets/power-resources-research-diagram.jpg)
+
+The Scientific Revolution’s feedback loop. Science needs more than just research to make progress. It depends on the mutual reinforcement of science, politics and economics. Political and economic institutions provide the resources without which scientific research is almost impossible. In return, scientific research provides new powers that are used, among other things, to obtain new resources, some of which are reinvested in research.
+
+Why did modern humans develop a growing belief in their ability to obtain new powers through research? What forged the bond between science, politics and economics? This chapter looks at the unique nature of modern science in order to provide part of the answer. The next two chapters examine the formation of the alliance between science, the European empires and the economics of capitalism.
+
+#### Ignoramus
+
+ Our ancestors put a great deal of time and effort into trying to discover the rules that govern the natural world. But modern science differs from all previous traditions of knowledge in three critical ways:
+ 
+a. The willingness to admit ignorance. Modern science is based on the Latin injunction ignoramus – ‘we do not know’. It assumes that we don’t know everything. Even more critically, it accepts that the things that we think we know could be proven wrong as we gain more knowledge.
+
+b. The centrality of observation and mathematics. Having admitted ignorance, modern science aims to obtain new knowledge. It does so by gathering observations and then using mathematical tools to connect these observations into comprehensive theories.
+
+c. The acquisition of new powers. Modern science is not content with creating theories. It uses these theories in order to acquire new powers, and in particular to develop new technologies.
 
 ### 15 The Marriage of Science and Empire
 
