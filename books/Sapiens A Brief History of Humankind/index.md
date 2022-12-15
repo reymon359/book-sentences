@@ -2167,6 +2167,91 @@ b. The centrality of observation and mathematics. Having admitted ignorance, mod
 
 c. The acquisition of new powers. Modern science is not content with creating theories. It uses these theories in order to acquire new powers, and in particular to develop new technologies.
 
+The great discovery that launched the Scientific Revolution was the discovery that humans do not know the answers to their most important questions.
+
+Premodern traditions of knowledge such as Islam, Christianity, Buddhism and Confucianism asserted that everything that is important to know about the world was already known.
+
+ It was inconceivable that the Bible, the Qur’an or the Vedas were missing out on a crucial secret of the universe – a secret that might yet be discovered by flesh-and-blood creatures.
+ 
+Ancient traditions of knowledge admitted only two kinds of ignorance. First, an individual might be ignorant of something important. To obtain the necessary knowledge, all he needed to do was ask somebody wiser. There was no need to discover something that nobody yet knew. For example, if a peasant in some thirteenth-century Yorkshire village wanted to know how the human race originated, he assumed that Christian tradition held the definitive answer. All he had to do was ask the local priest. Second, an entire tradition might be ignorant of unimportant things. By definition, whatever the great gods or the wise people of the past did not bother to tell us was unimportant. For example, if our Yorkshire peasant wanted to know how spiders weave their webs, it was pointless to ask the priest, because there was no answer to this question in any of the Christian Scriptures. That did not mean, however, that Christianity was deficient. Rather, it meant that understanding how spiders weave their webs was unimportant. After all, God knew perfectly well how spiders do it. If this were a vital piece of information, necessary for human prosperity and salvation, God would have included a comprehensive explanation in the Bible.
+
+ In every age, even the most pious and conservative, there were people who argued that there were important things of which their entire tradition was ignorant. Yet such people were usually marginalised or persecuted
+ 
+Modern-day science is a unique tradition of knowledge, inasmuch as it openly admits collective ignorance regarding the most important questions.
+
+After centuries of extensive scientific research, biologists admit that they still don’t have any good explanation for how brains produce consciousness. 
+ 
+Physicists admit that they don’t know what caused the Big Bang, or how to reconcile quantum mechanics with the theory of general relativity.
+
+particular theories are supported so consistently by the available evidence, that all alternatives have long since fallen by the wayside. Such theories are accepted as true – yet everyone agrees that were new evidence to emerge that contradicts the theory, it would have to be revised or discarded. Good examples of these are the plate tectonics theory and the theory of evolution.
+
+The willingness to admit ignorance has made modern science more dynamic, supple and inquisitive than any previous tradition of knowledge... ...But it presents us with a serious problem that most of our ancestors did not have to cope with. Our current assumption that we do not know everything... ...If the evidence shows that many of those myths are doubtful, how can we hold society together? How can our communities, countries and international system function?
+
+All modern attempts to stabilise the sociopolitical order... ...rely on either of two unscientific methods:
+
+a. Take a scientific theory, and in opposition to common scientific practices, declare that it is a final and absolute truth... ...Nazis (who claimed that their racial policies were the corollaries of biological facts)
+
+b. Leave science out of it and live in accordance with a non-scientific absolute truth. This has been the strategy of liberal humanism, which is built on a dogmatic belief in the unique worth and rights of human beings – a doctrine which has embarrassingly little in common with the scientific study of Homo sapiens.
+
+One of the things that has made it possible for modern social orders to hold together is the spread of an almost religious belief in technology and in the methods of scientific research, which have replaced to some extent the belief in absolute truths.
+ 
+#### The Scientific Dogma 
+
+People throughout history collected empirical observations, but the importance of these observations was usually limited. Why waste precious resources obtaining new observations when we already have all the answers we need? But as modern people came to admit that they did not know the answers to some very important questions, they found it necessary to look for completely new knowledge.
+
+the dominant modern research method takes for granted the insufficiency of old knowledge
+
+When present observation collides with past tradition, we give precedence to the observation.
+
+In order to understand the universe, we need to connect observations into comprehensive theories. 
+ 
+Earlier traditions usually formulated their theories in terms of stories. Modern science uses mathematics.
+
+In 1687, Isaac Newton published The Mathematical Principles of Natural Philosophy, arguably the most important book in modern history. 
+
+Newton presented a general theory of movement and change. 
+
+The greatness of Newton’s theory was its ability to explain and predict the movements of all bodies in the universe, from falling apples to shooting stars, using three very simple mathematical laws:
+
+![movements-mathematical-laws](./assets/movements-mathematical-laws.jpg)
+
+By inserting these numbers into Newton’s equations, the future position of the object could be predicted. It worked like magic.
+
+Only around the end of the nineteenth century did scientists come across a few observations that did not fit well with Newton’s laws, and these led to the next revolutions in physics – the theory of relativity and quantum mechanics.
+ 
+ A new branch of mathematics was developed over the last 200 years to deal with the more complex aspects of reality: statistics.
+ 
+In 1744, two Presbyterian clergymen in Scotland, Alexander Webster and Robert Wallace, decided to set up a life-insurance fund that would provide pensions for the widows and orphans of dead clergymen. They proposed that each of their church’s ministers would pay a small portion of his income into the fund, which would invest the money. If a minister died, his widow would receive dividends on the fund’s profits. This would allow her to live comfortably for the rest of her life. But to determine how much the ministers had to pay in so that the fund would have enough money to live up to its obligations, Webster and Wallace had to be able to predict how many ministers would die each year, how many widows and orphans they would leave behind, and by how many years the widows would outlive their husbands. Take note of what the two churchmen did not do. They did not pray to God to reveal the answer. Nor did they search for an answer in the Holy Scriptures or among the works of ancient theologians... ...they contacted a professor of mathematics from the University of Edinburgh, Colin Maclaurin. The three of them collected data on the ages at which people died and used these to calculate how many ministers were likely to pass away in any given year. Their work was founded on several recent breakthroughs in the fields of statistics and probability. One of these was Jacob Bernoulli’s Law of Large Numbers. Bernoulli had codified the principle that while it might be difficult to predict with certainty a single event, such as the death of a particular person, it was possible to predict with great accuracy the average outcome of many similar events... ...Fortunately, they had ready-made data that they could use. Actuary tables published fifty years previously by Edmond Halley proved particularly useful. Halley had analysed records of 1,238 births and 1,174 deaths that he obtained from the city of Breslau, Germany. Halley’s tables made it possible to see that, for example, a twenty-year-old person has a 1:100 chance of dying in a given year, but a fifty-year-old person has a 1:39 chance. Processing these numbers, Webster and Wallace concluded that, on average, there would be 930 living Scottish Presbyterian ministers at any given moment, and an average of twenty-seven ministers would die each year, eighteen of whom would be survived by widows... ...These figures enabled Webster and Wallace to determine how much money the ministers who joined their fund had to pay in order to provide for their loved ones. By contributing £2 12s. 2d. a year, a minister could guarantee that his widowed wife would receive at least £10 a year – a hefty sum in those days... ...According to their calculations, by the year 1765 the Fund for a Provision for the Widows and Children of the Ministers of the Church of Scotland would have capital totalling £58,348. Their calculations proved amazingly accurate. When that year arrived, the fund’s capital stood at £58,347 – just £1 less than the prediction! This was even better than the prophecies of Habakkuk, Jeremiah or St John. Today, Webster and Wallace’s fund, known simply as Scottish Widows, is one of the largest pension and insurance companies in the world.
+
+Demography in its turn was the cornerstone on which Charles Darwin (who almost became an Anglican pastor) built his theory of evolution. While there are no equations that predict what kind of organism will evolve under a specific set of conditions, geneticists use probability calculations to compute the likelihood that a particular mutation will spread in a given population.
+
+ Throughout most of history, mathematics was an esoteric field that even educated people rarely studied seriously. In medieval Europe, logic, grammar and rhetoric formed the educational core, while the teaching of mathematics seldom went beyond simple arithmetic and geometry. 
+  
+Nobody studied statistics. 
+
+The undisputed monarch of all sciences was theology.
+ 
+Today few students study rhetoric; logic is restricted to philosophy departments, and theology to seminaries. But more and more students are motivated – or forced – to study mathematics.
+ 
+ There is an irresistible drift towards the exact sciences – defined as ‘exact’ by their use of mathematical tools.
+ 
+Even fields of study that were traditionally part of the humanities, such as the study of human language (linguistics) and the human psyche (psychology), rely increasingly on mathematics and seek to present themselves as exact sciences. 
+
+Statistics courses are now part of the basic requirements not just in physics and biology, but also in psychology, sociology, economics and political science.
+
+ Confucius, Buddha, Jesus and Muhammad would have been bewildered if you told them that in order to understand the human mind and cure its illnesses you must first study statistics.
+ 
+#### Knowledge is Power
+ 
+ 
+
+
+
+
+
+ 
+ 
+ 
 ### 15 The Marriage of Science and Empire
 
 
