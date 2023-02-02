@@ -2241,22 +2241,319 @@ Statistics courses are now part of the basic requirements not just in physics an
 
  Confucius, Buddha, Jesus and Muhammad would have been bewildered if you told them that in order to understand the human mind and cure its illnesses you must first study statistics.
  
+ The undisputed monarch of all sciences was theology.
+Today few students study rhetoric; logic is restricted to philosophy departments, and theology to seminaries. But more and more students are motivated – or forced – to study mathematics.
+
+ There is an irresistible drift towards the exact sciences – defined as ‘exact’ by their use of mathematical tools.
+ 
+Even fields of study that were traditionally part of the humanities, such as the study of human language (linguistics) and the human psyche (psychology), rely increasingly on mathematics and seek to present themselves as exact sciences. 
+  
+Statistics courses are now part of the basic requirements not just in physics and biology, but also in psychology, sociology, economics and political science.
+
+ Confucius, Buddha, Jesus and Muhammad would have been bewildered if you told them that in order to understand the human mind and cure its illnesses you must first study statistics.
+ 
 #### Knowledge is Power
  
+Out of the 7 billion people in the world, how many really understand quantum mechanics, cell biology or macroeconomics?
+
+In 1620 Francis Bacon published a scientific manifesto tided The New Instrument. In it he argued that ‘knowledge is power’. The real test of ‘knowledge’ is not whether it is true, but whether it empowers us. Scientists usually assume that no theory is 100 per cent correct. Consequently, truth is a poor test for knowledge. The real test is utility. A theory that enables us to do new things constitutes knowledge.
+
+ The connection forged between science and technology is so strong that today people tend to confuse the two. 
+ 
+ We often think that it is impossible to develop new technologies without scientific research, and that there is little point in research if it does not result in new technologies.
+
+in 1800, most rulers who wanted a strong army, and most business magnates who wanted a successful business, did not bother to finance research in physics, biology or economics. I don’t mean to claim that there is no exception to this rule. A good historian can find precedent for everything. But an even better historian knows when these precedents are but curiosities that cloud the big picture.
+
+Rulers financed educational institutions whose mandate was to spread traditional knowledge for the purpose of buttressing the existing order.
+
+Cart manufacturers built the same carts from the same materials year in year out. They did not set aside a percentage of their annual profits in order to research and develop new cart models. Cart design occasionally improved, but it was usually thanks to the ingenuity of some local carpenter who never set foot in a university and did not even know how to read.
+
+ The world’s military forces initiate, fund and steer a large part of humanity’s scientific research and technological development.
+ 
+When World War One bogged down into interminable trench warfare, both sides called in the scientists to break the deadlock and save the nation. The men in white answered the call, and out of the laboratories rolled a constant stream of new wonder-weapons: combat aircraft, poison gas, tanks, submarines and ever more efficient machine guns, artillery pieces, rifles and bombs.
+ 
+![33. German V-2 rocket ready to launch. It didn’t defeat the Allies, but it kept the Germans hoping for a technological miracle until the very last days of the war.](./assets/figure33.jpg)
+33. German V-2 rocket ready to launch. It didn’t defeat the Allies, but it kept the Germans hoping for a technological miracle until the very last days of the war.
+
+By late 1944 Germany was losing the war and defeat was imminent... ...One reason German soldiers and civilians thought not all was lost was that they believed German scientists were about to turn the tide with so-called miracle weapons such as the V-2 rocket and jet-powered aircraft.
+
+While the Germans were working on rockets and jets, the American Manhattan Project successfully developed atomic bombs. By the time the bomb was ready, in early August 1945, Germany had already surrendered, but Japan was fighting on.
+
+ American generals told President Harry S. Truman that an invasion of Japan would cost the lives of a million American soldiers and would extend the war well into 1946. Truman decided to use the new bomb. Two weeks and two atom bombs later, Japan surrendered unconditionally and the war was over.
+ 
+ It plays a major role in our defences as well. Today many Americans believe that the solution to terrorism is technological rather than political. Just give millions more to the nanotechnology industry, they believe, and the United States could send bionic spy-flies into every Afghan cave, Yemenite redoubt and North African encampment. Once that’s done, Osama Bin Laden’s heirs will not be able to make a cup of coffee without a CIA spy-fly passing this vital information back to headquarters in Langley.
+ 
+Is it wise to develop bionic flies and thought-reading scanners? Not necessarily. Be that as it may, as you read these lines, the US Department of Defense is transferring millions of dollars to nanotechnology and brain laboratories for work on these and other such ideas.
+
+ Most empires did not rise thanks to technological wizardry, and their rulers did not give much thought to technological improvement. The Arabs did not defeat the Sassanid Empire thanks to superior bows or swords, the Seljuks had no technological advantage over the Byzantines, and the Mongols did not conquer China with the help of some ingenious new weapon. In fact, in all these cases the vanquished enjoyed superior military and civilian technology. The Roman army is a particularly good example. It was the best army of its day, yet technologically speaking, Rome had no edge over Carthage, Macedonia or the Seleucid Empire. Its advantage rested on efficient organisation, iron discipline and huge manpower reserves.
+ 
+ Now imagine what would happen to a general from a few centuries back – say Napoleon – if he led his troops against a modern armoured brigade. Napoleon was a brilliant tactician, and his men were crack professionals, but their skills would be useless in the face of modern weaponry.
+ 
+ The most important military invention in the history of China was gunpowder. Yet to the best of our knowledge, gunpowder was invented accidentally, by Daoist alchemists searching for the elixir of life.
+ 
+ no emperor set up a medieval Manhattan Project to save the empire by inventing a doomsday weapon. Only in the fifteenth century – about 600 years after the invention of gunpowder – did cannons become a decisive factor on Afro-Asian battlefields.
+ 
+ Why did it take so long for the deadly potential of this substance to be put to military use? Because it appeared at a time when neither kings, scholars, nor merchants thought that new military technology could save them or make them rich.
+ 
+ Napoleon himself, despite being an artilleryman, had little interest in new weapons, even though scientists and inventors tried to persuade him to fund the development of flying machines, submarines and rockets.
+
+Science, industry and military technology intertwined only with the advent of the capitalist system and the Industrial Revolution. Once this relationship was established, however, it quickly transformed the world.
+
+#### The Ideal of Progress
+
+Until the Scientific Revolution most human cultures did not believe in progress. They thought the golden age was in the past, and that the world was stagnant, if not deteriorating.
+
+ If even Muhammad, Jesus, Buddha and Confucius – who knew everything there is to know – were unable to abolish famine, disease, poverty and war from the world, how could we expect to do so?
+ 
+the notion that humankind could do so by discovering new knowledge and inventing new tools was worse than ludicrous – it was hubris.
+
+ As science began to solve one unsolvable problem after another, many became convinced that humankind could overcome any and every problem by acquiring and applying new knowledge.
  
 
+![34. Benjamin Franklin disarming the gods.](./assets/figure34.jpg)
+ 34. Benjamin Franklin disarming the gods.
 
-
-
-
+ Benjamin Franklin flew a kite during a lightning storm to test the hypothesis that lightning is simply an electric current. Franklins empirical observations, coupled with his knowledge about the qualities of electrical energy, enabled him to invent the lightning rod and disarm the gods.
  
+ Jesus defended her, saying that ‘The poor you will always have with you, and you can help them any time you want. But you will not always have me’ (Mark 14:7). Today, fewer and fewer people, including fewer and fewer Christians, agree with Jesus on this matter. Poverty is increasingly seen as a technical problem amenable to intervention. 
+  
+It’s common wisdom that policies based on the latest findings in agronomy, economics, medicine and sociology can eliminate poverty.
+
+two kinds of poverty: social poverty, which withholds from some people the opportunities available to others; and biological poverty, which puts the very lives of individuals at risk due to lack of food and shelter. Perhaps social poverty can never be eradicated, but in many countries around the world biological poverty is a thing of the past.
+
+ Natural disasters and man-made calamities often plunged entire populations over the abyss, causing the death of millions. Today most of the world’s people have a safety net stretched below them.
  
+in most countries nobody is starving to death. In fact, in many societies more people are in danger of dying from obesity than from starvation
+
+#### The Gilgamesh Project
+
+Of all mankind’s ostensibly insoluble problems, one has remained the most vexing, interesting and important: the problem of death itself. Before the late modern era, most religions and ideologies took it for granted that death was our inevitable fate. Moreover, most faiths turned death into the main source of meaning in life. 
+
+Try to imagine Islam, Christianity or the ancient Egyptian religion in a world without death. These creeds taught people that they must come to terms with death and pin their hopes on the afterlife, rather than seek to overcome death and live for ever here on earth.
+
+For men of science, death is not an inevitable destiny, but merely a technical problem. People die not because the gods decreed it, but due to various technical failures – a heart attack, cancer, an infection.
+
+ And every technical problem has a technical solution... ...True, at present we cannot solve all technical problems. But we are working on them. Our best minds are not wasting their time trying to give meaning to death. Instead, they are busy investigating the physiological, hormonal and genetic systems responsible for disease and old age.
  
+We’re now at a point, however, where we can be frank about it. The leading project of the Scientific Revolution is to give humankind eternal life. Even if killing death seems a distant goal, we have already achieved things that were inconceivable a few centuries ago. 
+
+In 1199, King Richard the Lionheart was struck by an arrow in his left shoulder. Today we’d say he incurred a minor injury. But in 1199, in the absence of antibiotics and effective sterilisation methods, this minor flesh wound turned infected and gangrene set in. The only way to stop the spread of gangrene in twelfth-century Europe was to cut off the infected limb, impossible when the infection was in a shoulder. The gangrene spread through the Lionheart’s body and no one could help the king. He died in great agony two weeks later. As recently as the nineteenth century, the best doctors still did not know how to prevent infection and stop the putrefaction of tissues. In field hospitals doctors routinely cut off the hands and legs of soldiers who received even minor limb injuries, fearing gangrene. 
+
+These amputations, as well as all other medical procedures (such as tooth extraction), were done without any anaesthetics.
+
+ Before the advent of chloroform, four soldiers had to hold down a wounded comrade while the doctor sawed off the injured limb. 
+ 
+On the morning after the battle of Waterloo (1815), heaps of sawn-off hands and legs could be seen adjacent to the field hospitals. In those days, carpenters and butchers who enlisted to the army were often sent to serve in the medical corps, because surgery required little more than knowing your way with knives and saws.
+ 
+ Pills, injections and sophisticated operations save us from a spate of illnesses and injuries that once dealt an inescapable death sentence. They also protect us against countless daily aches and ailments, which premodern people simply accepted as part of life.
+
+Death suffered its worst setbacks in the arena of child mortality. Until the twentieth century, between a quarter and a third of the children of agricultural societies never reached adulthood. Most succumbed to childhood diseases such as diphtheria, measles and smallpox. In seventeenth-century England, 150 out of every 1,000 newborns died during their first year, and a third of all children were dead before they reached fifteen. Today, only five out of 1,000 English babies die during their first year, and only seven out of 1,000 die before age fifteen.
+
+The youngest, Edward, was the first of the boys to survive the dangerous years of childhood, and at his fathers death he ascended the English throne as King Edward II. In other words, it took Eleanor sixteen tries to carry out the most fundamental mission of an English queen – to provide her husband with a male heir. Edward II’s mother must have been a woman of exceptional patience and fortitude. Not so the woman Edward chose for his wife, Isabella of France. She had him murdered when he was forty-three. To the best of our knowledge, Eleanor and Edward I were a healthy couple and passed no fatal hereditary illnesses on to their children. Nevertheless, ten out of the sixteen – 62 per cent – died during childhood. Only six managed to live beyond the age of eleven, and only three – just 18 per cent – lived beyond the age of forty. In addition to these births, Eleanor most likely had a number of pregnancies that ended in miscarriage. On average, Edward and Eleanor lost a child every three years, ten children one after another. It’s nearly impossible for a parent today to imagine such loss.
+
+ A few serious scholars suggest that by 2050, some humans will become a-mortal (not immortal, because they could still die of some accident, but a-mortal, meaning that in the absence of fatal trauma their lives could be extended indefinitely).
+ 
+ most late-modern religions and ideologies have already taken death and the afterlife out of the equation. Until the eighteenth century, religions considered death and its aftermath central to the meaning of life. Beginning in the eighteenth century, religions and ideologies such as liberalism, socialism and feminism lost all interest in the afterlife.
+ 
+The only modern ideology that still awards death a central role is nationalism. In its more poetic and desperate moments, nationalism promises that whoever dies for the nation will forever live in its collective memory.
+
+#### The Sugar Daddy of Science
+
+science is not an enterprise that takes place on some superior moral or spiritual plane above the rest of human activity. Like all other parts of our culture, it is shaped by economic, political and religious interests.
+
+Science is a very expensive affair. A biologist seeking to understand the human immune system requires laboratories, test tubes, chemicals and electron microscopes, not to mention lab assistants, electricians, plumbers and cleaners. An economist seeking to model credit markets must buy computers, set up giant databanks and develop complicated data-processing programs. An archaeologist who wishes to understand the behaviour of archaic hunter-gatherers must travel to distant lands, excavate ancient ruins and date fossilised bones and artefacts. All of this costs money.
+
+ If these particular geniuses had never been born, their insights would probably have occurred to others. But if the proper funding were unavailable, no intellectual brilliance could have compensated for that.
+ 
+If Darwin had never been born, for example, we’d today attribute the theory of evolution to Alfred Russel Wallace, who came up with the idea of evolution via natural selection independently of Darwin and just a few years later.
+
+In academic circles, many are naïve enough to believe in pure science. They believe that government and business altruistically give them money to pursue whatever research projects strike their fancy. But this hardly describes the realities of science funding. Most scientific studies are funded because somebody believes they can help attain some political, economic or religious goal.
+
+Scientists themselves are not always aware of the political, economic and religious interests that control the flow of money
+
+To channel limited resources we must answer questions such as ‘What is more important?’ and ‘What is good?’ And these are not scientific questions. Science can explain what exists in the world, how things work, and what might be in the future.
+
+Science is unable to set its own priorities. It is also incapable of determining what to do with its discoveries.
+
+from a purely scientific viewpoint it is unclear what we should do with our increasing understanding of genetics. Should we use this knowledge to cure cancer, to create a race of genetically engineered supermen, or to engineer dairy cows with super-sized udders? It is obvious that a liberal government, a Communist government, a Nazi government and a capitalist business corporation would use the very same scientific discovery for completely different purposes, and there is no scientific reason to prefer one usage over others.
+
+In short, scientific research can flourish only in alliance with some religion or ideology.
+
+ The ideology justifies the costs of the research. In exchange, the ideology influences the scientific agenda and determines what to do with the discoveries.
+ 
+in order to comprehend how humankind has reached Alamogordo and the moon – rather than any number of alternative destinations – it is not enough to survey the achievements of physicists, biologists and sociologists. We have to take into account the ideological, political and economic forces that shaped physics, biology and sociology, pushing them in certain directions while neglecting others. 
+
+The feedback loop between science, empire and capital has arguably been history’s chief engine for the past 500 years.
+
 ### 15 The Marriage of Science and Empire
+
+HOW FAR IS THE SUN FROM THE EARTH? It’s a question that intrigued many early modern astronomers, particularly after Copernicus argued that the sun, rather than the earth, is located at the centre of the universe.
+
+Every few years, the planet Venus passes directly between the sun and the earth. The duration of the transit differs when seen from distant points on the earths surface because of the tiny difference in the angle at which the observer sees it. If several observations of the same transit were made from different continents, simple trigonometry was all it would take to calculate our exact distance from the sun. Astronomers predicted that the next Venus transits would occur in 1761 and 1769. So expeditions were sent from Europe to the four corners of the world in order to observe the transits from as many distant points as possible. In 1761 scientists observed the transit from Siberia, North America, Madagascar and South Africa. As the 1769 transit approached, the European scientific community mounted a supreme effort, and scientists were dispatched as far as northern Canada and California (which was then a wilderness). The Royal Society of London for the Improvement of Natural Knowledge concluded that this was not enough. To obtain the most accurate results it was imperative to send an astronomer all the way to the south-western Pacific Ocean. The Royal Society resolved to send an eminent astronomer, Charles Green, to Tahiti, and spared neither effort nor money. But, since it was funding such an expensive expedition, it hardly made sense to use it to make just a single astronomical observation. Green was therefore accompanied by a team of eight other scientists from several disciplines, headed by botanists Joseph Banks and Daniel Solander. The team also included artists assigned to produce drawings of the new lands, plants, animals and peoples that the scientists would no doubt encounter. Equipped with the most advanced scientific instruments that Banks and the Royal Society could buy, the expedition was placed under the command of Captain James Cook, an experienced seaman as well as an accomplished geographer and ethnographer. The expedition left England in 1768, observed the Venus transit from Tahiti in 1769, reconnoitred several Pacific islands, visited Australia and New Zealand, and returned to England in 1771. It brought back enormous quantities of astronomical, geographical, meteorological, botanical, zoological and anthropological data. Its findings made major contributions to a number of disciplines, sparked the imagination of Europeans with astonishing tales of the South Pacific, and inspired future generations of naturalists and astronomers. One of the fields that benefited from the Cook expedition was medicine. At the time, ships that set sail to distant shores knew that more than half their crew members would die on the journey. The nemesis was not angry natives, enemy warships or homesickness. It was a mysterious ailment called scurvy. Men who came down with the disease grew lethargic and depressed, and their gums and other soft tissues bled. As the disease progressed, their teeth fell out, open sores appeared and they grew feverish, jaundiced, and lost control of their limbs. Between the sixteenth and eighteenth centuries, scurvy is estimated to have claimed the lives of about 2 million sailors. No one knew what caused it, and no matter what remedy was tried, sailors continued to die in droves. The turning point came in 1747, when a British physician, James Lind, conducted a controlled experiment on sailors who suffered from the disease. He separated them into several groups and gave each group a different treatment. One of the test groups was instructed to eat citrus fruits, a common folk remedy for scurvy. The patients in this group promptly recovered. Lind did not know what the citrus fruits had that the sailors’ bodies lacked, but we now know that it is vitamin C. A typical shipboard diet at that time was notably lacking in foods that are rich in this essential nutrient. On long-range voyages sailors usually subsisted on biscuits and beef jerky, and ate almost no fruits or vegetables. The Royal Navy was not convinced by Lind’s experiments, but James Cook was. He resolved to prove the doctor right. He loaded his boat with a large quantity of sauerkraut and ordered his sailors to eat lots of fresh fruits and vegetables whenever the expedition made landfall. Cook did not lose a single sailor to scurvy. In the following decades, all the world’s navies adopted Cook’s nautical diet, and the lives of countless sailors and passengers were saved
+
+ The discovery of an effective treatment for scurvy greatly contributed to British control of the world’s oceans and its ability to send armies to the other side of the world. Cook claimed for Britain many of the islands and lands he ‘discovered’, most notably Australia. The Cook expedition laid the foundation for the British occupation of the south-western Pacific Ocean; for the conquest of Australia, Tasmania and New Zealand; for the settlement of millions of Europeans in the new colonies; and for the extermination of their native cultures and most of their native populations.
+
+ The native population dropped by up to 90 per cent and the survivors were subjected to a harsh regime of racial oppression. For the Aborigines of Australia and the Maoris of New Zealand, the Cook expedition was the beginning of a catastrophe from which they have never recovered.
+ 
+An even worse fate befell the natives of Tasmania. Having survived for 10,000 years in splendid isolation, they were completely wiped out, to the last man, woman and child, within a century of Cook’s arrival. European settlers first drove them off the richest parts of the island, and then, coveting even the remaining wilderness, hunted them down and killed them systematically. The few survivors were hounded into an evangelical concentration camp, where well-meaning but not particularly open-minded missionaries tried to indoctrinate them in the ways of the modern world. The Tasmanians were instructed in reading and writing, Christianity and various ‘productive skills’ such as sewing clothes and farming. But they refused to learn. They became ever more melancholic, stopped having children, lost all interest in life, and finally chose the only escape route from the modern world of science and progress – death.
+
+Was Cook’s ship a scientific expedition protected by a military force or a military expedition with a few scientists tagging along? That’s like asking whether your petrol tank is half empty or half full. It was both. 
+
+The Scientific Revolution and modern imperialism were inseparable. People such as Captain James Cook and the botanist Joseph Banks could hardly distinguish science from empire.
+
+#### Why Europe?
+
+ Not long before Cook’s expedition, the British Isles and western Europe in general were but distant backwaters of the Mediterranean world. Little of importance ever happened there. Even the Roman Empire – the only important premodern European empire – derived most of its wealth from its North African, Balkan and Middle Eastern provinces. Rome’s western European provinces were a poor Wild West, which contributed little aside from minerals and slaves. 
+ 
+Northern Europe was so desolate and barbarous that it wasn’t even worth conquering.
+
+![35. Truganini, the last native Tasmanian.](./assets/figure35.jpg)
+35. Truganini, the last native Tasmanian.
+
+In 1775 Asia accounted for 80 per cent of the world economy.
+
+The combined economies of India and China alone represented two-thirds of global production. In comparison, Europe was an economic dwarf.
+
+The global centre of power shifted to Europe only between 1750 and 1850, when Europeans humiliated the Asian powers in a series of wars and conquered large parts of Asia.
+
+In 1950 western Europe and the United States together accounted for more than half of global production, whereas Chinas portion had been reduced to 5 per cent. Under the European aegis a new global order and global culture emerged. 
+
+Today all humans are, to a much greater extent than they usually want to admit, European in dress, thought and taste.
+
+How did the people of this frigid finger of Eurasia manage to break out of their remote corner of the globe and conquer the entire world? Europe’s scientists are often given much of the credit. It’s unquestionable that from 1850 onward European domination rested to a large extent on the military–industrial–scientific complex and technological wizardry.
+
+In 1770, James Cook certainly had far better technology than the Australian Aborigines, but so did the Chinese and the Ottomans. Why then was Australia explored and colonised by Captain James Cook and not by Captain Wan Zhengse or Captain Hussein Pasha? More importantly, if in 1770 Europeans had no significant technological advantage over Muslims, Indians and Chinese, how did they manage in the following century to open such a gap between themselves and the rest of the world? Why did the military-industrial-scientific complex blossom in Europe rather than India? When Britain leaped forward, why were France, Germany and the United States quick to follow, whereas China lagged behind?
+
+In 1880, the West boasted more than 350,000 kilometres of railroads, whereas in the rest of the world there were but 35,000 kilometres of train lines (and most of these were laid by the British in India)
+ 
+The Chinese and Persians did not lack technological inventions such as steam engines (which could be freely copied or bought). They lacked the values, myths, judicial apparatus and sociopolitical structures that took centuries to form and mature in the West and which could not be copied and internalised rapidly.
+
+The apparent equality between Europe, China and the Muslim world in 1750 was a mirage. Imagine two builders, each busy constructing very tall towers. One builder uses wood and mud bricks, whereas the other uses steel and concrete. At first it seems that there is not much of a difference between the two methods, since both towers grow at a similar pace and reach a similar height. However, once a critical threshold is crossed, the wood and mud tower cannot stand the strain and collapses, whereas the steel and concrete tower grows storey by storey, as far as the eye can see.
+
+it is hardly coincidental that science and capitalism form the most important legacy that European imperialism has bequeathed the post-European world of the twenty-first century. Europe and Europeans no longer rule the world, but science and capital are growing ever stronger
+
+#### The Mentality of Conquest
+
+Modern science flourished in and thanks to European empires. The discipline obviously owes a huge debt to ancient scientific traditions, such as those of classical Greece, China, India and Islam, yet its unique character began to take shape only in the early modern period, hand in hand with the imperial expansion of Spain, Portugal, Britain, France, Russia and the Netherlands.
+
+The Far East and the Islamic world produced minds as intelligent and curious as those of Europe. However, between 1500 and 1950 they did not produce anything that comes even close to Newtonian physics or Darwinian biology.
+
+modern science began as a European speciality, but is today becoming a multi-ethnic enterprise.
+
+What forged the historical bond between modern science and European imperialism? Technology was an important factor in the nineteenth and twentieth centuries, but in the early modern era it was of limited importance. The key factor was that the plant-seeking botanist and the colony-seeking naval officer shared a similar mindset. Both scientist and conqueror began by admitting ignorance – they both said, ‘I don’t know what’s out there.’ They both felt compelled to go out and make new discoveries. And they both hoped the new knowledge thus acquired would make them masters of the world.
+
+European imperialism was entirely unlike all other imperial projects in history. Previous seekers of empire tended to assume that they already understood the world. Conquest merely utilised and spread their view of the world... ...In contrast, European imperialists set out to distant shores in the hope of obtaining new knowledge along with new territories.
+
+When Napoleon invaded Egypt in 1798, he took 165 scholars with him. Among other things, they founded an entirely new discipline, Egyptology, and made important contributions to the study of religion, linguistics and botany.
+
+In 1831, the Royal Navy sent the ship HMS Beagle to map the coasts of South America, the Falklands Islands and the Galapagos Islands. The navy needed this knowledge in order to be better prepared in the event of war. The ship’s captain, who was an amateur scientist, decided to add a geologist to the expedition to study geological formations they might encounter on the way. After several professional geologists refused his invitation, the captain offered the job to a twenty-two-year-old Cambridge graduate, Charles Darwin. Darwin had studied to become an Anglican parson but was far more interested in geology and natural sciences than in the Bible. He jumped at the opportunity, and the rest is history. The captain spent his time on the voyage drawing military maps while Darwin collected the empirical data and formulated the insights that would eventually become the theory of evolution.
+
+#### Empty Maps
+
+During the fifteenth and sixteenth centuries, Europeans began to draw world maps with lots of empty spaces – one indication of the development of the scientific mindset, as well as of the European imperial drive. The empty maps were a psychological and ideological breakthrough, a clear admission that Europeans were ignorant of large parts of the world.
+
+The crucial turning point came in 1492, when Christopher Columbus sailed westward from Spain, seeking a new route to East Asia. Columbus still believed in the old ‘complete’ world maps. Using them, Columbus calculated that Japan should have been located about 7,000 kilometres west of Spain. In fact, more than 20,000 kilometres and an entire unknown continent separate East Asia from Spain. On 12 October 1492, at about 2:00 a.m., Columbus’ expedition collided with the unknown continent. Juan Rodriguez Bermejo, watching from the mast of the ship Pinta, spotted an island in what we now call the Bahamas, and shouted ‘Land! Land!’ Columbus believed he had reached a small island off the East Asian coast. He called the people he found there ‘Indians’ because he thought he had landed in the Indies – what we now call the East Indies or the Indonesian archipelago. Columbus stuck to this error for the rest of his life. The idea that he had discovered a completely unknown continent was inconceivable for him and for many of his generation. For thousands of years, not only the greatest thinkers and scholars but also the infallible Scriptures had known only Europe, Africa and Asia. Could they all have been wrong? Could the Bible have missed half the world? It would be as if in 1969, on its way to the moon, Apollo 11 had crashed into a hitherto unknown moon circling the earth, which all previous observations had somehow failed to spot.
+
+![36. A European world map from 1459 (Europe is in the top left corner). The map is filled with details, even when depicting areas that were completely unfamiliar to Europeans, such as southern Africa.](./assets/figure36.jpg)
+36. A European world map from 1459 (Europe is in the top left corner). The map is filled with details, even when depicting areas that were completely unfamiliar to Europeans, such as southern Africa.
+
+The first modern man was Amerigo Vespucci, an Italian sailor who took part in several expeditions to America in the years 1499–1504. Between 1502 and 1504, two texts describing these expeditions were published in Europe. They were attributed to Vespucci. These texts argued that the new lands discovered by Columbus were not islands off the East Asian coast, but rather an entire continent unknown to the Scriptures, classical geographers and contemporary Europeans. In 1507, convinced by these arguments, a respected mapmaker named Martin Waldseemüller published an updated world map, the first to show the place where Europe’s westward-sailing fleets had landed as a separate continent. Having drawn it, Waldseemüller had to give it a name. Erroneously believing that Amerigo Vespucci had been the person who discovered it, Waldseemüller named the continent in his honour – America. The Waldseemüller map became very popular and was copied by many other cartographers, spreading the name he had given the new land. 
+
+There is poetic justice in the fact that a quarter of the world, and two of its seven continents, are named after a little-known Italian whose sole claim to fame is that he had the courage to say, ‘We don’t know.’
+
+The discovery of America was the foundational event of the Scientific Revolution. It not only taught Europeans to favour present observations over past traditions, but the desire to conquer America also obliged Europeans to search for new knowledge at breakneck speed.
+
+The European imperial expeditions transformed the history of the world: from being a series of histories of isolated peoples and cultures, it became the history of a single integrated human society.
+
+![37. The Salviati World Map, 1525. While the 1459 world map is full of continents, islands and detailed explanations, the Salviati map is mostly empty. The eye wanders south along the American coastline, until it peters into emptiness. Anyone looking at the map and possessing even minimal curiosity is tempted to ask, ‘What’s beyond this point?’ The map gives no answers. It invites the observer to set sail and find out.](./assets/figure37.jpg)
+37. The Salviati World Map, 1525. While the 1459 world map is full of continents, islands and detailed explanations, the Salviati map is mostly empty. The eye wanders south along the American coastline, until it peters into emptiness. Anyone looking at the map and possessing even minimal curiosity is tempted to ask, ‘What’s beyond this point?’ The map gives no answers. It invites the observer to set sail and find out.
+ 
+Throughout history most human societies were so busy with local conflicts and neighbourhood quarrels that they never considered exploring and conquering distant lands. Most great empires extended their control only over their immediate neighbourhood
+ 
+the Romans conquered Etruria in order to defend Rome (c.350–300 BC). They then conquered the Po Valley in order to defend Etruria (c.200 BC). They subsequently conquered Provence to defend the Po Valley (c.120 BC), Gaul to defend Provence (c.50 BC), and Britain in order to defend Gaul (c. AD 50). It took them 400 years to get from Rome to London. In 350 BC, no Roman would have conceived of sailing directly to Britain and conquering it.
+ 
+ The campaigns of Alexander the Great, for example, did not result in the establishment of a new empire, but rather in the usurpation of an existing empire – that of the Persians.
+ 
+Many scholars argue that the voyages of Admiral Zheng He of the Chinese Ming dynasty heralded and eclipsed the European voyages of discovery. Between 1405 and 1433, Zheng led seven huge armadas from China to the far reaches of the Indian Ocean. The largest of these comprised almost 300 ships and carried close to 30,000 people.7 They visited Indonesia, Sri Lanka, India, the Persian Gulf, the Red Sea and East Africa. Chinese ships anchored in Jedda, the main harbour of the Hejaz, and in Malindi, on the Kenyan coast. Columbus’ fleet of 1492 – which consisted of three small ships manned by 120 sailors – was like a trio of mosquitoes compared to Zheng He’s drove of dragons.
+
+Zheng He explored the oceans, and assisted pro-Chinese rulers, but he did not try to conquer or colonise the countries he visited.
+ 
+The Zheng He expeditions prove that Europe did not enjoy an outstanding technological edge. What made Europeans exceptional was their unparalleled and insatiable ambition to explore and conquer.
+
+ Although they might have had the ability, the Romans never attempted to conquer India or Scandinavia, the Persians never attempted to conquer Madagascar or Spain, and the Chinese never attempted to conquer Indonesia or Africa. Most Chinese rulers left even nearby Japan to its own devices. There was nothing peculiar about that. The oddity is that early modern Europeans caught a fever that drove them to sail to distant and completely unknown lands full of alien cultures, take one step on to their beaches, and immediately declare, ‘I claim all these territories for my king!’
+
+![38. Zheng He’s flagship next to that of Columbus.](./assets/figure38.jpg)
+38. Zheng He’s flagship next to that of Columbus.
+
+#### Invasion from Outer Space
+
+ The previous rulers of Central America – the Aztecs, the Toltecs, the Maya – barely knew South America existed, and never made any attempt to subjugate it, over the course of 2,000 years. Yet within little more than ten years of the Spanish conquest of Mexico, Francisco Pizarro had discovered the Inca Empire in South America, vanquishing it in 1532.
+ 
+ Within twenty years, almost the entire native Caribbean population was wiped out. The Spanish colonists began importing African slaves to fill the vacuum.
+ 
+When Cortés and his men landed on the sunny beaches of today’s Vera Cruz, it was the first time the Aztecs encountered a completely unknown people.
+The Aztecs did not know how to react. They had trouble deciding what these strangers were. Unlike all known humans, the aliens had white skins. They also had lots of facial hair. Some had hair the colour of the sun. They stank horribly. (Native hygiene was far better than Spanish hygiene. 
+
+When the Spaniards first arrived in Mexico, natives bearing incense burners were assigned to accompany them wherever they went. The Spaniards thought it was a mark of divine honour. We know from native sources that they found the newcomers’ smell unbearable.)
+
+![Map 7. The Aztec and Inca empires at the time of the Spanish conquest.](./assets/map7.jpg)
+Map 7. The Aztec and Inca empires at the time of the Spanish conquest.
+
+The aliens’ material culture was even more bewildering. They came in giant ships, the like of which the Aztecs had never imagined, let alone seen. They rode on the back of huge and terrifying animals, swift as the wind. They could produce lightning and thunder out of shiny metal sticks. They had flashing long swords and impenetrable armour, against which the natives’ wooden swords and flint spears were useless. Some Aztecs thought these must be gods.
+
+They saw no reason to rush. After all, Cortés had no more than 550 Spaniards with him. What could 550 men do to an empire of millions?
+ 
+For the modern European conqueror, like the modern European scientist, plunging into the unknown was exhilarating.
+ 
+We come in peace. Take us to your leader.’ Cortés explained that he was a peaceful emissary from the great king of Spain, and asked for a diplomatic interview with the Aztec ruler, Montezuma II. (This was a shameless lie. Cortés led an independent expedition of greedy adventurers. The king of Spain had never heard of Cortés, nor of the Aztecs.) Cortés was given guides, food and some military assistance by local enemies of the Aztecs. He then marched towards the Aztec capital, the great metropolis of Tenochtitlan.
+
+The Aztecs allowed the aliens to march all the way to the capital, then respectfully led the aliens’ leader to meet Emperor Montezuma. In the middle of the interview, Cortés gave a signal, and steel-armed Spaniards butchered Montezuma’s bodyguards (who were armed only with wooden clubs, and stone blades). The honoured guest took his host prisoner. Cortés was now in a very delicate situation. He had captured the emperor, but was surrounded by tens of thousands of furious enemy warriors, millions of hostile civilians, and an entire continent about which he knew practically nothing. He had at his disposal only a few hundred Spaniards, and the closest Spanish reinforcements were in Cuba, more than 1,500 kilometres away.
+
+Cortés kept Montezuma captive in the palace, making it look as if the king remained free and in charge and as if the ‘Spanish ambassador’ were no more than a guest. The Aztec Empire was an extremely centralised polity, and this unprecedented situation paralysed it. Montezuma continued to behave as if he ruled the empire, and the Aztec elite continued to obey him, which meant they obeyed Cortés.
+
+The Aztec elite eventually revolted against Cortés and Montezuma, elected a new emperor, and drove the Spaniards from Tenochtitlan. However, by now numerous cracks had appeared in the imperial edifice. Cortés used the knowledge he had gained to prise the cracks open wider and split the empire from within. He convinced many of the empire’s subject peoples to join him against the ruling Aztec elite. The subject peoples miscalculated badly. They hated the Aztecs, but knew nothing of Spain or the Caribbean genocide. They assumed that with Spanish help they could shake off the Aztec yoke. The idea that the Spanish would take over never occurred to them. They were sure that if Cortés and his few hundred henchmen caused any trouble, they could easily be overwhelmed. The rebellious peoples provided Cortés with an army of tens of thousands of local troops, and with its help Cortés besieged Tenochtitlan and conquered the city.
+
+When the local peoples realised what was happening, it was too late. Within a century of the landing at Vera Cruz, the native population of the Americas had shrunk by about 90 per cent, due mainly to unfamiliar diseases that reached America with the invaders.
+ 
+Ten years after Cortés landed in Mexico, Pizarro arrived on the shore of the Inca Empire. He had far fewer soldiers than Cortés – his expedition numbered just 168 men! Yet Pizarro benefited from all the knowledge and experience gained in previous invasions. The Inca, in contrast, knew nothing about the fate of the Aztecs. Pizarro plagiarised Cortés. He declared himself a peaceful emissary from the king of Spain, invited the Inca ruler, Atahualpa, to a diplomatic interview, and then kidnapped him.
+
+If the subject peoples of the Inca Empire had known the fate of the inhabitants of Mexico, they would not have thrown in their lot with the invaders. But they did not know.
+
+The native peoples of America were not the only ones to pay a heavy price for their parochial outlook. The great empires of Asia – the Ottoman, the Safavid, the Mughal and the Chinese – very quickly heard that the Europeans had discovered something big. Yet they displayed little interest in these discoveries.
+
+The first non-European power that tried to send a military expedition to America was Japan. That happened in June 1942, when a Japanese expedition conquered Kiska and Attu, two small islands off the Alaskan coast, capturing in the process ten US soldiers and a dog. The Japanese never got any closer to the mainland.
+
+For 300 years, Europeans enjoyed undisputed mastery in America and Oceania, in the Atlantic and the Pacific. The only significant struggles in those regions were between different European powers. 
+
+The wealth and resources accumulated by the Europeans eventually enabled them to invade Asia too, defeat its empires, and divide it among themselves. When the Ottomans, Persians, Indians and Chinese woke up and began paying attention, it was too late.
+
+Only in the twentieth century did non-European cultures adopt a truly global vision. This was one of the crucial factors that led to the collapse of European hegemony.
+
+ Algerian guerrillas defeated a French army with an overwhelming numerical, technological and economic advantage. The Algerians prevailed because they were supported by a global anti-colonial network, and because they worked out how to harness the world’s media to their cause – as well as public opinion in France itself.
+ 
+guerrilla forces showed that even superpowers could be defeated if a local struggle became a global cause. 
+
+It is interesting to contemplate what might have happened had Montezuma been able to manipulate public opinion in Spain and gain assistance from one of Spain’s rivals – Portugal, France or the Ottoman Empire.
+
+#### Rare Spiders and Forgotten Scripts
+
+Modern science and modern empires were motivated by the restless feeling that perhaps something important awaited beyond the horizon – something they had better explore and master.
+
+ Not just the motivation, but also the practices of empire-builders were entangled with those of scientists.
+ 
+ building an empire was a scientific project, while setting up a scientific discipline was an imperial project.
+ 
+On 10 April 1802 the Great Survey of India was launched. It lasted sixty years. With the help of tens of thousands of native labourers, scholars and guides, the British carefully mapped the whole of India, marking borders, measuring distances, and even calculating for the first time the exact height of Mount Everest and the other Himalayan peaks.
+
+Mohenjo-daro was one of the chief cities of the Indus Valley civilisation, which flourished in the third millennium BC and was destroyed around 1900 BC. None of India’s pre-British rulers – neither the Mauryas, nor the Guptas, nor the Delhi sultans, nor the great Mughals – had given the ruins a second glance. But a British archaeological survey took notice of the site in 1922. A British team then excavated it, and discovered the first great civilisation of India, which no Indian had been aware of.
+
+the deciphering of cuneiform script. This was the main script used throughout the Middle East for close to 3,000 years, but the last person able to read it probably died sometime in the early first millennium AD... ...Cuneiform came to the attention of Europeans in 1618, when the Spanish ambassador in Persia went sightseeing in the ruins of ancient Persepolis, where he saw inscriptions that nobody could explain to him... ...In 1657 European scholars published the first transcription of a cuneiform text from Persepolis. More and more transcriptions followed, and for close to two centuries scholars in the West tried to decipher them. None succeeded. In the 1830s, a British officer named Henry Rawlinson was sent to Persia to help the shah train his army in the European style. In his spare time Rawlinson travelled around Persia and one day he was led by local guides to a cliff in the Zagros Mountains and shown the huge Behistun Inscription. About fifteen metres high and twenty-five metres wide, it had been etched high up on the cliff face on the command of King Darius I sometime around 500 BC. It was written in cuneiform script in three languages: Old Persian, Elamite and Babylonian. The inscription was well known to the local population, but nobody could read it... ...The first step in deciphering the lettering was to produce an accurate transcription that could be sent back to Europe. Rawlinson defied death to do so, scaling the steep cliff to copy the strange letters... ...In 1847 the project was completed, and a full and accurate copy was sent to Europe... ...An understanding of the Old Persian section gave him the key he needed to unlock the secrets of the Elamite and Babylonian sections. The great door swung open, and out came a rush of ancient but lively voices – the bustle of Sumerian bazaars, the proclamations of Assyrian kings, the arguments of Babylonian bureaucrats. Without the efforts of modern European imperialists such as Rawlinson, we would not have known much about the fate of the ancient Middle Eastern empires.
+
 
 
 
 ### 16 The Capitalist Creed
+
 
 
 
