@@ -2605,7 +2605,75 @@ Credit enables us to build the present at the expense of the future.
 
 It’s founded on the assumption that our future resources are sure to be far more abundant than our present resources.
 
+If credit is such a wonderful thing, why did nobody think of it earlier? Of course they did... ...The problem in previous eras was not that no one had the idea or knew how to use it. It was that people seldom wanted to extend much credit because they didn’t trust that the future would be better than the present.
 
+They believed that the total amount of wealth was limited, if not dwindling.
+
+You could cut the pie in many different ways, but it never got any bigger.
+
+That’s why many cultures concluded that making bundles of money was sinful. As Jesus said, ‘It is easier for a camel to pass through the eye of a needle than for a rich man to enter into the kingdom of God’ (Matthew 19:24). If the pie is static, and I have a big part of it, then I must have taken somebody else’s slice. The rich were obliged to do penance for their evil deeds by giving some of their surplus wealth to charity.
+
+![The Entrepreneur’s Dilemma](./assets/the-entrepreneurs-dilemma.jpg)
+The Entrepreneur’s Dilemma
+
+If the global pie stayed the same size, there was no margin for credit. Credit is the difference between today’s pie and tomorrows pie. If the pie stays the same, why extend credit? It would be an unacceptable risk unless you believed that the baker or king asking for your money might be able to steal a slice from a competitor. So it was hard to get a loan in the premodern world, and when you got one it was usually small, short-term, and subject to high interest rates. Upstart entrepreneurs thus found it difficult to open new bakeries and great kings who wanted to build palaces or wage wars had no choice but to raise the necessary funds through high taxes and tariffs.
+
+![The Magic Circle of the Modern Economy](./assets/the-magic-circle-of-the-modern-economy.jpg)
+The Magic Circle of the Modern Economy
+
+It was lose-lose. Because credit was limited, people had trouble financing new businesses. Because there were few new businesses, the economy did not grow. Because it did not grow, people assumed it never would, and those who had capital were wary of extending credit. The expectation of stagnation fulfilled itself.
+
+#### A Growing Pie
+
+The idea of progress is built on the notion that if we admit our ignorance and invest resources in research, things can improve.
+
+one could open a new bakery specialising in chocolate cakes and croissants without causing bakeries specialising in bread to go bust. Everybody would simply develop new tastes and eat more. I can be wealthy without your becoming poor; I can be obese without your dying of hunger. The entire global pie can grow.
+
+the idea of progress convinced people to put more and more trust in the future. This trust created credit; credit brought real economic growth; and growth strengthened the trust in the future and opened the way for even more credit.
+
+![The Economic History of the World in a Nutshell](./assets/the-economic-history-of-the-world-in-a-nutshell.jpg)
+The Economic History of the World in a Nutshell
+
+In 1776 the Scottish economist Adam Smith published The Wealth of Nations, probably the most important economics manifesto of all time... ...It follows that an increase in the profits of private entrepreneurs is the basis for the increase in collective wealth and prosperity.
+
+Smith’s claim that the selfish human urge to increase private profits is the basis for collective wealth is one of the most revolutionary ideas in human history – revolutionary not just from an economic perspective, but even more so from a moral and political perspective.
+
+ greed is good, and that by becoming richer I benefit everybody, not just myself. Egoism is altruism.
+ 
+ Smith denied the traditional contradiction between wealth and morality, and threw open the gates of heaven for the rich. Being rich meant being moral. In Smiths story, people become rich not by despoiling their neighbours, but by increasing the overall size of the pie. And when the pie grows, everyone benefits.
+ 
+All this depends, however, on the rich using their profits to open new factories and hire new employees, rather than wasting them on non-productive activities... ...A crucial part of the modern capitalist economy was the emergence of a new ethic, according to which profits ought to be reinvested in production. This brings about more profits, which are again reinvested in production, which brings more profits, et cetera ad infinitum.
+
+In the new capitalist creed, the first and most sacred commandment is: ‘The profits of production must be reinvested in increasing production.’
+
+why capitalism is called ‘capitalism’. Capitalism distinguishes ‘capital’ from mere ‘wealth’. Capital consists of money, goods and resources that are invested in production. Wealth, on the other hand, is buried in the ground or wasted on unproductive activities.
+
+The idea that ‘The profits of production must be reinvested in increasing production’ sounds trivial. Yet it was alien to most people throughout history. In premodern times, people believed that production was more or less constant. So why reinvest your profits if production won’t increase by much, no matter what you do? Thus medieval noblemen espoused an ethic of generosity and conspicuous consumption.
+
+![Premodern economy vs Modern economy](./assets/premodern-economy-vs-modern-economy.jpg)
+Premodern economy vs Modern economy
+
+In the modern era, the nobility has been overtaken by a new elite whose members are true believers in the capitalist creed. The new capitalist elite is made up not of dukes and marquises, but of board chairmen, stock traders and industrialists.
+
+The typical venture capitalist rushes from one business meeting to another, trying to figure out where to invest his capital and following the ups and downs of the stocks and bonds he owns. True, his suits might be Versace and he might get to travel in a private jet, but these expenses are nothing compared to what he invests in increasing human production.
+
+ Governments too strive to invest their tax revenues in productive enterprises that will increase future income – for example, building a new port could make it easier for factories to export their products, enabling them to make more taxable income, thereby increasing the government’s future revenues. Another government might prefer to invest in education, on the grounds that educated people form the basis for the lucrative high-tech industries, which pay lots of taxes without needing extensive port facilities.
+ 
+capitalism gradually became far more than just an economic doctrine. It now encompasses an ethic – a set of teachings about how people should behave, educate their children and even think. Its principal tenet is that economic growth is the supreme good, or at least a proxy for the supreme good, because justice, freedom and even happiness all depend on economic growth.
+
+This new religion has had a decisive influence on the development of modern science, too. Scientific research is usually funded by either governments or private businesses. When capitalist governments and businesses consider investing in a particular scientific project, the first questions are usually, ‘Will this project enable us to increase production and profits? Will it produce economic growth?’ A project that can’t clear these hurdles has little chance of finding a sponsor. No history of modern science can leave capitalism out of the picture.
+
+Capitalisms belief in perpetual economic growth flies in the face of almost everything we know about the universe.
+
+ A society of wolves would be extremely foolish to believe that the supply of sheep would keep on growing indefinitely. The human economy has nevertheless managed to grow exponentially throughout the modern era, thanks only to the fact that scientists come up with another discovery or gadget every few years – such as the continent of America, the internal combustion engine, or genetically engineered sheep.
+ 
+Over the last few years, banks and governments have been frenziedly printing money. Everybody is terrified that the current economic crisis may stop the growth of the economy. So they are creating trillions of dollars, euros and yen out of thin air, pumping cheap credit into the system, and hoping that the scientists, technicians and engineers will manage to come up with something really big, before the bubble bursts.
+
+If the labs do not fulfil these expectations before the bubble bursts, we are heading towards very rough times.
+
+#### Columbus Searches for an Investor
+
+credit was not invented in modern Europe. It existed in almost all agricultural societies, and in the early modern period the emergence of European capitalism was closely linked to economic developments in Asia.
 
 
 ### 17 The Wheels of Industry
