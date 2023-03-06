@@ -2790,7 +2790,119 @@ There are, indeed, some positive signs. At least when we use purely material cri
 
 ### 17 The Wheels of Industry
 
+Economic growth also requires energy and raw materials, and these are finite. When and if they run out, the entire system will collapse.
 
+Counter-intuitively, while humankind’s use of energy and raw materials has mushroomed in the last few centuries, the amounts available for our exploitation have actually increased. Whenever a shortage of either has threatened to slow economic growth, investments have flowed into scientific and technological research. These have invariably produced not only more efficient ways of exploiting existing resources, but also completely new types of energy and materials.
+
+Whereas in 1700 the global vehicle industry relied overwhelmingly on wood and iron, today it has at its disposal a cornucopia of new-found materials such as plastic, rubber, aluminium and titanium, none of which our ancestors even knew about.
+
+For millennia prior to the Industrial Revolution, humans already knew how to make use of a large variety of energy sources. They burned wood in order to smelt iron, heat houses and bake cakes. Sailing ships harnessed wind power to move around, and watermills captured the flow of rivers to grind grain. Yet all these had clear limits and problems. Trees were not available everywhere, the wind didn’t always blow when you needed it, and water power was only useful if you lived near a river.
+
+An even bigger problem was that people didn’t know how to convert one type of energy into another. They could harness the movement of wind and water to sail ships and push millstones, but not to heat water or smelt iron.
+
+Humans had only one machine capable of performing such energy conversion tricks: the body... ...Men, women and beasts could consume grain and meat, burn up their carbohydrates and fats, and use the energy to haul a rickshaw or pull a plough. Since human and animal bodies were the only energy conversion device available, muscle power was the key to almost all human activities.
+
+The energy that fuelled these organic muscle-machines came ultimately from a single source – plants. Plants in their turn obtained their energy from the sun. By the process of photosynthesis, they captured solar energy and packed it into organic compounds. Almost everything people did throughout history was fuelled by solar energy that was captured by plants and converted into muscle power.
+
+Human history was consequently dominated by two main cycles: the growth cycles of plants and the changing cycles of solar energy (day and night, summer and winter). When sunlight was scarce and when wheat fields were still green, humans had little energy. Granaries were empty, tax collectors were idle, soldiers found it difficult to move and fight, and kings tended to keep the peace.
+
+Everyone was fuelled by solar energy – captured and packaged in wheat, rice and potatoes.
+
+#### The Secret in the Kitchen
+
+Throughout these long millennia, day in and day out, people stood face to face with the most important invention in the history of energy production... ...The minute the water boiled, the lid of the kettle or the pot jumped. Heat was being converted to movement. But jumping pot lids were an annoyance... ...Nobody saw their real potential.
+
+ About 600 years passed between the invention of gunpowder and the development of effective artillery.
+
+The new technology was born in British coal mines... ...Britain suffered from an increasing shortage of firewood. It began burning coal as a substitute. Many coal seams were located in waterlogged areas, and flooding prevented miners from accessing the lower strata of the mines. It was a problem looking for a solution... ...There are many types of steam engines, but they all share one common principle. You burn some kind of fuel, such as coal, and use the resulting heat to boil water, producing steam. As the steam expands it pushes a piston. The piston moves, and anything that is connected to the piston moves with it. You have converted heat into movement! In eighteenth-century British coal mines, the piston was connected to a pump that extracted water from the bottom of the mineshafts. The earliest engines were incredibly inefficient. You needed to burn a huge load of coal in order to pump out even a tiny amount of water. But in the mines coal was plentiful and close at hand, so nobody cared.
+
+In 1825, a British engineer connected a steam engine to a train of mine wagons full of coal. The engine drew the wagons along an iron rail some twenty kilometres long from the mine to the nearest harbour. This was the first steam-powered locomotive in history. Clearly, if steam could be used to transport coal, why not other goods? And why not even people? On 15 September 1830, the first commercial railway line was opened, connecting Liverpool with Manchester.
+
+ Six hundred years passed between the moment Chinese alchemists discovered gunpowder and the moment Turkish cannon pulverised the walls of Constantinople. Only forty years passed between the moment Einstein determined that any kind of mass could be converted into energy – that’s what E = mc2 means – and the moment atom bombs obliterated Hiroshima and Nagasaki and nuclear power stations mushroomed all over the globe.
+
+ Petroleum had been known for thousands of years, and was used to waterproof roofs and lubricate axles. Yet until just a century ago nobody thought it was useful for much more than that. The idea of spilling blood for the sake of oil would have seemed ludicrous. You might fight a war over land, gold, pepper or slaves, but not oil.
+
+We flick our fingers and it prints books and sews clothes, keeps our vegetables fresh and our ice cream frozen, cooks our dinners and executes our criminals, registers our thoughts and records our smiles, lights up our nights and entertains us with countless television shows. Few of us understand how electricity does all these things, but even fewer can imagine life without it.
+
+#### An Ocean of Energy
+
+the Industrial Revolution has been a revolution in energy conversion. It has demonstrated again and again that there is no limit to the amount of energy at our disposal. Or, more precisely, that the only limit is set by our ignorance
+
+Clearly the world does not lack energy. All we lack is the knowledge necessary to harness and convert it to our needs. 
+
+Prior to the Industrial Revolution, the human energy market was almost completely dependent on plants. People lived alongside a green energy reservoir carrying 3,000 exajoules a year, and tried to pump as much of its energy as they could. Yet there was a clear limit to how much they could extract. During the Industrial Revolution, we came to realise that we are actually living alongside an enormous ocean of energy, one holding billions upon billions of exajoules of potential power. All we need to do is invent better pumps.
+
+Chemists discovered aluminium only in the 1820s, but separating the metal from its ore was extremely difficult and costly. For decades, aluminium was much more expensive than gold. In the 1860S, Emperor Napoleon III of France commissioned aluminium cutlery to be laid out for his most distinguished guests. Less important visitors had to make do with the gold knives and forks.
+
+a Jewish chemist named Fritz Haber, had discovered in 1908 a process for producing ammonia literally out of thin air. When war broke out, the Germans used Haber’s discovery to commence industrial production of explosives using air as a raw material. Some scholars believe that if it hadn’t been for Haber’s discovery, Germany would have been forced to surrender long before November 1918.6 The discovery won Haber (who during the war also pioneered the use of poison gas in battle) a Nobel Prize in 1918. In chemistry, not in peace.
+
+#### Life on the Conveyor Belt
+
+The Industrial Revolution yielded an unprecedented combination of cheap and abundant energy and cheap and abundant raw materials. The result was an explosion in human productivity.
+
+the Industrial Revolution was above all else the Second Agricultural Revolution. During the last 200 years, industrial production methods became the mainstay of agriculture. Machines such as tractors began to undertake tasks that were previously performed by muscle power, or not performed at all. Fields and animals became vastly more productive thanks to artificial fertilisers, industrial insecticides and an entire arsenal of hormones and medications. Refrigerators, ships and aeroplanes have made it possible to store produce for months, and transport it quickly and cheaply to the other side of the world. Europeans began to dine on fresh Argentinian beef and Japanese sushi.
+
+ Around the time that Homo sapiens was elevated to divine status by humanist religions, farm animals stopped being viewed as living creatures that could feel pain and distress, and instead came to be treated as machines.
+
+Treating living creatures possessing complex emotional worlds as if they were machines is likely to cause them not only physical discomfort, but also much social stress and psychological frustration.
+
+![40. Chicks on a conveyor belt in a commercial hatchery. Male chicks and imperfect female chicks are picked off the conveyor belt and are then asphyxiated in gas chambers, dropped into automatic shredders, or simply thrown into the rubbish, where they are crushed to death. Hundreds of millions of chicks die each year in such hatcheries.](./assets/figure40.jpg)
+40. Chicks on a conveyor belt in a commercial hatchery. Male chicks and imperfect female chicks are picked off the conveyor belt and are then asphyxiated in gas chambers, dropped into automatic shredders, or simply thrown into the rubbish, where they are crushed to death. Hundreds of millions of chicks die each year in such hatcheries.
+
+Just as the Atlantic slave trade did not stem from hatred towards Africans, so the modern animal industry is not motivated by animosity.
+
+Again, it is fuelled by indifference.
+
+Evolutionary psychology maintains that the emotional and social needs of farm animals evolved in the wild, when they were essential for survival and reproduction
+
+a wild cow had to know how to form close relations with other cows and bulls, or else she could not survive and reproduce. In order to learn the necessary skills, evolution implanted in calves – as in the young of all other social mammals – a strong desire to play (playing is the mammalian way of learning social behaviour). And it implanted in them an even stronger desire to bond with their mothers, whose milk and care were essential for survival.
+
+the basic lesson of evolutionary psychology: a need shaped in the wild continues to be felt subjectively even if it is no longer really necessary for survival and reproduction.
+
+The tragedy of industrial agriculture is that it takes great care of the objective needs of animals, while neglecting their subjective needs.
+
+The truth of this theory has been known at least since the 1950s, when the American psychologist Harry Harlow studied the development of monkeys. Harlow separated infant monkeys from their mothers several hours after birth. The monkeys were isolated inside cages, and then raised by dummy mothers. In each cage, Harlow placed two dummy mothers. One was made of metal wires, and was fitted with a milk bottle from which the infant monkey could suck. The other was made of wood covered with cloth, which made it resemble a real monkey mother, but it provided the infant monkey with no material sustenance whatsoever. It was assumed that the infants would cling to the nourishing metal mother rather than to the barren cloth one. To Harlow’s surprise, the infant monkeys showed a marked preference for the cloth mother, spending most of their time with her. When the two mothers were placed in close proximity, the infants held on to the cloth mother even while they reached over to suck milk from the metal mother. Harlow suspected that perhaps the infants did so because they were cold. So he fitted an electric bulb inside the wire mother, which now radiated heat. Most of the monkeys, except for the very young ones, continued to prefer the cloth mother.
+
+![41. One of Harlow’s orphaned monkeys clings to the cloth mother even while sucking milk from the metal mother.](./assets/figure41.jpg)
+41. One of Harlow’s orphaned monkeys clings to the cloth mother even while sucking milk from the metal mother.
+
+
+Follow-up research showed that Harlow’s orphaned monkeys grew up to be emotionally disturbed even though they had received all the nourishment they required. They never fitted into monkey society, had difficulties communicating with other monkeys, and suffered from high levels of anxiety and aggression. The conclusion was inescapable: monkeys must have psychological needs and desires that go beyond their material requirements, and if these are not fulfilled, they will suffer greatly. Harlow’s infant monkeys preferred to spend their time in the hands of the barren cloth mother because they were looking for an emotional bond and not only for milk.
+
+Before the industrialisation of agriculture, most of the food produced in fields and farms was ‘wasted’ feeding peasants and farmyard animals.
+
+In almost all societies peasants comprised more than 90 per cent of the population. Following the industrialisation of agriculture, a shrinking number of farmers was enough to feed a growing number of clerks and factory hands. Today in the United States, only 2 per cent of the population makes a living from agriculture, yet this 2 per cent produces enough not only to feed the entire US population, but also to export surpluses to the rest of the world.
+
+As those factories and offices absorbed the billions of hands and brains that were released from fieldwork, they began pouring out an unprecedented avalanche of products. Humans now produce far more steel, manufacture much more clothing, and build many more structures than ever before. In addition, they produce a mind-boggling array of previously unimaginable goods, such as light bulbs, mobile phones, cameras and dishwashers. For the first time in human history, supply began to outstrip demand. And an entirely new problem was born: who is going to buy all this stuff?
+
+#### The Age of Shopping
+
+it’s not enough just to produce. Somebody must also buy the products, or industrialists and investors alike will go bust. 
+
+To prevent this catastrophe and to make sure that people will always buy whatever new stuff industry produces, a new kind of ethic appeared: consumerism.
+
+A good person avoided luxuries, never threw food away, and patched up torn trousers instead of buying a new pair.
+
+Consumerism sees the consumption of ever more products and services as a positive thing. It encourages people to treat themselves, spoil themselves, and even kill themselves slowly by overconsumption.
+
+Consumerism has worked very hard, with the help of popular psychology (‘Just do it!’) to convince people that indulgence is good for you, whereas frugality is self-oppression.
+
+It has succeeded. We are all good consumers. We buy countless products that we don’t really need, and that until yesterday we didn’t know existed.
+
+Shopping has become a favourite pastime, and consumer goods have become essential mediators in relationships between family members, spouses and friends.
+
+The flowering of the consumerist ethic is manifested most clearly in the food market. Traditional agricultural societies lived in the awful shade of starvation. In the affluent world of today one of the leading health problems is obesity, which strikes the poor (who stuff themselves with hamburgers and pizzas) even more severely than the rich (who eat organic salads and fruit smoothies). 
+
+Each year the US population spends more money on diets than the amount needed to feed all the hungry people in the rest of the world. 
+
+Obesity is a double victory for consumerism. Instead of eating little, which will lead to economic contraction, people eat too much and then buy diet products – contributing to economic growth twice over.
+
+ As in previous eras, there is today a division of labour between the elite and the masses. In medieval Europe, aristocrats spent their money carelessly on extravagant luxuries, whereas peasants lived frugally, minding every penny. Today, the tables have turned. The rich take great care managing their assets and investments, while the less well heeled go into debt buying cars and televisions they don’t really need.
+
+
+The capitalist and consumerist ethics are two sides of the same coin, a merger of two commandments. The supreme commandment of the rich is ‘Invest!’ The supreme commandment of the rest of us is ‘Buy!’
+
+Most previous ethical systems presented people with a pretty tough deal. They were promised paradise, but only if they cultivated compassion and tolerance, overcame craving and anger, and restrained their selfish interests. This was too tough for most. The history of ethics is a sad tale of wonderful ideals that nobody can live up to. Most Christians did not imitate Christ, most Buddhists failed to follow Buddha... ...In contrast, most people today successfully live up to the capitalist-consumerist ideal. The new ethic promises paradise on condition that the rich remain greedy and spend their time making more money, and that the masses give free rein to their cravings and passions – and buy more and more. This is the first religion in history whose followers actually do what they are asked to do. How, though, do we know that we’ll really get paradise in return? We’ve seen it on television.
 
 ### 18 A Permanent Revolution
 
