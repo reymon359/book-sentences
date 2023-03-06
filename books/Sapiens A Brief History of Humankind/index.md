@@ -3145,7 +3145,7 @@ There are no silicon mines in Silicon Valley. The wealth resides in the minds of
 43. Gold miners in California during the Gold Rush, and Facebook’s headquarters near San Francisco. In 1849 California built its fortunes on gold.
 
 ![44. Today, California builds its fortunes on silicon. But whereas in 1849 the gold actually lay there in the Californian soil, the real treasures of Silicon Valley are locked inside the heads of high-tech employees.](./assets/figure44.jpg)
-1.  Today, California builds its fortunes on silicon. But whereas in 1849 the gold actually lay there in the Californian soil, the real treasures of Silicon Valley are locked inside the heads of high-tech employees.
+44. Today, California builds its fortunes on silicon. But whereas in 1849 the gold actually lay there in the Californian soil, the real treasures of Silicon Valley are locked inside the heads of high-tech employees.
 
 in 1400 England and France were at peace, the French did not have to pay heavy war taxes and to suffer destructive English invasions, but otherwise it did not benefit their wallets. In modern capitalist economies, foreign trade and investments have become all-important. Peace therefore brings unique dividends. As long as China and the USA are at peace, the Chinese can prosper by selling products to the USA, trading in Wall Street and receiving US investments.
 
