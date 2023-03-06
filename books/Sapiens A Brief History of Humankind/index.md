@@ -2906,6 +2906,254 @@ Most previous ethical systems presented people with a pretty tough deal. They we
 
 ### 18 A Permanent Revolution
 
+As the world was moulded to fit the needs of Homo sapiens, habitats were destroyed and species went extinct. Our once green and blue planet is becoming a concrete and plastic shopping centre.
+
+There are about 80,000 giraffes in the world, compared to 1.5 billion cattle; only 200,000 wolves, compared to 400 million domesticated dogs; only 250,000 chimpanzees – in contrast to billions of humans. Humankind really has taken over the world.
+
+the resources available to humankind are constantly increasing, and are likely to continue to do so. That’s why doomsday prophesies of resource scarcity are probably misplaced. In contrast, the fear of ecological degradation is only too well founded.
+
+ecological turmoil might endanger the survival of Homo sapiens itself. Global warming, rising oceans and widespread pollution could make the earth less hospitable to our kind, and the future might consequently see a spiralling race between human power and human-induced natural disasters. 
+
+As humans use their power to counter the forces of nature and subjugate the ecosystem to their needs and whims, they might cause more and more unanticipated and dangerous side effects. These are likely to be controllable only by even more drastic manipulations of the ecosystem, which would result in even worse chaos.
+
+Many call this process ‘the destruction of nature’. But it’s not really destruction, it’s change. Nature cannot be destroyed. Sixty-five million years ago, an asteroid wiped out the dinosaurs, but in so doing opened the way forward for mammals. Today, humankind is driving many species into extinction and might even annihilate itself
+
+ Perhaps 65 million years from now, intelligent rats will look back gratefully on the decimation wrought by humankind, just as we today can thank that dinosaur-busting asteroid.
+
+ In 1700 the world was home to some 700 million humans. In 1800 there were 950 million of us. By 1900 we almost doubled our numbers to 1.6 billion. And by 2000 that quadrupled to 6 billion. Today there are just shy of 7 billion Sapiens.
+
+#### Modern Time
+
+The Industrial Revolution opened the way to a long line of experiments in social engineering and an even longer series of unpremeditated changes in daily life and human mentality. One example among many is the replacement of the rhythms of traditional agriculture with the uniform and precise schedule of industry.
+
+Traditional agriculture depended on cycles of natural time and organic growth. Most societies were unable to make precise time measurements, nor were they terribly interested in doing so. The world went about its business without clocks and timetables, subject only to the movements of the sun and the growth cycles of plants. There was no uniform working day, and all routines changed drastically from season to season.
+
+If a lost time traveller popped up in a medieval village and asked a passerby, ‘What year is this?’ the villager would be as bewildered by the question as by the strangers ridiculous clothing.
+
+modern industry cares little about the sun or the season. It sanctifies precision and uniformity. For example, in a medieval workshop each shoemaker made an entire shoe, from sole to buckle. If one shoemaker was late for work, it did not stall the others. However, in a modern footwear-factory assembly line, every worker mans a machine that produces just a small part of a shoe, which is then passed on to the next machine. If the worker who operates machine no. 5 has overslept, it stalls all the other machines. In order to prevent such calamities, everybody must adhere to a precise timetable. Each worker arrives at work at exactly the same time. Everybody takes their lunch break together, whether they are hungry or not. Everybody goes home when a whistle announces that the shift is over – not when they have finished their project.
+
+
+![42. Charlie Chaplin as a simple worker caught in the wheels of the industrial assembly line, from the film Modern Times (1936).](./assets/figure42.jpg)
+42. Charlie Chaplin as a simple worker caught in the wheels of the industrial assembly line, from the film Modern Times (1936).
+
+The Industrial Revolution turned the timetable and the assembly line into a template for almost all human activities.
+
+Even in places devoid of assembly lines and machines, the timetable became king. If the shift at the factory ends at 5 p.m., the local pub had better be open for business by 5:02.
+
+In 1784 a carriage service with a published schedule began operating in Britain. Its timetable specified only the hour of departure, not arrival. Back then, each British city and town had its own local time, which could differ from London time by up to half an hour. When it was 12:00 in London, it was perhaps 12:20 in Liverpool and 11:50 in Canterbury. Since there were no telephones, no radio or television, and no fast trains – who could know, and who cared?
+
+The trains were much faster than the old carriages, so the quirky differences in local hours became a severe nuisance. In 1847, British train companies put their heads together and agreed that henceforth all train timetables would be calibrated to Greenwich Observatory time,
+
+ in 1880, the British government took the unprecedented step of legislating that all timetables in Britain must follow Greenwich. For the first time in history, a country adopted a national time and obliged its population to live according to an artificial clock rather than local ones or sunrise-to-sunset cycles.
+
+ When the broadcast media – first radio, then television – made their debut, they entered a world of timetables and became its main enforcers and evangelists.
+
+Among the first things radio stations broadcast were time signals, beeps that enabled far-flung settlements and ships at sea to set their clocks. Later, radio stations adopted the custom of broadcasting the news every hour. 
+ 
+Nowadays, the first item of every news broadcast – more important even than the outbreak of war – is the time. During World War Two, BBC News was broadcast to Nazi-occupied Europe. Each news programme opened with a live broadcast of Big Ben tolling the hour – the magical sound of freedom. Ingenious German physicists found a way to determine the weather conditions in London based on tiny differences in the tone of the broadcast ding-dongs. This information offered invaluable help to the Luftwaffe. When the British Secret Service discovered this, they replaced the live broadcast with a set recording of the famous clock.
+
+Today, a single affluent family generally has more timepieces at home than an entire medieval country.
+
+You need to make a conscious effort not to know what time it is. The typical person consults these clocks several dozen times a day, because almost everything we do has to be done on time. 
+
+An alarm clock wakes us up at 7 a.m., we heat our frozen bagel for exactly fifty seconds in the microwave, brush our teeth for three minutes until the electric toothbrush beeps, catch the 07:40 train to work, run on the treadmill at the gym until the beeper announces that half an hour is over, sit down in front of the TV at 7 p.m. to watch our favourite show, get interrupted at preordained moments by commercials that cost $1,000 per second, and eventually unload all our angst on a therapist who restricts our prattle to the now standard fifty-minute therapy hour.
+
+The Industrial Revolution brought about dozens of major upheavals in human society. Adapting to industrial time is just one of them. Other notable examples include urbanisation, the disappearance of the peasantry, the rise of the industrial proletariat, the empowerment of the common person, democratisation, youth culture and the disintegration of patriarchy.
+
+Yet all of these upheavals are dwarfed by the most momentous social revolution that ever befell humankind: the collapse of the family and the local community and their replacement by the state and the market.
+
+more than a million years ago, humans lived in small, intimate communities, most of whose members were kin. The Cognitive Revolution and the Agricultural Revolution did not change that. They glued together families and communities to create tribes, cities, kingdoms and empires, but families and communities remained the basic building blocks of all human societies. The Industrial Revolution, on the other hand, managed within little more than two centuries to break these building blocks into atoms. Most of the traditional functions of families and communities were handed over to states and markets.
+
+#### The Collapse of the Family and the Community
+
+Prior to the Industrial Revolution, the daily life of most humans ran its course within three ancient frames: the nuclear family, the extended family and the local intimate community.* Most people worked in the family business – the family farm or the family workshop, for example – or they worked in their neighbours’ family businesses. The family was also the welfare system, the health system, the education system, the construction industry, the trade union, the pension fund, the insurance company, the radio, the television, the newspapers, the bank and even the police.
+
+When a person fell sick, the family took care of her. When a person grew old, the family supported her, and her children were her pension fund. When a person died, the family took care of the orphans. If a person wanted to build a hut, the family lent a hand. If a person wanted to open a business, the family raised the necessary money.
+
+when my neighbour was in need, I helped build his hut and guard his sheep, without expecting any payment in return. When I was in need, my neighbour returned the favour. At the same time, the local potentate might have drafted all of us villagers to construct his castle without paying us a penny. In exchange, we counted on him to defend us against brigands and barbarians. Village life involved many transactions but few payments.
+
+Yet less than 10 per cent of commonly used products and services were bought in the market. Most human needs were taken care of by the family and the community.
+
+Traditional agricultural economies had few surpluses with which to feed crowds of government officials, policemen, social workers, teachers and doctors. Consequently, most rulers did not develop mass welfare systems, health-care systems or educational systems.
+
+on rare occasions when rulers tried to intervene more intensively in the daily lives of the peasantry (as happened, for example, in the Qin Empire in China), they did so by converting family heads and community elders into government agents.
+
+The Ottoman Empire, for instance, allowed family vendettas to mete out justice, rather than supporting a large imperial police force. If my cousin killed somebody, the victim’s brother might kill me in sanctioned revenge. The sultan in Istanbul or even the provincial pasha did not intervene in such clashes, as long as violence remained within acceptable limits.
+
+In the Chinese Ming Empire (1368–1644), the population was organised into the baojia system. Ten families were grouped to form a jia, and ten jia constituted a bao. When a member of a bao commited a crime, other bao members could be punished for it, in particular the bao elders. 
+
+Taxes too were levied on the bao, and it was the responsibility of the bao elders rather than of the state officials to assess the situation of each family and determine the amount of tax it should pay.
+
+Many kingdoms and empires were in truth little more than large protection rackets. The king was the capo di tutti capi who collected protection money, and in return made sure that neighbouring crime syndicates and local small fry did not harm those under his protection. He did little else.
+
+Life in the bosom of family and community was far from ideal. Families and communities could oppress their members no less brutally than do modern states.
+
+A person who lost her family and community around 1750 was as good as dead. She had no job, no education and no support in times of sickness and distress.
+
+In order to survive, such a person quickly had to find an alternative family or community. 
+ 
+Boys and girls who ran away from home could expect, at best, to become servants in some new family. At worst, there was the army or the brothel.
+
+The Industrial Revolution gave the market immense new powers, provided the state with new means of communication and transportation, and placed at the government’s disposal an army of clerks, teachers, policemen and social workers.
+
+Over time, states and markets used their growing power to weaken the traditional bonds of family and community. The state sent its policemen to stop family vendettas and replace them with court decisions. The market sent its hawkers to wipe out longstanding local traditions and replace them with ever-changing commercial fashions. Yet this was not enough. In order really to break the power of family and community, they needed the help of a fifth column.
+
+The state and the market approached people with an offer that could not be refused. ‘Become individuals,’ they said. ‘Marry whomever you desire, without asking permission from your parents. Take up whatever job suits you, even if community elders frown. Live wherever you wish, even if you cannot make it every week to the family dinner. You are no longer dependent on your family or your community. We, the state and the market, will take care of you instead. We will provide food, shelter, education, health, welfare and employment. We will provide pensions, insurance and protection.’
+
+The state and the market are the mother and father of the individual, and the individual can survive only thanks to them. 
+ 
+The market provides us with work, insurance and a pension.
+
+Not only adult men, but also women and children, are recognised as individuals. Throughout most of history, women were often seen as the property of family or community. Modern states, on the other hand, see women as individuals, enjoying economic and legal rights independently of their family and community. They may hold their own bank accounts, decide whom to marry, and even choose to divorce or live on their own.
+
+the liberation of the individual comes at a cost. Many of us now bewail the loss of strong families and communities and feel alienated and threatened by the power the impersonal state and market wield over our lives
+
+The deal between states, markets and individuals is an uneasy one. The state and the market disagree about their mutual rights and obligations, and individuals complain that both demand too much and provide too little. In many cases individuals are exploited by markets, and states employ their armies, police forces and bureaucracies to persecute individuals instead of defending them. Yet it is amazing that this deal works at all – however imperfectly. For it breaches countless generations of human social arrangements. Millions of years of evolution have designed us to live and think as community members. Within a mere two centuries we have become alienated individuals. Nothing testifies better to the awesome power of culture.
+
+ When states and markets took from the family most of its economic and political roles, they left it some important emotional functions. The modern family is still supposed to provide for intimate needs, which state and market are (so far) incapable of providing.
+
+Whereas traditionally the family was the main matchmaker, today it’s the market that tailors our romantic and sexual preferences, and then lends a hand in providing for them – for a fat fee.
+
+Today courting is done at bars and cafés, and money passes from the hands of lovers to waitresses. Even more money is transferred to the bank accounts of fashion designers, gym managers, dieticians, cosmeticians and plastic surgeons, who help us arrive at the café looking as similar as possible to the markets ideal of beauty.
+
+![Family and community vs. state and market](./assets/family-vs-state.jpg)
+Family and community vs. state and market
+
+Until not long ago, the suggestion that the state ought to prevent parents from beating or humiliating their children would have been rejected out of hand as ludicrous and unworkable. In most societies parental authority was sacred.
+
+#### Imagined Communities
+
+Like the nuclear family, the community could not completely disappear from our world without any emotional replacement. Markets and states today provide most of the material needs once provided by communities, but they must also supply tribal bonds. Markets and states do so by fostering ‘imagined communities’ that contain millions of strangers, and which are tailored to national and commercial needs. 
+
+An imagined community is a community of people who don’t really know each other, but imagine that they do.
+
+The intimate communities fulfilled the emotional needs of their members and were essential for everyone’s survival and welfare. In the last two centuries, the intimate communities have withered, leaving imagined communities to fill in the emotional vacuum.
+
+The two most important examples for the rise of such imagined communities are the nation and the consumer tribe. The nation is the imagined community of the state. The consumer tribe is the imagined community of the market. 
+
+Both are imagined communities because it is impossible for all customers in a market or for all members of a nation really to know one another the way villagers knew one another in the past.
+
+Consumerism and nationalism work extra hours to make us imagine that millions of strangers belong to the same community as ourselves, that we all have a common past, common interests and a common future. 
+
+This isn’t a lie. It’s imagination. 
+
+Like money, limited liability companies and human rights, nations and consumer tribes are inter-subjective realities. They exist only in our collective imagination, yet their power is immense.
+
+Most nations argue that they are a natural and eternal entity, created in some primordial epoch by mixing the soil of the motherland with the blood of the people. Yet such claims are usually exaggerated. Nations existed in the distant past, but their importance was much smaller than today because the importance of the state was much smaller.
+
+whatever importance ancient nations may have had, few of them survived. Most existing nations evolved only after the Industrial Revolution.
+
+Those who worked hard to construct Iraq or Syria made use of real historical, geographical and cultural raw materials – some of which are centuries and millennia old. Saddam Hussein co-opted the heritage of the Abbasid caliphate and the Babylonian Empire, even calling one of his crack armoured units the Hammurabi Division.
+
+In recent decades, national communities have been increasingly eclipsed by tribes of customers who do not know one another intimately but share the same consumption habits and interests, and therefore feel part of the same consumer tribe – and define themselves as such.
+
+Madonna fans, for example, constitute a consumer tribe. They define themselves largely by shopping. They buy Madonna concert tickets, CDs, posters, shirts and ring tones, and thereby define who they are. Manchester United fans, vegetarians and environmentalists are other examples. 
+
+They, too, are defined above all by what they consume
+
+A German vegetarian might well prefer to marry a French vegetarian than a German carnivore.
+
+#### Perpetuum Mobile
+
+The revolutions of the last two centuries have been so swift and radical that they have changed the most fundamental characteristic of the social order.
+
+‘Order’ implied stability and continuity. Swift social revolutions were exceptional, and most social transformations resulted from the accumulation of numerous small steps. Humans tended to assume that the social structure was inflexible and eternal.
+
+People tended to reconcile themselves to the status quo, declaring that ‘this is how it always was, and this is how it always will be’.
+
+When we speak of modern revolutions we tend to think of 1789 (the French Revolution)... ...But the fact is that, these days, every year is revolutionary. Today, even a thirty-year-old can honestly tell disbelieving teenagers, ‘When I was young, the world was completely different.’
+
+any attempt to define the characteristics of modern society is akin to defining the colour of a chameleon. 
+
+The only characteristic of which we can be certain is the incessant change.
+
+most of us think about the social order as something flexible, which we can engineer and improve at will.
+
+In the last two centuries, the currency of politics is that it promises to destroy the old world and build a better one in its place. Not even the most conservative of political parties vows merely to keep things as they are.
+
+Just as geologists expect that tectonic movements will result in earthquakes and volcanic eruptions, so might we expect that drastic social movements will result in bloody outbursts of violence. The political history of the nineteenth and twentieth centuries is often told as a series of deadly wars, holocausts and revolutions.
+
+There is truth here, but this all too familiar list of calamities is somewhat misleading. We focus too much on the puddles and forget about the dry land separating them. The late modern era has seen unprecedented levels not only of violence and horror, but also of peace and tranquillity.
+
+Of the seven decades that have elapsed since the end of World War Two. During this period humankind has for the first time faced the possibility of complete self-annihilation and has experienced a fair number of actual wars and genocides. Yet these decades were also the most peaceful era in human history – and by a wide margin.
+
+This is surprising because these very same decades experienced more economic, social and political change than any previous era. The tectonic plates of history are moving at a frantic pace, but the volcanoes are mostly silent.
+
+#### Peace in Our Time
+
+Most people don’t appreciate just how peaceful an era we live in.
+
+Many more people think about the wars raging today in Afghanistan and Iraq than about the peace in which most Brazilians and Indians live.
+
+Even more importantly, it’s easier to relate to the suffering of individuals than of entire populations.
+
+The figures for 2002 are even more surprising. Out of 57 million dead, only 172,000 people died in war and 569,000 died of violent crime (a total of 741,000 victims of human violence). In contrast, 873,000 people committed suicide.5 It turns out that in the year following the 9/11 attacks, despite all the talk of terrorism and war, the average person was more likely to kill himself than to be killed by a terrorist, a soldier or a drug dealer.
+
+Well-off British subjects travel daily from Nottingham to London through Sherwood Forest without fear that a gang of merry green-clad brigands will ambush them and take their money to give to the poor (or, more likely, murder them and take the money for themselves).
+
+children need not fear that they will be sold into slavery when their parents can’t pay their bills, and women know that the law forbids their husbands from beating them and forcing them to stay at home. Increasingly, around the world, these expectations are fulfilled.
+
+In the decentralised kingdoms of medieval Europe, about twenty to forty people were murdered each year for every 100,000 inhabitants. In recent decades, when states and markets have become all-powerful and communities have vanished, violence rates have dropped even further.
+
+Today the global average is only nine murders a year per 100,000 people, and most of these murders take place in weak states such as Somalia and Colombia. In the centralised states of Europe, the average is one murder a year per 100,000 people.
+
+During the twentieth century, tens of millions if not hundreds of millions of people were killed by the security forces of their own states. Still, from a macro perspective, state-run courts and police forces have probably increased the level of security worldwide.
+
+In 1964 a military dictatorship was established in Brazil. It ruled the country until 1985. During these twenty years, several thousand Brazilians were murdered by the regime. Thousands more were imprisoned and tortured. Yet even in the worst years, the average Brazilian in Rio de Janeiro was far less likely to die at human hands than the average Waorani, Arawete or Yanomamo. The Waorani, Arawete and Yanomamo are indigenous people who live in the depths of the Amazon forest, without army, police or prisons. Anthropological studies have indicated that between a quarter and a half of their menfolk die sooner or later in violent conflicts over property, women or prestige.
+
+#### Imperial Retirement
+
+It is perhaps debatable whether violence within states has decreased or increased since 1945. What nobody can deny is that international violence has dropped to an all-time low.
+
+Since 1945 most empires have opted for peaceful early retirement. Their process of collapse became relatively swift, calm and orderly. In 1945 Britain ruled a quarter of the globe. Thirty years later it ruled just a few small islands. In the intervening decades it retreated from most of its colonies in a peaceful and orderly manner.
+
+At least some of the praise usually heaped on Mahatma Gandhi for his non-violent creed is actually owed to the British Empire. Despite many years of bitter and often violent struggle, when the end of the Raj came, the Indians did not have to fight the British in the streets of Delhi and Calcutta. The empire’s place was taken by a slew of independent states, most of which have since enjoyed stable borders and have for the most part lived peacefully alongside their neighbours.
+
+when compared to the long-term historical average, the British withdrawal was an exemplar of peace and order. 
+
+The French Empire was more stubborn. Its collapse involved bloody rearguard actions in Vietnam and Algeria that cost hundreds of thousands of lives
+
+Yet the Soviet elite, and the Communist regimes through most of eastern Europe (Romania and Serbia were the exceptions), chose not to use even a tiny fraction of this military power. When its members realised that Communism was bankrupt, they renounced force, admitted their failure, packed their suitcases and went home.
+
+#### Pax Atomica
+
+With very few exceptions, since 1945 states no longer invade other states in order to conquer and swallow them up.
+
+campaigns of conquest like those of the Romans, Mongols and Ottomans cannot take place today anywhere in the world. 
+
+Since 1945, no independent country recognised by the UN has been conquered and wiped off the map
+
+We seldom think of the Arab world as particularly peaceful. Yet only once since the Arab countries won their independence has one of them mounted a full-scale invasion of another (the Iraqi invasion of Kuwait in 1990). There have been quite a few border clashes (e.g. Syria vs Jordan in 1970), many armed interventions of one in the affairs of another (e.g. Syria in Lebanon), numerous civil wars (Algeria, Yemen, Libya) and an abundance of coups and revolts. Yet there have been no full-scale international wars among the Arab states except the Gulf War. Even widening the scope to include the entire Muslim world adds only one more example, the Iran-Iraq War. There was no Turkey—Iran War, Pakistan-Afghanistan War, or Indonesia-Malaysia War.
+
+For real peace is not the mere absence of war. Real peace is the implausibility of war. 
+
+There has never been real peace in the world. Between 1871 and 1914, a European war remained a plausible eventuality, and the expectation of war dominated the thinking of armies, politicians and ordinary citizens alike.
+
+An iron law of international politics decreed, ‘For every two nearby polities, there is a plausible scenario that will cause them to go to war against one another within one year.’ This law of the jungle was in force in late nineteenth-century Europe, in medieval Europe, in ancient China and in classical Greece.
+
+Today humankind has broken the law of the jungle. There is at last real peace, and not just absence of war. For most polities, there is no plausible scenario leading to full-scale conflict within one year. What could lead to war between Germany and France next year? Or between China and Japan?
+
+This situation might of course change in the future and, with hindsight, the world of today might seem incredibly naïve. Yet from a historical perspective, our very naïvety is fascinating. Never before has peace been so prevalent that people could not even imagine war.
+
+the price of war has gone up dramatically. The Nobel Peace Prize to end all peace prizes should have been given to Robert Oppenheimer and his fellow architects of the atomic bomb. Nuclear weapons have turned war between superpowers into collective suicide, and made it impossible to seek world domination by force of arms.
+
+while the price of war soared, its profits declined. For most of history, polities could enrich themselves by looting or annexing enemy territories. Most wealth consisted of fields, cattle, slaves and gold, so it was easy to loot it or occupy it. Today, wealth consists mainly of human capital, technical know-how and complex socio-economic structures such as banks. Consequently it is difficult to carry it off or incorporate it into one’s territory.
+
+There are no silicon mines in Silicon Valley. The wealth resides in the minds of Google engineers and Hollywood script doctors, directors and special-effects wizards, who would be on the first plane to Bangalore or Mumbai long before the Chinese tanks rolled into Sunset Boulevard.
+
+![43. Gold miners in California during the Gold Rush, and Facebook’s headquarters near San Francisco. In 1849 California built its fortunes on gold.](./assets/figure43.jpg)
+43. Gold miners in California during the Gold Rush, and Facebook’s headquarters near San Francisco. In 1849 California built its fortunes on gold.
+
+![44. Today, California builds its fortunes on silicon. But whereas in 1849 the gold actually lay there in the Californian soil, the real treasures of Silicon Valley are locked inside the heads of high-tech employees.](./assets/figure44.jpg)
+1.  Today, California builds its fortunes on silicon. But whereas in 1849 the gold actually lay there in the Californian soil, the real treasures of Silicon Valley are locked inside the heads of high-tech employees.
+
+in 1400 England and France were at peace, the French did not have to pay heavy war taxes and to suffer destructive English invasions, but otherwise it did not benefit their wallets. In modern capitalist economies, foreign trade and investments have become all-important. Peace therefore brings unique dividends. As long as China and the USA are at peace, the Chinese can prosper by selling products to the USA, trading in Wall Street and receiving US investments.
+
+Last but not least, a tectonic shift has taken place in global political culture. Many elites in history – Hun chieftains, Viking noblemen and Aztec priests, for example – viewed war as a positive good. Others viewed it as evil, but an inevitable one, which we had better turn to our own advantage. Ours is the first time in history that the world is dominated by a peace-loving elite – politicians, business people, intellectuals and artists who genuinely see war as both evil and avoidable. 
+
+There were pacifists in the past, such as the early Christians, but in the rare cases that they gained power, they tended to forget about their requirement to ‘turn the other cheek’.
+
+trade increases both the profits of peace and the costs of war
 
 
 ### 19 And They Lived Happily Ever After
