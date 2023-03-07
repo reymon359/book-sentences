@@ -3155,10 +3155,61 @@ There were pacifists in the past, such as the early Christians, but in the rare 
 
 trade increases both the profits of peace and the costs of war
 
+The tightening web of international connections erodes the independence of most countries, lessening the chance that any one of them might single-handedly let slip the dogs of war. 
+
+Most countries no longer engage in full-scale war for the simple reason that they are no longer independent. Though citizens in Israel, Italy, Mexico or Thailand may harbour illusions of independence, the fact is that their governments cannot conduct independent economic or foreign policies, and they are certainly incapable of initiating and conducting full-scale war on their own.
+
+ we are witnessing the formation of a global empire. Like previous empires, this one, too, enforces peace within its borders. And since its borders cover the entire globe, the World Empire effectively enforces world peace.
+ 
+To satisfy both optimists and pessimists, we may conclude by saying that we are on the threshold of both heaven and hell, moving nervously between the gateway of the one and the anteroom of the other. History has still not decided where we will end up, and a string of coincidences might yet send us rolling in either direction.
 
 ### 19 And They Lived Happily Ever After
 
+are we happier? Did the wealth humankind accumulated over the last five centuries translate into a new-found contentment? Did the discovery of inexhaustible energy resources open before us inexhaustible stores of bliss? Going further back, have the seventy or so turbulent millennia since the Cognitive Revolution made the world a better place to live? 
 
+Was the late Neil Armstrong, whose footprint remains intact on the windless moon, happier than the nameless hunter-gatherer who 30,000 years ago left her handprint on a wall in Chauvet Cave? If not, what was the point of developing agriculture, cities, writing, coinage, empires, science and industry?
+
+Historians seldom ask such questions... ...Yet these are the most important questions one can ask of history. 
+
+Most current ideologies and political programmes are based on rather flimsy ideas concerning the real source of human happiness.
+
+ Capitalists maintain that only the free market can ensure the greatest happiness of the greatest number, by creating economic growth and material abundance and by teaching people to be self-reliant and enterprising. What would happen if serious research were to disprove these hypotheses? If economic growth and self-reliance do not make people happier, what’s the benefit of Capitalism? 
+ 
+What if it turns out that the subjects of large empires are generally happier than the citizens of independent states and that, for example, Algerians were happier under French rule than under their own? What would that say about the process of decolonisation and the value of national self-determination?
+ 
+Historians have avoided raising these questions – not to mention answering them. 
+
+They have researched the history of just about everything politics, society, economics, gender, diseases, sexuality, food, clothing – yet they have seldom stopped to ask how these influence human happiness.
+
+ In one common view, human capabilities have increased throughout history. Since humans generally use their capabilities to alleviate miseries and fulfil aspirations, it follows that we must be happier than our medieval ancestors, and they must have been happier than Stone Age hunter-gatherers. But this progressive account is unconvincing
+ 
+ When humans learned to farm in the Agricultural Revolution, their collective power to shape their environment increased, but the lot of many individual humans grew harsher. Peasants had to work harder than foragers to eke out less varied and nutritious food, and they were far more exposed to disease and exploitation.
+ 
+Some challengers of this view take a diametrically opposed position. They argue for a reverse correlation between human capabilities and happiness. Power corrupts, they say, and as humankind gained more and more power, it created a cold mechanistic world ill-suited to our real needs. 
+
+Evolution moulded our minds and bodies to the life of hunter-gatherers. The transition first to agriculture and then to industry has condemned us to living unnatural lives that cannot give full expression to our inherent inclinations and instincts, and therefore cannot satisfy our deepest yearnings. 
+
+Nothing in the comfortable lives of the urban middle class can approach the wild excitement and sheer joy experienced by a forager band on a successful mammoth hunt. 
+
+Every new invention just puts another mile between us and the Garden of Eden.
+
+Perhaps we are out of touch with our inner hunter-gatherer. 
+
+It’s not all bad. For instance, over the last two centuries modern medicine has decreased child mortality from 33 per cent to less than 5 per cent. Can anyone doubt that this made a huge contribution to the happiness not only of those children who would otherwise have died, but also of their families and friends?
+
+ Other unprecedented achievements include the steep drop in violence, the virtual disappearance of international wars, and the near elimination of large-scale famines.
+ 
+Yet this, too, is an oversimplification. Firstly, it bases its optimistic assessment on a very small sample of years. The majority of humans began to enjoy the fruits of modern medicine no earlier than 1850, and the drastic drop in child mortality is a twentieth-century phenomenon. Mass famines continued to blight much of humanity up to the middle of the twentieth century. 
+
+During Communist Chinas Great Leap Forward of 1958–61, somewhere between 10 and 50 million human beings starved to death.
+
+though the last few decades have been an unprecedented golden age for humanity, it is too early to know whether this represents a fundamental shift in the currents of history or an ephemeral eddy of good fortune. 
+ 
+ When judging modernity, it is all too tempting to take the viewpoint of a twenty-first-century middle-class Westerner. We must not forget the viewpoints of a nineteenth-century Welsh coal miner, Chinese opium addict or Tasmanian Aborigine.
+
+Over the last few decades, we have been disturbing the ecological equilibrium of our planet in myriad new ways, with what seem likely to be dire consequences. 
+ 
+A lot of evidence indicates that we are destroying the foundations of human prosperity in an orgy of reckless consumption.
 
 ### 20 The End of Homo Sapiens
 
