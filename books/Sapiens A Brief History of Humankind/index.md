@@ -3211,6 +3211,49 @@ Over the last few decades, we have been disturbing the ecological equilibrium of
  
 A lot of evidence indicates that we are destroying the foundations of human prosperity in an orgy of reckless consumption.
 
+
+Finally, we can congratulate ourselves on the unprecedented accomplishments of modern Sapiens only if we completely ignore the fate of all other animals.
+
+Much of the vaunted material wealth that shields us from disease and famine was accumulated at the expense of laboratory monkeys, dairy cows and conveyor-belt chickens. Over the last two centuries tens of billions of them have been subjected to a regime of industrial exploitation whose cruelty has no precedent in the annals of planet Earth. 
+
+If we accept a mere tenth of what animal-rights activists are claiming, then modern industrial agriculture might well be the greatest crime in history. When evaluating global happiness, it is wrong to count the happiness only of the upper classes, of Europeans or of men. Perhaps it is also wrong to consider only the happiness of humans.
+
+#### Counting Happiness
+
+If people are richer and healthier, then they must also be happier. But is that really so obvious? Philosophers, priests and poets have brooded over the nature of happiness for millennia, and many have concluded that social, ethical and spiritual factors have as great an impact on our happiness as material conditions. 
+ 
+Perhaps people in modern affluent societies suffer greatly from alienation and meaninglessness despite their prosperity. And perhaps our less well-to-do ancestors found much contentment in community, religion and a bond with nature.
+
+ The generally accepted definition of happiness is ‘subjective well-being’. Happiness, according to this view, is something I feel inside myself, a sense of either immediate pleasure or long-term contentment with the way my life is going.
+ 
+ If it’s something felt inside, how can it be measured from outside? Presumably, we can do so by asking people to tell us how they feel.
+ 
+A typical subjective well-being questionnaire asks interviewees to grade on a scale of zero to ten their agreement with statements such as ‘I feel pleased with the way I am’, ‘I feel that life is very rewarding’, ‘I am optimistic about the future’ and ‘Life is good’. The researcher then adds up all the answers and calculates the interviewee’s general level of subjective well-being.
+
+One study might compare a thousand people who earn $100,000 a year with a thousand people who earn $50,000. If the study discovers that the first group has an average subjective well-being level of 8.7, while the latter has an average of only 7.3, the researcher may reasonably conclude that there is a positive correlation between wealth and subjective well-being. To put it in simple English, money brings happiness.
+
+If people are happier in democracies and married people are happier than divorcees, a historian has a basis for arguing that the democratisation process of the last few decades contributed to the happiness of humankind, whereas the growing rates of divorce indicate an opposite trend.
+
+One interesting conclusion is that money does indeed bring happiness. But only up to a point, and beyond that point it has little significance. For people stuck at the bottom of the economic ladder, more money means greater happiness.
+
+Another interesting finding is that illness decreases happiness in the short term, but is a source of long-term distress only if a person’s condition is constantly deteriorating or if the disease involves ongoing and debilitating pain. People who are diagnosed with chronic illness such as diabetes are usually depressed for a while, but if the illness does not get worse they adjust to their new condition and rate their happiness as highly as healthy people do.
+
+Family and community seem to have more impact on our happiness than money and health. 
+
+People with strong families who live in tight-knit and supportive communities are significantly happier than people whose families are dysfunctional and who have never found (or never sought) a community to be part of.
+
+This raises the possibility that the immense improvement in material conditions over the last two centuries was offset by the collapse of the family and the community. If so, the average person might well be no happier today than in 1800.
+
+ With the individual wielding unprecedented power to decide her own path in life, we find it ever harder to make commitments. We thus live in an increasingly lonely world of unravelling communities and families.
+ 
+But the most important finding of all is that happiness does not really depend on objective conditions of either wealth, health or even community. Rather, it depends on the correlation between objective conditions and subjective expectations.
+
+This is why winning the lottery has, over time, the same impact on people’s happiness as a debilitating car accident. When things improve, expectations balloon, and consequently even dramatic improvements in objective conditions can leave us dissatisfied. When things deteriorate, expectations shrink, and consequently even a severe illness might leave you pretty much as happy as you were before.
+
+Prophets, poets and philosophers realised thousands of years ago that being satisfied with what you already have is far more important than getting more of what you want.
+
+It’s nice when modern research – bolstered by lots of numbers and charts – reaches the same conclusions the ancients did.
+
 ### 20 The End of Homo Sapiens
 
 
