@@ -3254,6 +3254,117 @@ Prophets, poets and philosophers realised thousands of years ago that being sati
 
 It’s nice when modern research – bolstered by lots of numbers and charts – reaches the same conclusions the ancients did.
 
+The crucial importance of human expectations has far-reaching implications for understanding the history of happiness. If happiness depended only on objective conditions such as wealth, health and social relations, it would have been relatively easy to investigate its history. The finding that it depends on subjective expectations makes the task of historians far harder. We moderns have an arsenal of tranquillisers and painkillers at our disposal, but our expectations of ease and pleasure, and our intolerance of inconvenience and discomfort, have increased to such an extent that we may well suffer from pain more than our ancestors ever did.
+
+ When we try to guess or imagine how happy other people are now, or how people in the past were, we inevitably imagine ourselves in their shoes. But that won’t work because it pastes our expectations on to the material conditions of others.
+ 
+In modern affluent societies it is customary to take a shower and change your clothes every day. Medieval peasants went without washing for months on end, and hardly ever changed their clothes. The very thought of living like that, filthy and reeking to the bone, is abhorrent to us. Yet medieval peasants seem not to have minded.
+
+That’s not so surprising, when you think of it. After all, our chimpanzee cousins seldom wash and never change their clothes. Nor are we disgusted by the fact that our pet dogs and cats don’t shower or change their coats daily. We pat, hug and kiss them all the same. 
+
+Small children in affluent societies often dislike showering, and it takes them years of education and parental discipline to adopt this supposedly attractive custom. It is all a matter of expectations.
+
+If happiness is determined by expectations, then two pillars of our society – mass media and the advertising industry – may unwittingly be depleting the globe’s reservoirs of contentment. 
+
+If you were an eighteen-year-old youth in a small village 5,000 years ago you’d probably think you were good-looking because there were only fifty other men in your village and most of them were either old, scarred and wrinkled, or still little kids. But if you are a teenager today you are a lot more likely to feel inadequate. Even if the other guys at school are an ugly lot, you don’t measure yourself against them but against the movie stars, athletes and supermodels you see all day on television, Facebook and giant billboards.
+
+ maybe Third World discontent is fomented not merely by poverty, disease, corruption and political oppression but also by mere exposure to First World standards.
+ 
+If that’s the case, even immortality might lead to discontent. Suppose science comes up with cures for all diseases, effective anti-ageing therapies and regenerative treatments that keep people indefinitely young. In all likelihood, the immediate result will be an unprecedented epidemic of anger and anxiety.
+
+Throughout history, the poor and oppressed comforted themselves with the thought that at least death is even-handed – that the rich and powerful will also die. The poor will not be comfortable with the thought that they have to die, while the rich will remain young and beautiful for ever.
+
+![45. In previous eras the standard of beauty was set by the handful of people who lived next door to you. Today the media and the fashion industry expose us to a totally unrealistic standard of beauty. They search out the most gorgeous people on the planet, and then parade them constantly before our eyes. No wonder we are far less happy with the way we look.](./assets/figure45.jpg)
+45. In previous eras the standard of beauty was set by the handful of people who lived next door to you. Today the media and the fashion industry expose us to a totally unrealistic standard of beauty. They search out the most gorgeous people on the planet, and then parade them constantly before our eyes. No wonder we are far less happy with the way we look.
+
+But the tiny minority able to afford the new treatments will not be euphoric either. They will have much to be anxious about. Although the new therapies could extend life and youth, they cannot revive corpses. How dreadful to think that I and my loved ones can live for ever, but only if we don’t get hit by a truck or blown to smithereens by a terrorist! Potentially a-mortal people are likely to grow averse to taking even the slightest risk, and the agony of losing a spouse, child or close friend will be unbearable.
+
+#### Chemical Happiness
+
+Social scientists distribute subjective well-being questionnaires and correlate the results with socio-economic factors such as wealth and political freedom. Biologists use the same questionnaires, but correlate the answers people give them with biochemical and genetic factors. Their findings are shocking. Biologists hold that our mental and emotional world is governed by biochemical mechanisms shaped by millions of years of evolution. Like all other mental states, our subjective well-being is not determined by external parameters such as salary, social relations or political rights. Rather, it is determined by a complex system of nerves, neurons, synapses and various biochemical substances such as serotonin, dopamine and oxytocin. 
+
+Nobody is ever made happy by winning the lottery, buying a house, getting a promotion or even finding true love. People are made happy by one thing and one thing only – pleasant sensations in their bodies. A person who just won the lottery or found new love and jumps from joy is not really reacting to the money or the lover. She is reacting to various hormones coursing through her bloodstream, and to the storm of electric signals flashing between different parts of her brain.
+
+Unfortunately for all hopes of creating heaven on earth, our internal biochemical system seems to be programmed to keep happiness levels relatively constant. There’s no natural selection for happiness as such – a happy hermit’s genetic line will go extinct as the genes of a pair of anxious parents get carried on to the next generation. Happiness and misery play a role in evolution only to the extent that they encourage or discourage survival and reproduction. Perhaps it’s not surprising, then, that evolution has moulded us to be neither too miserable nor too happy. It enables us to enjoy a momentary rush of pleasant sensations, but these never last for ever. Sooner or later they subside and give place to unpleasant sensations.
+
+If orgasms were to last for ever, the very happy males would die of hunger for lack of interest in food, and would not take the trouble to look for additional fertile females.
+
+Some scholars compare human biochemistry to an air-conditioning system that keeps the temperature constant, come heatwave or snowstorm. Events might momentarily change the temperature, but the air-conditioning system always returns the temperature to the same set point.
+
+Some air-conditioning systems are set at twenty-five degrees Celsius. Others are set at twenty degrees. Human happiness conditioning systems also differ from person to person. On a scale from one to ten, some people are born with a cheerful biochemical system that allows their mood to swing between levels six and ten, stabilising with time at eight. Such a person is quite happy even if she lives in an alienating big city, loses all her money in a stock-exchange crash and is diagnosed with diabetes. Other people are cursed with a gloomy biochemistry that swings between three and seven and stabilises at five. Such an unhappy person remains depressed even if she enjoys the support of a tight-knit community, wins millions in the lottery and is as healthy as an Olympic athlete.
+
+ We tend to believe that if we could just change our workplace, get married, finish writing that novel, buy a new car or repay the mortgage, we would be on top of the world. Yet when we get what we desire we don’t seem to be any happier. 
+ 
+Buying cars and writing novels do not change our biochemistry. They can startle it for a fleeting moment, but it is soon back to its set point.
+
+It is true that married people are happier than singles and divorcees, but that does not necessarily mean that marriage produces happiness. It could be that happiness causes marriage. Or more correctly, that serotonin, dopamine and oxytocin bring about and maintain a marriage. People who are born with a cheerful biochemistry are generally happy and content. Such people are more attractive spouses, and consequently they have a greater chance of getting married. They are also less likely to divorce, because it is far easier to live with a happy and content spouse than with a depressed and dissatisfied one.
+
+most biologists are not fanatics. They maintain that happiness is determined mainly by biochemistry, but they agree that psychological and sociological factors also have their place.
+
+It is almost impossible to exceed the upper and lower emotional boundaries, but marriage and divorce can have an impact in the area between the two. Somebody born with an average of level five happiness would never dance wildly in the streets. But a good marriage should enable her to enjoy level seven from time to time, and to avoid the despondency of level three.
+
+Compare a medieval French peasant to a modern Parisian banker. The peasant lived in an unheated mud hut overlooking the local pigsty, while the banker goes home to a splendid penthouse with all the latest technological gadgets and a view to the Champs-Elysées. Intuitively, we would expect the banker to be much happier than the peasant. However, mud huts, penthouses and the Champs-Elysées don’t really determine our mood. Serotonin does. When the medieval peasant completed the construction of his mud hut, his brain neurons secreted serotonin, bringing it up to level X. When in 2014 the banker made the last payment on his wonderful penthouse, brain neurons secreted a similar amount of serotonin, bringing it up to a similar level X. It makes no difference to the brain that the penthouse is far more comfortable than the mud hut. The only thing that matters is that at present the level of serotonin is X. Consequently the banker would not be one iota happier than his great-great-great-grandfather, the poor medieval peasant.
+
+Despite all the political, social, ideological and economic upheavals brought about by the revolution, its impact on French happiness was small. Those who won a cheerful biochemistry in the genetic lottery were just as happy before the revolution as after. Those with a gloomy biochemistry complained about Robespierre and Napoleon with the same bitterness with which they earlier complained about Louis XVI and Marie Antoinette.
+
+
+If so, what good was the French Revolution? If people did not become any happier, then what was the point of all that chaos, fear, blood and war? Biologists would never have stormed the Bastille. People think that this political revolution or that social reform will make them happy, but their biochemistry tricks them time and again.
+
+Today, when we finally realise that the keys to happiness are in the hands of our biochemical system, we can stop wasting our time on politics and social reforms, putsches and ideologies, and focus instead on the only thing that can make us truly happy: manipulating our biochemistry. If we invest billions in understanding our brain chemistry and developing appropriate treatments, we can make people far happier than ever before, without any need of revolutions.
+
+Money, social status, plastic surgery, beautiful houses, powerful positions – none of these will bring you happiness. Lasting happiness comes only from serotonin, dopamine and oxytocin.
+
+#### The Meaning of Life
+ 
+Huxley’s disconcerting world is based on the biological assumption that happiness equals pleasure. To be happy is no more and no less than experiencing pleasant bodily sensations. Since our biochemistry limits the volume and duration of these sensations, the only way to make people experience a high level of happiness over an extended period of time is to manipulate their biochemical system.
+
+In a famous study, Daniel Kahneman, winner of the Nobel Prize in economics, asked people to recount a typical work day, going through it episode by episode and evaluating how much they enjoyed or disliked each moment. He discovered what seems to be a paradox in most people’s view of their lives. Take the work involved in raising a child. Kahneman found that when counting moments of joy and moments of drudgery, bringing up a child turns out to be a rather unpleasant affair. It consists largely of changing nappies, washing dishes and dealing with temper tantrums, which nobody likes to do. Yet most parents declare that their children are their chief source of happiness. Does it mean that people don’t really know what’s good for them?
+
+findings demonstrate that happiness is not the surplus of pleasant over unpleasant moments. Rather, happiness consists in seeing one’s life in its entirety as meaningful and worthwhile. 
+
+There is an important cognitive and ethical component to happiness. Our values make all the difference to whether we see ourselves as ‘miserable slaves to a baby dictator’ or as ‘lovingly nurturing a new life’.
+
+As Nietzsche put it, if you have a why to live, you can bear almost any how. 
+
+A meaningful life can be extremely satisfying even in the midst of hardship, whereas a meaningless life is a terrible ordeal no matter how comfortable it is.
+
+ Assessing life minute by minute, medieval people certainly had it rough. However, if they believed the promise of everlasting bliss in the afterlife, they may well have viewed their lives as far more meaningful and worthwhile than modern secular people, who in the long term can expect nothing but complete and meaningless oblivion.
+ 
+So our medieval ancestors were happy because they found meaning to life in collective delusions about the afterlife? Yes.
+
+As far as we can tell, from a purely scientific viewpoint, human life has absolutely no meaning. 
+ 
+Humans are the outcome of blind evolutionary processes that operate without goal or purpose. 
+
+Our actions are not part of some divine cosmic plan, and if planet Earth were to blow up tomorrow morning, the universe would probably keep going about its business as usual. As far as we can tell at this point, human subjectivity would not be missed.
+
+Perhaps happiness is synchronising one’s personal delusions of meaning with the prevailing collective delusions. As long as my personal narrative is in line with the narratives of the people around me, I can convince myself that my life is meaningful, and find happiness in that conviction. This is quite a depressing conclusion. Does happiness really depend on self-delusion?
+
+#### Know Thyself
+
+If happiness is based on feeling pleasant sensations, then in order to be happier we need to re-engineer our biochemical system. If happiness is based on feeling that life is meaningful, then in order to be happier we need to delude ourselves more effectively.
+
+in order to judge people’s happiness, all we need to do is ask them how they feel. 
+
+To many of us, that seems logical because the dominant religion of our age is liberalism. Liberalism sanctifies the subjective feelings of individuals. It views these feelings as the supreme source of authority. What is good and what is bad, what is beautiful and what is ugly, what ought to be and what ought not to be, are all determined by what each one of us feels.
+
+Liberal politics is based on the idea that the voters know best, and there is no need for Big Brother to tell us what is good for us. Liberal economics is based on the idea that the customer is always right... ...Students in liberal schools and universities are taught to think for themselves. Commercials urge us to ‘Just do it!’ Action films, stage dramas, soap operas, novels and catchy pop songs indoctrinate us constantly: ‘Be true to yourself’, ‘Listen to yourself’, ‘Follow your heart’.
+
+Rousseau stated this view most classically: ‘What I feel to be good – is good. What I feel to be bad – is bad.’
+
+At the entrance of the temple of Apollo at Delphi, pilgrims were greeted by the inscription: ‘Know thyself!’ The implication was that the average person is ignorant of his true self, and is therefore likely to be ignorant of true happiness.
+
+From a Christian viewpoint, the vast majority of people are in more or less the same situation as heroin addicts. Imagine that a psychologist embarks on a study of happiness among drug users. He polls them and finds that they declare, every single one of them, that they are only happy when they shoot up. Would the psychologist publish a paper declaring that heroin is the key to happiness?
+ 
+ 
+The idea that feelings are not to be trusted is not restricted to Christianity. At least when it comes to the value of feelings, even Darwin and Dawkins might find common ground with St Paul and St Augustine. According to the selfish gene theory, natural selection makes people, like other organisms, choose what is good for the reproduction of their genes, even if it is bad for them as individuals. 
+
+Most males spend their lives toiling, worrying, competing and fighting, instead of enjoying peaceful bliss, because their DNA manipulates them for its own selfish aims. Like Satan, DNA uses fleeting pleasures to tempt people and place them in its power.
+
+Buddhism has assigned the question of happiness more importance than perhaps any other human creed. For 2,500 years, Buddhists have systematically studied the essence and causes of happiness, which is why there is a growing interest among the scientific community both in their philosophy and their meditation practices. Buddhism shares the basic insight of the biological approach to happiness, namely that happiness results from processes occurring within one’s body, and not from events in the outside world. However, starting from the same insight, Buddhism reaches very different conclusions. According to Buddhism, most people identify happiness with pleasant feelings, while identifying suffering with unpleasant feelings. People consequently ascribe immense importance to what they feel, craving to experience more and more pleasures, while avoiding pain. Whatever we do throughout our lives, whether scratching our leg, fidgeting slightly in the chair, or fighting world wars, we are just trying to get pleasant feelings.
+
+
+
 ### 20 The End of Homo Sapiens
 
 
