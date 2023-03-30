@@ -3307,7 +3307,6 @@ Compare a medieval French peasant to a modern Parisian banker. The peasant lived
 
 Despite all the political, social, ideological and economic upheavals brought about by the revolution, its impact on French happiness was small. Those who won a cheerful biochemistry in the genetic lottery were just as happy before the revolution as after. Those with a gloomy biochemistry complained about Robespierre and Napoleon with the same bitterness with which they earlier complained about Louis XVI and Marie Antoinette.
 
-
 If so, what good was the French Revolution? If people did not become any happier, then what was the point of all that chaos, fear, blood and war? Biologists would never have stormed the Bastille. People think that this political revolution or that social reform will make them happy, but their biochemistry tricks them time and again.
 
 Today, when we finally realise that the keys to happiness are in the hands of our biochemical system, we can stop wasting our time on politics and social reforms, putsches and ideologies, and focus instead on the only thing that can make us truly happy: manipulating our biochemistry. If we invest billions in understanding our brain chemistry and developing appropriate treatments, we can make people far happier than ever before, without any need of revolutions.
@@ -3363,11 +3362,162 @@ Most males spend their lives toiling, worrying, competing and fighting, instead 
 
 Buddhism has assigned the question of happiness more importance than perhaps any other human creed. For 2,500 years, Buddhists have systematically studied the essence and causes of happiness, which is why there is a growing interest among the scientific community both in their philosophy and their meditation practices. Buddhism shares the basic insight of the biological approach to happiness, namely that happiness results from processes occurring within one’s body, and not from events in the outside world. However, starting from the same insight, Buddhism reaches very different conclusions. According to Buddhism, most people identify happiness with pleasant feelings, while identifying suffering with unpleasant feelings. People consequently ascribe immense importance to what they feel, craving to experience more and more pleasures, while avoiding pain. Whatever we do throughout our lives, whether scratching our leg, fidgeting slightly in the chair, or fighting world wars, we are just trying to get pleasant feelings.
 
+The problem, according to Buddhism, is that our feelings are no more than fleeting vibrations, changing every moment, like the ocean waves. If five minutes ago I felt joyful and purposeful, now these feelings are gone, and I might well feel sad and dejected... ...According to Buddhism, the root of suffering is neither the feeling of pain nor of sadness nor even of meaninglessness. Rather, the real root of suffering is this never-ending and pointless pursuit of ephemeral feelings, which causes us to be in a constant state of tension, restlessness and dissatisfaction.
 
+Due to this pursuit, the mind is never satisfied. Even when experiencing pleasure, it is not content, because it fears this feeling might soon disappear, and craves that this feeling should stay and intensify.
+
+People are liberated from suffering not when they experience this or that fleeting pleasure, but rather when they understand the impermanent nature of all their feelings, and stop craving them.
+
+In meditation, you are supposed to closely observe your mind and body, witness the ceaseless arising and passing of all your feelings, and realise how pointless it is to pursue them.
+
+Once you stop craving particular feelings, you can just accept them for what they are. You live in the present moment instead of fantasising about what might have been.
+
+This idea is so alien to modern liberal culture that when Western New Age movements encountered Buddhist insights, they translated them into liberal terms, thereby turning them on their head.
+
+Buddha agreed with modern biology and New Age movements that happiness is independent of external conditions. Yet his more important and far more profound insight was that true happiness is also independent of our inner feelings. Indeed, the more significance we give our feelings, the more we crave them, and the more we suffer.
+
+Buddha’s recommendation was to stop not only the pursuit of external achievements, but also the pursuit of inner feelings.
+ 
+subjective well-being questionnaires identify our well-being with our subjective feelings, and identify the pursuit of happiness with the pursuit of particular emotional states. In contrast, for many traditional philosophies and religions, such as Buddhism, the key to happiness is to know the truth about yourself – to understand who, or what, you really are.
+
+ Most people wrongly identify themselves with their feelings, thoughts, likes and dislikes. When they feel anger, they think, ‘I am angry. This is my anger.’ They consequently spend their life avoiding some kinds of feelings and pursuing others.
+
+Maybe it isn’t so important whether people’s expectations are fulfilled and whether they enjoy pleasant feelings.
+
+The main question is whether people know the truth about themselves. What evidence do we have that people today understand this truth any better than ancient foragers or medieval peasants?
+
+Scholars began to study the history of happiness only a few years ago, and we are still formulating initial hypotheses and searching for appropriate research methods. It’s much too early to adopt rigid conclusions and end a debate that’s hardly yet begun. What is important is to get to know as many different approaches as possible and to ask the right questions.
+
+Most history books focus on the ideas of great thinkers, the bravery of warriors, the charity of saints and the creativity of artists. They have much to tell about the weaving and unravelling of social structures, about the rise and fall of empires, about the discovery and spread of technologies. Yet they say nothing about how all this influenced the happiness and suffering of individuals. This is the biggest lacuna in our understanding of history. We had better start filling it.
+
+Paradoxically, while psychological studies of subjective well-being rely on people’s ability to diagnose their happiness correctly, the basic raison d’être of psychotherapy is that people don’t really know themselves and that they sometimes need professional help to free themselves of self-destructive behaviours.
 
 ### 20 The End of Homo Sapiens
 
+no matter what their efforts and achievements, Sapiens are incapable of breaking free of their biologically determined limits.
 
+At the dawn of the twenty-first century, this is no longer true: Homo sapiens is transcending those limits. It is now beginning to break the laws of natural selection, replacing them with the laws of intelligent design.
+
+The beauty of Darwin’s theory is that it does not need to assume an intelligent designer to explain how giraffes ended up with long necks. For billions of years, intelligent design was not even an option, because there was no intelligence which could design things.
+
+The first crack in the old regime appeared about 10,000 years ago, during the Agricultural Revolution. Sapiens who dreamed of fat, slow-moving chickens discovered that if they mated the fattest hen with the slowest cock, some of their offspring would be both fat and slow. If you mated those offspring with each other, you could produce a line of fat, slow birds. It was a race of chickens unknown to nature, produced by the intelligent design not of a god but of a human.
+
+Today, the 4-billion-year-old regime of natural selection is facing a completely different challenge. In laboratories throughout the world, scientists are engineering living beings. They break the laws of natural selection with impunity, unbridled even by an organisms original characteristics. 
+
+Eduardo Kac, a Brazilian bio-artist, decided in 2000 to create a new work of art: a fluorescent green rabbit. Kac contacted a French laboratory and offered it a fee to engineer a radiant bunny according to his specifications. The French scientists took a run-of-the-mill white rabbit embryo, implanted in its DNA a gene taken from a green fluorescent jellyfish, and voilà! One green fluorescent rabbit for le monsieur. Kac named the rabbit Alba.
+
+If the potential Alba signifies is realised in full – and if humankind doesn’t annihilate itself meanwhile – the Scientific Revolution might prove itself far greater than a mere historical revolution. It may turn out to be the most important biological revolution since the appearance of life on earth.
+
+If this happens, the whole of human history up to that point might, with hindsight, be reinterpreted as a process of experimentation and apprenticeship that revolutionised the game of life. Such a process should be understood from a cosmic perspective of billions of years, rather than from a human perspective of millennia.
+
+Biologists the world over are locked in battle with the intelligent-design movement, which opposes the teaching of Darwinian evolution in schools and claims that biological complexity proves there must be a creator who thought out all biological details in advance. The biologists are right about the past, but the proponents of intelligent design might, ironically, be right about the future.
+
+At the time of writing, the replacement of natural selection by intelligent design could happen in any of three ways: through biological engineering, cyborg engineering (cyborgs are beings that combine organic with non-organic parts) or the engineering of inorganic life.
+
+#### Of Mice and Men
+
+Biological engineering is deliberate human intervention on the biological level (e.g. implanting a gene) aimed at modifying an organisms shape, capabilities, needs or desires, in order to realize some preconceived cultural idea
+
+Humans have been castrating bulls for perhaps 10,000 years in order to create oxen. Oxen are less aggressive, and are thus easier to train to pull ploughs. Humans also castrated their own young males to create soprano singers with enchanting voices and eunuchs who could safely be entrusted with overseeing the sultans harem.
+
+we can today not merely castrate a man, but also change his sex through surgical and hormonal treatments.
+
+![46. A mouse on whose back scientists grew an ‘ear’ made of cattle cartilage cells. It is an eerie echo of the lion-man statue from the Stadel Cave. Thirty thousand years ago, humans were already fantasising about combining different species. Today, they can actually produce such chimeras](./assets/figure46.jpg)
+46. A mouse on whose back scientists grew an ‘ear’ made of cattle cartilage cells. It is an eerie echo of the lion-man statue from the Stadel Cave. Thirty thousand years ago, humans were already fantasising about combining different species. Today, they can actually produce such chimeras
+
+The process may soon enable scientists to manufacture artificial ears, which could then be implanted in humans. Even more remarkable wonders can be performed with genetic engineering, which is why it raises a host of ethical, political and ideological issues.
+
+ Human-rights activists are afraid that genetic engineering might be used to create supermen who will make serfs of the rest of us.
+ 
+ The prevailing feeling is that too many opportunities are opening too quickly and that our ability to modify genes is outpacing our capacity for making wise and far-sighted use of the skill.
+ 
+The result is that we’re at present using only a fraction of the potential of genetic engineering. Most of the organisms now being engineered are those with the weakest political lobbies – plants, fungi, bacteria and insects. For example, lines of E. coli, a bacterium that lives symbiotically in the human gut (and which makes headlines when it gets out of the gut and causes deadly infections), have been genetically engineered to produce biofuel
+
+A gene extracted from an Arctic fish has been inserted into potatoes, making the plants more frost-resistant.
+ 
+The pork industry, which has suffered from falling sales because consumers are wary of the unhealthy fats in ham and bacon, has hopes for a still-experimental line of pigs implanted with genetic material from a worm. The new genes cause the pigs to turn bad omega 6 fatty acid into its healthy cousin, omega 3. The next generation of genetic engineering will make pigs with good fat look like child’s play.
+
+Voles are small, stout rodents resembling mice, and most varieties of voles are promiscuous. But there is one species in which boy and girl voles form lasting and monogamous relationships. Geneticists claim to have isolated the genes responsible for vole monogamy. If the addition of a gene can turn a vole Don Juan into a loyal and loving husband, are we far off from being able to genetically engineer not only the individual abilities of rodents (and humans), but also their social structures?
+
+#### The Return of the Neanderthals
+
+ A team of Russian, Japanese and Korean scientists has recently mapped the genome of ancient mammoths, found frozen in the Siberian ice. They now plan to take a fertilised egg-cell of a present-day elephant, replace the elephantine DNA with a reconstructed mammoth DNA, and implant the egg in the womb of an elephant. After about twenty-two months, they expect the first mammoth in 5,000 years to be born.
+ 
+What do we need Neanderthals for? Some argue that if we could study live Neanderthals, we could answer some of the most nagging questions about the origins and uniqueness of Homo sapiens. By comparing a Neanderthal to a Homo sapiens brain, and mapping out where their structures differ, perhaps we could identify what biological change produced consciousness as we experience it. There’s an ethical reason, too – some have argued that if Homo sapiens was responsible for the extinction of the Neanderthals, it has a moral duty to resurrect them. And having some Neanderthals around might be useful. Lots of industrialists would be glad to pay one Neanderthal to do the menial work of two Sapiens.
+
+But why stop even at Neanderthals? Why not go back to God’s drawing board and design a better Sapiens? The abilities, needs and desires of Homo sapiens have a genetic basis, and the Sapiens genome is no more complex than that of voles and mice. (The mouse genome contains about 2.5 billion nucleobases, the Sapiens genome about 2.9 billion bases – meaning the latter is only 14 per cent larger.)11 In the medium range – perhaps in a few decades – genetic engineering and other forms of biological engineering might enable us to make far-reaching alterations not only to our physiology, immune system and life expectancy, but also to our intellectual and emotional capacities.
+
+The Cognitive Revolution that turned Homo sapiens from an insignificant ape into the master of the world did not require any noticeable change in physiology or even in the size and external shape of the Sapiens brain. It apparently involved no more than a few small changes to internal brain structure. Perhaps another small change would be enough to ignite a Second Cognitive Revolution, create a completely new type of consciousness, and transform Homo sapiens into something altogether different.
+
+The main obstacles are the ethical and political objections that have slowed down research on humans. And no matter how convincing the ethical arguments may be, it is hard to see how they can hold back the next step for long, especially if what is at stake is the possibility of prolonging human life indefinitely, conquering incurable diseases, and upgrading our cognitive and emotional abilities.
+ 
+It’s unclear whether bioengineering could really resurrect the Neanderthals, but it would very likely bring down the curtain on Homo sapiens. Tinkering with our genes won’t necessarily kill us. But we might fiddle with Homo sapiens to such an extent that we would no longer be Homo sapiens.
+
+#### Bionic Life
+
+In a sense, nearly all of us are bionic these days, since our natural senses and functions are supplemented by devices such as eyeglasses, pacemakers, orthotics, and even computers and mobile phones (which relieve our brains of some of their data storage and processing burdens).
+
+The Defense Advanced Research Projects Agency (DARPA), a US military research agency, is developing cyborgs out of insects. The idea is to implant electronic chips, detectors and processors in the body of a fly or cockroach, which will enable either a human or an automatic operator to control the insect’s movements remotely and to absorb and transmit information. Such a fly could be sitting on the wall at enemy headquarters, eavesdrop on the most secret conversations, and if it isn’t caught first by a spider, could inform us exactly what the enemy is planning.
+
+ Scientists believe that we will soon have bionic arms that will not only move when willed to move, but will also be able to transmit signals back to the brain, thereby enabling amputees to regain even the sensation of touch!
+ 
+ 
+![47. Jesse Sullivan and Claudia Mitchell holding hands. The amazing thing about their bionic arms is that they are operated by thought.](./assets/figure47.jpg)
+47. Jesse Sullivan and Claudia Mitchell holding hands. The amazing thing about their bionic arms is that they are operated by thought.
+ 
+Bionic arms have the advantage that they can be replaced every few years, or detached from the body and operated at a distance.
+
+Another rhesus monkey, Idoya, won world fame in 2008 when she thought-controlled a pair of bionic legs in Kyoto, Japan, from her North Carolina chair. The legs were twenty times Idoya’s weight.
+ 
+ Of all the projects currently under development, the most revolutionary is the attempt to devise a direct two-way brain-computer interface that will allow computers to read the electrical signals of a human brain, simultaneously transmitting signals that the brain can read in turn. What if such interfaces are used to directly link a brain to the Internet, or to directly link several brains to each other, thereby creating a sort of Inter-brain-net? What might happen to human memory, human consciousness and human identity if the brain has direct access to a collective memory bank?
+
+ What happens to concepts such as the self and gender identity when minds become collective?
+
+Such a cyborg would no longer be human, or even organic. It would be something completely different. It would be so fundamentally another kind of being that we cannot even grasp the philosophical, psychological or political implications.
+
+#### Another Life
+
+The third way to change the laws of life is to engineer completely inorganic beings. The most obvious examples are computer programs and computer viruses that can undergo independent evolution.
+
+Many programmers dream of creating a program that could learn and evolve completely independently of its creator. In this case, the programmer would be a primum mobile, a first mover, but his creation would be free to evolve in directions neither its maker nor any other human could ever have envisaged.
+
+suppose you could back up your brain to a portable hard drive and then run it on your laptop. Would your laptop be able to think and feel just like a Sapiens? If so, would it be you or someone else? What if computer programmers could create an entirely new but digital mind, composed of computer code, complete with a sense of self, consciousness and memory? If you ran the program on your computer, would it be a person? If you deleted it could you be charged with murder?
+
+The Human Brain Project, founded in 2005, hopes to recreate a complete human brain inside a computer, with electronic circuits in the computer emulating neural networks in the brain. The projects director has claimed that, if funded properly, within a decade or two we could have an artificial human brain inside a computer that could talk and behave very much as a human does.
+
+#### The Singularity
+
+Our ability to engineer not merely the world around us, but above all the world inside our bodies and minds, is developing at breakneck speed. More and more spheres of activity are being shaken out of their complacent ways. Lawyers need to rethink issues of privacy and identity; governments are faced with rethinking matters of health care and equality;
+
+Pension funds and labour markets should readjust to a world in which sixty might be the new thirty.
+
+The era of personalized medicine – medicine that matches treatment to DNA – has begun. The family doctor could soon tell you with greater certainty that you face high risks of liver cancer, whereas you needn’t worry too much about heart attacks.
+
+The road to near-perfect medicine stands before us.
+
+with improvements in medical knowledge will come new ethical conundrums. Ethicists and legal experts are already wrestling with the thorny issue of privacy as it relates to DNA. Would insurance companies be entitled to ask for our DNA scans and to raise premiums if they discover a genetic tendency to reckless behaviour? Would we be required to fax our DNA, rather than our CV, to potential employers?
+
+It is obvious that one can own a particular chicken, but can one own an entire species?
+ 
+The Universal Declaration of Human Rights, government medical programmes throughout the world, national health insurance programmes and national constitutions worldwide recognise that a humane society ought to give all its members fair medical treatment and keep them in relatively good health. That was all well and good as long as medicine was chiefly concerned with preventing illness and healing the sick. What might happen once medicine becomes preoccupied with enhancing human abilities? Would all humans be entitled to such enhanced abilities, or would there be a new superhuman elite?
+
+the real potential of future technologies is to change Homo sapiens itself, including our emotions and desires, and not merely our vehicles and weapons. 
+
+What is a spaceship compared to an eternally young cyborg who does not breed and has no sexuality, who can share thoughts directly with other beings, whose abilities to focus and remember are a thousand times greater than our own, and who is never angry or sad, but has emotions and desires that we cannot begin to imagine?
+
+Producing a film about the life of some super-cyborg is akin to producing Hamlet for an audience of Neanderthals.
+
+the future masters of the world will probably be more different from us than we are from Neanderthals. Whereas we and the Neanderthals are at least human, our inheritors will be godlike.
+
+Physicists define the Big Bang as a singularity. It is a point at which all the known laws of nature did not exist. Time too did not exist. It is thus meaningless to say that anything existed ‘before’ the Big Bang. We may be fast approaching a new singularity, when all the concepts that give meaning to our world – me, you, men, women, love and hate – will become irrelevant. Anything happening beyond that point is meaningless to us.
+
+#### The Frankenstein Prophecy
+
+In 1818 Mary Shelley published Frankenstein, the story of a scientist who creates an artificial being that goes out of control and wreaks havoc. In the last two centuries, the same story has been told over and over again in countless versions. It has become a central pillar of our new scientific mythology. At first sight, the Frankenstein story appears to warn us that if we try to play God and engineer life we will be punished severely. Yet the story has a deeper meaning. The Frankenstein myth confronts Homo sapiens with the fact that the last days are fast approaching. Unless some nuclear or ecological catastrophe intervenes, so goes the story, the pace of technological development will soon lead to the replacement of Homo sapiens by completely different beings who possess not only different physiques, but also very different cognitive and emotional worlds.
+
+We like to believe that in the future people just like us will travel from planet to planet in fast spaceships. We don’t like to contemplate the possibility that in the future, beings with emotions and identities like ours will no longer exist, and our place will be taken by alien life forms whose abilities dwarf our own.
+
+We would have a hard time swallowing the fact that scientists could engineer spirits as well as bodies, and that future Dr Frankensteins could therefore create something truly superior to us, something that will look at us as condescendingly as we look at the Neanderthals.
 
 ## Afterword:
 
