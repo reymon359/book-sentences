@@ -17,6 +17,8 @@
     
  - [History](Genre/History.md)
     
+ - [History](Genre/History.md)
+    
  - [JavaScript](Genre/JavaScript.md)
     
  - [Juvenile Fiction](Genre/Juvenile%20Fiction.md)
@@ -38,6 +40,8 @@
  - [Productivity](Genre/Productivity.md)
     
  - [Psychology](Genre/Psychology.md)
+    
+ - [Science](Genre/Science.md)
     
  - [Science fiction](Genre/Science%20fiction.md)
     
