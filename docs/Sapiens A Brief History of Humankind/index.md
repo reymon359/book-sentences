@@ -7,34 +7,129 @@ Yuval Noah Harari - 2011
 
 ## Table of Contents
 
-## Timeline of History
-## Part One The Cognitive Revolution
-### 1 An Animal of No Significance
-### 2 The Tree of Knowledge
-### 3 A Day in the Life of Adam and Eve
-### 4 The Flood
-## Part Two The Agricultural Revolution
-### 5 History’s Biggest Fraud
-### 6 Building Pyramids
-### 7 Memory Overload
-### 8 There is No Justice in History
-## Part Three The Unification of Humankind
-### 9 The Arrow of History
-### 10 The Scent of Money
-### 11 Imperial Visions
-### 12 The Law of Religion
-### 13 The Secret of Success
-## Part Four The Scientific Revolution
-### 14 The Discovery of Ignorance
-### 15 The Marriage of Science and Empire
-### 16 The Capitalist Creed
-### 17 The Wheels of Industry
-### 18 A Permanent Revolution
-### 19 And They Lived Happily Ever After
-### 20 The End of Homo Sapiens
-## Afterword:
-## The Animal that Became a God
-## Notes
+- [Sapiens A Brief History of Humankind](#sapiens-a-brief-history-of-humankind)
+  - [Table of Contents](#table-of-contents)
+  - [Timeline of History](#timeline-of-history)
+  - [Part One The Cognitive Revolution](#part-one-the-cognitive-revolution)
+    - [1 An Animal of No Significance](#1-an-animal-of-no-significance)
+      - [Skeletons in the Closet](#skeletons-in-the-closet)
+      - [The Cost of Thinking](#the-cost-of-thinking)
+      - [A Race of Cooks](#a-race-of-cooks)
+      - [Our Brothers’ Keepers](#our-brothers-keepers)
+    - [2 The Tree of Knowledge](#2-the-tree-of-knowledge)
+      - [The Legend of Peugeot](#the-legend-of-peugeot)
+      - [Bypassing the Genome](#bypassing-the-genome)
+      - [What happened in the Cognitive Revolution?](#what-happened-in-the-cognitive-revolution)
+      - [History and Biology](#history-and-biology)
+    - [3 A Day in the Life of Adam and Eve](#3-a-day-in-the-life-of-adam-and-eve)
+      - [The Original Affluent Society](#the-original-affluent-society)
+      - [Talking Ghosts](#talking-ghosts)
+      - [Peace or War?](#peace-or-war)
+      - [The Curtain of Silence](#the-curtain-of-silence)
+    - [4 The Flood](#4-the-flood)
+      - [Guilty as Charged](#guilty-as-charged)
+      - [The End of Sloth](#the-end-of-sloth)
+      - [Noah’s Ark](#noahs-ark)
+  - [Part Two The Agricultural Revolution](#part-two-the-agricultural-revolution)
+    - [5 History’s Biggest Fraud](#5-historys-biggest-fraud)
+      - [The Luxury Trap](#the-luxury-trap)
+      - [Divine Intervention](#divine-intervention)
+      - [Victims of the Revolution](#victims-of-the-revolution)
+    - [6 Building Pyramids](#6-building-pyramids)
+      - [The Coming of the Future](#the-coming-of-the-future)
+      - [An Imagined Order](#an-imagined-order)
+      - [True Believers](#true-believers)
+      - [The Prison Walls](#the-prison-walls)
+    - [7 Memory Overload](#7-memory-overload)
+      - [Signed, Kushim](#signed-kushim)
+      - [The Wonders of Bureaucracy](#the-wonders-of-bureaucracy)
+      - [The Language of Numbers](#the-language-of-numbers)
+    - [8 There is No Justice in History](#8-there-is-no-justice-in-history)
+      - [The Vicious Circle](#the-vicious-circle)
+      - [Purity in America](#purity-in-america)
+      - [He and She](#he-and-she)
+      - [Sex and Gender](#sex-and-gender)
+      - [What’s So Good About Men?](#whats-so-good-about-men)
+      - [Muscle Power](#muscle-power)
+      - [The Scum of Society](#the-scum-of-society)
+      - [Patriarchal Genes](#patriarchal-genes)
+  - [Part Three The Unification of Humankind](#part-three-the-unification-of-humankind)
+    - [9 The Arrow of History](#9-the-arrow-of-history)
+      - [The Spy Satellite](#the-spy-satellite)
+      - [The Global Vision](#the-global-vision)
+    - [10 The Scent of Money](#10-the-scent-of-money)
+      - [How Much is It?](#how-much-is-it)
+      - [Shells and Cigarettes](#shells-and-cigarettes)
+      - [How Does Money Work?](#how-does-money-work)
+      - [The Gospel of Gold](#the-gospel-of-gold)
+      - [The Price of Money](#the-price-of-money)
+    - [11 Imperial Visions](#11-imperial-visions)
+      - [What is an Empire?](#what-is-an-empire)
+      - [Evil Empires?](#evil-empires)
+      - [It’s for Your Own Good](#its-for-your-own-good)
+      - [When They Become Us](#when-they-become-us)
+      - [The Imperial Cycle](#the-imperial-cycle)
+      - [Good Guys and Bad Guys in History](#good-guys-and-bad-guys-in-history)
+      - [The New Global Empire](#the-new-global-empire)
+    - [12 The Law of Religion](#12-the-law-of-religion)
+      - [Silencing the Lambs](#silencing-the-lambs)
+      - [The Benefits of Idolatry](#the-benefits-of-idolatry)
+      - [God is One](#god-is-one)
+      - [The Battle of Good and Evil](#the-battle-of-good-and-evil)
+      - [The Law of Nature](#the-law-of-nature)
+      - [The Worship of Man](#the-worship-of-man)
+      - [Humanist Religions – Religions that Worship Humanity](#humanist-religions--religions-that-worship-humanity)
+    - [13 The Secret of Success](#13-the-secret-of-success)
+      - [1. The Hindsight Fallacy](#1-the-hindsight-fallacy)
+      - [2. Blind Clio](#2-blind-clio)
+  - [Part Four The Scientific Revolution](#part-four-the-scientific-revolution)
+    - [14 The Discovery of Ignorance](#14-the-discovery-of-ignorance)
+      - [Ignoramus](#ignoramus)
+      - [The Scientific Dogma](#the-scientific-dogma)
+      - [Knowledge is Power](#knowledge-is-power)
+      - [The Ideal of Progress](#the-ideal-of-progress)
+      - [The Gilgamesh Project](#the-gilgamesh-project)
+      - [The Sugar Daddy of Science](#the-sugar-daddy-of-science)
+    - [15 The Marriage of Science and Empire](#15-the-marriage-of-science-and-empire)
+      - [Why Europe?](#why-europe)
+      - [The Mentality of Conquest](#the-mentality-of-conquest)
+      - [Empty Maps](#empty-maps)
+      - [Invasion from Outer Space](#invasion-from-outer-space)
+      - [Rare Spiders and Forgotten Scripts](#rare-spiders-and-forgotten-scripts)
+    - [16 The Capitalist Creed](#16-the-capitalist-creed)
+      - [A Growing Pie](#a-growing-pie)
+      - [Columbus Searches for an Investor](#columbus-searches-for-an-investor)
+      - [In the Name of Capital](#in-the-name-of-capital)
+      - [The Cult of the Free Market](#the-cult-of-the-free-market)
+      - [The Capitalist Hell](#the-capitalist-hell)
+    - [17 The Wheels of Industry](#17-the-wheels-of-industry)
+      - [The Secret in the Kitchen](#the-secret-in-the-kitchen)
+      - [An Ocean of Energy](#an-ocean-of-energy)
+      - [Life on the Conveyor Belt](#life-on-the-conveyor-belt)
+      - [The Age of Shopping](#the-age-of-shopping)
+    - [18 A Permanent Revolution](#18-a-permanent-revolution)
+      - [Modern Time](#modern-time)
+      - [The Collapse of the Family and the Community](#the-collapse-of-the-family-and-the-community)
+      - [Imagined Communities](#imagined-communities)
+      - [Perpetuum Mobile](#perpetuum-mobile)
+      - [Peace in Our Time](#peace-in-our-time)
+      - [Imperial Retirement](#imperial-retirement)
+      - [Pax Atomica](#pax-atomica)
+    - [19 And They Lived Happily Ever After](#19-and-they-lived-happily-ever-after)
+      - [Counting Happiness](#counting-happiness)
+      - [Chemical Happiness](#chemical-happiness)
+      - [The Meaning of Life](#the-meaning-of-life)
+      - [Know Thyself](#know-thyself)
+    - [20 The End of Homo Sapiens](#20-the-end-of-homo-sapiens)
+      - [Of Mice and Men](#of-mice-and-men)
+      - [The Return of the Neanderthals](#the-return-of-the-neanderthals)
+      - [Bionic Life](#bionic-life)
+      - [Another Life](#another-life)
+      - [The Singularity](#the-singularity)
+      - [The Frankenstein Prophecy](#the-frankenstein-prophecy)
+  - [Afterword:](#afterword)
+    - [The Animal that Became a God](#the-animal-that-became-a-god)
+
 
 
 
@@ -3538,7 +3633,7 @@ The only thing we can try to do is to influence the direction scientists are tak
 
 ## Afterword:
 
-## The Animal that Became a God
+### The Animal that Became a God
 
 SEVENTY THOUSAND YEARS AGO, HOMO sapiens was still an insignificant animal minding its own business in a corner of Africa. In the following millennia it transformed itself into the master of the entire planet and the terror of the ecosystem. Today it stands on the verge of becoming a god, poised to acquire not only eternal youth, but also the divine abilities of creation and destruction.
 

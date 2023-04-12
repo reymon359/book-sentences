@@ -90,8 +90,6 @@
         
      - [History](./Genre/History.md)
         
-     - [History](./Genre/History.md)
-        
      - [JavaScript](./Genre/JavaScript.md)
         
      - [Juvenile Fiction](./Genre/Juvenile%20Fiction.md)
