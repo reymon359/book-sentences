@@ -3555,4 +3555,4 @@ We are more powerful than ever before, but have very little idea what to do with
 We are consequently wreaking havoc on our fellow animals and on the surrounding ecosystem, seeking little more than our own comfort and amusement, yet never finding satisfaction.
  
 Is there anything more dangerous than dissatisfied and irresponsible gods who don’t know what they want?
-<hr/><br/>[Read:](Read/index.md) [2022](Read/2022.md)<br/>[Genre:](Genre/index.md) [Anthropology](Genre/Anthropology.md) [History](Genre/History.md) [Philosophy](Genre/Philosophy.md)
+<hr/><br/>[Read:](Read/index.md) [2023](Read/2023.md)<br/>[Genre:](Genre/index.md) [Anthropology](Genre/Anthropology.md) [History](Genre/History.md) [Philosophy](Genre/Philosophy.md)

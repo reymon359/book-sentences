@@ -1,6 +1,6 @@
 ---
 name: "Sapiens A Brief History of Humankind"
-Read: ['2022']
+Read: ['2023']
 Genre: ['History', 'Philosophy', 'Anthropology']
 ---
 
