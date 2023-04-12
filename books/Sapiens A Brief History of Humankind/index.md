@@ -3519,12 +3519,44 @@ We like to believe that in the future people just like us will travel from plane
 
 We would have a hard time swallowing the fact that scientists could engineer spirits as well as bodies, and that future Dr Frankensteins could therefore create something truly superior to us, something that will look at us as condescendingly as we look at the Neanderthals.
 
+History teaches us that what seems to be just around the corner may never materialise due to unforeseen barriers, and that other unimagined scenarios will in fact come to pass.
+
+When sputnik and Apollo 11 fired the imagination of the world, everyone began predicting that by the end of the century, people would be living in space colonies on Mars and Pluto. Few of these forecasts came true. On the other hand, nobody foresaw the Internet.
+ 
+ What we should take seriously is the idea that the next stage of history will include not only technological and organisational transformations, but also fundamental transformations in human consciousness and identity.
+ 
+ And these could be transformations so fundamental that they will call the very term ‘human’ into question. How long do we have? No one really knows. As already mentioned, some say that by 2050 a few humans will already be a-mortal. Less radical forecasts speak of the next century, or the next millennium. Yet from the perspective of 70,000 years of Sapiens history, what are a few millennia?
+ 
+If the curtain is indeed about to drop on Sapiens history, we members of one of its final generations should devote some time to answering one last question: what do we want to become? This question, sometimes known as the Human Enhancement question, dwarfs the debates that currently preoccupy politicians, philosophers, scholars and ordinary people.
+
+Today’s debate between today’s religions, ideologies, nations and classes will in all likelihood disappear along with Homo sapiens.
+ 
+And yet the great debates of history are important because at least the first generation of these gods would be shaped by the cultural ideas of their human designers.
+
+ Would they be created in the image of capitalism, of Islam, or of feminism? The answer to this question might send them careening in entirely different directions.
+ 
+‘What is it forbidden to do?’ Is it acceptable to carry out genetic experiments on living human beings? On aborted fetuses? On stem cells? Is it ethical to clone sheep? And chimpanzees? And what about humans? All of these are important questions, but it is naïve to imagine that we might simply hit the brakes and stop the scientific projects that are upgrading Homo sapiens into a different kind of being.
+
+the Gilgamesh Project is the flagship of science. It serves to justify everything science does.
+
+The only thing we can try to do is to influence the direction scientists are taking. Since we might soon be able to engineer our desires too, perhaps the real question facing us is not ‘What do we want to become?’, but ‘What do we want to want?’ Those who are not spooked by this question probably haven’t given it enough thought.
+
 ## Afterword:
-
-
 
 ## The Animal that Became a God
 
+SEVENTY THOUSAND YEARS AGO, HOMO sapiens was still an insignificant animal minding its own business in a corner of Africa. In the following millennia it transformed itself into the master of the entire planet and the terror of the ecosystem. Today it stands on the verge of becoming a god, poised to acquire not only eternal youth, but also the divine abilities of creation and destruction.
 
+The Sapiens regime on earth has so far produced little that we can be proud of.
+ 
+Time and again, massive increases in human power did not necessarily improve the well-being of individual Sapiens, and usually caused immense misery to other animals.
 
-## Notes
+In the last few decades we have at last made some real progress as far as the human condition is concerned, with the reduction of famine, plague and war. Yet the situation of other animals is deteriorating more rapidly than ever before, and the improvement in the lot of humanity is too recent and fragile to be certain of.
+
+We have advanced from canoes to galleys to steamships to space shuttles – but nobody knows where we’re going. 
+ 
+We are more powerful than ever before, but have very little idea what to do with all that power
+
+We are consequently wreaking havoc on our fellow animals and on the surrounding ecosystem, seeking little more than our own comfort and amusement, yet never finding satisfaction.
+ 
+Is there anything more dangerous than dissatisfied and irresponsible gods who don’t know what they want?
