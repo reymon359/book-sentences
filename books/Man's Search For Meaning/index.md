@@ -1,7 +1,7 @@
 ---
 name: "Man's Search For Meaning"
 Read: ['2020']
-Genre: ['Psychology', 'Biography', 'Historical']
+Genre: ['Psychology', 'Biography', 'History']
 ---
 
 ![Cover](./assets/mans-search-for-meaning.png)
@@ -11,29 +11,32 @@ Genre: ['Psychology', 'Biography', 'Historical']
 Viktor Frankl - 1946
 
 ## Table of Contents
-- [Preface by Harold S. Kushner](#preface-by-harold-s-kushner)
-- [Preface to the 1992 Edition](#preface-to-the-1992-edition)
-- [PART ONE: Experiences in a Concentration Camp](#part-one-experiences-in-a-concentration-camp)
-- [PART TWO: Logotherapy in a Nutshell](#part-two-logotherapy-in-a-nutshell)
-  - [EXISTENTIAL FRUSTRATION](#existential-frustration)
-  - [NOÖGENIC NEUROSES](#noögenic-neuroses)
-  - [NOÖ-DYNAMICS](#noö-dynamics)
-  - [THE EXISTENTIAL VACUUM](#the-existential-vacuum)
-  - [THE MEANING OF LIFE](#the-meaning-of-life)
-  - [THE ESSENCE OF EXISTENCE](#the-essence-of-existence)
-  - [THE MEANING OF LOVE](#the-meaning-of-love)
-  - [THE MEANING OF SUFFERING](#the-meaning-of-suffering)
-  - [META-CLINICAL PROBLEMS](#meta-clinical-problems)
-  - [A LOGODRAMA](#a-logodrama)
-  - [THE SUPER-MEANING](#the-super-meaning)
-  - [LIFE’S TRANSITORINESS](#lifes-transitoriness)
-  - [LOGOTHERAPY AS A TECHNIQUE](#logotherapy-as-a-technique)
-  - [THE COLLECTIVE NEUROSIS](#the-collective-neurosis)
-  - [CRITIQUE OF PAN-DETERMINISM](#critique-of-pan-determinism)
-  - [THE PSYCHIATRIC CREDO](#the-psychiatric-credo)
-  - [PSYCHIATRY REHUMANIZED](#psychiatry-rehumanized)
-- [POSTSCRIPT 1984: The Case for a Tragic Optimism](#postscript-1984-the-case-for-a-tragic-optimism)
-- [About the Author](#about-the-author)
+- [Man's Search For Meaning](#mans-search-for-meaning)
+  - [Table of Contents](#table-of-contents)
+  - [Preface by Harold S. Kushner](#preface-by-harold-s-kushner)
+  - [Preface to the 1992 Edition](#preface-to-the-1992-edition)
+  - [PART ONE: Experiences in a Concentration Camp](#part-one-experiences-in-a-concentration-camp)
+  - [PART TWO: Logotherapy in a Nutshell](#part-two-logotherapy-in-a-nutshell)
+    - [THE WILL TO MEANING](#the-will-to-meaning)
+    - [EXISTENTIAL FRUSTRATION](#existential-frustration)
+    - [NOÖGENIC NEUROSES](#noögenic-neuroses)
+    - [NOÖ-DYNAMICS](#noö-dynamics)
+    - [THE EXISTENTIAL VACUUM](#the-existential-vacuum)
+    - [THE MEANING OF LIFE](#the-meaning-of-life)
+    - [THE ESSENCE OF EXISTENCE](#the-essence-of-existence)
+    - [THE MEANING OF LOVE](#the-meaning-of-love)
+    - [THE MEANING OF SUFFERING](#the-meaning-of-suffering)
+    - [META-CLINICAL PROBLEMS](#meta-clinical-problems)
+    - [A LOGODRAMA](#a-logodrama)
+    - [THE SUPER-MEANING](#the-super-meaning)
+    - [LIFE’S TRANSITORINESS](#lifes-transitoriness)
+    - [LOGOTHERAPY AS A TECHNIQUE](#logotherapy-as-a-technique)
+    - [THE COLLECTIVE NEUROSIS](#the-collective-neurosis)
+    - [CRITIQUE OF PAN-DETERMINISM](#critique-of-pan-determinism)
+    - [THE PSYCHIATRIC CREDO](#the-psychiatric-credo)
+    - [PSYCHIATRY REHUMANIZED](#psychiatry-rehumanized)
+  - [POSTSCRIPT 1984: The Case for a Tragic Optimism](#postscript-1984-the-case-for-a-tragic-optimism)
+  - [About the Author](#about-the-author)
 
 ## Preface by Harold S. Kushner
 

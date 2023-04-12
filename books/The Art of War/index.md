@@ -1,7 +1,7 @@
 ---
 name: "The Art of War"
 Read: ['2021']
-Genre: ['Philosophy', 'Ancient', 'Historical', 'Military Science']
+Genre: ['Philosophy', 'Ancient', 'History', 'Military Science']
 ---
 
 ![Cover](./assets/the-art-of-war.jpg)
@@ -12,19 +12,21 @@ Sun Tzu - 5th century BC
 
 ## Table of Contents
 
-- [I Laying Plans](#i-laying-plans)
-- [II Waging War](#ii-waging-war)
-- [III Attack by Stratagem](#iii-attack-by-stratagem)
-- [IV Tactical Dispositions](#iv-tactical-dispositions)
-- [V Energy](#v-energy)
-- [VI Weak Points and Strong](#vi-weak-points-and-strong)
-- [VII Maneuvering](#vii-maneuvering)
-- [VIII Variations in Tactics](#viii-variations-in-tactics)
-- [IX The Army on the March](#ix-the-army-on-the-march)
-- [X Terrain](#x-terrain)
-- [XI The Nine Situations](#xi-the-nine-situations)
-- [XII The Attack by Fire](#xii-the-attack-by-fire)
-- [XIII The Use of Spies](#xiii-the-use-of-spies)
+- [The Art of War](#the-art-of-war)
+  - [Table of Contents](#table-of-contents)
+  - [I Laying Plans](#i-laying-plans)
+  - [II Waging War](#ii-waging-war)
+  - [III Attack by Stratagem](#iii-attack-by-stratagem)
+  - [IV Tactical Dispositions](#iv-tactical-dispositions)
+  - [V Energy](#v-energy)
+  - [VI Weak Points and Strong](#vi-weak-points-and-strong)
+  - [VII Maneuvering](#vii-maneuvering)
+  - [VIII Variations in Tactics](#viii-variations-in-tactics)
+  - [IX The Army on the March](#ix-the-army-on-the-march)
+  - [X Terrain](#x-terrain)
+  - [XI The Nine Situations](#xi-the-nine-situations)
+  - [XII The Attack by Fire](#xii-the-attack-by-fire)
+  - [XIII The Use of Spies](#xiii-the-use-of-spies)
 
 ## I Laying Plans
 

@@ -1,12 +1,12 @@
 ---
-name: "Sapiens: A Brief History of Humankind"
+name: "Sapiens A Brief History of Humankind"
 Read: ['2022']
 Genre: ['History', 'Philosophy', 'Anthropology']
 ---
 
 ![Cover](./assets/sapiens-a-brief-history-of-humankind.jpg)
 
-# Sapiens: A Brief History of Humankind
+# Sapiens A Brief History of Humankind
 
 Yuval Noah Harari - 2011
 
