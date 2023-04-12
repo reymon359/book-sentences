@@ -16,6 +16,8 @@
         
      - [Nineteen Eighty-Four](Nineteen%20Eighty-Four/index.md)
         
+     - [Sapiens A Brief History of Humankind](Sapiens%20A%20Brief%20History%20of%20Humankind/index.md)
+        
      - [The 7 habits of highly effective people](The%207%20habits%20of%20highly%20effective%20people/index.md)
         
      - [The 7 habits of highly effective people Personal Workbook](The%207%20habits%20of%20highly%20effective%20people%20Personal%20Workbook/index.md)
@@ -62,6 +64,8 @@
         
      - [2022](./Read/2022.md)
         
+     - [2023](./Read/2023.md)
+        
      - [All](Read/index.md)
         
     
@@ -71,6 +75,8 @@
      - [All](Genre/index.md)
         
      - [Ancient](./Genre/Ancient.md)
+        
+     - [Anthropology](./Genre/Anthropology.md)
         
      - [Biography](./Genre/Biography.md)
         
@@ -82,7 +88,7 @@
         
      - [Good Practices](./Genre/Good%20Practices.md)
         
-     - [Historical](./Genre/Historical.md)
+     - [History](./Genre/History.md)
         
      - [History](./Genre/History.md)
         

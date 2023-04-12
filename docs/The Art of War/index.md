@@ -7,19 +7,21 @@ Sun Tzu - 5th century BC
 
 ## Table of Contents
 
-- [I Laying Plans](#i-laying-plans)
-- [II Waging War](#ii-waging-war)
-- [III Attack by Stratagem](#iii-attack-by-stratagem)
-- [IV Tactical Dispositions](#iv-tactical-dispositions)
-- [V Energy](#v-energy)
-- [VI Weak Points and Strong](#vi-weak-points-and-strong)
-- [VII Maneuvering](#vii-maneuvering)
-- [VIII Variations in Tactics](#viii-variations-in-tactics)
-- [IX The Army on the March](#ix-the-army-on-the-march)
-- [X Terrain](#x-terrain)
-- [XI The Nine Situations](#xi-the-nine-situations)
-- [XII The Attack by Fire](#xii-the-attack-by-fire)
-- [XIII The Use of Spies](#xiii-the-use-of-spies)
+- [The Art of War](#the-art-of-war)
+  - [Table of Contents](#table-of-contents)
+  - [I Laying Plans](#i-laying-plans)
+  - [II Waging War](#ii-waging-war)
+  - [III Attack by Stratagem](#iii-attack-by-stratagem)
+  - [IV Tactical Dispositions](#iv-tactical-dispositions)
+  - [V Energy](#v-energy)
+  - [VI Weak Points and Strong](#vi-weak-points-and-strong)
+  - [VII Maneuvering](#vii-maneuvering)
+  - [VIII Variations in Tactics](#viii-variations-in-tactics)
+  - [IX The Army on the March](#ix-the-army-on-the-march)
+  - [X Terrain](#x-terrain)
+  - [XI The Nine Situations](#xi-the-nine-situations)
+  - [XII The Attack by Fire](#xii-the-attack-by-fire)
+  - [XIII The Use of Spies](#xiii-the-use-of-spies)
 
 ## I Laying Plans
 
@@ -441,4 +443,5 @@ It is through the information brought by the converted spy that we are able to a
 
 The end and aim of spying... ...is knowledge of the enemy; and this knowledge can only be derived, in the first instance, from the converted spy... ...treated with the utmost liberality.
 
-Spies are a most important element in water because on them depends an army’s ability to move.<hr/><br/>[Read:](Read/index.md) [2021](Read/2021.md)<br/>[Genre:](Genre/index.md) [Ancient](Genre/Ancient.md) [Historical](Genre/Historical.md) [Military Science](Genre/Military%20Science.md) [Philosophy](Genre/Philosophy.md)
+Spies are a most important element in water because on them depends an army’s ability to move.
+<hr/><br/>[Read:](Read/index.md) [2021](Read/2021.md)<br/>[Genre:](Genre/index.md) [Ancient](Genre/Ancient.md) [History](Genre/History.md) [Military Science](Genre/Military%20Science.md) [Philosophy](Genre/Philosophy.md)
