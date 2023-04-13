@@ -204,14 +204,37 @@ para romper el miedo solo necesitamos:
 
  Este hecho va a generar un incremento en la atención, realidad que nada más llegar al estrado, la va a percibir como: orden, equilibrio, tranquilidad en los asistentes, sintiendo al unísono como su cuerpo queda henchido, pletórico de confianza y ganas de continuar. Acaba de conquistar a la audiencia.
 
-   
-  
-
-
 ### 1.3. Ejercicios para erradicar el miedo escénico.
 
+Hablar bien en público requiere de calma y una buena dosis de memoria.
 
+#### 1.3.1 Respiración.
 
+Una buena salud (vigor, inmunidad, resistencia, ánimo, etc.), es el producto equilibrado de todo aquello que hacemos para estar conformes con nosotros mismos.
+
+#### 1.3.2 Relajación.
+
+La relajación es un estado que libremente buscamos con la intención de descubrir niveles de alegría, felicidad y paz, para después actuar. Una forma de “hacer maniobras” previas. Ensayo general.
+
+Respuesta Biológica positiva. Cada pensamiento enriquecido con la atención suficiente, comentamos qué es capaz de crear a tu alrededor aquello que deseas, bien sea para bien o para mal. Se cumple. 
+
+Es uno mismo quien busca tanto el éxito como el fracaso
+
+con la boca húmeda: Mejoramos la circulación de la sangre, normalizamos el metabolismo y la nutrición de cada célula de nuestro cuerpo, especialmente las del cerebro, experimentando sensación de relajación y autocontrol. Tener la boca llena de saliva significa que nuestro cuerpo está funcionando en un predominio vagal de tipo muscarínico, que es opuesto a lo que produce el estrés
+
+la más triste de las venganzas; la llevada a cabo contra uno mismo. 
+
+La relajación... ...Es un ejercicio que debemos practicarlo todos los días y a ser posible a la misma hora, con la finalidad de poder incorporarlo como una conducta más de nuestro repertorio. Adquirir este hábito nos va a aportar los siguientes beneficios:
+	 
+- Reducción, control de ansiedad.
+- Equilibrar la tensión arterial.
+- Descanso más profundo.
+- Aumento de memoria y capacidad de concentración.
+- Facilitador de conductas deseadas.
+- Superior oxigenación.
+- Aumento del nivel de energía.
+	
+	
 ## EL TEXTO
 
 
