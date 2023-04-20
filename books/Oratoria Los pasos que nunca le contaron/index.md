@@ -237,23 +237,86 @@ La relajación... ...Es un ejercicio que debemos practicarlo todos los días y a
 	
 ## EL TEXTO
 
+Si quiere estar inspirado, siéntese y empiece a escribir.
 
+necesita transmitir algo que en su opinión es importante para los demás y el no llevarlo a cabo, sería considerado como un fracaso personal.
+ 
+El estar preparado es crucial, y cuenta además con la ventaja de que está en el camino.
+
+Empezará por escribir sus ideas; no importa que sean sueltas. Solo aquellas que le genere la mente y en ese momento tiene sentido, porque usted sabe de lo que quiere hablar. 
+
+Imagine que es un discurso a llevar a cabo entre amigos.
+
+Al escribir debe tener siempre en mente tanto su objetivo como al público a quien va dirigido. Pregúntese ¿lo que yo quiero transmitir le interesa al público? ¿Realmente qué quieren, que les interesa?
+
+Debe adaptarse al receptor. Pensar de esta manera nos va a encauzar, determinar en cierta manera la forma de exponer el contenido, evitándonos divagaciones.
+
+Continuidad entre las frases, entre los puntos a tratar. La continuidad es necesaria. 
+
+El corte no puede existir en una conferencia. 
+
+Al auditorio no se le debe forzar a que su mente se ponga a trabajar haciendo ejercicios por intentar seguir al conferenciante.
+
+siempre que le sea posible despertando emociones, produciendo despertar interés, atención; memoria entre los asistentes.
+ 
+Tanto mientras escriba como al revisar, recuerde: diga lo que quiere decir, sea breve, relea, cambie y anule textos tantas veces como lo considere necesario. 
+
+ una vez que así lo considere, si tiene la oportunidad: delo a leer a sus mejores amigos y recoja su opinión.
+ 
 
 ### 2.1. Estructura. Cómo vamos a organizarla. (Toda comunicación requiere preparación)
 
+Mientras escribe, tenga presente que mantener la atención es muy difícil, por lo que cuanto más orden y coherencia tenga nuestro discurso, más probabilidad tenemos de que la información llegue al receptor. 
 
+El éxito de toda conferencia debe componerse de los siguientes elementos:
+
+a) Para nosotros debe tener “valor” Nos tiene que gustar.
+
+esa porción de emoción se la vamos a trasmitir al público, con lo que ya empezamos a tener por parte del auditorio un rango de interés, de atención.
+
+b) Aquello de lo que vamos a hablar tiene que “emocionar”.
+
+Antonio Machado (1875-1939): Sólo recuerdo la emoción de las cosas.
+
+Aristóteles (2005) en su Libro II de su Retórica consideraba necesario incorporar las emociones o pasiones en el leguaje del orador con el fin de predisponer al auditorio con la finalidad de alcanzar la persuasión, favoreciendo de esta manera la resolución de conflictos
+
+c) Lo que hablemos debe tener un orden, un ritmo, un compás permitiendo al que escucha, experimentar la dulce pasividad que produce esa disposición encadenada de las ideas. 
+
+El orden es hermoso y su belleza invita a no reflexionar, a aceptar lo escuchado por bueno
+
+El auditorio debe percibir ritmo y coherencia.
+
+d) Una meta.
+
+Debemos tener presente el espacio a donde pretendemos llegar. Es una pregunta que todo orador/comunicador requiere hacerse a la hora de crear su discurso desde el momento de empezar a escribir. ¿Por qué quiere decir lo que quiere decir?
+
+¿Qué pretende haber conseguido cuándo termine de hablar?
+
+Ayúdese al inicio con preguntas que sean verbos, para después pasar al desarrollo del discurso... ...Hoy quiero convencerles de…. En esta ponencia me gustaría despertarles amor hacia lo que yo…. Hoy quiero que introyecten la importancia del estudio para…. Si estoy aquí hablándoles es porque pienso que Tenemos que cambiar para...
 
 ### 2.2. Brevedad.
 
-
+ “Lo breve bueno, dos veces bueno” Baltasar Gracián y Morales (1601-1658).
+ 
+ Breve y siempre apoyándonos en ejemplos, pequeñas historias que tanto incrementan la atención y memorización del discurso.
+ 
+Debemos ser capaces de sintetizar al máximo todo cuanto queremos transmitir, con palabras que permitan abrir las puertas de la imaginación.
 
 ### 2.3. Título.
 
+Para conformar al grupo, crear una predisposición en sus pensamientos hacia lo que queremos transmitir, orientando de esta manera sus tendencias; nada mejor que el título.
 
+ un mismo texto puede llegar a tener diversos significados. Todo en función del pensamiento de cada receptor.
+ 
+El título es el elemento donde nos vamos a proyectar... ...Tenemos que procurar que encierre en la medida de lo posible, el conocimiento del discurso
+
+ si en este momento no le llega el que considera “su título ideal”, escriba aquellos que más le agraden en ese momento y continúe.
 
 ## SU EXPOSICIÓN. CONSEJOS PREVIOS
 
+Siempre pensando en el perfil del público a quien va dirigida. El discurso es el texto, el desarrollo de nuestra idea.
 
+retórica. Nuestro (Diccionario de la RAE) la define como el arte de bien decir, de dar al lenguaje escrito o hablado eficacia bastante para deleitar, persuadir, convencer;
 
 ### 3.1. División.
 
