@@ -630,76 +630,90 @@ Siguiendo las mismas reglas de atención y cortesía dichas hasta ahora, ensaye 
 
 Cuando hemos hecho esa misma pregunta a otros profesionales, al ser tantas las variables que intervienen, ninguno nos ha concretado.
 
+Repita tantas veces como su juez interior le dicte. Es la mejor forma de estar seguros.
+
+Sentirse feliz por transmitir algo que es bueno para el público. Sea sincero.
+
+para la aceptación por parte del auditorio de lo que expone el orador interviene: El temperamento del sujeto, su estado de ánimo, su equilibrio psíquico y su madurez emocional.
+
+La retórica es el arte de la persuasión. Hay que entrenar el modo de relacionarnos con los demás, lo que percibimos sobre lo que otros piensan de nosotros, a su vez, también nos conforma, forma parte de la referencia que tenemos sobre nosotros mismos.
+
+ Comunicar, no solo es cuestión de hablar bien, tener buena presencia, ser un experto y haber preparado el texto más “sabio”, sino en “ese todo” que hasta este momento hemos hablado
+
 ## CONSEJOS PREVIOS A SU EXPOSICIÓN
 
+elementos que a los grandes oradores les ha servido para alcanzar el reconocimiento:
 
+- Hable templado, atrevido y satisfecho. Hágalo igual que cuando le acompaña la razón.
+- Procure que el estereotipo con el que piensa presentarse corresponda a quien usted es. Es decir; sea usted lo mejor de sí mismo. Le recuerdo que las personas que van a ir a escucharle ya ha apostado por usted. Esté tranquilo. Tiene toda la total confianza del auditorio y de la empresa que lo ha contratado. Por eso van. 
+- Conozca los intereses del auditorio. Pregunte a quien le haya contratado.
+- Sepa de lo que está hablando, de las ventajas que va a suponer para el público y dígalo con convencimiento y frenesí. 
+ 
+ El apasionamiento encanta y contagia.
+
+el resultado de una conferencia es el conjunto formado por el conferenciante –su presencia física y curriculum-, la conferencia en sí, voz, mirada, gestos, confianza, respeto al auditorio y sonrisa
+
+- Colme su vínculo de imágenes. Pura emoción.  
+- A cada salto de tema, o tenga que decir algo que considere que el auditorio debe recordar, que es un punto de entrada a la creación; guarde un silencio. La ausencia de la palabra siempre llama la atención, potenciando el silencio en la sala y predispone al auditorio a la escucha activa;
+
+- En cada apartado si tiene oportunidad, incorpore alguna experiencia personal sobre el tema que está tratando. Además de sinceridad, va a transmitir al auditorio un plus de experto y una nueva conexión emocional. 
+- Si la exposición es a través de una lectura, porque no hay equipo auxiliar o porque en su opinión no es necesario, el contacto ocular debe mantenerlo.
+
+Deténgase para leer, lea, levante el rostro y mirando al auditorio comience a hablar.  Como solución puede seguir estos pasos:
+- Mirar al público.
+- Lectura interior.
+- Mirar al público.
+- Verbalizar la frase.
+- Mirar al público.
+- Lectura interior.
+- Mirar……
+Esta es una técnica que proporciona gravedad y apariencia, aunque requiere mucha práctica.
+
+
+
+- Si con anterioridad a usted ha habido otro conferenciante, esté atento a las posibles palabras clave que pueden ser de utilidad para incorporarlas a su discurso
+- Haga lo posible por agradar y sea humilde. Sonría y contacto ocular.
+- Disfrute, el auditorio necesita verlo feliz. Sentir que en ese momento usted está haciendo aquello que más desea.
+- Cuando tenga la oportunidad de que alguien pregunte, aprovéchela para hablarle como lo que es; la persona más importante en ese momento para usted
+
+El noventa y nueve por ciento de las fricciones de la vida cotidiana son producidas por el tono de voz.
+- Aproveche el tiempo previo a su presentación para ir conformando estereotipo y ampliando información. Tenga presente que se encuentra en una reunión donde va a tener la oportunidad de obtener nuevos contactos profesionales ampliando auditorio para otros eventos.
+
+el que pregunta gana y el que habla pierde
+
+- Si usted ha llegado hasta aquí es porque quiere transmitir información a otros y alcanzar algo tan digno como es ayudar a otros y triunfar.
+
+ La marca personal determina,  
+
+- Asuma sus nervios. Lo está porque usted es responsable. Hablar en público crea turbación y ansia. Hace ya más de dos mil años Cicerón dejo escrito que todo discurso público de verdadero mérito tenía como denominador común el nerviosismo.
+- Hable siempre de temas que sea importante para usted y envuelva su discurso con emociones, el público debe saber cómo se siente; así que expréselo.
+- Los primeros momentos son determinantes. Lo que vaya a decir en ese tiempo, además de muy ensayados, todo aprendido de memoria.
+- Respete el tiempo que le han asignado para su intervención, calculando presentación y posibles preguntas. Si le dicen que el tiempo depende de usted, ajústese al término medio de treinta minutos.
+- Dese la oportunidad de mostrar lo que ya es; un maestro.  Por lo que empiece a ir eliminando barreras. Si está sentado, levántese para situarse delante de la mesa o vaya al atril.
+- No mienta.
 
 ## EL DÍA
 
-
+Giovanni Boccacio (1313-1375): Vale más actuar exponiéndose a arrepentirse de ello, que arrepentirse de no haber hecho nada.
 
 ## ANEXO
 
+### EUESTRÉS. SOBRE LA OXITOCINA.
 
+La ciencia nos ha mostrado que es en la glándula pituitaria donde se genera la oxitocina, una sustancia química directamente relacionada con la empatía, y que podemos medir mediante análisis de sangre... ...es la hormona responsable encargada de forzar al azar para que nos preocupemos por los otros; forjando a que seamos seres morales.
 
-## EUESTRÉS. SOBRE LA OXITOCINA.
+La empatía seguida de una descarga de oxitocina, es un facilitador del desarrollo de conductas que llamamos morales; como ser confiable, honrado y amable. La empatía nos permite compartir emociones con los otros, hecho que nos motiva a tratarlos de forma apropiada.
 
+### LA CONFIANZA.
 
+La confianza proporciona seguridad y participa en la génesis y mantenimiento de la paciencia y la empatía.
 
-## LA CONFIANZA.
-
-
+La confianza es un Estado de ánimo, individual o colectivo. Ánimo para afrontar algo.
+ 
+La confianza proporciona seguridad y participa a su vez, en la génesis y mantenimiento de la paciencia.
+ 
+¿Qué se siente cuando la oxitocina inunda el cuerpo? Sentimos confianza y empatía.
 
 ## EJERCICIOS DE RESPIRACIÓN.
 
-
-
-## EJERCICIOS DE RELAJACIÓN.
-
-
-
-## CIERRE PRESENTACIÓN.
-
-
-
-## LENGUAJE NO VERBAL.
-
-
-
-### a) Cabeza.
-
-
-
-### b) Rostro.
-
-
-
-### c) Mirada
-
-
-
-### d) Sonrisa
-
-
-
-### e) Brazos.
-
-
-
-### f) Manos.
-
-
-
-### g) Piernas.
-
-
-
-## NEURONAS ESPEJO Y PENSAMIENTO.
-
-
-
-## PRESENTACIÓN. PRIMERAS PALABRAS.
-
-
-
-## BIBLIOGRAFÍA
+Si queremos reducir a cero los posibles lapsus de una buena conferencia, necesitamos de una buena oxigenación de nuestro cerebro. Es decir, debemos empezar por concentrarnos en nuestra propia respiración; respirar correctamente. Nuestros pulmones tienen una capacidad de aire de cinco litros por término medio y en nuestra actividad cotidiana apenas utilizamos la cuarta parte.
