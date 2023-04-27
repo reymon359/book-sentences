@@ -64,6 +64,38 @@ TODO
 
 
 	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+> A mi hijo Ramón, por sus preguntas que requerían respuestas.
+	 
 ## PRÓLOGO
 
 Preparar la presentación de una conferencia tiene muchos puntos en común con el arte de la guerra, con el Cuerpo de intendencia, responsable de tener “a punto” cuanto se requiera: desde la alimentación, combustibles, hasta conocer los pasos del enemigo.
@@ -318,77 +350,285 @@ Siempre pensando en el perfil del público a quien va dirigida. El discurso es e
 
 retórica. Nuestro (Diccionario de la RAE) la define como el arte de bien decir, de dar al lenguaje escrito o hablado eficacia bastante para deleitar, persuadir, convencer;
 
+ Recuerde que usted va a transmitir su conocimiento con la mayor convicción, pero el hombre interpreta según piensa. Usted solo puede saber lo que está diciendo en ese momento, pero le va a ser imposible conocer la interpretación que el otro ha hecho de sus palabras
+
+ Crear un discurso con suficiente capacidad de interpretación acorde a los intereses del que escucha, afín al Espíritu del Tiempo.
+ 
+las palabras que utilicemos sean lo más concretas posibles
+
+Debemos crear un texto siempre continuo, cada frase enlazada con la anterior, y así, de ésta manera hasta el final. Sin fugas. 
+
+Lo sabremos que está completo, cuando al releerlo nos sintamos retroalimentados con lo escrito.
+
+“el cómo trasladar toda esa información al público de la forma más placentera, despertando interés, facilitando su comprensión, aprendizaje y posteriores preguntas”.
+
+filósofo y orador M.T. Cicerón (106 a.C.-43 a. C), el cual cada vez que concluía un texto, basándose en él, siempre preparaba toda presentación en función de las seis piezas que en su opinión todo discurso debe contener... ...Exordio, narración, división, confirmación, conclusión y confutación
+
+los puntos que vamos a desarrollar van a ser: División, confirmación, conclusión y confutación. Con ellos usted va a contener el discurso. El cómo va a decirlo, y cómo se tiene que presentar lo llevaremos a cabo más adelante, en: Exordio y narración.
+
 ### 3.1. División.
 
+El texto del discurso que usted ha concluido, para poderlo exponer al público, debe estar contenido en una estructura compuesta por tres piezas con un mismo denominador común: las palabras clave de los pilares que lo sustentan.
 
-
+El principio siempre consistirá en informar de lo que se va a hablar. Lo que pretendemos con esta vía es conseguir en pocos minutos que todo el auditorio tenga una idea clara de la trama del discurso
+ 
+ De todo lo que va a hablar, los pasos que va a dar, usted va a facilitar un incremento en la escucha activa por parte de los sujetos, además de acrecentar la comprensión del mismo, ya que por naturaleza el hombre solo puede mantener una atención intermitente.
+ 
+se dice que se va a decir.
+ 
 ### 3.2. Confirmación.
 
+Ahora estamos en el punto dónde vamos a desarrollar de la forma más sucinta posible aquello que hemos confirmando con anterioridad.
 
+se dice.
+
+todos y cada uno de los puntos significativos en que dividió el discurso, y que acaba de exponer en “División”, va a desarrollarlos,
+ 
+siempre al final de cada punto significativo en que ha dividido el discurso, deberá hacer un breve resumen de lo dicho utilizando palabras clave cargadas de emoción; facilitadoras de imagen. Eso también debe escribirlo. Debe dejarlo bien expuesto. No puede permitirse el lujo de dejar a su memoria esta responsabilidad; lo escribe y cuando llegue a la exposición, lo repetirá tantas veces como sea necesario.
+ 
+ El éxito de todo discurso no está en hablar mucho, sino en hablar justo de los puntos que está tratando.
+ 
+ al ser la atención un proceso selectivo tanto cognitivo como conductual, imposible de mantener por largo tiempo en una dirección determinada, debe acostumbrarse a hacer recapitulaciones con frecuencia, de lo ya dicho,
 
 ### 3.3. Conclusión.
 
+Aquí es donde usted va a dedicarse a hacer un repaso sintetizado de lo dicho. A escribirlo con todo detalle. A repetir absolutamente todos los principios fundamentales de la división que llevó a cabo desde un principio con el discurso, finalizando con una máxima o referencia significativa, y por supuesto dando las gracias.
 
+se dice que se ha dicho.
+
+Ahora con todo lo escrito, de nuevo hará un nuevo resumen para incorporar esta parte de su discurso, bien a la presentación tipo PowerPoint, o al folio que le va a servir de guía. No se sorprenda si al transcribirlo descubre que el discurso requiere cambios; a todos nos ha ocurrido.
+
+todo cuanto hemos escrito, debemos aprenderlo
 
 ### 3.4. Confutación.
 
+Este es un apartado que, aunque pertenece al capítulo de la exposición, es aquí, ahora, cuando debe crearlo, trabajarlo.
+
+Es el momento donde el orador debe explicar, desarrollar, combatir, impugnar opiniones distintas a la propia, y lógicamente de manera convincente. 
+
+Nos encontramos en el punto donde van a llegar las preguntas tanto del auditorio como desde la mesa donde se encuentran aquellos que le han presentado, y no se debe dudar ni decir que no sabe. Estamos en la defensa de cuanto ha dicho.
+
+siempre aconsejamos que solo se hable de lo que se sepa.
+
+son muchas las veces que al terminar una conferencia y pasar al apartado de preguntas; solo nos responde el silencio. Sí, a veces la gente no pregunta. Y no hay espacio más triste. Pues bien, gracias a esta labor que ha llevado usted a cabo en este apartado de “Confutación”, le vamos a mostrar cómo utilizar “esas” posibles preguntas que usted ha creado y trabajado, para con ellas, generar un cálido e inolvidable debate.
 
 
 ## PREPARACIÓN DEL ACTO DE PRESENTACIÓN Y PRIMERAS PALABRAS
 
+Ha creado el texto del discurso que va a dar, preparada su estructura de cómo lo va a transmitir –división, confirmación, conclusión- y la batería de posibles preguntas.
+
+ A lo largo de todo el proceso ha seguido los tres pasos ya comentados: se dice que se va a decir, se dice, se dice que se dijo.
+ 
+Como vamos a prepararnos para que nuestro cuerpo acompañe a la palabra. Vamos a hablar del lenguaje no verbal.
+ 
+Cicerón cuando nos dice: el orador para transmitir, requiere del dominio de:
+
+- Invención. Saber qué decir, tener las ideas claras del argumento que va a transmitir y expresarlo con originalidad.
+- Disposición. Exquisito cuidado en el orden en que hemos puesto las ideas. En nuestro caso, el orden que hemos seguido en la creación de la presentación.
+- Elocución. Siempre haciendo uso de nuestro propio estilo de lenguaje. Es el que mejor se adapta a nosotros.
+- Memoria. Porque cuanto más sepamos sintetizar nuestras presentaciones, más valor añadido tendrán ante los ojos del auditorio.
+- Pronunciación. Aquí lo que se pretende es incorporar tanto la dicción como su lenguaje no verbal.
+
+“la oratoria más que una cuestión de gramática o de lingüística, constituye un objeto de estudio de una retórica que como tal, incluye nociones de psicología, semiótica, dialéctica y poética”
+
+Cualquier discurso público que usted lleve a cabo, va a ser una plataforma cuajando su “destino”. Una pantalla que destacará y ampliará cualidades y defectos. No nos podemos permitir el lujo de fallar…nos. Debemos prepararla.
+ 
+Si consultamos a otro clásico como es el caso de Aristóteles, ante la pregunta sobre que debe presentar el orador, nuestro sabio respondió que por encima de cualquier cualidad: “su credibilidad frente al público”
+
+se persuade por medio del carácter moral cuando se pronuncia el discurso de tal manera que haga al orador digno de ser creído, porque a las personas buenas las creemos más y con mayor rapidez… principalmente en aquello que no hay evidencia, sino opinión dudosa.
+ 
+Esta credibilidad la va a obtener por tres medios que necesariamente deben de estar unidos, lo contrario conduce a engaño; son: prudencia, virtud, humildad y benevolencia.
+	 
+- Prudencia. Este punto ya lo hemos tratado. Entendemos por ello el que, en todo discurso, deberemos dejar por escrito en el texto que nos hemos preparado, constancia de momentos determinados para exponer y sopesar los pros y los contras de cuanto se habla en ese momento. Orilla refutaciones a la vez que nuestra confirmación. 	
+- Virtud. No nos cansaremos de repetir que debemos exhibir, mostrar en público franqueza. Decir una verdad y no temer a las consecuencias de ser manifestada con frases directas y si se sabe; selladas con una lealtad teatral
+- Humildad. De humilitas “pegado a la tierra”. Poseerla nos permite conocer nuestras debilidades, a la vez que nos ayuda a ver el “valor” de nuestro propio discurso sin vanidad;
+- Benevolencia. De bene “bueno” y volo “querer”. “Querer ser bueno con los demás”. Sentimiento que al llegar al estrado de manera contingente el auditorio traduce como “beneficio” “posible ejemplo a seguir”.
 
 
 ### 4.1 Lenguaje no verbal, Neuronas Espejo y Pensamiento.
 
+“Las personas te pueden engañar cuando te hablan, más existe un lenguaje no verbal, de signos inconscientes que no pueden disimular” Albert E. Scheflen.
+	 
+#### 4.1.1 Lenguaje no verbal.
+	 
+Ahora sí, vamos a entrar en el apartado donde vamos a tratar de cómo nuestro cuerpo debe acompañar a la palabra. De cuando en el más absoluto de los silencios no dejamos de hablar. Nos hallamos frente el lenguaje no verbal. En toda comunicación el movimiento corporal es parte inherente del proceso; no solo es cuestión de oído conocer e interpretar todo cuanto estamos transmitiendo.
 
+Concurrimos con toda una fuente de información integral y como tal debe estar armonizada y controlada. Es tan potente, que por este medio podemos reemplazar palabras, enfatizarlas y hasta contradecirlas.  
+ 
+Nuestro lenguaje no verbal tiene la potestad de captar y transmitir orden, armonía e imagen; elementos clave en todo proceso de comunicación.
+
+sonrisa - estrella de nuestro lenguaje no verbal, sonrisa de Duchenne, sonreír como fuente de felicidad, contagio, confianza, seducción-
+
+#### 4.1.2 Neuronas Espejo y Pensamiento.
+
+cuando usted salga al estrado y mire al público, las neuronas que en ese momento este activando por sus pensamientos, también las estarán activando los presentes. Por ello consideramos imprescindible darle claves y herramientas.
 
 ### 4.2. Estereotipo.
 
+Vamos a hablar del conjunto de creencias que mantenemos con relación tanto a un grupo como a una persona. Son persistentes y difíciles de cambiar al tener la función de mantener nuestro punto de vista y posición en la sociedad.
 
+Necesitamos hablar de ello porque cuando usted suba a la tribuna, a tenor de la información previa sobre su persona, muchos de los asistentes ya tendrán una creencia sobre usted, que al interactuar obtendrá el resultado final. Por ello con anterioridad le hemos expuesto los puntos del lenguaje no verbal y neuronas espejo.
+
+ Saber que el 70% de lo que transmitimos no es a través de la palabra, sino de ese lenguaje compuesto por un conjunto de elementos tales como nuestra forma de vestir, modulación de las palabras, postura, gestos, mirada, pensamiento, como opinamos del auditorio y hasta de nosotros mismos va a ser determinante en la nota final que obtengamos. Todo un conjunto de elementos que nos van a marcar en ese día.
+ 
+Preséntese vestido con la prenda que más seguro se sienta. La que más le guste; con la más cómoda.
 
 ### 4.3. Exordio.
 
+todo discurso debía contener seis piezas: exordio, narración, división, confirmación, conclusión y confutación.
 
+ Exordio -el acto de llegada del conferenciante- y narración; cuando el conferenciante por primera vez toma la palabra. Al ser dos piezas dónde por primera vez va a hacer acto de presencia su comunicación, su lenguaje no verbal, es por ello que primero decidimos hablar del estereotipo.
+
+En retórica, el Exordio es la primera de las partes canónicas –de canon: regla- del discurso. Corresponde al acto de llegada del conferenciante. Es decir; el momento en que usted es presentado. El instante cuando un miembro de la empresa, institución que lo ha contratado, le acompaña a usted hasta el estrado para informa al auditorio del porqué de su invitación.
+
+Si no conoce el auditorio y le es posible, visitará días antes el lugar donde va a exponer. Ayuda conocerlo. Probará subir al estrado y “respirar” el lugar; “vivir en ese momento el acto contemplando el auditorio vacío”. “Le servirá para los ensayos”. Imagíneselo.
+
+- Comprobará audición, equipos que necesita, luminosidad, etc. Es necesario que su portátil tenga la misma conexión que el cañón donde va a proyectar su presentación, en caso contrario deberá solicitar el adaptador.
+- Ponencia. Con suficiente antelación, envíe a la organización, institución, a través de un correo electrónico –en el caso de que no lo hubieran solicitado- una copia de su ponencia. Idéntico contenido grábelo en un lápiz, y el día de la impartición entréguelo a la persona que lo ha contratado, dándole las gracias.
+- Resumen de la ponencia. Además, tenga preparado un resumen del discurso lo requieran o no. No todos tienen tiempo de leerlo completo. A veces puede ocurrir que la institución posee prensa interna o ha convocado a un Diario Local, pero por horario u otras actividades les ha sido imposible asistir,
+- Curriculum vitae. Tiene que hacer todo lo que esté en su mano para conseguir que lo presenten como experto en “ese” tema del que va a hablar, de esa conferencia que ahora se está preparando, y esta cuestión solo depende de usted
+
+Su biografía profesional es un dato necesario, y usted ya la ha enriquecido con el mejor contenido posible.
+
+- Equipo auxiliar. Acompáñese de un vídeo y grabe su exposición, además de enseñanza, puede aportar espacios para sus redes sociales.
+- Horario. Procure llegar con suficiente antelación el día de su exposición.
 
 ### 4.4. Narración.
 
+#### 4.4.1. Agradecimiento:
 
+Como no puede ser de otra manera corresponde al acto de dar las gracias: a quien le ha presentado, a la institución que le ha invitado, a la persona que le ha dado la oportunidad de exponer su pensamiento y por supuesto al auditorio. 
+
+Debe tener memorizados los nombres de absolutamente todas las personas que han hecho posible su presencia.
+
+#### 4.4.2 El vínculo.
+
+Para que cuanto hable sea agradable al auditorio, antes necesita crear un nexo de unión emocional con los asistentes. Quedar emocionalmente unido a ellos. Recuerde lo dicho en el apartado de estereotipo; usted debe pertenecer al grupo que le está escuchando. Tiene que quedar incorporado a los oyentes en algo en que se sientan identificados, orgullosos.
+
+Historia común, trabajo frecuente, cuando se licenció, opositó, hombres significativos, gastronomía, cuando usted era niño y su padre le llevo… Pasadas experiencias vividas y acordes con lo que va a hablar. El camino a seguir es muy variado y siempre será función del público. Ejemplo: si la conferencia es en una universidad, usted puede empezar hablando de su facultad, recordar tal asignatura u otra anécdota. Si no tiene ese nexo, otro anclaje puede ser la ciudad en donde se encuentra, que de forma directa o indirectamente usted puede vincularse.
+
+#### 4.4.3 Proemio.
+
+Acaba de preparar el agradecimiento, también el texto correspondiente al vínculo con el fin de poder conectar emocionalmente con el auditorio. Ahora tan solo falta escribir esta parte con la que vamos a dar entrada al punto ya desarrollado y que denominamos División, el que a modo de mnemotecnia recordamos como se dice que se va a decir
+
+escriba sobre lo que va a decir al auditorio en relación sobre el por qué seleccionó en su momento el título de la conferencia.
 
 ## ENSAYO GENERAL
+ 
+Recuerde que el objetivo de toda conferencia es trasmitir una información que en su opinión es de interés para el auditorio
 
+si no hay atención de nada sirve el haber creado el más bello discurso. Para lograrlo no nos basta solo lo anteriormente dicho. Debe procurar -entre otras- hacerles pasar un tiempo animado y usted agradecido de estar allí. Aceptar y estar preparado por las posibles reacciones que surjan.
 
+Vamos a ensayar. Se encuentra en el momento de empezar a caldear neuronas de todo cuanto ha escrito. De imaginar que está en el día de “su nuevo día”. Frente a usted, en la más hermosa de las soledades; tiene a su auditorio expectante.
 
 ### 5.1. Notas previas. El auditorio.
 
+Por encima de casi todos los argumentos que se entregan para nuestra tranquilidad, tener la seguridad de dominar aquello sobre lo que vamos a hablar y haberlo practicado, es el más efectivo.
 
+Como sugerencia a modo de guía puede consistir en preguntar a quienes le han contratado: profesión, nivel cultura, edad media, ¿qué esperan saber, oír?, ¿Qué les puede motivar? Y una vez con todo ese conocimiento, con todo el marco de referencia y con toda la conferencia debidamente ensayada y preparada busque la oportunidad de hacer hincapié sobre ello.
+
+cada conferencia sobre el mismo tema; nunca será igual.  De ahí nuestra insistencia en conocer al público. El auditorio es clave, a veces, hasta llega a determinar un discurso como hemos comentado
+ 
+El texto, es solo una parte del discurso. Es el resultado de la interacción orador-auditorio lo que fija.
+
+Para dar la sensación de un “maestro”, no queda otra que ser maestro.
+
+tenga presente que en el auditorio van a estar personas especialistas en el tema que va a tratar, por lo que le recomiendo que aporte datos originales, que en todo momento se puedan constatar.
+
+Vuelva a preguntarse en cómo hacerlo sugestivo, interesante, en cómo se van a beneficiar. Sienta ese beneficio al ensayar. Experimente el placer de servir. Si el nivel no le agrada no dude en modificar el texto. Tal vez solo sea cuestión de adaptarlo a su personalidad; a su estilo.
 
 ### 5.2. Entrada en escena; su presentación.
 
+Ensaye una y otra vez su acceso al estrado. Visualice como se está dirigiendo acompañado hacia la mesa, o quizás será de pie, en el centro o a un lado del entarimado, dónde le acompañarán para presentarle.
 
+Empiece ya a dar las gracias a todos por estar ahí, dedicándole su tiempo y vida. Experimente en su cuerpo como el auditorio, al sentirse reconocido dejará de ser un “anónimo” para pasar a convertirse en sujeto activo, participativo, cargado de afectividad hacia usted. Sonríales.
+
+ Limítese a estar de forma activa. Visualice la experiencia de cómo el nivel del murmullo se va diluyendo y usted aún permanece sonriendo.
+
+hombre hace lo que tiene la costumbre de hacer y bajo presión; totalmente lo de siempre es lo único que hace.
 
 ### 5.3. Primeras palabras y nexo de unión (vínculo).
 
+#### 5.3.1 Nexo de unión. (vínculo).
 
+ Necesita estar emocionalmente unido con el/su público antes de empezar a hablar sobre el motivo por el cual usted ha sido invitado
+
+#### 5.3.2 Implíquese/implíquelos.
+
+Mientras les habla persista con el ejercicio de “verlos” ordenadamente a todos; derecha, izquierda, arriba, abajo. El contacto visual es esencial para mantener la atención del que escucha.
+
+- Sonría mucho... ...La sonrisa contagia, gusta, relaja al auditorio, interpretan que el orador está a gusto, identificado con ellos.
+- Mire permanentemente al público. Sí, no se canse de hacerlo. Procure mantener el mayor número de veces contacto visual.
 
 ### 5.4. Se dice que se va a decir.
 
+Se halla en el tiempo; dice que se va a decir todo aquello que escribió de manera sucinta sobre los puntos a tratar
 
+La finalidad de esta forma de exponer es conseguir que todo el auditorio obtenga un marco suficientemente estructurado, una idea clara de qué va a consistir la conferencia. Si después de lo dicho en ese instante un sujeto decide “desconectarse”, mentalmente, marcharse a “ningún lugar”, perfectamente va a poder “seguir el hilo” de su discurso una vez vuelto “a la realidad”
+
+Guíese por el reloj para que su exposición se ajuste en la medida de lo posible a treinta (30´) minutos. La capacidad de atención es limitada y debe contar con un tiempo de ruegos y preguntas una vez concluido su discurso.
 
 ### 5.5. Se dice.
 
+Acaba de presentar los puntos sobre los que va a hablar, el espacio mnemotécnico “se dice que se va a decir” Si ha sido necesario ha hecho los cambios pertinentes tanto sobre el papel como en la presentación tipo PowerPoint
 
+La parte de desarrollo sobre el contenido de los puntos del discurso. Recuerde que todo debe respirar armonía. Cada punto debe ser una continuidad del anterior. En el cerebro del auditorio todo debe ser fluidez. Cada frase una continuidad de la anterior, Cada nuevo tema una prolongación del que le ha precedido
+
+#### 5.5.1 Hable despacio y trabaje su voz.
+ 
+Nada es neutro en el orador. Cambie el ritmo solo cuando le convenga. Recuerde que cualquier frase dicha rápidamente, tiende a interpretarse carente de valor y todo cambio de ritmo llama la atención.
+
+Sea enérgico con su voz. Debe transmitir “ganas”, y vocalice todas las palabras hasta el final. En la antigüedad, algunos oradores nos dejaron ejercicios como el de la traba, consistente en ponerse una pequeña piedrecita en la boca y empezar a hablar. Ensaye de esta manera durante dos o tres minutos. Pare, ahora hable sin ella, constate la agilidad que ha experimentado. También puede ensayar poniéndose un lápiz en la boca de manera transversal y al igual que en la práctica anterior, empezar a exponer el discurso durante el mismo espacio de tiempo. También cuando se quite el lápiz, podrá constatar el cambio.
+
+Siga un orden; el mismo que se ha propuesto en la presentación.
+
+#### 5.5.2 Credibilidad.
+
+Visto el tiempo pasemos a potenciar la credibilidad. Para que todo cuanto hable reduzca al mínimo el cuestionamiento por parte del auditorio, procure remitir citas, nombres, fechas. Inclusive anécdotas, parábolas y a ser posible; vivencias.
+
+si queremos llegar debemos reiterar.
 
 ### 5.6. Se dice que se ha dicho.
+ 
+usted va a ir repitiendo los puntos clave de cuanto ha dicho.
 
+Las pautas a seguir son:
 
+- Repetir todos los apartados en que usted ha dividido el cuerpo del discurso,
+- Después de cada punto insista diciendo, por ejemplo: y es por esto que en mi opinión lo considero de vital importancia para ustedes dado el marco en que nos encontramos, o, esto nos va a servir para reflexionar sobre…,
+- Para finalizar; siempre frases invitando al trabajo, a la participación, por ejemplo: creo que es un buen momento para cambiar muchas percepciones, para que trabajemos en…para…
+- Ahora que está en el ensayo, mientras habla, sobre todo en este punto no se olvide de hacer los ejercicios de respiración abdominal.
 
 ### 5.7. Debate.
 
+ Se encuentra en el espacio de preguntas y respuestas. El tiempo donde se va a confirmar nuestro buen hacer, la asimilación del programa por parte de los asistentes.
+ 
+Momento de ensayar las preguntas con sus respectivas respuestas que usted creo. No se confíe ni justifique por ser usted el autor de hasta las preguntas,
 
+Es un momento tenso y no es cuestión de justificarnos con la típica frase “parece ser que todo se ha explicado tan bien que no ha habido dudas”. Cómo es así que en algunas ocasiones puede ocurrir, nuestra experiencia para evitarlo, y de esta manera romperlo, aconsejamos seguir los pasos que a continuación señalamos:
+
+a. Frente a su silencioso público hágase usted mismo una de las preguntas ya preparadas con antelación.
+b. También, con el fin ir preparando este colofón de la forma más brillante, en las conversaciones con la presentadora y/o los miembros de la mesa previas al inicio, puede hablar de algo que le preocupa y que le gustaría que le preguntaran para de esta manera poder desarrollarlo como un punto y aparte en el apartado de preguntas. Puede decir a modo de excusa: si hay tiempo hay un punto que me gustaría desarrollar cuando lleguemos al debate, que me hicieran la pregunta del por qué… Es otra forma de forzar el azar, para que el público arranque con preguntas.
+c. Si a pesar de ello las preguntas siguen sin llegar y usted tiene interés en subrayar un contenido, o simplemente propiciar un nuevo diálogo, podría iniciar como sigue: “…al llegar esta mañana al Congreso y comprobar el nivel y asistencia de interesados sobre los temas que tratamos, me he preguntado…” y expone la pregunta que tenía preparada con su correspondiente respuesta. O “en la última conferencia que el pasado… me hicieron hincapié en… y efectivamente no iban descaminados porque…”
+
+el apartado de preguntas debe ser siempre una realidad. El debate tiene que existir.
+ 
+#### 5.7.1 Llegaron las preguntas. 
+
+Siguiendo las mismas reglas de atención y cortesía dichas hasta ahora, ensaye orientándose hacia su interlocutor centrándose en él, acompañándose de toda su carga de lenguaje no verbal: mirada a los ojos, escucha activa y, ligera inclinación de cabeza. Sonriéndole con los ojos, aunque discrepe.
+
+ Aclarada la pregunta, no se precipite en contestar. Procure:
+	 
+- Pregunte su nombre con el fin de personalizar la respuesta.  
+- Sea cortés.
+- Prohibido el sarcástico o atisbo de superioridad.
+- No personalice. 
+- Puede que algún asistente, más que preguntarle necesite darle un consejo en público; acéptelo en su medida si es un consejo propiamente dicho. Finalice dando las gracias.
+- Y recuerde que es imposible caer bien a todo el mundo.
 
 ### 5.8. Número de veces que debe ensayar.
 
-
+Cuando hemos hecho esa misma pregunta a otros profesionales, al ser tantas las variables que intervienen, ninguno nos ha concretado.
 
 ## CONSEJOS PREVIOS A SU EXPOSICIÓN
 
