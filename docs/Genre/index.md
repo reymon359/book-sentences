@@ -3,6 +3,8 @@
 
  - [Ancient](Genre/Ancient.md)
     
+ - [Anthropology](Genre/Anthropology.md)
+    
  - [Biography](Genre/Biography.md)
     
  - [Dystopian fiction](Genre/Dystopian%20fiction.md)
@@ -12,8 +14,6 @@
  - [Fiction](Genre/Fiction.md)
     
  - [Good Practices](Genre/Good%20Practices.md)
-    
- - [Historical](Genre/Historical.md)
     
  - [History](Genre/History.md)
     

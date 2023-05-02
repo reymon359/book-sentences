@@ -6,29 +6,32 @@
 Viktor Frankl - 1946
 
 ## Table of Contents
-- [Preface by Harold S. Kushner](#preface-by-harold-s-kushner)
-- [Preface to the 1992 Edition](#preface-to-the-1992-edition)
-- [PART ONE: Experiences in a Concentration Camp](#part-one-experiences-in-a-concentration-camp)
-- [PART TWO: Logotherapy in a Nutshell](#part-two-logotherapy-in-a-nutshell)
-  - [EXISTENTIAL FRUSTRATION](#existential-frustration)
-  - [NOÖGENIC NEUROSES](#noögenic-neuroses)
-  - [NOÖ-DYNAMICS](#noö-dynamics)
-  - [THE EXISTENTIAL VACUUM](#the-existential-vacuum)
-  - [THE MEANING OF LIFE](#the-meaning-of-life)
-  - [THE ESSENCE OF EXISTENCE](#the-essence-of-existence)
-  - [THE MEANING OF LOVE](#the-meaning-of-love)
-  - [THE MEANING OF SUFFERING](#the-meaning-of-suffering)
-  - [META-CLINICAL PROBLEMS](#meta-clinical-problems)
-  - [A LOGODRAMA](#a-logodrama)
-  - [THE SUPER-MEANING](#the-super-meaning)
-  - [LIFE’S TRANSITORINESS](#lifes-transitoriness)
-  - [LOGOTHERAPY AS A TECHNIQUE](#logotherapy-as-a-technique)
-  - [THE COLLECTIVE NEUROSIS](#the-collective-neurosis)
-  - [CRITIQUE OF PAN-DETERMINISM](#critique-of-pan-determinism)
-  - [THE PSYCHIATRIC CREDO](#the-psychiatric-credo)
-  - [PSYCHIATRY REHUMANIZED](#psychiatry-rehumanized)
-- [POSTSCRIPT 1984: The Case for a Tragic Optimism](#postscript-1984-the-case-for-a-tragic-optimism)
-- [About the Author](#about-the-author)
+- [Man's Search For Meaning](#mans-search-for-meaning)
+  - [Table of Contents](#table-of-contents)
+  - [Preface by Harold S. Kushner](#preface-by-harold-s-kushner)
+  - [Preface to the 1992 Edition](#preface-to-the-1992-edition)
+  - [PART ONE: Experiences in a Concentration Camp](#part-one-experiences-in-a-concentration-camp)
+  - [PART TWO: Logotherapy in a Nutshell](#part-two-logotherapy-in-a-nutshell)
+    - [THE WILL TO MEANING](#the-will-to-meaning)
+    - [EXISTENTIAL FRUSTRATION](#existential-frustration)
+    - [NOÖGENIC NEUROSES](#noögenic-neuroses)
+    - [NOÖ-DYNAMICS](#noö-dynamics)
+    - [THE EXISTENTIAL VACUUM](#the-existential-vacuum)
+    - [THE MEANING OF LIFE](#the-meaning-of-life)
+    - [THE ESSENCE OF EXISTENCE](#the-essence-of-existence)
+    - [THE MEANING OF LOVE](#the-meaning-of-love)
+    - [THE MEANING OF SUFFERING](#the-meaning-of-suffering)
+    - [META-CLINICAL PROBLEMS](#meta-clinical-problems)
+    - [A LOGODRAMA](#a-logodrama)
+    - [THE SUPER-MEANING](#the-super-meaning)
+    - [LIFE’S TRANSITORINESS](#lifes-transitoriness)
+    - [LOGOTHERAPY AS A TECHNIQUE](#logotherapy-as-a-technique)
+    - [THE COLLECTIVE NEUROSIS](#the-collective-neurosis)
+    - [CRITIQUE OF PAN-DETERMINISM](#critique-of-pan-determinism)
+    - [THE PSYCHIATRIC CREDO](#the-psychiatric-credo)
+    - [PSYCHIATRY REHUMANIZED](#psychiatry-rehumanized)
+  - [POSTSCRIPT 1984: The Case for a Tragic Optimism](#postscript-1984-the-case-for-a-tragic-optimism)
+  - [About the Author](#about-the-author)
 
 ## Preface by Harold S. Kushner
 
@@ -675,4 +678,5 @@ So, let us be alert—alert in a twofold sense: Since Auschwitz we know what man
 
 ## About the Author
 
-Viktor E. Frankl was Professor of Neurology and Psychiatry at the University of Vienna Medical School. He was the founder of what has come to be called the Third Viennese school of Psychotherapy (after Freud’s psychoanalysis and Adler’s individual psychology) – the school of logotherapy. Born in 1905, Dr. Frankl received the degrees of Doctor of Medicine and Doctor of Philosophy from the University of Vienna. During World War II he spent three at Auschwitz, Dachau, and other concentration camps.<hr/><br/>[Read:](Read/index.md) [2020](Read/2020.md)<br/>[Genre:](Genre/index.md) [Biography](Genre/Biography.md) [Historical](Genre/Historical.md) [Psychology](Genre/Psychology.md)
+Viktor E. Frankl was Professor of Neurology and Psychiatry at the University of Vienna Medical School. He was the founder of what has come to be called the Third Viennese school of Psychotherapy (after Freud’s psychoanalysis and Adler’s individual psychology) – the school of logotherapy. Born in 1905, Dr. Frankl received the degrees of Doctor of Medicine and Doctor of Philosophy from the University of Vienna. During World War II he spent three at Auschwitz, Dachau, and other concentration camps.
+<hr/><br/>[Read:](Read/index.md) [2020](Read/2020.md)<br/>[Genre:](Genre/index.md) [Biography](Genre/Biography.md) [History](Genre/History.md) [Psychology](Genre/Psychology.md)
