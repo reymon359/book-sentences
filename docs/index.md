@@ -36,6 +36,8 @@ I have read other books before these (not as many as I would have liked), howeve
     
  - [Nineteen Eighty-Four](Nineteen%20Eighty-Four/index.md)
     
+ - [Oratoria Los pasos que nunca le contaron](Oratoria%20Los%20pasos%20que%20nunca%20le%20contaron/index.md)
+    
  - [The 7 habits of highly effective people](The%207%20habits%20of%20highly%20effective%20people/index.md)
     
  - [The 7 habits of highly effective people Personal Workbook](The%207%20habits%20of%20highly%20effective%20people%20Personal%20Workbook/index.md)

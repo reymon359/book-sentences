@@ -39,6 +39,8 @@
     
  - [Psychology](Genre/Psychology.md)
     
+ - [Public-speaking](Genre/Public-speaking.md)
+    
  - [Science](Genre/Science.md)
     
  - [Science fiction](Genre/Science%20fiction.md)

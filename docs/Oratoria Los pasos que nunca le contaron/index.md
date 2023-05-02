@@ -1,8 +1,3 @@
----
-name: 'Oratoria Los pasos que nunca le contaron'
-Read: ['2022']
-Genre: ['Self-help', 'Public-speaking']
----
 
 ![Cover](./assets/oratoria-los-pasos-que-nunca-le-contaron.jpg)
 
@@ -685,4 +680,4 @@ La confianza proporciona seguridad y participa a su vez, en la génesis y manten
 
 ## EJERCICIOS DE RESPIRACIÓN.
 
-Si queremos reducir a cero los posibles lapsus de una buena conferencia, necesitamos de una buena oxigenación de nuestro cerebro. Es decir, debemos empezar por concentrarnos en nuestra propia respiración; respirar correctamente. Nuestros pulmones tienen una capacidad de aire de cinco litros por término medio y en nuestra actividad cotidiana apenas utilizamos la cuarta parte.
+Si queremos reducir a cero los posibles lapsus de una buena conferencia, necesitamos de una buena oxigenación de nuestro cerebro. Es decir, debemos empezar por concentrarnos en nuestra propia respiración; respirar correctamente. Nuestros pulmones tienen una capacidad de aire de cinco litros por término medio y en nuestra actividad cotidiana apenas utilizamos la cuarta parte.<hr/><br/>[Read:](Read/index.md) [2022](Read/2022.md)<br/>[Genre:](Genre/index.md) [Public-speaking](Genre/Public-speaking.md) [Self-help](Genre/Self-help.md)
