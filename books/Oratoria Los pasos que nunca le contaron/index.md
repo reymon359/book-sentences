@@ -12,87 +12,56 @@ Ramón Morcillo Lopez - 2021
 
 ## Table of Contents
 
-TODO
-## PRÓLOGO
-## PREVIO
-## ROMPIENDO EL “DESASOSIEGO” A HABLAR EN PÚBLICO
-### 1.1. Euestrés.
-### 1.2. Respuesta biológica negativa.
-### 1.3. Ejercicios para erradicar el miedo escénico.
-## EL TEXTO
-### 2.1. Estructura. Cómo vamos a organizarla. (Toda comunicación requiere preparación)
-### 2.2. Brevedad.
-### 2.3. Título.
-## SU EXPOSICIÓN. CONSEJOS PREVIOS
-### 3.1. División.
-### 3.2. Confirmación.
-### 3.3. Conclusión.
-### 3.4. Confutación.
-## PREPARACIÓN DEL ACTO DE PRESENTACIÓN Y PRIMERAS PALABRAS
-### 4.1 Lenguaje no verbal, Neuronas Espejo y Pensamiento.
-### 4.2. Estereotipo.
-### 4.3. Exordio.
-### 4.4. Narración.
-## ENSAYO GENERAL
-### 5.1. Notas previas. El auditorio.
-### 5.2. Entrada en escena; su presentación.
-### 5.3. Primeras palabras y nexo de unión (vínculo).
-### 5.4. Se dice que se va a decir.
-### 5.5. Se dice.
-### 5.6. Se dice que se ha dicho.
-### 5.7. Debate.
-### 5.8. Número de veces que debe ensayar.
-## CONSEJOS PREVIOS A SU EXPOSICIÓN
-## EL DÍA
-## ANEXO
-## EUESTRÉS. SOBRE LA OXITOCINA.
-## LA CONFIANZA.
-## EJERCICIOS DE RESPIRACIÓN.
-## EJERCICIOS DE RELAJACIÓN.
-## CIERRE PRESENTACIÓN.
-## LENGUAJE NO VERBAL.
-### a) Cabeza.
-### b) Rostro.
-### c) Mirada
-### d) Sonrisa
-### e) Brazos.
-### f) Manos.
-### g) Piernas.
-## NEURONAS ESPEJO Y PENSAMIENTO.
-## PRESENTACIÓN. PRIMERAS PALABRAS.
-## BIBLIOGRAFÍA
+- [Oratoria Los pasos que nunca le contaron](#oratoria-los-pasos-que-nunca-le-contaron)
+	- [Table of Contents](#table-of-contents)
+	- [PRÓLOGO](#prólogo)
+	- [PREVIO](#previo)
+	- [ROMPIENDO EL “DESASOSIEGO” A HABLAR EN PÚBLICO](#rompiendo-el-desasosiego-a-hablar-en-público)
+		- [1.1. Euestrés.](#11-euestrés)
+		- [1.2. Respuesta biológica negativa.](#12-respuesta-biológica-negativa)
+		- [1.3. Ejercicios para erradicar el miedo escénico.](#13-ejercicios-para-erradicar-el-miedo-escénico)
+			- [1.3.1 Respiración.](#131-respiración)
+			- [1.3.2 Relajación.](#132-relajación)
+	- [EL TEXTO](#el-texto)
+		- [2.1. Estructura. Cómo vamos a organizarla. (Toda comunicación requiere preparación)](#21-estructura-cómo-vamos-a-organizarla-toda-comunicación-requiere-preparación)
+		- [2.2. Brevedad.](#22-brevedad)
+		- [2.3. Título.](#23-título)
+	- [SU EXPOSICIÓN. CONSEJOS PREVIOS](#su-exposición-consejos-previos)
+		- [3.1. División.](#31-división)
+		- [3.2. Confirmación.](#32-confirmación)
+		- [3.3. Conclusión.](#33-conclusión)
+		- [3.4. Confutación.](#34-confutación)
+	- [PREPARACIÓN DEL ACTO DE PRESENTACIÓN Y PRIMERAS PALABRAS](#preparación-del-acto-de-presentación-y-primeras-palabras)
+		- [4.1 Lenguaje no verbal, Neuronas Espejo y Pensamiento.](#41-lenguaje-no-verbal-neuronas-espejo-y-pensamiento)
+			- [4.1.1 Lenguaje no verbal.](#411-lenguaje-no-verbal)
+			- [4.1.2 Neuronas Espejo y Pensamiento.](#412-neuronas-espejo-y-pensamiento)
+		- [4.2. Estereotipo.](#42-estereotipo)
+		- [4.3. Exordio.](#43-exordio)
+		- [4.4. Narración.](#44-narración)
+			- [4.4.1. Agradecimiento:](#441-agradecimiento)
+			- [4.4.2 El vínculo.](#442-el-vínculo)
+			- [4.4.3 Proemio.](#443-proemio)
+	- [ENSAYO GENERAL](#ensayo-general)
+		- [5.1. Notas previas. El auditorio.](#51-notas-previas-el-auditorio)
+		- [5.2. Entrada en escena; su presentación.](#52-entrada-en-escena-su-presentación)
+		- [5.3. Primeras palabras y nexo de unión (vínculo).](#53-primeras-palabras-y-nexo-de-unión-vínculo)
+			- [5.3.1 Nexo de unión. (vínculo).](#531-nexo-de-unión-vínculo)
+			- [5.3.2 Implíquese/implíquelos.](#532-implíqueseimplíquelos)
+		- [5.4. Se dice que se va a decir.](#54-se-dice-que-se-va-a-decir)
+		- [5.5. Se dice.](#55-se-dice)
+			- [5.5.1 Hable despacio y trabaje su voz.](#551-hable-despacio-y-trabaje-su-voz)
+			- [5.5.2 Credibilidad.](#552-credibilidad)
+		- [5.6. Se dice que se ha dicho.](#56-se-dice-que-se-ha-dicho)
+		- [5.7. Debate.](#57-debate)
+			- [5.7.1 Llegaron las preguntas.](#571-llegaron-las-preguntas)
+		- [5.8. Número de veces que debe ensayar.](#58-número-de-veces-que-debe-ensayar)
+	- [CONSEJOS PREVIOS A SU EXPOSICIÓN](#consejos-previos-a-su-exposición)
+	- [EL DÍA](#el-día)
+	- [ANEXO](#anexo)
+		- [EUESTRÉS. SOBRE LA OXITOCINA.](#euestrés-sobre-la-oxitocina)
+		- [LA CONFIANZA.](#la-confianza)
+	- [EJERCICIOS DE RESPIRACIÓN.](#ejercicios-de-respiración)
 
-
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
 	 
 > A mi hijo Ramón, por sus preguntas que requerían respuestas.
 	 
