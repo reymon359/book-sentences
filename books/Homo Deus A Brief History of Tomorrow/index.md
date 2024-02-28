@@ -116,6 +116,129 @@ Just think what would have happened if AIDS had erupted in 1581 rather than 1981
 
  New infectious diseases appear mainly as a result of chance mutations in pathogen genomes. These mutations allow the pathogens to jump from animals to humans, to overcome the human immune system, or to resist medicines such as antibiotics. Today such mutations probably occur and disseminate faster than in the past, due to human impact on the environment.
 
+Some research labs are already home to nano-robots, that may one day navigate through our bloodstream, identify illnesses and kill pathogens and cancerous cells.
+
+ and viruses, but it simultaneously turns humans themselves into an unprecedented threat. The same tools that enable doctors to quickly identify and cure new illnesses may also enable armies and terrorists to engineer even more terrible diseases and doomsday pathogens.
+
+The era when humankind stood helpless before natural epidemics is probably over. But we may come to miss it.
+
+### Breaking the Law of the Jungle
+
+ Throughout history most humans took war for granted, whereas peace was a temporary and precarious state.
+
+ From the Stone Age to the age of steam, and from the Arctic to the Sahara, every person on earth knew that at any moment the neighbours might invade their territory, defeat their army, slaughter their people and occupy their land.
+
+  In 2012 about 56 million people died throughout the world; 620,000 of them died due to human violence (war killed 120,000 people, and crime killed another 500,000). In contrast, 800,000 committed suicide, and 1.5 million died of diabetes Sugar is now more dangerous than gunpowder.
+
+ the global economy has been transformed from a material-based economy into a knowledge-based economy.
+
+  Today the main source of wealth is knowledge.
+
+ as knowledge became the most important economic resource, the profitability of war declined and wars became increasingly restricted to those parts of the world – such as the Middle East and Central Africa – where the economies are still old-fashioned material-based economies.
+
+In 1998 it made sense for Rwanda to seize and loot the rich coltan mines of neighbouring Congo... ...Rwanda earned $240 million annually from the looted coltan... ...the Chinese have earned billions of dollars from cooperating with hi-tech giants such as Apple and Microsoft, buying their software and manufacturing their products. What Rwanda earned from an entire year of looting Congolese coltan, the Chinese earn in a single day of peaceful commerce.
+
+ Previous generations thought about peace as the temporary absence of war. Today we think about peace as the implausibility of war.
+
+ This New Peace is not just a hippie fantasy. Power-hungry governments and greedy corporations also count on it. When Mercedes plans its sales strategy in eastern Europe, it discounts the possibility that Germany might conquer Poland. A corporation importing cheap labourers from the Philippines is not worried that Indonesia might invade the Philippines next year.
+
+ There is no guarantee, of course, that the New Peace will hold indefinitely.
+
+  When the USA fought Iraq in 2003 it brought havoc to Baghdad and Mosul, but not a single bomb was dropped on Los Angeles or Chicago. In the future, though, a country such as North Korea or Iran could use logic bombs to shut down the power in California, blow up refineries in Texas and cause trains to collide in Michigan
+
+ we should not confuse ability with motivation.
+
+  Anton Chekhov famously said that a gun appearing in the first act of a play will inevitably be fired in the third. Throughout history, if kings and emperors acquired some new weapon, sooner or later they were tempted to use it. Since 1945, however, humankind has learned to resist this temptation. The gun that appeared in the first act of the Cold War was never fired.
+
+ ![Nuclear missiles on parade in Moscow. The gun that was always on display but never fired.Moscow, 1968 © Sovfoto/UIG via Getty Images.](./assets/nuclear-missiles-parade.jpg)
+Nuclear missiles on parade in Moscow. The gun that was always on display but never fired.Moscow, 1968 © Sovfoto/UIG via Getty Images.
+
+ Whereas in 2010 obesity and related illnesses killed about 3 million people, terrorists killed a total of 7,697 people across the globe, most of them in developing countries.25 For the average American or European, Coca-Cola poses a far deadlier threat than al-Qaeda.
+
+ In essence, terrorism is a show. Terrorists stage a terrifying spectacle of violence that captures our imagination and makes us feel as if we are sliding back into medieval chaos. Consequently states often feel obliged to react to the theatre of terrorism with a show of security, orchestrating immense displays of force, such as the persecution of entire populations or the invasion of foreign countries. In most cases, this overreaction to terrorism poses a far greater threat to our security than the terrorists themselves.
+
+ By themselves, terrorists are too weak to drag us back to the Middle Ages and re-establish the Jungle Law. They may provoke us, but in the end, it all depends on our reactions.
+
+ The message is not that famine, plague and war have completely disappeared from the face of the earth, and that we should stop worrying about them. Just the opposite.
+
+Acknowledging our past achievements sends a message of hope and responsibility, encouraging us to make even greater efforts in the future.
+
+ appreciating the magnitude of our achievements carries another message: history does not tolerate a vacuum. If incidences of famine, plague and war are decreasing, something is bound to take their place on the human agenda. We had better think very carefully what it is going to be. Otherwise, we might gain complete victory in the old battlefields only to be caught completely unaware on entirely new fronts.
+
+We have managed to bring famine, plague and war under control thanks largely to our phenomenal economic growth, which provides us with abundant food, medicine, energy and raw materials. Yet this same growth destabilises the ecological equilibrium of the planet in myriad ways, which we have only begun to explore.
+
+ Despite all the talk of pollution, global warming and climate change, most countries have yet to make any serious economic or political sacrifices to improve the situation.
+
+  Humans are rarely satisfied with what they already have. 
+  
+  The most common reaction of the human mind to achievement is not satisfaction, but craving for more.
+
+  Success breeds ambition, and our recent achievements are now pushing humankind to set itself even more daring goals.
+
+   humanity’s next targets are likely to be immortality, happiness and divinity.
+
+### The Last Days of Death
+
+ Struggling against old age and death will merely carry on the time-honoured fight against famine and disease, and manifest the supreme value of contemporary culture: the worth of human life. 
+ 
+ We are constantly reminded that human life is the most sacred thing in the universe.
+
+  The Universal Declaration of Human Rights adopted by the UN after the Second World War – which is perhaps the closest thing we have to a global constitution – categorically states that ‘the right to life’ is humanity’s most fundamental value. Since death clearly violates this right, death is a crime against humanity, and we ought to wage total war against it.
+  
+  Throughout history, religions and ideologies did not sanctify life itself. They always sanctified something above or beyond earthly existence, and were consequently quite tolerant of death... ...they viewed death as a vital and positive part of the world. Humans died because God decreed it, and their moment of death was a sacred metaphysical experience exploding with meaning.
+
+   Just try to imagine Christianity, Islam or Hinduism in a world without death – which is also a world without heaven, hell or reincarnation.
+   
+   Modern science and modern culture have an entirely different take on life and death. They don’t think of death as a metaphysical mystery, and they certainly don’t view death as the source of life’s meaning. Rather, for modern people death is a technical problem that we can and should solve.
+
+  Humans always die due to some technical glitch. The heart stops pumping blood. The main artery is clogged by fatty deposits. Cancerous cells spread in the liver. Germs multiply in the lungs. And what is responsible for all these technical problems? Other technical problems. The heart stops pumping blood because not enough oxygen reaches the heart muscle. Cancerous cells spread because a chance genetic mutation rewrote their instructions. Germs settled in my lungs because somebody sneezed on the subway. Nothing metaphysical about it. It is all technical problems.
+
+![Death personified as the Grim Reaper in medieval art.‘Death and dying’ from 14th-century French manuscript: Pilgrimage of the Human Life, Bodleian Library, Oxford © Art Media/Print Collector/Getty Images.](./assets/medieval-grim-reaper.jpg)
+  Death personified as the Grim Reaper in medieval art.‘Death and dying’ from 14th-century French manuscript: Pilgrimage of the Human Life, Bodleian Library, Oxford © Art Media/Print Collector/Getty Images.
+
+Every technical problem has a technical solution
+
+ True, at present we don’t have solutions to all technical problems. But this is precisely why we invest so much time and money in researching cancer, germs, genetics and nanotechnology.
+
+ Even when people die in a hurricane, a car accident or a war, we tend to view it as a technical failure that could and should have been prevented.
+
+  Death has become an almost automatic reason for lawsuits and investigations. ‘How could they have died? Somebody somewhere must have screwed up.’
+
+   Yet because old age and death are the outcome of nothing but particular problems, there is no point at which doctors and scientists are going to stop and declare: ‘Thus far, and not another step. We have overcome tuberculosis and cancer, but we won’t lift a finger to fight Alzheimer’s. People can go on dying from that.’ The Universal Declaration of Human Rights does not say that humans have ‘the right to life until the age of ninety’. It says that every human has a right to life, period. That right isn’t limited by any expiry date.
+
+In 2012 Kurzweil was appointed a director of engineering at Google, and a year later Google launched a sub-company called Calico whose stated mission is "to solve death".
+
+
+ Google Ventures is investing 36 per cent of its $2 billion portfolio in life sciences start-ups, including several ambitious life-extending projects. Using an American football analogy, Maris explained that in the fight against death, ‘We aren’t trying to gain a few yards. We are trying to win the game.’ Why? Because, says Maris, ‘it is better to live than to die’.
+
+I think there are probably three main modes of approaching [death],’ he explained. ‘You can accept it, you can deny it or you can fight it. I think our society is dominated by people who are into denial or acceptance, and I prefer to fight it.’
+
+ They maintain that anyone possessing a healthy body and a healthy bank account in 2050 will have a serious shot at immortality by cheating death a decade at a time. According to Kurzweil and de Grey, every ten years or so we will march into the clinic and receive a makeover treatment that will not only cure illnesses, but will also regenerate decaying tissues, and upgrade hands, eyes and brains. Before the next treatment is due, doctors will have invented a plethora of new medicines, upgrades and gadgets. If Kurzweil and de Grey are right, there may already be some immortals walking next to you on the street – at least if you happen to be walking down Wall Street or Fifth Avenue.
+
+ In truth they will actually be a-mortal, rather than immortal... ...Which will probably make them the most anxious people in history. We mortals daily take chances with our lives, because we know they are going to end anyhow. So we go on treks in the Himalayas, swim in the sea, and do many other dangerous things like crossing the street or eating out. But if you believe you can live for ever, you would be crazy to gamble on infinity like that.
+
+  In the twentieth century we have almost doubled life expectancy from forty to seventy, so in the twenty-first century we should at least be able to double it again to 150
+
+   Though falling far short of immortality, this would still revolutionise human society. For starters, family structure, marriages and child–parent relationships would be transformed. Today, people still expect to be married ‘till death us do part’, and much of life revolves around having and raising children. Now try to imagine a person with a lifespan of 150 years. Getting married at forty, she still has 110 years to go. Will it be realistic to expect her marriage to last 110 years? Even Catholic fundamentalists might baulk at that
+
+   The current trend of serial marriages is likely to intensify
+
+Today we assume that you learn a profession in your teens and twenties, and then spend the rest of your life in that line of work. You obviously learn new things even in your forties and fifties, but life is generally divided into a learning period followed by a working period. When you live to be 150 that won’t do, especially in a world that is constantly being shaken by new technologies. 
+    
+People will have much longer careers, and will have to reinvent themselves again and again even at the age of ninety.
+
+At the same time, people will not retire at sixty-five and will not make way for the new generation with its novel ideas and aspirations. The physicist Max Planck famously said that science advances one funeral at a time. He meant that only when one generation passes away do new theories have a chance to root out old ones. This is true not only of science. Think for a moment about your own workplace. No matter whether you are a scholar, journalist, cook or football player, how would you feel if your boss were 120, his ideas were formulated when Victoria was still queen, and he was likely to stay your boss for a couple of decades more?
+
+ In the political sphere the results might be even more sinister... ...if people lived to 150, then in 2016 Stalin would still be ruling in Moscow, going strong at 138,
+
+My own view is that the hopes of eternal youth in the twenty-first century are premature, and whoever takes them too seriously is in for a bitter disappointment. 
+
+It is not easy to live knowing that you are going to die, but it is even harder to believe in immortality and be proven wrong.
+
+Although average life expectancy has doubled over the last hundred years, it is unwarranted to extrapolate and conclude that we can double it again to 150 in the coming century.
+
+
+ 
 ## 4. PART I Homo Sapiens Conquers the World
 
 
