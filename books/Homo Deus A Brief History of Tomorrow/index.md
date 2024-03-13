@@ -467,6 +467,18 @@ Nobody knows where the brakes are. While some experts are familiar with developm
 
   why not rig the lottery? Fertilise several eggs, and choose the one with the best combination. Once stem-cell research enables us to create an unlimited supply of human embryos on the cheap, you can select your optimal baby from among hundreds of candidates, all carrying your DNA, all perfectly natural, and none requiring any futuristic genetic engineering.
 
+   In 2000 Sharon Saarinen from West Bloomfield, Michigan, gave birth to a healthy baby girl, Alana. Alana’s nuclear DNA came from her mother, Sharon, and her father, Paul, but her mitochondrial DNA came from another woman. From a purely technical perspective, Alana has three biological parents. A year later, in 2001, the US government banned this treatment, due to safety and ethical concerns
+
+ Following selection and replacement, the next potential step is amendment. Once it becomes possible to amend deadly genes, why go through the hassle of inserting some foreign DNA, when you can just rewrite the code and turn a dangerous mutant gene into its benign version? 
+ 
+ Then we might start using the same mechanism to fix not just lethal genes, but also those responsible for less deadly illnesses, for autism, for stupidity and for obesity. 
+ 
+ Who would like his or her child to suffer from any of these? Suppose a genetic test indicates that your would-be daughter will in all likelihood be smart, beautiful and kind – but will suffer from chronic depression. Wouldn’t you want to save her from years of misery by a quick and painless intervention in the test tube?
+
+ And while you are at it, why not give the child a little push? Life is hard and challenging even for healthy people. So it would surely come in handy if the little girl had a stronger-than-normal immune system, an above-average memory or a particularly sunny disposition. And even if you don’t want that for your child – what if the neighbours are doing it for theirs? Would you have your child lag behind? And if the government forbids all citizens from engineering their babies, what if the North Koreans are doing it and producing amazing geniuses, artists and athletes that far outperform ours? And like that, in baby steps, we are on our way to a genetic child catalogue.
+ 
+ Healing is the initial justification for every upgrade.
+
 ## 4. PART I Homo Sapiens Conquers the World
 
 
