@@ -479,12 +479,172 @@ Nobody knows where the brakes are. While some experts are familiar with developm
  
  Healing is the initial justification for every upgrade.
 
+  When we successfully connect brains and computers, will we use this technology only to cure schizophrenia? If anybody really believes this, then they may know a great deal about brains and computers, but far less about the human psyche and human society
+
+   Designer babies may one day become as technologically feasible as murdering people to harvest their organs – yet remain as peripheral.
+
+Precisely because we have some choice regarding the use of new technologies, we had better understand what is happening and make up our minds about it before it makes up our minds for us.
+
+### The Paradox of Knowledge
+
+ Even if famine, plague and war become less prevalent, billions of humans in developing countries and seedy neighbourhoods will continue to deal with poverty, illness and violence even as the elites are already reaching for eternal youth and godlike powers
+
+  Those living in palaces have always had different agendas to those living in shacks, and that is unlikely to change in the twenty-first century.
+
+ Adopting these particular projects might be a big mistake. But history is full of big mistakes. Given our past record and our current values, we are likely to reach out for bliss, divinity and immortality – even if it kills us.
+
+ Some complex systems, such as the weather, are oblivious to our predictions. The process of human development, in contrast, reacts to them. Indeed, the better our forecasts, the more reactions they engender. 
+ 
+ Hence paradoxically, as we accumulate more data and increase our computing power, events become wilder and more unexpected. The more we know, the less we can predict.
+
+ We may know how the economy functioned in the past – but we no longer understand how it functions in the present, not to mention the future.
+
+Marx forgot that capitalists know how to read. At first only a handful of disciples took Marx seriously and read his writings. But as these socialist firebrands gained adherents and power, the capitalists became alarmed. They too perused Das Kapital, adopting many of the tools and insights of Marxist analysis.
+
+As people adopted the Marxist diagnosis, they changed their behaviour accordingly. Capitalists in countries such as Britain and France strove to better the lot of the workers, strengthen their national consciousness and integrate them into the political system. Consequently when workers began voting in elections and Labour gained power in one country after another, the capitalists could still sleep soundly in their beds. As a result, Marx’s predictions came to naught.
+
+This is the paradox of historical knowledge. Knowledge that does not change behaviour is useless. But knowledge that changes behaviour quickly loses its relevance. 
+
+The more data we have and the better we understand history, the faster history alters its course, and the faster our knowledge becomes outdated.
+
+ Today our knowledge is increasing at breakneck speed, and theoretically we should understand the world better and better. But the very opposite is happening. Our new-found knowledge leads to faster economic, social and political changes; in an attempt to understand what is happening, we accelerate the accumulation of knowledge, which leads only to faster and greater upheavals. Consequently we are less and less able to make sense of the present or forecast the future.
+
+### A Brief History of Lawns
+
+ It often seems that the chief aim of science is to predict the future – meteorologists are expected to forecast whether tomorrow will bring rain or sunshine; economists should know whether devaluing the currency will avert or precipitate an economic crisis; good doctors foresee whether chemotherapy or radiation therapy will be more successful in curing lung cancer.
+
+ It is a waste of time to study Hannibal’s tactics in the Second Punic War so as to copy them in the Third World War. What worked well in cavalry battles will not necessarily be of much benefit in cyber warfare.
+
+ the study of history aims above all to make us aware of possibilities we don’t normally consider. 
+ 
+ Historians study the past not in order to repeat it, but in order to be liberated from it.
+ 
+ Each and every one of us has been born into a given historical reality, ruled by particular norms and values, and managed by a unique economic and political system. We take this reality for granted, thinking it is natural, inevitable and immutable. 
+ 
+ We forget that our world was created by an accidental chain of events, and that history shaped not only our technology, politics and society, but also our thoughts, fears and dreams. The cold hand of the past emerges from the grave of our ancestors, grips us by the neck and directs our gaze towards a single future. We have felt that grip from the moment we were born, so we assume that it is a natural and inescapable part of who we are. Therefore we seldom try to shake ourselves free, and envision alternative futures.
+
+ Studying history will not tell us what to choose, but at least it gives us more options.
+ 
+ Movements seeking to change the world often begin by rewriting history, thereby enabling people to reimagine the future.
+
+ This is why Marxists recount the history of capitalism; why feminists study the formation of patriarchal societies; and why African Americans commemorate the horrors of the slave trade. They aim not to perpetuate the past, but rather to be liberated from it.
+
+ The bigger and neater the lawn, the more powerful the dynasty. If you came to visit a duke and saw that his lawn was in bad shape, you knew he was in trouble
+
+ Humans thereby came to identify lawns with political power, social status and economic wealth. No wonder that in the nineteenth century the rising bourgeoisie enthusiastically adopted the lawn. At first only bankers, lawyers and industrialists could afford such luxuries at their private residences. Yet when the Industrial Revolution broadened the middle class and gave rise to the lawnmower and then the automatic sprinkler, millions of families could suddenly afford a home turf. In American suburbia a spick-and-span lawn switched from being a rich person’s luxury into a middle-class necessity.
+
+![The lawns of Château de Chambord, in the Loire Valley. King François I built it in the early sixteenth century. This is where it all began.](./assets/chambord.jpg)
+  The lawns of Château de Chambord, in the Loire Valley. King François I built it in the early sixteenth century. This is where it all began.
+
+ ![A welcoming ceremony in honour of Queen Elizabeth II – on the White House lawn.](./assets/white-house.jpg)
+  A welcoming ceremony in honour of Queen Elizabeth II – on the White House lawn.
+
+![Mario Götze scores the decisive goal, giving Germany the World Cup in 2014 – on the Maracanã lawn.](./assets/world-cup.jpg)
+ Mario Götze scores the decisive goal, giving Germany the World Cup in 2014 – on the Maracanã lawn.
+
+![Petit-bourgeois paradise.](./assets/bourgeois-paradise.jpg)
+Petit-bourgeois paradise.
+
+ when you now come to plan your dream house you might think twice about having a lawn in the front yard. You are of course still free to do it. But you are also free to shake off the cultural cargo bequeathed to you by European dukes, capitalist moguls and the Simpsons – and imagine for yourself a Japanese rock garden, or some altogether new creation. This is the best reason to learn history: not in order to predict the future, but to free yourself of the past and imagine alternative destinies
+
+  this is not total freedom – we cannot avoid being shaped by the past. But some freedom is better than none.
+
+### A Gun in Act I
+
+ For 300 years the world has been dominated by humanism, which sanctifies the life, happiness and power of Homo sapiens. The attempt to gain immortality, bliss and divinity merely takes the long-standing humanist ideals to their logical conclusion
+
+ Yet I would now like to place something else on the table: a gun. A gun that appears in Act I, to fire in Act III. The following chapters discuss how humanism – the worship of humankind – has conquered the world. Yet the rise of humanism also contains the seeds of its downfall. While the attempt to upgrade humans into gods takes humanism to its logical conclusion, it simultaneously exposes humanism’s inherent flaws. If you start with a flawed ideal, you often appreciate its defects only when the ideal is close to realisation.
+
+  Due to similar humanist beliefs, in the twenty-first century we are likely to push humankind as a whole beyond its limits. The same technologies that can upgrade humans into gods might also make humans irrelevant. For example, computers powerful enough to understand and overcome the mechanisms of ageing and death will probably also be powerful enough to replace humans in any and all tasks.
+
+  At present it might seem that immortality, bliss and divinity occupy the top slots on our agenda. But once we come nearer to achieving these goals the resulting upheavals are likely to deflect us towards entirely different destinations.
+
+  we need to go back and investigate who Homo sapiens really is, how humanism became the dominant world religion and why attempting to fulfil the humanist dream is likely to cause its disintegration. This is the basic plan of the book.
+
+  The first part of the book looks at the relationship between Homo sapiens and other animals, in an attempt to comprehend what makes our species so special.
+
+   Homo sapiens does its best to forget the fact, but it is an animal.
+
+  the relationship between humans and animals is the best model we have for future relations between superhumans and humans.
+
+  Based on the conclusions of this first part, the second part of the book examines the bizarre world Homo sapiens has created in the last millennia, and the path that took us to our present crossroads.
+
+  The third and last part of the book comes back to the early twenty-first century. Based on a much deeper understanding of humankind and of the humanist creed, it describes our current predicament and our possible futures.
+
+   If you told people in the Middle Ages that within a few centuries God will be dead, they would have been horrified. ‘How can we live without God? Who will give life meaning and protect us from chaos?’
+
+People are usually afraid of change because they fear the unknown. 
+
+the single greatest constant of history is that everything changes.
+
+![King Ashurbanipal of Assyria slaying a lion: mastering the animal kingdom.](./assets/king-and-lion.jpg)
+King Ashurbanipal of Assyria slaying a lion: mastering the animal kingdom.
+
 ## 4. PART I Homo Sapiens Conquers the World
 
+What is the difference between humans and all other animals?
 
+How did our species conquer the world?
+
+Is Homo sapiens a superior life form, or just the local bully?
 
 ## 1. 2 The Anthropocene
 
+With regard to other animals, humans have long since become gods. We don’t like to reflect on this too deeply, because we have not been particularly just or merciful gods.
+
+ Our televisions, books, fantasies and nightmares are still full of them, but the Simbas, Shere Khans and Big Bad Wolves of our planet are disappearing. 
+ 
+ The world is populated mainly by humans and their domesticated animals.
+
+ Altogether about 200,000 wild wolves still roam the earth, but there are more than 400 million domesticated dogs.
+
+  At present, more than 90 per cent of the large animals of the world (i.e. those weighing more than a few kilograms) are either humans or domesticated animals.
+
+  Officially, we live in the Holocene epoch. Yet it may be better to call the last 70,000 years the Anthropocene epoch: the epoch of humanity.
+
+Since the appearance of life, about 4 billion years ago, never has a single species changed the global ecology all by itself. Though there had been no lack of ecological revolutions and mass-extinction events, these were not caused by the actions of a particular lizard, bat or fungus. Rather, they were caused by the workings of mighty natural forces such as climate change, tectonic plate movement, volcanic eruptions and asteroid collisions.
+
+![Pie chart of global biomass of large animals.](./assets/biomass-large-animals.jpg)
+Pie chart of global biomass of large animals.
+
+ Instead of fearing asteroids, we should fear ourselves.
+
+  Within a century, our impact may surpass that of the asteroid that killed off the dinosaurs 65 million years ago.
+  
+  That asteroid changed the trajectory of terrestrial evolution, but not its fundamental rules, which have remained fixed since the appearance of the first organisms 4 billion years ago.
+
+humankind is poised to replace natural selection with intelligent design, and to extend life from the organic realm into the inorganic.
+
+ In the Anthropocene, the planet became for the first time a single ecological unit. Australia, Europe and America continued to have different climates and topographies, yet humans caused organisms from throughout the world to mingle on a regular basis, irrespective of distance and geography
+
+ Sheep, wheat, rats and flu viruses that humans brought to Australia during the last 300 years are today far more important to its ecology than the native kangaroos and koalas.
+
+ Already tens of thousands of years ago, when our Stone Age ancestors spread from East Africa to the four corners of the earth, they changed the flora and fauna of every continent and island on which they settled. They drove to extinction all the other human species of the world, 90 per cent of the large animals of Australia, 75 per cent of the large mammals of America and about 50 per cent of all the large land mammals of the planet – and all before they planted the first wheat field, shaped the first metal tool, wrote the first text or struck the first coin. Large animals were the main victims because they were relatively few, and they bred slowly
+
+ Not that our ancestors planned on wiping out the mammoths; they were simply unaware of the consequences of their actions.
+
+### The Serpent’s Children
+
+Anthropological and archaeological evidence indicates that archaic hunter-gatherers were probably animists: they believed that there was no essential gap separating humans from other animals.
+
+ when a Nayaka walking in the jungle encounters a dangerous animal such as a tiger, snake or elephant, he or she might address the animal and say: ‘You live in the forest. I too live here in the forest. You came here to eat, and I too came here to gather roots and tubers. I didn’t come to hurt you.’
+
+  Most of us automatically see animals as essentially different and inferior. This is because even our most ancient traditions were created thousands of years after the end of the hunter-gatherer era. The Old Testament, for example, was written down in the first millennium BC, and its oldest stories reflect the realities of the second millennium BC. But in the Middle East the age of the hunter-gatherers ended more than 7,000 years earlier. It is hardly surprising, therefore, that the Bible rejects animistic beliefs and its only animistic story appears right at the beginning, as a dire warning. The Bible is a long book, bursting with miracles, wonders and marvels. Yet the only time an animal initiates a conversation with a human is when the serpent tempts Eve to eat the forbidden fruit of knowledge
+
+The expulsion from Eden bears a striking resemblance to the Agricultural Revolution. Instead of allowing Adam to keep gathering wild fruits, an angry God condemns him ‘to eat bread by the sweat of your brow’. It might be no coincidence, then, that biblical animals spoke with humans only in the pre-agricultural era of Eden.
+
+ Many animist cultures believed that humans descended from animals, including from snakes and other reptiles. Most Australian Aborigines believed that the Rainbow Serpent created the world
+
+![Paradise lost (the Sistine Chapel). The serpent – who sports a human upper body – initiates the entire chain of events. While the first two chapters of Genesis are dominated by divine monologues (‘and God said . . . and God said . . . and God said . . .’), in the third chapter we finally get a dialogue – between Eve and the serpent (‘and the serpent said unto the woman . . . and the woman said unto the serpent . . .’). This unique conversation between a human and an animal leads to the fall of humanity and our expulsion from Eden.](./assets/paradise-lost.jpg)
+  Paradise lost (the Sistine Chapel). The serpent – who sports a human upper body – initiates the entire chain of events. While the first two chapters of Genesis are dominated by divine monologues (‘and God said . . . and God said . . . and God said . . .’), in the third chapter we finally get a dialogue – between Eve and the serpent (‘and the serpent said unto the woman . . . and the woman said unto the serpent . . .’). This unique conversation between a human and an animal leads to the fall of humanity and our expulsion from Eden.
+
+   While animists saw humans as just another kind of animal, the Bible argues that humans are a unique creation, and any attempt to acknowledge the animal within us denies God’s power and authority.
+
+ Indeed, when modern humans discovered that they actually evolved from reptiles, they rebelled against God and stopped listening to Him – or even believing in His existence.
+
+### Ancestral Needs
+
+ The advent of farming produced new waves of mass extinctions, but more importantly, it created a completely new life form on earth: domesticated animals.
 
 
 ## 2. 3 The Human Spark
