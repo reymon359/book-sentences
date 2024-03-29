@@ -646,7 +646,113 @@ The expulsion from Eden bears a striking resemblance to the Agricultural Revolut
 
  The advent of farming produced new waves of mass extinctions, but more importantly, it created a completely new life form on earth: domesticated animals.
 
+  Today more than 90 per cent of all large animals are domesticated.
 
+ domesticated species paid for their unparalleled collective success with unprecedented individual suffering.
+
+  Wild boars spend their days searching for food, water and shelter, and are constantly threatened by lions, parasites and floods. Domesticated pigs, in contrast, enjoy food, water and shelter provided by humans, who also treat their diseases and protect them against predators and natural disasters. True, most pigs sooner or later find themselves in the slaughterhouse. Yet does that make their fate any worse than the fate of wild boars? Is it better to be devoured by a lion than slaughtered by a man? Are crocodile teeth less deadly than steel blades?
+
+What makes the fate of domesticated farm animals particularly harsh is not just the way they die, but above all the way they live. 
+
+Two competing factors have shaped the living conditions of farm animals from ancient times to the present day: human desires and animal needs. Thus humans raise pigs in order to get meat, but if they want a steady supply of meat, they must ensure the long-term survival and reproduction of the pigs. 
+
+Theoretically this should have protected the animals from extreme forms of cruelty. If a farmer did not take good care of his pigs, they would soon die without offspring and the farmer would starve.Unfortunately, humans can cause tremendous suffering to farm animals in various ways, even while ensuring their survival and reproduction.
+
+ The theory of evolution maintains that all instincts, drives and emotions have evolved in the sole interest of survival and reproduction. If so, doesn’t the continuous reproduction of farm animals prove that all their real needs are met? How can a pig have a ‘need’ that is not really needed for his survival and reproduction?
+
+  all instincts, drives and emotions evolved in order to meet the evolutionary pressures of survival and reproduction.
+
+   For animals and humans alike, agriculture changed selection pressures almost overnight, but it did not change their physical, emotional and social drives.
+
+humans in Europe and western Asia evolved the ability to digest cows’ milk, while cows lost their fear of humans, and today produce far more milk than their wild ancestors. Yet these are superficial alterations. The deep sensory and emotional structures of cows, pigs and humans alike haven’t changed much since the Stone Age.
+
+ Why do young men drive recklessly, get involved in violent arguments and hack confidential Internet sites? Because they are following ancient genetic decrees that might be useless and even counterproductive today, but that made good evolutionary sense 70,000 years ago. 
+ 
+  A young hunter who risked his life chasing a mammoth outshone all his competitors and won the hand of the local beauty; and we are now stuck with his macho genes.
+
+The descendants of wild boars – domesticated pigs – inherited their intelligence, curiosity and social skills. Like wild boars, domesticated pigs communicate using a rich variety of vocal and olfactory signals: mother sows recognise the unique squeaks of their piglets, whereas two-day-old piglets already differentiate their mother’s calls from those of other sows.
+
+Professor Stanley Curtis of the Pennsylvania State University trained two pigs – named Hamlet and Omelette – to control a special joystick with their snouts, and found that the pigs soon rivalled primates in learning and playing simple computer games.
+
+The human farmers take care of everything the sow needs in order to survive and reproduce. She is given enough food, vaccinated against diseases, protected against the elements and artificially inseminated. From an objective perspective, the sow no longer needs to explore her surroundings, socialise with other pigs, bond with her piglets or even walk. But from a subjective perspective, the sow still feels very strong urges to do all of these things, and if these urges are not fulfilled she suffers greatly. Sows locked in gestation crates typically display acute frustration alternating with extreme despair.
+
+This is the basic lesson of evolutionary psychology: a need shaped thousands of generations ago continues to be felt subjectively even if it is no longer necessary for survival and reproduction in the present.
+
+![Sows confined in gestation crates. These highly social and intelligent beings spend most of their lives in this condition, as if they were already sausages.](./assets/sows-confined.jpg)
+Sows confined in gestation crates. These highly social and intelligent beings spend most of their lives in this condition, as if they were already sausages.
+
+### Organisms are Algorithms
+
+attributing emotions to pigs doesn’t humanise them. It ‘mammalises’ them. For emotions are not a uniquely human quality – they are common to all mammals (as well as to all birds and probably to some reptiles and even fish).
+
+emotions are biochemical algorithms that are vital for the survival and reproduction of all mammals.
+
+ the twenty-first century will be dominated by algorithms. 
+ 
+ ‘Algorithm’ is arguably the single most important concept in our world. If we want to understand our life and our future, we should make every effort to understand what an algorithm is, and how algorithms are connected with emotions.
+ 
+ An algorithm is a methodical set of steps that can be used to make calculations, resolve problems and reach decisions. 
+ 
+ An algorithm isn’t a particular calculation, but the method followed when making the calculation.
+
+  you are probably familiar with beverage vending machines. Such machines usually have a slot for coins, an opening for cups, and rows of buttons. The first row has buttons for coffee, tea and cocoa. The second row is marked: no sugar, one spoon of sugar, two spoons of sugar. The third row indicates milk, soya milk, no milk. A man approaches the machine, inserts a coin into the slot and presses the buttons marked ‘tea’, ‘one sugar’ and ‘milk’. The machine kicks into action, following a precise set of steps. It drops a tea bag into a cup, pours boiling water, adds a spoonful of sugar and milk, and ding! A nice cup of tea emerges. This is an algorithm.
+  
+  Over the last few decades biologists have reached the firm conclusion that the man pressing the buttons and drinking the tea is also an algorithm.
+
+ Humans are algorithms that produce not cups of tea, but copies of themselves
+
+ The prize for making correct calculations is correspondingly greater. The prize is the very survival of the baboon. A timid baboon – one whose algorithms overestimate dangers – will starve to death, and the genes that shaped these cowardly algorithms will perish with him. A rash baboon – one whose algorithms underestimate dangers – will fall prey to the lion, and his reckless genes will also fail to make it to the next generation. These algorithms undergo constant quality control by natural selection. Only animals that calculate probabilities correctly leave offspring behind.
+
+  the baboon’s entire body is the calculator.
+
+   The baboon feels hunger, he feels fear and trembling at the sight of the lion, and he feels his mouth watering at the sight of the bananas. Within a split second, he experiences a storm of sensations, emotions and desires, which is nothing but the process of calculation.
+
+  Sometimes the probabilities match so evenly that it is hard to decide. This too will manifest itself as a feeling. The baboon will feel confused and indecisive.
+
+ Natural selection evolved passion and disgust as quick algorithms for evaluating reproduction odds. Beauty means ‘good chances for having successful offspring’. When a woman sees a man and thinks, ‘Wow! He is gorgeous!’ and when a peahen sees a peacock and thinks, ‘Jesus! What a tail!’ they are doing something similar to the automatic vending machine. As light reflected from the male’s body hits their retinas, extremely powerful algorithms honed by millions of years of evolution kick in. Within a few milliseconds the algorithms convert tiny cues in the male’s external appearance into reproduction probabilities, and reach the conclusion: ‘In all likelihood, this is a very healthy and fertile male, with excellent genes.
+
+  99 per cent of our decisions – including the most important life choices concerning spouses, careers and habitats – are made by the highly refined algorithms we call sensations, emotions and desires.
+
+  Because these algorithms control the lives of all mammals and birds (and probably some reptiles and even fish), when humans, baboons and pigs feel fear, similar neurological processes take place in similar brain areas. It is therefore likely that frightened humans, frightened baboons and frightened pigs have similar experiences.
+  
+  There are differences too, of course. Pigs don’t seem to experience the extremes of compassion and cruelty that characterise Homo sapiens, nor the sense of wonder that overwhelms a human gazing up at the infinitude of a starry sky. It is likely that there are also opposite examples, of swinish emotions unfamiliar to humans, but I cannot name any, for obvious reasons.
+
+  one core emotion is apparently shared by all mammals: the mother–infant bond.
+
+   The word ‘mammal’ comes from the Latin mamma, meaning breast
+
+  Conversely, a sow, cow or bitch that due to some rare mutation does not care about her young may live a long and comfortable life, but her genes will not pass to the next generation. The same logic is true among giraffes, bats, whales and porcupines. We can argue about other emotions, but since mammal youngsters cannot survive without motherly care, it is evident that motherly love and a strong mother–infant bond characterise all mammals.
+
+
+![A peacock and a man. When you look at these images, data on proportions, colours and sizes gets processed by your biochemical algorithms, causing you to feel attraction, repulsion or indifference.](./assets/peacock-and-man.jpg)
+A peacock and a man. When you look at these images, data on proportions, colours and sizes gets processed by your biochemical algorithms, causing you to feel attraction, repulsion or indifference.
+
+   Not long ago psychologists doubted the importance of the emotional bond between parents and children even among humans. In the first half of the twentieth century, and despite the influence of Freudian theories, the dominant behaviourist school argued that relations between parents and children were shaped by material feedback
+
+  children needed mainly food, shelter and medical care; and that children bonded with their parents simply because the latter provide these material needs. Children who demanded warmth, hugs and kisses were thought to be ‘spoiled’. Childcare experts warned that children who were hugged and kissed by their parents would grow up to be needy, egotistical and insecure adults
+
+ The popular magazine Infant Care explained that the secret of raising children is to maintain discipline and to provide the children’s material needs according to a strict daily schedule. A 1929 article instructed parents that if an infant cries out for food before the normal feeding time, ‘Do not hold him, nor rock him to stop his crying, and do not nurse him until the exact hour for the feeding comes.
+
+ It will not hurt the baby, even the tiny baby, to cry
+
+ Only in the 1950s and 1960s did a growing consensus of experts abandon these strict behaviourist theories and acknowledge the central importance of emotional needs. In a series of famous (and shockingly cruel) experiments, the psychologist Harry Harlow separated infant monkeys from their mothers shortly after birth, and isolated them in small cages. When given a choice between a metal dummy-mother fitted with a milk bottle, and a soft cloth-covered dummy with no milk, the baby monkeys clung to the barren cloth mother for all they were worth.
+
+  mammals can’t live on food alone. They need emotional bonds too. 
+  
+  Millions of years of evolution preprogrammed the monkeys with an overwhelming desire for emotional bonding.
+
+  How could experts fail to appreciate that children have emotional needs, and that their mental and physical health depends as much on providing for these needs as on food, shelter and medicines? Yet when it comes to other mammals we keep denying the obvious.
+
+  farmers throughout history took care of the material needs of piglets, calves and kids, but tended to ignore their emotional needs.
+
+   the meat and dairy industries are based on breaking the most fundamental emotional bond in the mammal kingdom.
+
+### The Agricultural Deal
+
+How did farmers justify their behaviour?... ...They justified their actions in the name of new theist religions, which mushroomed and spread in the wake of the Agricultural Revolution.
+
+Biblical Judaism, for instance, catered to peasants and shepherds. Most of its commandments dealt with farming and village life, and its major holidays were harvest festivals. People today imagine the ancient temple in Jerusalem as a kind of big synagogue where priests clad in snow-white robes welcomed devout pilgrims, melodious choirs sang psalms and incense perfumed the air. In reality, it looked much more like a cross between a slaughterhouse and a barbecue joint than a modern synagogue. The pilgrims did not come empty-handed. They brought with them a never-ending stream of sheep, goats, chickens and other animals, which were sacrificed at the god’s altar and then cooked and eaten
+ 
 ## 2. 3 The Human Spark
 
 
