@@ -752,10 +752,280 @@ A peacock and a man. When you look at these images, data on proportions, colours
 How did farmers justify their behaviour?... ...They justified their actions in the name of new theist religions, which mushroomed and spread in the wake of the Agricultural Revolution.
 
 Biblical Judaism, for instance, catered to peasants and shepherds. Most of its commandments dealt with farming and village life, and its major holidays were harvest festivals. People today imagine the ancient temple in Jerusalem as a kind of big synagogue where priests clad in snow-white robes welcomed devout pilgrims, melodious choirs sang psalms and incense perfumed the air. In reality, it looked much more like a cross between a slaughterhouse and a barbecue joint than a modern synagogue. The pilgrims did not come empty-handed. They brought with them a never-ending stream of sheep, goats, chickens and other animals, which were sacrificed at the god’s altar and then cooked and eaten
+
+ A modern Jewish family that celebrates a holiday by having a barbecue on their front lawn is much closer to the spirit of biblical times than an orthodox family that spends the time studying scriptures in a synagogue.
+
+ Animist religions had previously depicted the universe as a grand Chinese opera with a limitless cast of colourful actors. Elephants and oak trees, crocodiles and rivers, mountains and frogs, ghosts and fairies, angels and demons – each had a role in the cosmic opera. Theist religions rewrote the script, turning the universe into a bleak Ibsen drama with just two main characters: man and God.
+
+ We normally think that theist religions sanctified the great gods. We tend to forget that they sanctified humans, too.
+
+The gods, meanwhile, were given two related roles to play. Firstly, they explained what is so special about Sapiens and why humans should dominate and exploit all other organisms. Christianity, for example, maintained that humans hold sway over the rest of creation because the Creator charged them with that authority.
+
+ since animals have no soul, they are mere extras.
+
+ Secondly, the gods had to mediate between humans and the ecosystem. In the animistic cosmos, everyone talked with everyone directly. If you needed something from the caribou, the fig trees, the clouds or the rocks, you addressed them yourself. In the theist cosmos, all non-human entities were silenced. Consequently you could no longer talk with trees and animals. What to do, then, when you wanted the trees to give more fruits, the cows to give more milk, the clouds to bring more rain and the locusts to stay away from your crops? That’s where the gods entered the picture.
+
+ Today in Nepal, devotees of the goddess Gadhimai celebrate her festival every five years in the village of Bariyapur. A record was set in 2009 when 250,000 animals were sacrificed to the goddess. A local driver explained to a visiting British journalist that ‘If we want anything, and we come here with an offering to the goddess, within five years all our dreams will be fulfilled.
+
+  The Bible thinks it is perfectly all right to destroy all animals as punishment for the crimes of Homo sapiens, as if the existence of giraffes, pelicans and ladybirds has lost all purpose if humans misbehave. 
+  
+ The Bible could not imagine a scenario in which God repents having created Homo sapiens, wipes this sinful ape off the face of the earth, and then spends eternity enjoying the antics of ostriches, kangaroos and panda bears.
+
+A Talmudic tale recounts how on the way to the slaughterhouse, a calf escaped and sought refuge with Rabbi Yehuda HaNasi, one of the founders of rabbinical Judaism. The calf tucked his head under the rabbi’s flowing robes and started crying. Yet the rabbi pushed the calf away, saying, ‘Go. You were created for that very purpose.’ Since the rabbi showed no mercy, God punished him, and he suffered from a painful illness for thirteen years. Then, one day, a servant cleaning the rabbi’s house found some newborn rats and began sweeping them out. Rabbi Yehuda rushed to save the helpless creatures, instructing the servant to leave them in peace, because ‘God is good to all, and has compassion on all he has made’ (Psalms 145:9). Since the rabbi showed compassion to these rats, God showed compassion to the rabbi, and he was cured of his illness
+
+Other religions, particularly Jainism, Buddhism and Hinduism, have demonstrated even greater empathy to animals. They emphasise the connection between humans and the rest of the ecosystem, and their foremost ethical commandment has been to avoid killing any living being. Whereas the biblical ‘Thou shalt not kill’ covered only humans, the ancient Indian principle of ahimsa (non-violence) extends to every sentient being
+
+ Hinduism, for example, has sanctified cows and forbidden eating beef, but has also provided the ultimate justification for the dairy industry, alleging that cows are generous creatures, and positively yearn to share their milk with humankind.
+
+ Humans thus committed themselves to an ‘agricultural deal’. According to this deal, cosmic forces gave humans command over other animals, on condition that humans fulfilled certain obligations towards the gods, towards nature and towards the animals themselves. It was easy to believe in the existence of such a cosmic compact, because it reflected the daily routine of farming life.
  
+ Hunter-gatherers had not seen themselves as superior beings because they were seldom aware of their impact on the ecosystem. A typical band numbered in the dozens, it was surrounded by thousands of wild animals, and its survival depended on understanding and respecting the desires of these animals.
+
+  Foragers had to constantly ask themselves what deer dream about, and what lions think. Otherwise, they could not hunt the deer, nor escape the lions.
+
+ the Nayaka of southern India treat elephants, snakes and forest trees as beings equal to humans, but have a very different view of domesticated plants and animals.
+
+We should also bear in mind how humans themselves were treated in most agricultural societies. In biblical Israel or medieval China it was common to whip humans, enslave them, torture and execute them. Humans were considered as mere property. Rulers did not dream of asking peasants for their opinions and cared little about their needs. Parents frequently sold their children into slavery, or married them off to the highest bidder. Under such conditions, ignoring the feelings of cows and chickens was hardly surprising.
+
+### Five Hundred Years of Solitude
+
+The rise of modern science and industry brought about the next revolution in human–animal relations. During the Agricultural Revolution humankind silenced animals and plants, and turned the animist grand opera into a dialogue between man and gods. During the Scientific Revolution humankind silenced the gods too. The world was now a one-man show.
+
+When an archaic hunter went out to the savannah, he asked the help of the wild bull, and the bull demanded something of the hunter. When an ancient farmer wanted his cows to produce lots of milk, he asked some great heavenly god for help, and the god stipulated his conditions. When the white-coated staff in Nestlé’s Research and Development department want to increase dairy production, they study genetics – and the genes don’t ask for anything in return.
+
+In the Garden of Eden myth, humans are punished for their curiosity and for their wish to gain knowledge. God expels them from Paradise. In the Garden of Woolsthorpe myth, nobody punishes Newton – just the opposite. Thanks to his curiosity humankind gains a better understanding of the universe, becomes more powerful and takes another step towards the technological paradise. Untold numbers of teachers throughout the world recount the Newton myth to encourage curiosity, implying that if only we gain enough knowledge, we can create paradise here on earth.
+
+In fact, God is present even in the Newton myth: Newton himself is God.
+
+ While theists worship theos (Greek for ‘god’), humanists worship humans.
+
+ Everything that happens in the cosmos is judged to be good or bad according to its impact on Homo sapiens.
+
+ In ancient Egypt, in the Roman Empire or in medieval China, humans had only a rudimental understanding of biochemistry, genetics, zoology and epidemiology. Consequently, their powers of manipulation were limited. In those days, pigs, cows and chickens ran free among the houses, and searched for edible treasures in the rubbish heap and in the nearby woods. If an ambitious peasant had tried to confine thousands of animals in a crowded coop, a deadly epidemic would probably have resulted, wiping out all the animals as well as many of the villagers. No priest, shaman or god could have prevented it.
+
+  Would it be okay, for example, for an artificial intelligence to exploit humans and even kill them to further its own needs and desires? If it should never be allowed to do that, despite its superior intelligence and power, why is it ethical for humans to exploit and kill pigs?
+
+ Indeed, what exactly is it about humans that make us so intelligent and powerful in the first place, and how likely is it that non-human entities will ever rival and surpass us?
+
 ## 2. 3 The Human Spark
 
+ Is human life more precious than porcine life simply because the human collective is more powerful than the pig collective? 
+ 
+The United States is far mightier than Afghanistan; does this imply that American lives have greater intrinsic value than Afghan lives?In practice, American lives are more valued. Far more money is invested in the education, health and safety of the average American than of the average Afghan.
 
+The traditional monotheist answer is that only Sapiens have eternal souls. Whereas the body decays and rots, the soul journeys on towards salvation or damnation, and will experience either everlasting joy in paradise or an eternity of misery in hell. Since pigs and other animals have no soul, they don’t take part in this cosmic drama. They live only for a few years, and then die and fade into nothingness. We should therefore care far more about eternal human souls than about ephemeral pigs.
+
+This is no kindergarten fairy tale, but an extremely powerful myth that continues to shape the lives of billions of humans and animals in the early twenty-first century. The belief that humans have eternal souls whereas animals are just evanescent bodies is a central pillar of our legal, political and economic system.
+
+There is zero scientific evidence that in contrast to pigs, Sapiens have souls.
+
+the life sciences doubt the existence of soul not just due to lack of evidence, but rather because the very idea of soul contradicts the most fundamental principles of evolution.
+
+According to a 2012 Gallup survey, only 15 per cent of Americans think that Homo sapiens evolved through natural selection alone, free of all divine intervention; 32 per cent maintain that humans may have evolved from earlier life forms in a process lasting millions of years, but God orchestrated this entire show; 46 per cent believe that God created humans in their current form sometime during the last 10,000 years, just as the Bible says. 
+
+Spending three years in college has absolutely no impact on these views. The same survey found that among BA graduates, 46 per cent believe in the biblical creation story, whereas only 14 per cent think that humans evolved without any divine supervision
+
+Though schools evidently do a very poor job teaching evolution, religious zealots still insist that it should not be taught at all. Alternatively, they demand that children must also be taught the theory of intelligent design, according to which all organisms were created by the design of some higher intelligence (aka God). ‘Teach them both theories,’ say the zealots, ‘and let the kids decide for themselves.’
+
+ The theory of evolution rests on the principle of the survival of the fittest, which is a clear and simple – not to say humdrum – idea. In contrast, the theory of relativity and quantum mechanics argue that you can twist time and space, that something can appear out of nothing, and that a cat can be both alive and dead at the same time. This makes a mockery of our common sense, yet nobody seeks to protect innocent schoolchildren from these scandalous ideas. Why?
+
+ The theory of relativity makes nobody angry, because it doesn’t contradict any of our cherished beliefs. Most people don’t care an iota whether space and time are absolute or relative. If you think it is possible to bend space and time, well, be my guest.
+
+  Darwin has deprived us of our souls. 
+  
+  If you really understand the theory of evolution, you understand that there is no soul. This is a terrifying thought not only to devout Christians and Muslims, but also to many secular people who don’t hold any clear religious dogma, but nevertheless want to believe that each human possesses an eternal individual essence that remains unchanged throughout life, and can survive even death intact.
+
+The literal meaning of the word ‘individual’ is ‘something that cannot be divided’. That I am an ‘in-dividual’ implies that my true self is a holistic entity rather than an assemblage of separate parts. This indivisible essence allegedly endures from one moment to the next without losing or absorbing anything... ...Unfortunately, the theory of evolution rejects the idea that my true self is some indivisible, immutable and potentially eternal essence. According to the theory of evolution, all biological entities – from elephants and oak trees to cells and DNA molecules – are composed of smaller and simpler parts that ceaselessly combine and separate.
+
+ even unicellular organisms have tiny organelles that enable the microorganism to distinguish light from darkness, and move towards one or the other. The path leading from such archaic sensors to the human eye is long and winding, but if you have hundreds of millions of years to spare, you can certainly cover the entire path, step by step.
+
+  Natural selection could produce a human eye, because the eye has parts. But the soul has no parts. 
+  
+  If the Sapiens soul evolved step by step from the Erectus soul, what exactly were these steps? 
+  
+ Is there some part of the soul that is more developed in Sapiens than in Erectus? But the soul has no parts.
+ 
+ You might argue that human souls did not evolve, but appeared one bright day in the fullness of their glory. But when exactly was that bright day? When we look closely at the evolution of humankind, it is embarrassingly difficult to find it.
+
+ Is a single mutation, or even several mutations, enough to give an animal an essence secure against all changes, including even death?
+
+From an evolutionary perspective, the closest thing we have to a human essence is our DNA, and the DNA molecule is the vehicle of mutation rather than the seat of eternity. 
+
+This terrifies large numbers of people, who prefer to reject the theory of evolution rather than give up their souls.
+
+### Why the Stock Exchange Has No Consciousness
+
+Another story employed to justify human superiority says that of all the animals on earth, only Homo sapiens has a conscious mind.
+
+ the mind is a flow of subjective experiences, such as pain, pleasure, anger and love. These mental experiences are made of interlinked sensations, emotions and thoughts, which flash for a brief moment, and immediately disappear.
+
+  we often try to sort the experiences into distinct categories such as sensations, emotions and thoughts, but in actuality they are all mingled together.) 
+  
+  This frenzied collection of experiences constitutes the stream of consciousness. 
+  
+Unlike the everlasting soul, the mind has many parts, it constantly changes, and there is no reason to think it is eternal.
+
+The soul is a story that some people accept while others reject. The stream of consciousness, in contrast, is the concrete reality we directly witness every moment.
+
+ You cannot doubt its existence. Even when we are consumed by doubt and ask ourselves: ‘Do subjective experiences really exist?’ we can be certain that we are experiencing doubt.
+
+  Every subjective experience has two fundamental characteristics: sensation and desire. 
+  
+  Robots and computers have no consciousness because despite their myriad abilities they feel nothing and crave nothing.
+
+ the robot doesn’t experience anything. In contrast, a human being depleted of energy feels hunger and craves to stop this unpleasant sensation. That’s why we say that humans are conscious beings and robots aren’t, and why it is a crime to make people work until they collapse from hunger and exhaustion, whereas making robots work until their batteries run out carries no moral opprobrium.
+
+  what about animals? Are they conscious? Do they have subjective experiences? Is it okay to force a horse to work until he collapses from exhaustion? As noted earlier, the life sciences currently argue that all mammals and birds, and at least some reptiles and fish, have sensations and emotions. However, the most up-to-date theories also maintain that sensations and emotions are biochemical data-processing algorithms. Since we know that robots and computers process data without having any subjective experiences, maybe it works the same with animals? Indeed, we know that even in humans many sensory and emotional brain circuits can process data and initiate actions completely unconsciously. So perhaps behind all the sensations and emotions we ascribe to animals – hunger, fear, love and loyalty – lurk only unconscious algorithms rather than subjective experiences?
+
+ Seventeenth-century doctors and scholars dissected live dogs and observed the working of their internal organs, without either anaesthetics or scruples. They didn’t see anything wrong with that, just as we don’t see anything wrong in opening the lid of a vending machine and observing its gears and conveyors.
+
+ how minds function, and what role they play. These are extremely difficult questions, but it is worthwhile to devote some time to them, because the mind will be the hero of several subsequent chapters.
+
+ To be frank, science knows surprisingly little about mind and consciousness. 
+ 
+ Current orthodoxy holds that consciousness is created by electrochemical reactions in the brain, and that mental experiences fulfil some essential data-processing function. However, nobody has any idea how a congeries of biochemical reactions and electrical currents in the brain creates the subjective experience of pain, anger or love.
+
+ They have even managed to link individual brain neurons with specific mental content, discovering for example a ‘Bill Clinton’ neuron and a ‘Homer Simpson’ neuron. When the ‘Bill Clinton’ neuron is on, the person is thinking of the forty-second president of the USA; show the person an image of Homer Simpson, and the eponymous neuron is bound to ignite.More broadly, scientists know that if an electric storm arises in a given brain area, you probably feel angry. If this storm subsides and a different area lights up – you are experiencing love. Indeed, scientists can even induce feelings of anger or love by electrically stimulating the right neurons. But how on earth does the movement of electrons from one place to the other translate into a subjective image of Bill Clinton, or a subjective feeling of anger or love?
+
+The most common explanation points out that the brain is a highly complex system, with more than 80 billion neurons connected into numerous intricate webs. When billions of neurons send billions of electric signals back and forth, subjective experiences emerge. Even though the sending and receiving of each electric signal is a simple biochemical phenomenon, the interaction among all these signals creates something far more complex – the stream of consciousness.
+
+ We observe the same dynamic in many other fields. The movement of a single car is a simple action, but when millions of cars move and interact simultaneously, traffic jams emerge. The buying and selling of a single share is simple enough, but when millions of traders buy and sell millions of shares it can lead to economic crises that dumbfound even the experts.
+
+ Yet this explanation explains nothing.
+
+  It does not offer any insight into how one kind of phenomenon (billions of electric signals moving from here to there) creates a very different kind of phenomenon (subjective experiences of anger or love). 
+  
+  The analogy to other complex processes such as traffic jams and economic crises is flawed. What creates a traffic jam? If you follow a single car, you will never understand it. The jam results from the interactions among many cars. Car A influences the movement of car B, which blocks the path of car C, and so on. Yet if you map the movements of all the relevant cars, and how each impacts the other, you will get a complete account of the traffic jam. It would be pointless to ask, ‘But how do all these movements create the traffic jam?’ For ‘traffic jam’ is simply the abstract term we humans decided to use for this particular collection of events.
+
+In contrast, ‘anger’ isn’t an abstract term we have decided to use as a shorthand for billions of electric brain signals. Anger is an extremely concrete experience which people were familiar with long before they knew anything about electricity.
+
+ If you describe how a chemical reaction in a neuron results in an electric signal, and how billions of similar reactions result in billions of additional signals, it is still worthwhile to ask, ‘But how do these billions of events come together to create my concrete feeling of anger?’
+
+  When millions of people sell billions of shares, we call that an economic crisis, but no great Wall Street spirit grumbles, ‘Shit, I feel I am in crisis.’ 
+  
+  When trillions of water molecules coalesce in the sky we call that a cloud, but no cloud consciousness emerges to announce, ‘I feel rainy.’
+
+ The best scientists too are a long way from deciphering the enigma of mind and consciousness. 
+ 
+ One of the wonderful things about science is that when scientists don’t know something, they can try out all kinds of theories and conjunctures, but in the end they can just admit their ignorance.
+
+### The Equation of Life
+
+Scientists don’t know how a collection of electric brain signals creates subjective experiences. Even more crucially, they don’t know what could be the evolutionary benefit of such a phenomenon. It is the greatest lacuna in our understanding of life.
+
+Not long ago, biologists gave a very simple answer. Subjective experiences are essential for our survival, because if we didn’t feel hunger or fear we would not have bothered to chase rabbits and flee lions. Upon seeing a lion, why did a man flee? Well, he was frightened, so he ran away. Subjective experiences explained human actions. Yet today scientists provide a much more detailed explanation. When a man sees a lion, electric signals move from the eye to the brain. The incoming signals stimulate certain neurons, which react by firing off more signals. These stimulate other neurons down the line, which fire in their turn. If enough of the right neurons fire at a sufficiently rapid rate, commands are sent to the adrenal glands to flood the body with adrenaline, the heart is instructed to beat faster, while neurons in the motor centre send signals down to the leg muscles, which begin to stretch and contract, and the man runs away from the lion.
+
+Ironically, the better we map this process, the harder it becomes to explain conscious feelings. The better we understand the brain, the more redundant the mind seems. If the entire system works by electric signals passing from here to there, why the hell do we also need to feel fear?
+
+ 99 per cent of bodily activities, including muscle movement and hormonal secretions, take place without any need of conscious feelings. So why do the neurons, muscles and glands need such feelings in the remaining 1 per cent of cases?
+
+  many chain reactions begin with the mind’s own initiative rather than with any immediate external stimulus. Thus a memory of some prior lion attack might spontaneously pop up in a man’s mind, setting him thinking about the danger posed by lions.
+
+ According to current biological theories, our memories, imaginations and thoughts don’t exist in some higher immaterial field. Rather, they too are avalanches of electric signals fired by billions of neurons. Hence even when we figure in memories, imaginations and thoughts, we are still left with a series of electrochemical reactions that pass through billions of neurons, ending with the activity of adrenal glands and leg muscles.
+   
+Is there even a single step on this long and twisting journey where, between the action of one neuron and the reaction of the next, the mind intervenes and decides whether the second neuron should fire or not?
+
+ what happens in the mind that doesn’t happen in the brain? If nothing happens in the mind except what happens in our massive network of neurons – then why do we need the mind? If something does indeed happen in the mind over and above what happens in the neural network – where the hell does it happen?
+
+  Present-day dogma holds that organisms are algorithms, and that algorithms can be represented in mathematical formulas. You can use numbers and mathematical symbols to write the series of steps a vending machine takes to prepare a cup of tea, and the series of steps a brain takes when it is alarmed by the approach of a lion. If so, and if conscious experiences fulfil some important function, they must have a mathematical representation. For they are an essential part of the algorithm. When we write the fear algorithm, and break ‘fear’ down into a series of precise calculations, we should be able to point out: ‘Here, step number ninety-three in the calculation process – this is the subjective experience of fear!’ But is there any algorithm in the huge realm of mathematics that contains a subjective experience? So far, we don’t know of any such algorithm.
+
+![The Google autonomous car on the road.](./assets/mind-and-brain.jpg)
+Mind and brain
+
+
+Maybe we need subjective experiences in order to think about ourselves?
+
+ As the brain tries to create a model of its own decisions, it gets trapped in an infinite digression, and abracadabra! Out of this loop, consciousness pops out.
+
+ Many other computer programs make allowances for their own actions, yet none of them has developed consciousness, and none feels or desires anything.
+ 
+ If we cannot explain the mind, and if we don’t know what function it fulfils, why not just discard it? The history of science is replete with abandoned concepts and theories. For instance, early modern scientists who tried to account for the movement of light postulated the existence of a substance called ether, which supposedly fills the entire universe. Light was thought to be waves of ether. However, scientists failed to find any empirical evidence for the existence of ether, whereas they did come up with alternative and better theories of light. Consequently, they threw ether into the dustbin of science.
+
+ ![The Google autonomous car on the road.](./assets/google-car.jpg)
+The Google autonomous car on the road.
+
+Similarly, for thousands of years humans used God to explain numerous natural phenomena... ...Over the last few centuries scientists have not discovered any empirical evidence for God’s existence, while they did find much more detailed explanations for lightning strikes, rain and the origins of life. Consequently, with the exception of a few subfields of philosophy, no article in any peer-review scientific journal takes God’s existence seriously
+
+The same fate has befallen the soul. For thousands of years people believed that all our actions and decisions emanate from our souls. Yet in the absence of any supporting evidence, and given the existence of much more detailed alternative theories, the life sciences have ditched the soul.
+
+Maybe the mind should join the soul, God and ether in the dustbin of science? After all, no one has ever seen experiences of pain or love through a microscope, and we have a very detailed biochemical explanation for pain and love that leaves no room for subjective experiences.
+
+ Since all scientists constantly experience subjective feelings such as pain and doubt, they cannot deny their existence.
+
+ Another way to dismiss mind and consciousness is to deny their relevance rather than their existence. Some scientists – such as Daniel Dennett and Stanislas Dehaene – argue that all relevant questions can be answered by studying brain activities, without any recourse to subjective experiences. So scientists can safely delete ‘mind’, ‘consciousness’ and ‘subjective experiences’ from their vocabulary and articles. However, as we shall see in the following chapters, the whole edifice of modern politics and ethics is built upon subjective experiences, and few ethical dilemmas can be solved by referring strictly to brain activities. For example, what’s wrong with torture or rape? From a purely neurological perspective, when a human is tortured or raped certain biochemical reactions happen in the brain, and various electrical signals move from one bunch of neurons to another. What could possibly be wrong with that? Most modern people have ethical qualms about torture and rape because of the subjective experiences involved. If any scientist wants to argue that subjective experiences are irrelevant, their challenge is to explain why torture or rape are wrong without reference to any subjective experience.
+
+  Consciousness is the biologically useless by-product of certain brain processes. Jet engines roar loudly, but the noise doesn’t propel the aeroplane forward. Humans don’t need carbon dioxide, but each and every breath fills the air with more of the stuff. Similarly, consciousness may be a kind of mental pollution produced by the firing of complex neural networks. It doesn’t do anything. It is just there. If this is true, it implies that all the pain and pleasure experienced by billions of creatures for millions of years is just mental pollution.
+
+   it is quite amazing to realise that as of 2016, this is the best theory of consciousness that contemporary science has to offer us
+
+ Maybe the life sciences view the problem from the wrong angle. They believe that life is all about data processing, and that organisms are machines for making calculations and taking decisions. However, this analogy between organisms and algorithms might mislead us. In the nineteenth century, scientists described brains and minds as if they were steam engines.
+
+ Such thinking had a deep influence even on Freudian psychology, which is why much of our psychological jargon is still replete with concepts borrowed from mechanical engineering.Consider, for example, the following Freudian argument: ‘Armies harness the sex drive to fuel military aggression. The army recruits young men just when their sexual drive is at its peak. The army limits the soldiers’ opportunities of actually having sex and releasing all that pressure, which consequently accumulates inside them. The army then redirects this pent-up pressure and allows it to be released in the form of military aggression.’ This is exactly how a steam engine works. 
+ 
+ You trap boiling steam inside a closed container. The steam builds up more and more pressure, until suddenly you open a valve, and release the pressure in a predetermined direction, harnessing it to propel a train or a loom. 
+ 
+ Not only in armies, but in all fields of activity, we often complain about the pressure building up inside us, and we fear that unless we ‘let off some steam’, we might explode.
+
+ Today we know of a far more sophisticated technology – the computer – so we explain the human psyche as if it were a computer processing data rather than a steam engine regulating pressure. 
+ 
+ But this new analogy may turn out to be just as naïve. After all, computers have no minds. They don’t crave anything even when they have a bug, and the Internet doesn’t feel pain even when authoritarian regimes sever entire countries from the Web. So why use computers as a model for understanding the mind?Well, are we really sure that computers have no sensations or desires? And even if they haven’t got any at present, perhaps once they become complex enough they might develop consciousness? If that were to happen, how could we ascertain it?
+
+  we are today capable of differentiating between conscious mental experiences and non-conscious brain activities
+
+  This has allowed the scientists to determine, for example, whether a seemingly vegetative stroke victim has completely lost consciousness, or has merely lost control of his body and speech. If the patient’s brain displays the telltale signatures of consciousness, he is probably conscious, even though he cannot move or speak. Indeed, doctors have recently managed to communicate with such patients using fMRI imaging. They ask the patients yes/no questions, telling them to imagine themselves playing tennis if the answer is yes, and to visualise the location of their home if the answer is no.
+
+   Starting with the assumption that we can believe humans when they report that they are conscious, we can identify the signatures of human consciousness, and then use these signatures to ‘prove’ that humans are indeed conscious. But if an artificial intelligence self-reports that it is conscious, should we just believe it?So far, we have no good answer to this problem
+
+  thousands of years ago philosophers realised that there is no way to prove conclusively that anyone other than oneself has a mind. Indeed, even in the case of other humans, we just assume they have consciousness – we cannot know that for certain.
+
+According to current scientific dogma, everything I experience is the result of electrical activity in my brain, and it should therefore be theoretically feasible to simulate an entire virtual world that I could not possibly distinguish from the ‘real’ world. 
+
+Some brain scientists believe that in the not too distant future, we shall actually do such things. Well, maybe it has already been done – to you? 
+
+For all you know, the year might be 2216 and you are a bored teenager immersed inside a ‘virtual world’ game that simulates the primitive and exciting world of the early twenty-first century. 
+
+Once you acknowledge the mere feasibility of this scenario, mathematics leads you to a very scary conclusion: since there is only one real world, whereas the number of potential virtual worlds is infinite, the probability that you happen to inhabit the sole real world is almost zero.
+
+  According to the Turing Test, in order to determine whether a computer has a mind, you should communicate simultaneously both with that computer and with a real person, without knowing which is which.
+
+ Acknowledging the existence of other minds is merely a social and legal convention.
+ 
+ The Turing Test was invented in 1950 by the British mathematician Alan Turing, one of the fathers of the computer age. Turing was also a gay man in a period when homosexuality was illegal in Britain. In 1952 he was convicted of committing homosexual acts and forced to undergo chemical castration. Two years later he committed suicide. The Turing Test is simply a replication of a mundane test every gay man had to undergo in 1950 Britain: can you pass for a straight man? Turing knew from personal experience that it didn’t matter who you really were – it mattered only what others thought about you. 
+ 
+ According to Turing, in the future computers would be just like gay men in the 1950s. It won’t matter whether computers will actually be conscious or not. It will matter only what people think about it.
+
+### The Depressing Lives of Laboratory Rats
+
+ When humans try to determine whether an entity is conscious, what we usually look for is not mathematical aptitude or good memory, but rather the ability to create emotional relationships with us. People sometimes develop deep emotional attachments to fetishes like weapons, cars and even underwear, but these attachments are one-sided and never develop into relationships. 
+ 
+ The fact that dogs can be party to emotional relationships with humans convinces most dog owners that dogs are not mindless automata.This, however, won’t satisfy sceptics, who point out that emotions are algorithms, and that no known algorithm requires consciousness in order to function. Whenever an animal displays complex emotional behaviour, we cannot prove that this is not the result of some very sophisticated but non-conscious algorithm.
+
+ Everything a human does – including reporting on allegedly conscious states – might in theory be the work of non-conscious algorithms.
+
+Initial tests on monkeys and mice indicate that at least monkey and mice brains indeed display the signatures of consciousness.8 However, given the differences between animal brains and human brains, and given that we are still far from deciphering all the secrets of consciousness, developing decisive tests that will satisfy the sceptics might take decades.
+
+ in May 2015 New Zealand became the first country in the world to legally recognise animals as sentient beings, when the New Zealand parliament passed the Animal Welfare Amendment Act. The Act stipulates that it is now obligatory to recognise animals as sentient, and hence attend properly to their welfare in contexts such as animal husbandry
+
+ Many business corporations also recognise animals as sentient beings, though paradoxically, this often exposes the animals to rather unpleasant laboratory tests. For example, pharmaceutical companies routinely use rats as experimental subjects in the development of antidepressants. According to one widely used protocol, you take a hundred rats (for statistical reliability) and place each rat inside a glass tube filled with water. The rats struggle again and again to climb out of the tubes, without success.
+
+  After fifteen minutes most give up and stop moving. They just float in the tube, apathetic to their surroundings.You now take another hundred rats, throw them in, but fish them out of the tube after fourteen minutes, just before they are about to despair. You dry them, feed them, give them a little rest – and then throw them back in. The second time, most rats struggle for twenty minutes before calling it quits. Why the extra six minutes? Because the memory of past success triggers the release of some biochemical in the brain that gives the rats hope and delays the advent of despair. If we could only isolate this biochemical, we might use it as an antidepressant for humans. But numerous chemicals flood a rat’s brain at any given moment. How can we pinpoint the right one?For this you take more groups of rats, who have never participated in the test before. You inject each group with a particular chemical, which you suspect to be the hoped-for antidepressant. You throw the rats into the water. If rats injected with chemical A struggle for only fifteen minutes before becoming depressed, you can cross out A on your list. If rats injected with chemical B go on thrashing for twenty minutes, you can tell the CEO and the shareholders that you might have just hit the jackpot.
+
+  ![Left: A hopeful rat struggling to escape the glass tube. Right: An apathetic rat floating in the glass tube, having lost all hope.](./assets/rats-depressed.jpg)
+Left: A hopeful rat struggling to escape the glass tube. Right: An apathetic rat floating in the glass tube, having lost all hope.
+
+Sceptics could object that this entire description needlessly humanises rats. Rats experience neither hope nor despair. Sometimes rats move quickly and sometimes they stand still, but they never feel anything. They are driven only by non-conscious algorithms
+
+ Psychiatric drugs are aimed to induce changes not just in human behaviour, but above all in human feeling.
+
+  Conducting experiments on rats can help corporations develop such a magic pill only if they presuppose that rat behaviour is accompanied by human-like emotions. And indeed, this is a common presupposition in psychiatric laboratories
+
+### The Self-Conscious Chimpanzee
+
+Another attempt to enshrine human superiority accepts that rats, dogs and other animals have consciousness, but argues that, unlike humans, they lack self-consciousness... ...This idea is as common as it is opaque... ... So what does it mean that they lack self-consciousness?A more sophisticated version of the argument says that there are different levels of self-consciousness. Only humans understand themselves as an enduring self that has a past and a future, perhaps because only humans can use language in order to contemplate their past experiences and future actions. Other animals exist in an eternal present. Even when they seem to remember the past or plan for the future, they are in fact reacting only to present stimuli and momentary urges.
+
+ a squirrel hiding nuts for the winter doesn’t really remember the hunger he felt last winter, nor is he thinking about the future. He just follows a momentary urge, oblivious to the origins and purpose of this urge. That’s why even very young squirrels, who haven’t yet lived through a winter and hence cannot remember winter, nevertheless cache nuts during the summer.
+
+  it is unclear why language should be a necessary condition for being aware of past or future events. The fact that humans use language to do so is hardly a proof.
 
 ## 5. PART II Homo Sapiens Gives Meaning to the World
 
