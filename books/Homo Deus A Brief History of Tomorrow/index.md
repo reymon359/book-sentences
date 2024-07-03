@@ -1027,6 +1027,25 @@ Another attempt to enshrine human superiority accepts that rats, dogs and other 
 
   it is unclear why language should be a necessary condition for being aware of past or future events. The fact that humans use language to do so is hardly a proof.
 
+no matter how sophisticated a behaviour an animal exhibits, sceptics can always claim that it results from unconscious algorithms in its brain rather than from conscious images in its mind.
+
+ say the sceptics, a male chimpanzee attacking a rival who hurt him weeks earlier isn’t really avenging the old insult. He is just reacting to a momentary feeling of anger, the cause of which is beyond him. When a mother elephant sees a lion threatening her calf, she rushes forward and risks her life not because she remembers that this is her beloved offspring whom she has been nurturing for months; rather, she is impelled by some unfathomable sense of hostility towards the lion. And when a dog jumps for joy when his owner comes home, the dog isn’t recognising the man who fed and cuddled him from infancy. He is simply overwhelmed by an unexplained ecstasy.
+
+ We cannot prove or disprove any of these claims, because they are in fact variations on the Problem of Other Minds. 
+ 
+ Since we aren’t familiar with any algorithm that requires consciousness, anything an animal does can be seen as the product of non-conscious algorithms rather than of conscious memories and plans.
+
+we ascribe self-consciousness to humans even when they are not busy remembering the past or dreaming about the future. For example, when a human mother sees her toddler wandering onto a busy road, she doesn’t stop to think about either past or future. Just like the mother elephant, she too just races to save her child. Why not say about her what we say about the elephant, namely that ‘when the mother rushed to save her baby from the oncoming danger, she did it without any self-consciousness. She was merely driven by a momentary urge’?
+
+consider a young couple kissing passionately on their first date, a soldier charging into heavy enemy fire to save a wounded comrade, or an artist drawing a masterpiece in a frenzy of brushstrokes. None of them stops to contemplate the past or the future. Does it mean they lack self-consciousness, and that their state of being is inferior to that of a politician giving an election speech about his past achievements and future plans?
+
+### The Clever Horse
+
+In 2010 scientists conducted an unusually touching rat experiment. They locked a rat in a tiny cage, placed the cage within a much larger cell and allowed another rat to roam freely through that cell. The caged rat gave out distress signals, which caused the free rat also to exhibit signs of anxiety and stress. In most cases, the free rat proceeded to help her trapped companion, and after several attempts usually succeeded in opening the cage and liberating the prisoner. The researchers then repeated the experiment, this time placing chocolate in the cell. The free rat now had to choose between either liberating the prisoner, or enjoying the chocolate all by herself. Many rats preferred to first free their companion and share the chocolate (though quite a few behaved more selfishly, proving perhaps that some rats are meaner than others).
+
+Sceptics dismissed these results, arguing that the free rat liberated the prisoner not out of empathy, but simply in order to stop the annoying distress signals. The rats were motivated by the unpleasant sensations they felt, and they sought nothing grander than ending these sensations.
+
+
 ## 5. PART II Homo Sapiens Gives Meaning to the World
 
 
